@@ -5,6 +5,8 @@ import FollowUpQuestions from './FollowUpQuestions';
 interface KallpratViewProps {
   category: Category;
   items: Kallprat[];
+  categories: Category[];
+  onSelectCategory: (id: string) => void;
 }
 
 function pickDifferent(items: Kallprat[], current: Kallprat | null): Kallprat {
@@ -18,7 +20,12 @@ function pickDifferent(items: Kallprat[], current: Kallprat | null): Kallprat {
   return next;
 }
 
-export default function KallpratView({ category, items }: KallpratViewProps) {
+export default function KallpratView({
+  category,
+  items,
+  categories,
+  onSelectCategory,
+}: KallpratViewProps) {
   const [current, setCurrent] = useState<Kallprat>(() => pickDifferent(items, null));
   const [animKey, setAnimKey] = useState(0);
   const drawnRef = useRef(1);
@@ -31,6 +38,9 @@ export default function KallpratView({ category, items }: KallpratViewProps) {
 
   const drawn = String(drawnRef.current).padStart(3, '0');
   const total = String(items.length).padStart(3, '0');
+  const sectionNum = String(
+    categories.findIndex((c) => c.id === category.id) + 1,
+  ).padStart(2, '0');
 
   return (
     <main className="relative z-10 max-w-4xl mx-auto px-6 pb-24">
@@ -39,7 +49,7 @@ export default function KallpratView({ category, items }: KallpratViewProps) {
         <div className="flex items-center gap-4">
           <span className="text-4xl" aria-hidden>{category.emoji}</span>
           <div>
-            <p className="eyebrow">Sektion · {category.name}</p>
+            <p className="eyebrow">Sektion {sectionNum} · {category.name}</p>
             <p className="font-mono text-[10px] tracking-[0.22em] text-[color:var(--color-ink-faint)] mt-1">
               {items.length} repliker i denna avdelning
             </p>
@@ -58,25 +68,18 @@ export default function KallpratView({ category, items }: KallpratViewProps) {
       <div className="rule-double" />
 
       {/* The quote card */}
-      <article
-        key={animKey}
-        className="relative mt-12 mb-10"
-      >
-        {/* Opening mark */}
+      <article key={animKey} className="relative mt-12 mb-10">
         <span
           aria-hidden
-          className="kp-mark anim-stamp absolute -top-12 -left-2 md:-left-8 text-[10rem] md:text-[14rem] select-none"
+          className="kp-mark anim-stamp absolute -top-12 -left-2 md:-left-8 text-[10rem] md:text-[14rem]"
         >
           “
         </span>
 
-        <p
-          className="kp-quote anim-ink relative pl-2 md:pl-12 text-[clamp(2rem,6vw,4rem)]"
-        >
+        <p className="kp-quote anim-ink relative pl-2 md:pl-12 text-[clamp(2rem,6vw,4rem)]">
           {current.text}
         </p>
 
-        {/* Closing mark */}
         <div className="mt-6 pl-2 md:pl-12 flex items-center justify-between">
           <div className="flex items-center gap-3 anim-fade delay-3">
             <span className="hairline w-12" />
@@ -99,8 +102,8 @@ export default function KallpratView({ category, items }: KallpratViewProps) {
       {/* Action row */}
       <div className="mt-10 flex flex-col sm:flex-row items-center justify-between gap-6">
         <p className="font-mono text-xs text-[color:var(--color-ink-soft)] max-w-sm">
-          Inte rätt stämning? Dra en ny replik ur hatten — eller använd den
-          som den är.
+          Inte rätt stämning? Dra en ny replik ur hatten — eller hoppa till en
+          annan sektion nedan.
         </p>
         <button onClick={handleShuffle} className="btn-press" type="button">
           <span aria-hidden>✦</span>
@@ -108,6 +111,30 @@ export default function KallpratView({ category, items }: KallpratViewProps) {
           <span aria-hidden>→</span>
         </button>
       </div>
+
+      {/* Section switcher (chips) */}
+      <section className="mt-14">
+        <div className="flex items-center gap-3 mb-4">
+          <span className="hairline flex-1" />
+          <span className="eyebrow whitespace-nowrap">Byt sektion</span>
+          <span className="hairline flex-1" />
+        </div>
+        <div className="chips-row" role="tablist">
+          {categories.map((c) => (
+            <button
+              key={c.id}
+              role="tab"
+              aria-current={c.id === category.id ? 'true' : 'false'}
+              onClick={() => onSelectCategory(c.id)}
+              className="chip"
+              type="button"
+            >
+              <span aria-hidden>{c.emoji}</span>
+              {c.name}
+            </button>
+          ))}
+        </div>
+      </section>
     </main>
   );
 }
