@@ -170,136 +170,100 @@
     {
       "id": "s-20260529-1",
       "category": "sport",
-      "text": "Har du hört att AIK:s herrlag har flera spelare i rehabilitering just nu? Det verkar vara en utmanande period för laget.",
+      "text": "Såg du att Mjällby-Djurgården är flyttad? VM-uppladdning verkar ställa till det.",
       "followUp": [
-        "Vilka spelare är det som är skadade?",
-        "Hur påverkar detta lagets prestationer på planen?"
+        "Kollade du på Mjällby's senaste match?",
+        "Vad tycker du om att de flyttar matcher så här?"
       ]
     },
     {
       "id": "s-20260529-2",
       "category": "sport",
-      "text": "Det ryktas om att det finns en ny podcast för alla som älskar IK Brage. Den heter \"Grönvita Grabbar\" och verkar vara full av intressanta diskussioner.",
+      "text": "Hörde du att Malmö FF och Halmstads BK spelar som planerat den 30 maj? Mysteriet med Taha Ali fortsätter.",
       "followUp": [
-        "Har du lyssnat på den?",
-        "Vad tycker du om innehållet i podcasten?"
+        "Kollade du på MFF:s senaste match?",
+        "Tror du Alis uttalande skapar dramatik?"
       ]
     },
     {
       "id": "s-20260529-3",
       "category": "sport",
-      "text": "Visste du att det finns en ny podcast för alla som älskar IK Brage? Den heter \"Grönvita Grabbar\" och verkar vara full av intressanta diskussioner.",
+      "text": "BAUHAUS-galan ser sjukt spännande ut i år, med alla dom där kulstötarna!",
       "followUp": [
-        "Har du lyssnat på den?",
-        "Vad tycker du om innehållet i podcasten?"
+        "Har du sett Jessica Schilder tävla tidigare?",
+        "Vilken eldare vill du heja på?"
       ]
     },
     {
       "id": "s-20260529-4",
       "category": "sport",
-      "text": "Det verkar som om det finns en ny podcast för alla som älskar IK Brage. Den heter \"Grönvita Grabbar\" och verkar vara full av intressanta diskussioner.",
+      "text": "Stockholm Marathon drar igång den 30 maj 2026! Kommer det bli ett riktigt drag, eller?",
       "followUp": [
-        "Har du lyssnat på den?",
-        "Vad tycker du om innehållet i podcasten?"
+        "Skulle du våga ställa upp?",
+        "Har du några marathon-minnen?"
       ]
     },
     {
       "id": "s-20260529-5",
       "category": "sport",
-      "text": "Har du hört att det finns en ny podcast för alla som älskar IK Brage? Den heter \"Grönvita Grabbar\" och verkar vara full av intressanta diskussioner.",
+      "text": "Elitloppet på Solvalla är verkligen en stor grej! Ser fram emot den 31 maj 2026!",
       "followUp": [
-        "Har du lyssnat på den?",
-        "Vad tycker du om innehållet i podcasten?"
+        "Har du någon häst du hejar på?",
+        "Har du varit på trav någon gång?"
       ]
     },
     {
       "id": "s-20260529-6",
       "category": "sport",
-      "text": "Det verkar som om det finns en ny podcast för alla som älskar IK Brage. Den heter \"Grönvita Grabbar\" och verkar vara full av intressanta diskussioner.",
+      "text": "Formel 1 i Monaco är ju alltid spektakular! Kan knappt vänta till 7 juni 2026!",
       "followUp": [
-        "Har du lyssnat på den?",
-        "Vad tycker du om innehållet i podcasten?"
+        "Vilken förare hejar du på?",
+        "Har du koll på vilka som dominerar nu?"
       ]
     },
     {
       "id": "s-20260529-7",
       "category": "sport",
-      "text": "Har du hört att det finns en ny podcast för alla som älskar IK Brage? Den heter \"Grönvita Grabbar\" och verkar vara full av intressanta diskussioner.",
+      "text": "Rally Islas Canarias körs snart, snacka om att det kommer bli fartfyllt!",
       "followUp": [
-        "Har du lyssnat på den?",
-        "Vad tycker du om innehållet i podcasten?"
+        "Följer du WRC?",
+        "Har du testat något rally själva?"
       ]
     },
     {
       "id": "s-20260529-8",
       "category": "sport",
-      "text": "Det verkar som om det finns en ny podcast för alla som älskar IK Brage. Den heter \"Grönvita Grabbar\" och verkar vara full av intressanta diskussioner.",
+      "text": "Primal Scream på Gröna Lund! Det händer tydligen den 28 maj 2026. Resan dit är ju ett måste!",
       "followUp": [
-        "Har du lyssnat på den?",
-        "Vad tycker du om innehållet i podcasten?"
+        "Vilken är din favoritlåt av dem?",
+        "Har du sett dem live tidigare?"
       ]
     },
     {
       "id": "s-20260529-9",
       "category": "sport",
-      "text": "Har du hört att det finns en ny podcast för alla som älskar IK Brage? Den heter \"Grönvita Grabbar\" och verkar vara full av intressanta diskussioner.",
+      "text": "Armand Duplantis dyker upp på BAUHAUS-galan! Det är ju helt galet!",
       "followUp": [
-        "Har du lyssnat på den?",
-        "Vad tycker du om innehållet i podcasten?"
+        "Vad tror du att han presterar?",
+        "Har du sett honom tävla live?"
       ]
     },
     {
       "id": "s-20260529-10",
       "category": "sport",
-      "text": "Det verkar som om det finns en ny podcast för alla som älskar IK Brage. Den heter \"Grönvita Grabbar\" och verkar vara full av intressanta diskussioner.",
+      "text": "Giro d'Italia ser ut att bli episkt i år med etapper genom hela Italien!",
       "followUp": [
-        "Har du lyssnat på den?",
-        "Vad tycker du om innehållet i podcasten?"
+        "Har du koll på någon cyklist du hejar på?",
+        "Har du cyklat på några av sträckorna själv?"
       ]
     },
     {
       "id": "s-20260529-11",
       "category": "sport",
-      "text": "Har du hört att det finns en ny podcast för alla som älskar IK Brage? Den heter \"Grönvita Grabbar\" och verkar vara full av intressanta diskussioner.",
+      "text": "Svenska Motocrossmästerskapet drar igång den 1–2 maj! Snacka om att få upp adrenalinet!",
       "followUp": [
-        "Har du lyssnat på den?",
-        "Vad tycker du om innehållet i podcasten?"
-      ]
-    },
-    {
-      "id": "s-20260529-12",
-      "category": "sport",
-      "text": "Det verkar som om det finns en ny podcast för alla som älskar IK Brage. Den heter \"Grönvita Grabbar\" och verkar vara full av intressanta diskussioner.",
-      "followUp": [
-        "Har du lyssnat på den?",
-        "Vad tycker du om innehållet i podcasten?"
-      ]
-    },
-    {
-      "id": "s-20260529-13",
-      "category": "sport",
-      "text": "Har du hört att det finns en ny podcast för alla som älskar IK Brage? Den heter \"Grönvita Grabbar\" och verkar vara full av intressanta diskussioner.",
-      "followUp": [
-        "Har du lyssnat på den?",
-        "Vad tycker du om innehållet i podcasten?"
-      ]
-    },
-    {
-      "id": "s-20260529-14",
-      "category": "sport",
-      "text": "Det verkar som om det finns en ny podcast för alla som älskar IK Brage. Den heter \"Grönvita Grabbar\" och verkar vara full av intressanta diskussioner.",
-      "followUp": [
-        "Har du lyssnat på den?",
-        "Vad tycker du om innehållet i podcasten?"
-      ]
-    },
-    {
-      "id": "s-20260529-15",
-      "category": "sport",
-      "text": "Har du hört att det finns en ny podcast för alla som älskar IK Brage? Den heter \"Grönvita Grabbar\" och verkar vara full av intressanta diskussioner.",
-      "followUp": [
-        "Har du lyssnat på den?",
-        "Vad tycker du om innehållet i podcasten?"
+        "Har du testat motocross nån gång?",
+        "Vilken förare har imponerat mest på dig?"
       ]
     },
     {
