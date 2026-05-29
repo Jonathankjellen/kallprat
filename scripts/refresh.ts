@@ -1,3 +1,5 @@
+/// <reference types="node" />
+
 /**
  * Refresh script for `src/data/kallprat.json`.
  *
@@ -14,6 +16,7 @@ import { readFileSync, writeFileSync } from 'node:fs';
 import { resolve, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import OpenAI from 'openai';
+import { zodTextFormat } from 'openai/helpers/zod';
 import { z } from 'zod';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
@@ -60,6 +63,7 @@ const llmEntrySchema = z.object({
 const llmResponseSchema = z.object({
   entries: z.array(llmEntrySchema).min(5).max(ENTRIES_PER_CATEGORY + 2),
 });
+type LlmResponse = z.infer<typeof llmResponseSchema>;
 
 // ---------- Prompts ----------
 
@@ -94,81 +98,51 @@ function buildSystemPrompt(category: DynamicCategory): string {
 
 // ---------- OpenAI call ----------
 
-const responseFormat = {
-  format: {
-    type: 'json_schema' as const,
-    json_schema: {
-        name: 'kallprat_batch',
-        strict: true,
-        schema: {
-        type: 'object',
-        additionalProperties: false,
-        required: ['entries'],
-        properties: {
-            entries: {
-            type: 'array',
-            items: {
-                type: 'object',
-                additionalProperties: false,
-                required: ['text', 'followUp'],
-                properties: {
-                text: { type: 'string' },
-                followUp: {
-                    type: 'array',
-                    items: { type: 'string' },
-                    minItems: 2,
-                    maxItems: 2,
-                },
-                },
-            },
-            },
-        },
-        },
-    },
-  },
-};
+const responseTextFormat = zodTextFormat(llmResponseSchema, 'kallprat_batch');
+
+function extractRefusalMessage(response: Awaited<ReturnType<OpenAI['responses']['parse']>>): string | null {
+  const refusal = response.output
+    .flatMap((item) => ('content' in item ? item.content : []))
+    .find((content) => content.type === 'refusal');
+
+  return refusal?.type === 'refusal' ? refusal.refusal : null;
+}
 
 async function generateForCategory(
   client: OpenAI,
   category: DynamicCategory,
-): Promise<z.infer<typeof llmResponseSchema> | null> {
+): Promise<LlmResponse | null> {
   const systemPrompt = buildSystemPrompt(category);
 
-  // Use the Responses API with the hosted web_search tool so the model can
+  // Use the Responses API with the hosted web search tool so the model can
   // ground its answers in fresh content. Fall back gracefully on errors.
   try {
-    // eslint-disable-next-line @typescript-eslint/no-explicit-any
-    const response: any = await (client as any).responses.create({
+    const response = await client.responses.parse({
       model: MODEL,
-      tools: [{ type: 'web_search' }],
+      tools: [{ type: 'web_search_preview' }],
       input: [
-        { role: 'system', content: systemPrompt },
+        { role: 'developer', content: systemPrompt },
         {
           role: 'user',
           content: `Skriv ${ENTRIES_PER_CATEGORY} aktuella kallprat för kategorin "${category}".`,
         },
       ],
-      text: responseFormat,
+      text: { format: responseTextFormat },
     });
 
-    const text: string | undefined =
-      response.output_text ??
-      response.output
-        ?.flatMap((item: any) => item.content ?? [])
-        ?.map((c: any) => c.text ?? '')
-        ?.join('');
+    if (!response.output_parsed) {
+      const refusal = extractRefusalMessage(response);
 
-    if (!text) {
-      console.error(`[${category}] empty response from model`);
+      if (refusal) {
+        console.error(`[${category}] model refused request: ${refusal}`);
+      } else {
+        console.error(`[${category}] no structured output returned by model`);
+      }
+
       return null;
     }
 
-    const parsed = llmResponseSchema.safeParse(JSON.parse(text));
-    if (!parsed.success) {
-      console.error(`[${category}] schema validation failed:`, parsed.error.message);
-      return null;
-    }
-    return parsed.data;
+    return response.output_parsed;
   } catch (err) {
     console.error(`[${category}] generation failed:`, err);
     return null;
