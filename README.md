@@ -87,13 +87,34 @@ Conversation starters are stored in `src/data/kallprat.json`. Each entry follows
 
 ## Deployment
 
-The app is deployed to GitHub Pages via the `gh-pages` package.
+The app is deployed to GitHub Pages automatically on every push to `main` via the workflow in `.github/workflows/deploy.yml`. It builds the project and publishes the `dist/` folder to the `gh-pages` branch.
+
+You can also deploy manually:
 
 ```bash
 npm run deploy
 ```
 
-This builds the project and publishes the `dist/` folder to the `gh-pages` branch. Ensure your repository's Pages settings are configured to serve from the `gh-pages` branch.
+Ensure your repository's Pages settings are configured to serve from the `gh-pages` branch.
+
+---
+
+## Automated content refresh
+
+Entries in the dynamic categories (`nyheter`, `sport`, `teknik`) are regenerated twice daily by `.github/workflows/refresh-kallprat.yml`, which runs `scripts/refresh.ts`. The script uses the OpenAI Responses API with web search to produce fresh Swedish conversation starters grounded in recent news, validates them against a Zod schema, and commits the updated `src/data/kallprat.json` back to `main`. The deploy workflow then republishes the site.
+
+Evergreen categories (`historia`, `handelser`, `allmant`) are never touched. If generation fails for a category, the previous entries for that category are preserved.
+
+**Required repo secret:** `OPENAI_API_KEY`.
+
+**Local test:**
+
+```bash
+# PowerShell
+$env:OPENAI_API_KEY="sk-..."; npm run refresh
+
+# bash
+OPENAI_API_KEY=sk-... npm run refresh
 ```
 
 You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
