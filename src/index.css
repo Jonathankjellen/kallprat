@@ -1,0 +1,315 @@
+@import "tailwindcss";
+
+@theme {
+  --color-paper: #f1ebdd;
+  --color-paper-deep: #e7dec8;
+  --color-ink: #1a1410;
+  --color-ink-soft: #4a4138;
+  --color-ink-faint: #8a7e6c;
+  --color-rule: #c8bfa7;
+  --color-accent: #c8412a;
+  --color-accent-deep: #8e2a18;
+  --color-ochre: #b88a2c;
+
+  --font-display: "Fraunces", "Iowan Old Style", "Times New Roman", serif;
+  --font-mono: "JetBrains Mono", ui-monospace, "SF Mono", Menlo, monospace;
+  --font-body: "Fraunces", "Iowan Old Style", "Times New Roman", serif;
+}
+
+html,
+body,
+#root {
+  background: var(--color-paper);
+  color: var(--color-ink);
+  font-family: var(--font-body);
+  font-feature-settings: "ss01", "ss02", "liga", "onum";
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* Subtle paper grain — pure SVG, no asset deps */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 0;
+  opacity: 0.35;
+  mix-blend-mode: multiply;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='220' height='220'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 0.10  0 0 0 0 0.08  0 0 0 0 0.06  0 0 0 0.55 0'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>");
+}
+
+/* Soft vignette */
+body::after {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 0;
+  background: radial-gradient(
+    ellipse at 50% 0%,
+    transparent 40%,
+    rgba(26, 20, 16, 0.08) 100%
+  );
+}
+
+#root {
+  position: relative;
+  z-index: 1;
+}
+
+/* Selection */
+::selection {
+  background: var(--color-accent);
+  color: var(--color-paper);
+}
+
+/* Typographic helpers */
+.font-display { font-family: var(--font-display); }
+.font-mono    { font-family: var(--font-mono); }
+
+/* Font-variation presets for the Fraunces display face */
+.fv-mast    { font-variation-settings: "opsz" 144, "SOFT" 50; }
+.fv-hero    { font-variation-settings: "opsz" 144, "SOFT" 60; }
+.fv-card    { font-variation-settings: "opsz" 96,  "SOFT" 40; }
+.fv-quote   { font-variation-settings: "opsz" 144, "SOFT" 30; }
+.fv-marg    { font-variation-settings: "opsz" 72,  "SOFT" 40; }
+
+.eyebrow {
+  font-family: var(--font-mono);
+  font-size: 0.6875rem;
+  font-weight: 500;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--color-ink-faint);
+}
+
+.hairline {
+  height: 1px;
+  background: var(--color-rule);
+}
+
+.rule-double {
+  border-top: 1px solid var(--color-rule);
+  border-bottom: 1px solid var(--color-rule);
+  padding: 0.25rem 0;
+}
+
+/* Big drop-cap style for the kallprat text */
+.kp-quote {
+  font-family: var(--font-display);
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings: "opsz" 144, "SOFT" 30;
+  line-height: 1.08;
+  letter-spacing: -0.02em;
+  color: var(--color-ink);
+  -webkit-text-wrap: balance;
+  text-wrap: balance;
+}
+
+.kp-mark {
+  font-family: var(--font-display);
+  font-variation-settings: "opsz" 144, "SOFT" 100;
+  font-weight: 300;
+  color: var(--color-accent);
+  line-height: 0.7;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+.kp-mark-soft { color: var(--color-ink-faint); }
+
+/* Animations — measured, not bouncy */
+@keyframes paper-rise {
+  from { opacity: 0; transform: translateY(14px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes paper-fade {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+@keyframes ink-in {
+  0%   { opacity: 0; filter: blur(6px); transform: translateY(10px); }
+  60%  { opacity: 1; filter: blur(0);   }
+  100% { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes stamp {
+  0%   { opacity: 0; transform: rotate(-6deg) scale(1.15); }
+  60%  { opacity: 1; }
+  100% { opacity: 1; transform: rotate(-3deg) scale(1); }
+}
+
+.anim-rise   { animation: paper-rise 0.5s cubic-bezier(.2,.7,.2,1) both; }
+.anim-fade   { animation: paper-fade 0.4s ease-out both; }
+.anim-ink    { animation: ink-in 0.55s cubic-bezier(.2,.7,.2,1) both; }
+.anim-stamp  { animation: stamp 0.6s cubic-bezier(.2,.8,.2,1) both; }
+
+/* Stagger helpers */
+.delay-1 { animation-delay: 0.05s; }
+.delay-2 { animation-delay: 0.10s; }
+.delay-3 { animation-delay: 0.15s; }
+.delay-4 { animation-delay: 0.20s; }
+.delay-5 { animation-delay: 0.25s; }
+.delay-6 { animation-delay: 0.30s; }
+
+/* Editorial "section index" — diagonal ticker for category cards */
+.tick-rule {
+  background-image: repeating-linear-gradient(
+    90deg,
+    var(--color-rule) 0 1px,
+    transparent 1px 6px
+  );
+  height: 1px;
+}
+
+/* Custom focus */
+:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 3px;
+  border-radius: 1px;
+}
+
+/* Button reset for inky link buttons */
+.ink-link {
+  position: relative;
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.5rem;
+  color: var(--color-ink);
+  text-decoration: none;
+  cursor: pointer;
+}
+.ink-link::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -2px;
+  height: 1px;
+  background: var(--color-ink);
+  transform-origin: right;
+  transform: scaleX(1);
+  transition: transform 0.3s ease;
+}
+.ink-link:hover::after {
+  transform-origin: left;
+  transform: scaleX(0);
+}
+
+/* Solid press-button */
+.btn-press {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 1rem 1.75rem;
+  background: var(--color-ink);
+  color: var(--color-paper);
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  font-weight: 500;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  border: 1px solid var(--color-ink);
+  cursor: pointer;
+  transition: transform 0.15s ease, background 0.2s ease, color 0.2s ease;
+}
+.btn-press::before {
+  content: "";
+  position: absolute;
+  inset: 4px -4px -4px 4px;
+  background: var(--color-accent);
+  z-index: -1;
+  transition: inset 0.15s ease;
+}
+.btn-press:hover {
+  background: var(--color-accent);
+  border-color: var(--color-accent);
+}
+.btn-press:hover::before { inset: 0 0 0 0; }
+.btn-press:active { transform: translate(2px, 2px); }
+.btn-press:active::before { inset: 0; }
+
+/* Category card — newspaper-tile feel */
+.cat-tile {
+  position: relative;
+  text-align: left;
+  padding: 1.5rem 1.25rem 1.25rem;
+  background: transparent;
+  border: 1px solid var(--color-rule);
+  cursor: pointer;
+  overflow: hidden;
+  transition: background 0.25s ease, border-color 0.25s ease, color 0.25s ease;
+}
+.cat-tile::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: var(--color-ink);
+  transform: translateY(100%);
+  transition: transform 0.35s cubic-bezier(.2,.7,.2,1);
+  z-index: 0;
+}
+.cat-tile:hover { border-color: var(--color-ink); color: var(--color-paper); }
+.cat-tile:hover::before { transform: translateY(0); }
+.cat-tile:hover .cat-emoji { transform: translateY(-2px) rotate(-4deg); }
+.cat-tile:hover .cat-accent { color: var(--color-accent); }
+.cat-tile > * { position: relative; z-index: 1; }
+
+.cat-emoji {
+  display: inline-block;
+  font-size: 2.25rem;
+  line-height: 1;
+  transition: transform 0.35s cubic-bezier(.2,.8,.2,1);
+  filter: saturate(0.92);
+}
+
+.cat-accent { color: var(--color-accent); transition: color 0.25s ease; }
+
+/* Marginalia (follow-up questions) */
+.marginalia {
+  position: relative;
+  padding-left: 1.25rem;
+}
+.marginalia::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.65rem;
+  bottom: 0.65rem;
+  width: 2px;
+  background: var(--color-accent);
+}
+
+/* Tiny stamp / mast accents */
+.stamp {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.35rem 0.6rem;
+  border: 1px solid var(--color-ink);
+  font-family: var(--font-mono);
+  font-size: 0.625rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+}
+.stamp-accent {
+  background: var(--color-accent);
+  color: var(--color-paper);
+  border-color: var(--color-accent);
+}
+
+/* Decorative star ornament */
+.ornament::before,
+.ornament::after {
+  content: "✦";
+  display: inline-block;
+  margin: 0 0.6em;
+  color: var(--color-accent);
+  font-size: 0.6em;
+  vertical-align: middle;
+}

@@ -1,0 +1,575 @@
+{
+  "categories": [
+    { "id": "nyheter", "name": "Nyheter", "emoji": "📰" },
+    { "id": "sport", "name": "Sport", "emoji": "⚽" },
+    { "id": "historia", "name": "Historia", "emoji": "🏛️" },
+    { "id": "teknik", "name": "Teknik", "emoji": "💻" },
+    { "id": "handelser", "name": "Intressanta händelser", "emoji": "🌟" },
+    { "id": "allmant", "name": "Allmänt kallprat", "emoji": "💬" }
+  ],
+  "kallprat": [
+    {
+      "id": "n1",
+      "category": "nyheter",
+      "text": "Har du sett någon intressant nyhet den senaste veckan?",
+      "followUp": ["Var läste du om det?", "Vad tycker du om det?"]
+    },
+    {
+      "id": "n2",
+      "category": "nyheter",
+      "text": "Vilken nyhetskälla brukar du följa mest?",
+      "followUp": ["Varför just den?", "Litar du på den fullt ut?"]
+    },
+    {
+      "id": "n3",
+      "category": "nyheter",
+      "text": "Tycker du det är svårt att hänga med i nyhetsflödet nuförtiden?",
+      "followUp": ["Hur väljer du vad du ska läsa?", "Tar du ibland en nyhetspaus?"]
+    },
+    {
+      "id": "n4",
+      "category": "nyheter",
+      "text": "Har du hört talas om någon positiv nyhet nyligen?",
+      "followUp": ["Vad handlade det om?", "Brukar du aktivt söka goda nyheter?"]
+    },
+    {
+      "id": "n5",
+      "category": "nyheter",
+      "text": "Vad tycker du om nyhetspoddar jämfört med att läsa nyheter?",
+      "followUp": ["Har du någon favoritpodd?", "Föredrar du text, ljud eller video?"]
+    },
+    {
+      "id": "n6",
+      "category": "nyheter",
+      "text": "Om du fick vara nyhetsankare för en dag, vilken typ av nyheter skulle du fokusera på?",
+      "followUp": ["Skulle du göra något annorlunda?", "Vilken kanal skulle du välja?"]
+    },
+    {
+      "id": "n7",
+      "category": "nyheter",
+      "text": "Brukar du diskutera nyheter med kollegor eller vänner?",
+      "followUp": ["Händer det att ni tycker olika?", "Hur hanterar du det?"]
+    },
+    {
+      "id": "n8",
+      "category": "nyheter",
+      "text": "Har du märkt att nyheter påverkar ditt humör?",
+      "followUp": ["Positivt eller negativt?", "Gör du något för att balansera det?"]
+    },
+    {
+      "id": "n9",
+      "category": "nyheter",
+      "text": "Vilken nyhet har fastnat mest hos dig genom åren?",
+      "followUp": ["Varför just den?", "Minns du var du var när du hörde den?"]
+    },
+    {
+      "id": "n10",
+      "category": "nyheter",
+      "text": "Följer du några lokala nyheter?",
+      "followUp": ["Vad händer i ditt område just nu?", "Tycker du lokaljournalistik är viktig?"]
+    },
+    {
+      "id": "n11",
+      "category": "nyheter",
+      "text": "Vad tror du blir den stora nyheten i år?",
+      "followUp": ["Inom vilket område?", "Ser du fram emot det eller oroar det dig?"]
+    },
+    {
+      "id": "n12",
+      "category": "nyheter",
+      "text": "Har du läst om något vetenskapligt genombrott nyligen?",
+      "followUp": ["Vad handlade det om?", "Hur tror du det påverkar framtiden?"]
+    },
+    {
+      "id": "n13",
+      "category": "nyheter",
+      "text": "Brukar du kolla nyheter på morgonen eller kvällen?",
+      "followUp": ["Varför just då?", "Hur lång tid lägger du på det?"]
+    },
+    {
+      "id": "n14",
+      "category": "nyheter",
+      "text": "Har du testat att följa nyheter på sociala medier istället för traditionella medier?",
+      "followUp": ["Vilken plattform?", "Tycker du det fungerar bra?"]
+    },
+    {
+      "id": "n15",
+      "category": "nyheter",
+      "text": "Finns det något ämne du önskar fick mer uppmärksamhet i nyheterna?",
+      "followUp": ["Varför är det viktigt för dig?", "Var hittar du info om det istället?"]
+    },
+
+    {
+      "id": "s1",
+      "category": "sport",
+      "text": "Följer du någon sport aktivt just nu?",
+      "followUp": ["Vilket lag håller du på?", "Hur länge har du följt det?"]
+    },
+    {
+      "id": "s2",
+      "category": "sport",
+      "text": "Har du provat någon ny sport eller träningsform nyligen?",
+      "followUp": ["Hur var det?", "Skulle du göra det igen?"]
+    },
+    {
+      "id": "s3",
+      "category": "sport",
+      "text": "Vad tycker du om att se sport live jämfört med på TV?",
+      "followUp": ["Vilken var den bästa matchen du sett live?", "Föredrar du stämningen på plats?"]
+    },
+    {
+      "id": "s4",
+      "category": "sport",
+      "text": "Vilket sportevenemang ser du mest fram emot i år?",
+      "followUp": ["Ska du följa det live?", "Har du varit på något liknande förut?"]
+    },
+    {
+      "id": "s5",
+      "category": "sport",
+      "text": "Tror du e-sport kommer bli lika stort som traditionell sport?",
+      "followUp": ["Har du tittat på e-sport?", "Vilket spel tycker du är mest intressant att se?"]
+    },
+    {
+      "id": "s6",
+      "category": "sport",
+      "text": "Vilken idrottare inspirerar dig mest?",
+      "followUp": ["Vad är det som inspirerar dig?", "Har du träffat någon känd idrottare?"]
+    },
+    {
+      "id": "s7",
+      "category": "sport",
+      "text": "Har du något sportminne från barndomen som du aldrig glömmer?",
+      "followUp": ["Vad hände?", "Spelade du själv eller var du åskådare?"]
+    },
+    {
+      "id": "s8",
+      "category": "sport",
+      "text": "Brukar du träna regelbundet?",
+      "followUp": ["Vad brukar du göra?", "Tränar du ensam eller med någon?"]
+    },
+    {
+      "id": "s9",
+      "category": "sport",
+      "text": "Vilken sport tycker du är mest underskattad?",
+      "followUp": ["Har du provat den själv?", "Vad gör den speciell?"]
+    },
+    {
+      "id": "s10",
+      "category": "sport",
+      "text": "Har du någonsin sprungit ett lopp, som ett maraton eller liknande?",
+      "followUp": ["Hur gick det?", "Skulle du göra det igen?"]
+    },
+    {
+      "id": "s11",
+      "category": "sport",
+      "text": "Vad tycker du om vintersport vs sommarsport?",
+      "followUp": ["Har du en favorit?", "Åker du skidor eller snowboard?"]
+    },
+    {
+      "id": "s12",
+      "category": "sport",
+      "text": "Har du spelat i något lag som vuxen?",
+      "followUp": ["Vilken sport?", "Vad gillar du med lagspel?"]
+    },
+    {
+      "id": "s13",
+      "category": "sport",
+      "text": "Om du kunde vara proffs i vilken sport som helst, vilken skulle du välja?",
+      "followUp": ["Varför just den?", "Tror du att du hade klarat det?"]
+    },
+    {
+      "id": "s14",
+      "category": "sport",
+      "text": "Vad tycker du om padel-trenden?",
+      "followUp": ["Har du testat?", "Är det bara en trend eller här för att stanna?"]
+    },
+    {
+      "id": "s15",
+      "category": "sport",
+      "text": "Brukar du följa OS? Vilken gren gillar du bäst?",
+      "followUp": ["Sommar- eller vinter-OS?", "Har du något favoritminne från ett OS?"]
+    },
+
+    {
+      "id": "h1",
+      "category": "historia",
+      "text": "Vilken historisk period fascinerar dig mest?",
+      "followUp": ["Varför just den?", "Har du läst mycket om den?"]
+    },
+    {
+      "id": "h2",
+      "category": "historia",
+      "text": "Om du kunde resa tillbaka i tiden, vilken tid och plats skulle du välja?",
+      "followUp": ["Vad skulle du göra där?", "Vem skulle du vilja träffa?"]
+    },
+    {
+      "id": "h3",
+      "category": "historia",
+      "text": "Vilken historisk person tycker du är mest underskattad?",
+      "followUp": ["Vad gjorde den personen?", "Varför tror du hen är underskattad?"]
+    },
+    {
+      "id": "h4",
+      "category": "historia",
+      "text": "Har du besökt något historiskt intressant ställe?",
+      "followUp": ["Var var det?", "Vad tyckte du om det?"]
+    },
+    {
+      "id": "h5",
+      "category": "historia",
+      "text": "Vilken uppfinning tycker du har förändrat världen mest?",
+      "followUp": ["Varför just den?", "Vad tror du nästa stora uppfinning blir?"]
+    },
+    {
+      "id": "h6",
+      "category": "historia",
+      "text": "Gillar du historiska filmer eller serier?",
+      "followUp": ["Vilken är din favorit?", "Tycker du det är viktigt att de är historiskt korrekta?"]
+    },
+    {
+      "id": "h7",
+      "category": "historia",
+      "text": "Visste du att vikingarna reste ända till Nordamerika?",
+      "followUp": ["Vad vet du mer om vikingarna?", "Tycker du svensk historia är intressant?"]
+    },
+    {
+      "id": "h8",
+      "category": "historia",
+      "text": "Vilken historisk händelse önskar du att du kunde ha bevittnat?",
+      "followUp": ["Varför just den?", "Tror du det var som vi föreställer oss det?"]
+    },
+    {
+      "id": "h9",
+      "category": "historia",
+      "text": "Har du hört talas om några intressanta arkeologiska fynd på sistone?",
+      "followUp": ["Vad handlade det om?", "Är du intresserad av arkeologi?"]
+    },
+    {
+      "id": "h10",
+      "category": "historia",
+      "text": "Om du kunde ändra en sak i historien, vad skulle det vara?",
+      "followUp": ["Hur tror du världen hade sett ut då?", "Finns det risker med att ändra historia?"]
+    },
+    {
+      "id": "h11",
+      "category": "historia",
+      "text": "Känner du till någon spännande lokal historia från din hemstad?",
+      "followUp": ["Berätta mer!", "Hur fick du reda på det?"]
+    },
+    {
+      "id": "h12",
+      "category": "historia",
+      "text": "Vilken epok hade den bästa musiken tycker du?",
+      "followUp": ["Varför?", "Lyssnar du på musik från den perioden?"]
+    },
+    {
+      "id": "h13",
+      "category": "historia",
+      "text": "Vad tycker du vi kan lära oss av historien?",
+      "followUp": ["Finns det mönster som upprepar sig?", "Tror du vi lär oss av misstag?"]
+    },
+    {
+      "id": "h14",
+      "category": "historia",
+      "text": "Har du läst någon bra historisk bok nyligen?",
+      "followUp": ["Vad handlade den om?", "Föredrar du fakta eller historisk fiktion?"]
+    },
+    {
+      "id": "h15",
+      "category": "historia",
+      "text": "Vilket historiskt mysterium tycker du är mest fascinerande?",
+      "followUp": ["Har du en egen teori?", "Tror du det någonsin kommer lösas?"]
+    },
+
+    {
+      "id": "t1",
+      "category": "teknik",
+      "text": "Vilken teknisk pryl kan du inte leva utan?",
+      "followUp": ["Hur länge har du haft den?", "Vad använde du innan?"]
+    },
+    {
+      "id": "t2",
+      "category": "teknik",
+      "text": "Vad tycker du om AI och hur det utvecklas?",
+      "followUp": ["Använder du AI i vardagen?", "Ser du det som positivt eller oroande?"]
+    },
+    {
+      "id": "t3",
+      "category": "teknik",
+      "text": "Har du testat någon ny app eller tjänst nyligen som du gillar?",
+      "followUp": ["Vad gör den?", "Skulle du rekommendera den?"]
+    },
+    {
+      "id": "t4",
+      "category": "teknik",
+      "text": "Tror du att självkörande bilar kommer bli vardag snart?",
+      "followUp": ["Skulle du våga åka i en?", "Vad ser du som största hindret?"]
+    },
+    {
+      "id": "t5",
+      "category": "teknik",
+      "text": "Hur mycket skärmtid har du per dag ungefär?",
+      "followUp": ["Tycker du det är för mycket?", "Har du försökt minska den?"]
+    },
+    {
+      "id": "t6",
+      "category": "teknik",
+      "text": "Vad tror du om VR och AR — kommer det slå stort?",
+      "followUp": ["Har du testat VR?", "I vilken bransch tror du det gör störst nytta?"]
+    },
+    {
+      "id": "t7",
+      "category": "teknik",
+      "text": "Är du en early adopter eller väntar du med ny teknik?",
+      "followUp": ["Vad var det senaste du köpte?", "Har du blivit besviken på något?"]
+    },
+    {
+      "id": "t8",
+      "category": "teknik",
+      "text": "Vad tycker du om smarta hem-prylar?",
+      "followUp": ["Har du några hemma?", "Vilken är mest användbar?"]
+    },
+    {
+      "id": "t9",
+      "category": "teknik",
+      "text": "Tror du att barn borde lära sig programmera i skolan?",
+      "followUp": ["Från vilken ålder?", "Vilket språk skulle du börja med?"]
+    },
+    {
+      "id": "t10",
+      "category": "teknik",
+      "text": "Vilken tekniktrend tror du är överhypad?",
+      "followUp": ["Varför?", "Finns det någon trend du tror mer på?"]
+    },
+    {
+      "id": "t11",
+      "category": "teknik",
+      "text": "Har du några tips på bra teknikpoddar eller YouTube-kanaler?",
+      "followUp": ["Vad handlar de om?", "Hur hittade du dem?"]
+    },
+    {
+      "id": "t12",
+      "category": "teknik",
+      "text": "Vilket operativsystem föredrar du — Windows, Mac eller Linux?",
+      "followUp": ["Varför?", "Har du testat de andra?"]
+    },
+    {
+      "id": "t13",
+      "category": "teknik",
+      "text": "Vad tycker du om att allt fler tjänster kräver prenumeration?",
+      "followUp": ["Hur många prenumerationer har du?", "Finns det någon du tycker är värd pengarna?"]
+    },
+    {
+      "id": "t14",
+      "category": "teknik",
+      "text": "Har du funderat på cybersäkerhet i vardagen?",
+      "followUp": ["Använder du lösenordshanterare?", "Har du drabbats av något digitalt?"]
+    },
+    {
+      "id": "t15",
+      "category": "teknik",
+      "text": "Om du fick uppfinna en teknisk pryl, vad skulle det vara?",
+      "followUp": ["Vilket problem skulle den lösa?", "Tror du den hade sålts?"]
+    },
+
+    {
+      "id": "e1",
+      "category": "handelser",
+      "text": "Visste du att det regnar diamanter på Neptunus och Uranus?",
+      "followUp": ["Vilken annan rymdfakta känner du till?", "Är du intresserad av rymden?"]
+    },
+    {
+      "id": "e2",
+      "category": "handelser",
+      "text": "I Japan finns det ett hotell som drivits av samma familj i över 1 300 år.",
+      "followUp": ["Skulle du vilja bo där?", "Vad är det äldsta du sett?"]
+    },
+    {
+      "id": "e3",
+      "category": "handelser",
+      "text": "Visste du att bläckfiskar har tre hjärtan och blått blod?",
+      "followUp": ["Vilket djur tycker du är mest fascinerande?", "Har du sett en bläckfisk i verkligheten?"]
+    },
+    {
+      "id": "e4",
+      "category": "handelser",
+      "text": "Det finns fler möjliga schackpartier än atomer i det observerbara universum.",
+      "followUp": ["Spelar du schack?", "Vilken annan mind-blowing fakta känner du till?"]
+    },
+    {
+      "id": "e5",
+      "category": "handelser",
+      "text": "Honey (honung) blir aldrig dålig — man har hittat ätbar honung i egyptiska gravar.",
+      "followUp": ["Gillar du honung?", "Vad tycker du är mest fascinerande med antikens Egypten?"]
+    },
+    {
+      "id": "e6",
+      "category": "handelser",
+      "text": "I Finland finns det en tävling i att bära sin fru — priset är fruns vikt i öl.",
+      "followUp": ["Skulle du ställa upp?", "Vilken konstig tävling har du hört talas om?"]
+    },
+    {
+      "id": "e7",
+      "category": "handelser",
+      "text": "Oxford University är äldre än Aztekernas rike.",
+      "followUp": ["Visste du det?", "Vilken annan historisk jämförelse förvånar dig?"]
+    },
+    {
+      "id": "e8",
+      "category": "handelser",
+      "text": "Bananer är tekniskt sett bär, men jordgubbar är det inte.",
+      "followUp": ["Kände du till det?", "Vilken annan matig fakta vet du?"]
+    },
+    {
+      "id": "e9",
+      "category": "handelser",
+      "text": "Det tog mänskligheten längre tid att gå från bronssvärdet till stålsvärdet, än från stålsvärdet till atombomben.",
+      "followUp": ["Vad tror du om teknikutvecklingens hastighet?", "Är det skrämmande eller spännande?"]
+    },
+    {
+      "id": "e10",
+      "category": "handelser",
+      "text": "En dag på Venus är längre än ett år på Venus.",
+      "followUp": ["Visste du det?", "Vilken planet fascinerar dig mest?"]
+    },
+    {
+      "id": "e11",
+      "category": "handelser",
+      "text": "Kleopatra levde närmare månlandningen i tid än byggandet av pyramiderna.",
+      "followUp": ["Hur kan det vara möjligt?", "Har du besökt pyramiderna?"]
+    },
+    {
+      "id": "e12",
+      "category": "handelser",
+      "text": "Det finns en sjö i Australien som är naturligt rosa.",
+      "followUp": ["Skulle du vilja se den?", "Vad är det mest ovanliga naturfenomenet du sett?"]
+    },
+    {
+      "id": "e13",
+      "category": "handelser",
+      "text": "Schweiz invaderade Liechtenstein av misstag — tre gånger.",
+      "followUp": ["Hur hanterade de det?", "Vilken annan rolig landfakta vet du?"]
+    },
+    {
+      "id": "e14",
+      "category": "handelser",
+      "text": "Varje gång du blandar en kortlek skapar du sannolikt en ordning som aldrig existerat förut.",
+      "followUp": ["Tänker du ofta på sannolikheter?", "Spelar du kortspel?"]
+    },
+    {
+      "id": "e15",
+      "category": "handelser",
+      "text": "Det finns fler träd på jorden än stjärnor i Vintergatan.",
+      "followUp": ["Visste du det?", "Tycker du vi borde plantera fler träd?"]
+    },
+
+    {
+      "id": "a1",
+      "category": "allmant",
+      "text": "Vad gör du helst en ledig söndag?",
+      "followUp": ["Är du en morgon- eller kvällsmänniska?", "Brukar du planera eller ta det som det kommer?"]
+    },
+    {
+      "id": "a2",
+      "category": "allmant",
+      "text": "Har du sett någon bra film eller serie nyligen?",
+      "followUp": ["Vad handlade den om?", "Skulle du rekommendera den?"]
+    },
+    {
+      "id": "a3",
+      "category": "allmant",
+      "text": "Har du planerat någon resa snart?",
+      "followUp": ["Vart ska du åka?", "Vad ser du mest fram emot?"]
+    },
+    {
+      "id": "a4",
+      "category": "allmant",
+      "text": "Lagar du mat ofta? Har du någon favoriträtt?",
+      "followUp": ["Var lärde du dig laga den?", "Experimenterar du med nya recept?"]
+    },
+    {
+      "id": "a5",
+      "category": "allmant",
+      "text": "Om du kunde ha en superkraft, vilken skulle det vara?",
+      "followUp": ["Varför just den?", "Hur skulle du använda den?"]
+    },
+    {
+      "id": "a6",
+      "category": "allmant",
+      "text": "Vad lyssnar du på för musik just nu?",
+      "followUp": ["Har du upptäckt något nytt?", "Går du på konserter ibland?"]
+    },
+    {
+      "id": "a7",
+      "category": "allmant",
+      "text": "Har du något husdjur?",
+      "followUp": ["Vad heter den/de?", "Om du inte har, skulle du vilja ha?"]
+    },
+    {
+      "id": "a8",
+      "category": "allmant",
+      "text": "Vad är det bästa tipset du fått av någon?",
+      "followUp": ["Vem gav dig det?", "Följde du det direkt?"]
+    },
+    {
+      "id": "a9",
+      "category": "allmant",
+      "text": "Har du någon hobby som folk brukar bli förvånade över?",
+      "followUp": ["Hur började du med det?", "Vad gillar du mest med det?"]
+    },
+    {
+      "id": "a10",
+      "category": "allmant",
+      "text": "Vad var det sista du lärde dig som var helt nytt?",
+      "followUp": ["Hur lärde du dig det?", "Var det svårt?"]
+    },
+    {
+      "id": "a11",
+      "category": "allmant",
+      "text": "Kaffe eller te — och hur dricker du det helst?",
+      "followUp": ["Hur många koppar per dag?", "Har du testat något ovanligt?"]
+    },
+    {
+      "id": "a12",
+      "category": "allmant",
+      "text": "Läser du böcker? Vad läser du just nu?",
+      "followUp": ["Papper eller digitalt?", "Vilken bok har påverkat dig mest?"]
+    },
+    {
+      "id": "a13",
+      "category": "allmant",
+      "text": "Om du fick bjuda tre personer på middag, döda eller levande, vilka väljer du?",
+      "followUp": ["Varför just dem?", "Vad skulle du servera?"]
+    },
+    {
+      "id": "a14",
+      "category": "allmant",
+      "text": "Har du bott utomlands någon gång?",
+      "followUp": ["Var och hur länge?", "Vad saknade du mest hemifrån?"]
+    },
+    {
+      "id": "a15",
+      "category": "allmant",
+      "text": "Vad gör dig glad i vardagen?",
+      "followUp": ["Är det något litet eller stort?", "Händer det ofta?"]
+    },
+    {
+      "id": "a16",
+      "category": "allmant",
+      "text": "Vad brukar du göra för att varva ner efter jobbet?",
+      "followUp": ["Funkar det bra?", "Har du bytt rutin nyligen?"]
+    },
+    {
+      "id": "a17",
+      "category": "allmant",
+      "text": "Har du ett livsotto eller citat du lever efter?",
+      "followUp": ["Var hörde du det först?", "Stämmer det i praktiken?"]
+    },
+    {
+      "id": "a18",
+      "category": "allmant",
+      "text": "Vad är den mest intressanta platsen du besökt?",
+      "followUp": ["Vad gjorde den speciell?", "Vill du åka tillbaka?"]
+    }
+  ]
+}
