@@ -1,0 +1,47 @@
+name: Refresh kallprat data
+
+on:
+  schedule:
+    # Twice daily: 05:00 and 15:00 UTC (~07:00 and 17:00 Stockholm).
+    - cron: '0 5,15 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-kallprat
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run refresh script
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: npm run refresh
+
+      - name: Commit changes if any
+        run: |
+          if git diff --quiet -- src/data/kallprat.json; then
+            echo "No changes to kallprat.json."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/data/kallprat.json
+          git commit -m "chore(data): refresh kallprat content"
+          git push
