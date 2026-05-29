@@ -95,33 +95,35 @@ function buildSystemPrompt(category: DynamicCategory): string {
 // ---------- OpenAI call ----------
 
 const responseFormat = {
-  type: 'json_schema' as const,
-  json_schema: {
-    name: 'kallprat_batch',
-    strict: true,
-    schema: {
-      type: 'object',
-      additionalProperties: false,
-      required: ['entries'],
-      properties: {
-        entries: {
-          type: 'array',
-          items: {
-            type: 'object',
-            additionalProperties: false,
-            required: ['text', 'followUp'],
-            properties: {
-              text: { type: 'string' },
-              followUp: {
-                type: 'array',
-                items: { type: 'string' },
-                minItems: 2,
-                maxItems: 2,
-              },
+  format: {
+    type: 'json_schema' as const,
+    json_schema: {
+        name: 'kallprat_batch',
+        strict: true,
+        schema: {
+        type: 'object',
+        additionalProperties: false,
+        required: ['entries'],
+        properties: {
+            entries: {
+            type: 'array',
+            items: {
+                type: 'object',
+                additionalProperties: false,
+                required: ['text', 'followUp'],
+                properties: {
+                text: { type: 'string' },
+                followUp: {
+                    type: 'array',
+                    items: { type: 'string' },
+                    minItems: 2,
+                    maxItems: 2,
+                },
+                },
             },
-          },
+            },
         },
-      },
+        },
     },
   },
 };
@@ -146,7 +148,7 @@ async function generateForCategory(
           content: `Skriv ${ENTRIES_PER_CATEGORY} aktuella kallprat för kategorin "${category}".`,
         },
       ],
-      response_format: responseFormat,
+      text: responseFormat,
     });
 
     const text: string | undefined =
