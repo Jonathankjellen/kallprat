@@ -168,219 +168,219 @@
       ]
     },
     {
-      "id": "s-20260529-1",
+      "id": "s-20260530-1",
       "category": "sport",
-      "text": "Såg du hur Sveriges herrlandslag fick kämpa med det där väderkaoset på Bosön? Regn och blåst på toppnivå!",
+      "text": "Såg du matchen mellan Sverige och Schweiz? Snacka om besvikelse att Tre Kronor åkte ut i kvartsfinalen!",
       "followUp": [
-        "Tror du att de kommer vara redo för VM ändå?",
-        "Vilket lag ser du som den största utmaningen?"
+        "Tror du att de behövs en rejäl uppryckning inför nästa VM?",
+        "Vilken spelare skulle du säga var bäst under turneringen?"
       ]
     },
     {
-      "id": "s-20260529-2",
+      "id": "s-20260530-2",
       "category": "sport",
-      "text": "Va, Tre Kronor åkte ut mot Schweiz i kvartsfinalen? Snacka om platt fall.",
+      "text": "Hur sjukt är det inte att Norge har tagit sig till sin första VM-semifinal? Det känns som att de verkligen överträffar alla förväntningar!",
       "followUp": [
-        "Hade du trott de skulle gå längre?",
-        "Vilken match var din favorit under VM?"
+        "Tror du att de kan gå hela vägen och vinna?",
+        "Har du sett någon av deras matcherna?"
       ]
     },
     {
-      "id": "s-20260529-3",
+      "id": "s-20260530-3",
       "category": "sport",
-      "text": "Hörde du att Felix Rosenqvist plockade hem Indy 500? Riktigt grymt av honom!",
+      "text": "Hörde du att Claude Lemieux har gått bort? Skulle inte tro att han var så gammal, 60 år liksom.",
       "followUp": [
-        "Kollade du på racet?",
-        "Vad tycker du om motorsport generellt?"
+        "Kommer du ihåg någon av hans galna matcher från NHL?",
+        "Vilken är din favorit-NHL-spelare genom tiderna?"
       ]
     },
     {
-      "id": "s-20260529-4",
+      "id": "s-20260530-4",
       "category": "sport",
-      "text": "Filip Björk har signat för AIK, vilket drag! Det måste bli kul att följa.",
+      "text": "Oj, Girona åkte ur La Liga efter den där Champions League-säsongen. Snacka om en berg-och-dalbana!",
       "followUp": [
-        "Har du någon favoritspelare i innebandy?",
-        "Kollade du senaste säsongen av SSL?"
+        "Tror du att de kommer studsa tillbaka nästa säsong?",
+        "Vilken La Liga-match såg du som du tyckte var bäst?"
       ]
     },
     {
-      "id": "s-20260529-5",
+      "id": "s-20260530-5",
       "category": "sport",
-      "text": "Ojoj, Henriette Jaeger lyckades inte knipa guldet på 400 meter... Vilken miss!",
+      "text": "Victor Lindelöf delade ut gåvor till sina landslagskamrater innan VM. Så himla schysst av honom!",
       "followUp": [
-        "Tror du att hon kan komma tillbaka nästa gång?",
-        "Har du testat sprint själv någon gång?"
+        "Skulle du vilja ha en sån landslagstema-gåva?",
+        "Vad skulle du ge till dina kompisar för att peppa dem?"
       ]
     },
     {
-      "id": "s-20260529-6",
+      "id": "s-20260530-6",
       "category": "sport",
-      "text": "Såg att Janne Andersson ska gästa Systemet inför V85. Slår ett slag för det!",
+      "text": "Va, hörde du att Alexander Isak är tillbaka på träning? Det känns som han är glad att vara tillbaka!",
       "followUp": [
-        "Är du in i hästar och trav?",
-        "Har du spelat på V75 någon gång?"
+        "Tror du han kommer vara i form till VM?",
+        "Vilket svenskt spelmål minns du bäst från honom?"
       ]
     },
     {
-      "id": "s-20260529-7",
+      "id": "s-20260530-7",
       "category": "sport",
-      "text": "Fy sjutton, såg du hur Oskar Sundqvist fick ledas ut på rullstol efter tacklingen?",
+      "text": "Så sjukt att Henriette Jaeger missade guldet för att hon trampade innanför sargen. Vad kan man säga, snopet!",
       "followUp": [
-        "Tror du skadorna kommer påverka laget i fortsättningen?",
-        "Har du någonsin sett en så brutal tackling?"
+        "Har du varit med om något liknande, typ något missat mål?",
+        "Vilket moment i friidrott är du mest imponerad av?"
       ]
     },
     {
-      "id": "s-20260529-8",
+      "id": "s-20260530-8",
       "category": "sport",
-      "text": "Något kul med att Sveriges herrlandslag samlas för VM nu? Det känns alltid spännande!",
+      "text": "Filip Björk går till AIK efter fyra SM-guld. Måste vara en bra känsla för honom!",
       "followUp": [
-        "Har du några favoritspelare i laget?",
-        "Vad tror du om vår chansk att gå långt?"
+        "Tror du han kan leverera lika bra i AIK?",
+        "Vilket lag hejar du på i innebandy?"
       ]
     },
     {
-      "id": "s-20260529-9",
+      "id": "s-20260530-9",
       "category": "sport",
-      "text": "Lionel Messi skadad innan VM? Det här är ju galet!",
+      "text": "André Göransson är typ ensam svensk i Paris just nu. Känns som en film, ha!",
       "followUp": [
-        "Tror du Argentina klarar sig utan honom?",
-        "Är du lagd åt Messi eller Ronaldo?"
+        "Skulle du vilja hänga där ensam eller är det en skräckfilm?",
+        "Hur går det med din egen tennis?"
       ]
     },
     {
-      "id": "t-20260529-1",
-      "category": "teknik",
-      "text": "Kollade du på gurun som jämförde Nvidia RTX 5070 Ti och AMD Radeon 9070 XT? Helt vildt hur de presterar i olika spel!",
+      "id": "s-20260530-10",
+      "category": "sport",
+      "text": "Elitloppet närmar sig och det är ju travets stora helg! Ser verkligen fram emot att följa det!",
       "followUp": [
-        "Vilken grafik är du sugen på?",
-        "Skulle du välja en av dem om du skulle uppgradera?"
+        "Har du varit på Elitloppet förut?",
+        "Vilken häst har du ögonen på?"
       ]
     },
     {
-      "id": "t-20260529-2",
-      "category": "teknik",
-      "text": "Hörde du om Teslas Cybercab? Den drar 28% mindre energi än sin största konkurrent, helt galet!",
+      "id": "s-20260530-11",
+      "category": "sport",
+      "text": "Stockholm Marathon är ju sjukt nära nu! Har du någon plan på att delta?",
       "followUp": [
-        "Skulle du våga åka i en självkörande bil?",
-        "Tror du vi ser fler såna här bilar på vägarna snart?"
+        "Har du någonsin sprungit ett marathon?",
+        "Vilket lopp är egentligen din dröm att springa?"
       ]
     },
     {
-      "id": "t-20260529-3",
-      "category": "teknik",
-      "text": "Det är ju lite sjukt att många gamar fortfarande stänger av ray tracing, trots att Nvidia lovat guld och gröna skogar. Vad tror du om det?",
+      "id": "s-20260530-12",
+      "category": "sport",
+      "text": "Så är det dags för Hockey-VM-finalen i Zürich snart! Kommer bli spännande!",
       "followUp": [
-        "Har du testat ray tracing själv?",
-        "Vilket spel tycker du gör det bäst?"
+        "Tror du att Sverige kan ta hem guldet den här gången?",
+        "Vilket lag hejar du på?"
       ]
     },
     {
-      "id": "t-20260529-4",
-      "category": "teknik",
-      "text": "Det snackas om en USB-kabel som kan göra allt möjligt skumt – typ emulera tangenttryckningar och sånt!",
+      "id": "s-20260530-13",
+      "category": "sport",
+      "text": "Champions League-finalen mellan PSG och Arsenal ser ruggigt intressant ut! Vilket lag hejar du på?",
       "followUp": [
-        "Låter det läskigt eller coolt tycker du?",
-        "Skulle du lita på en sån kabel?"
+        "Har du sett de där matcherna tidigare i turneringen?",
+        "Vilken spelare från PSG skulle du helst ha i ditt favoritlag?"
       ]
     },
     {
-      "id": "t-20260529-5",
-      "category": "teknik",
-      "text": "Wow, dronen Blackbird satte nytt hastighetsrekord – 453 mph! Hur sjukt är inte det?",
+      "id": "s-20260530-14",
+      "category": "sport",
+      "text": "MotoGP är snart i Italien! Mugello är ju en grym bana. Har du koll på det?",
       "followUp": [
-        "Tror du drönarsport kan bli en grej?",
-        "Har du testat att flyga någon drönare?"
+        "Vilka förare håller du på?",
+        "Har du kört motorcykel själv någon gång?"
       ]
     },
     {
-      "id": "t-20260529-6",
-      "category": "teknik",
-      "text": "Är du Xbox-spelare? Det har kommit en ny uppdatering för att fixa stick-drift, ganska schysst ändå!",
+      "id": "s-20260530-15",
+      "category": "sport",
+      "text": "IndyCar drar nästa helg i Detroit. Riktigt kul med Felix Rosenqvists seger nyligen!",
       "followUp": [
-        "Har du haft problem med drift på din kontroller?",
-        "Vilket spel kör du mest just nu?"
+        "Följer du IndyCar eller är det mer F1 som gäller för dig?",
+        "Vilken är din favoritbana att se racing på?"
       ]
     },
     {
-      "id": "t-20260529-7",
+      "id": "t-20260530-1",
       "category": "teknik",
-      "text": "Kollade du in OmniDrive-firmware? Den kan göra att vi kan rippa spel från gamla konsoler till PC. Grymt ju!",
+      "text": "Såg du att det kommit en ny AI-app för kostrådgivning som heter PlateAI? Den lovar att ge realtidscoachning!",
       "followUp": [
-        "Vilket retrospel skulle du dra upp?",
-        "Har du kvar någon av de gamla konsolerna?"
+        "Har du testat någon kostapp tidigare?",
+        "Tror du att AI kan funka som en dietist?"
       ]
     },
     {
-      "id": "t-20260529-8",
+      "id": "t-20260530-2",
       "category": "teknik",
-      "text": "Kan du fatta att Kinas gaming-GPU sålde 30 000 enheter på bara 48 timmar? Snacka om hajp!",
+      "text": "Samsung släppte One UI 7 med massa coola uppdateringar. Tycker du att din mobil behöver fler AI-grejer?",
       "followUp": [
-        "Ser du en trend i det här för framtiden?",
-        "Tänker du att det är dags för fler alternativ på marknaden?"
+        "Vilken funktion skulle du verkligen vilja ha?",
+        "Använder du några smarta funktioner på din mobil just nu?"
       ]
     },
     {
-      "id": "t-20260529-9",
+      "id": "t-20260530-3",
       "category": "teknik",
-      "text": "Det är kaos med HP:s BIOS-uppdateringar – de gör att laptops får startproblem. Inte helt okej, va?",
+      "text": "Elden Ring Nightreign har tagit gamingvärlden med storm, över 300 000 spelare online samtidigt! Hur sjukt är inte det?",
       "followUp": [
-        "Har du haft problem med uppdateringar nån gång?",
-        "Brukar du vänta lite innan du uppdaterar din dator?"
+        "Har du kört Nightreign än?",
+        "Vad är ditt favoritactionspel just nu?"
       ]
     },
     {
-      "id": "t-20260529-10",
+      "id": "t-20260530-4",
       "category": "teknik",
-      "text": "Hörde du att Windows Secure Boot-certifikat går ut snart? Det kan ju ställa till en del grejer för säkerheten.",
+      "text": "SpaceX gjorde sin 32:a lastuppdrag till ISS. Vi är ju så nära rymden nu, eller?",
       "followUp": [
-        "Kör du Windows 11 eller är du en gammal hederlig XP-person?",
-        "Har du hört om andra säkerhetsgrejer som oroar just nu?"
+        "Skulle du kunna tänka dig att åka upp dit?",
+        "Vad skulle du ta med dig till rymden?"
       ]
     },
     {
-      "id": "t-20260529-11",
+      "id": "t-20260530-5",
       "category": "teknik",
-      "text": "Såg du att Kanada kanske ska införa en skatt på streamingtjänster? Det känns ju lite knasigt.",
+      "text": "Cygnus XL-lastfarkost har just levererat över 11 000 pund forskning till ISS. Det låter ju som en sci-fi-film!",
       "followUp": [
-        "Hur påverkar det din binge-watching?",
-        "Tror du fler länder kommer följa efter?"
+        "Tror du rymdstationerna är där vi kommer bo i framtiden?",
+        "Vad skulle du vilja forska på om du var i rymden?"
       ]
     },
     {
-      "id": "t-20260529-12",
+      "id": "t-20260530-6",
       "category": "teknik",
-      "text": "Hypershell har släppt ett AI-exoskelett som ger extra kraft med varje steg, ser ut som något från en sci-fi film!",
+      "text": "Det snackas om att många svenska företag är helt oförberedda på kommande cybersäkerhetsregler. Låter ju som en katastrof!",
       "followUp": [
-        "Skulle du pröva ett sådant?",
-        "Tänker du att det här kan bli vanligt i framtiden?"
+        "Har du hört om några knep för att skydda sig online?",
+        "Tycker du att företag gör tillräckligt för att skydda oss?"
       ]
     },
     {
-      "id": "t-20260529-13",
+      "id": "t-20260530-7",
       "category": "teknik",
-      "text": "Micron har tydligen gjort den mest avancerade DRAM nånsin, men inte för vanliga användare. Snacka om snålt!",
+      "text": "Samsung Galaxy AI har lagt till nya skrivfunktioner. Det känns som att AI skriver bättre än en del av oss!",
       "followUp": [
-        "Följer du med i hur minnen utvecklas?",
-        "Vad tyckte du om de senaste uppgraderingarna på dina prylar?"
+        "Har du provat någon smart skrivfunktion?",
+        "Vilken typ av appar använder du mest för att skriva?"
       ]
     },
     {
-      "id": "t-20260529-14",
+      "id": "t-20260530-8",
       "category": "teknik",
-      "text": "Det är lite dystert med tech-layoffs, över 100 000 jobb har försvunnit. Känns som en ny verklighet.",
+      "text": "SpaceX:s Fram2-uppdrag var första gången de flög en bemannad polär bana. Rymden känns ju som det verkliga äventyret!",
       "followUp": [
-        "Har du sett någon påverkan i ditt eget jobb?",
-        "Tror du att det kommer bli bättre snart?"
+        "Skulle du våga åka på ett sådant uppdrag?",
+        "Vad är det galnaste äventyret du drömt om?"
       ]
     },
     {
-      "id": "t-20260529-15",
+      "id": "t-20260530-9",
       "category": "teknik",
-      "text": "Linus Torvalds klagar på AI-genererade buggrapporter, som verkligen kan vara en riktig huvudvärk för utvecklarna!",
+      "text": "Volvo lanserade sin första helt elektriska crossover, EC40. Låter som en dröm för alla elbilsfantaster!",
       "followUp": [
-        "Var står du i AI-debatten?",
-        "Tycker du att AI gör mer skada än nytta?"
+        "Är du sugen på att byta till elbil?",
+        "Vad tycker du om elbilar som koncept?"
       ]
     },
     {
