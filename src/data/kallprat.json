@@ -168,219 +168,201 @@
       ]
     },
     {
-      "id": "s-20260530-1",
+      "id": "s-20260531-1",
       "category": "sport",
-      "text": "Såg du matchen mellan Sverige och Schweiz? Snacka om besvikelse att Tre Kronor åkte ut i kvartsfinalen!",
+      "text": "Såg du att Sverige går vidare till kvartsfinal i Hockey-VM mot Slovakien? Det blir spännande!",
       "followUp": [
-        "Tror du att de behövs en rejäl uppryckning inför nästa VM?",
-        "Vilken spelare skulle du säga var bäst under turneringen?"
+        "Hur tror du det slutar?",
+        "Vilka spelare håller du extra koll på?"
       ]
     },
     {
-      "id": "s-20260530-2",
+      "id": "s-20260531-2",
       "category": "sport",
-      "text": "Hur sjukt är det inte att Norge har tagit sig till sin första VM-semifinal? Det känns som att de verkligen överträffar alla förväntningar!",
+      "text": "Champions League-finalen mellan PSG och Arsenal kommer bli galen! Det är ju två helt olika stilar.",
       "followUp": [
-        "Tror du att de kan gå hela vägen och vinna?",
-        "Har du sett någon av deras matcherna?"
+        "Har du en favorit bland lagen?",
+        "Tror du på straffar eller blir det en klar seger?"
       ]
     },
     {
-      "id": "s-20260530-3",
+      "id": "s-20260531-3",
       "category": "sport",
-      "text": "Hörde du att Claude Lemieux har gått bort? Skulle inte tro att han var så gammal, 60 år liksom.",
+      "text": "Kollade du förra årets Elitloppet? Jag hörde att det är ännu mer hype inför den här helgen!",
       "followUp": [
-        "Kommer du ihåg någon av hans galna matcher från NHL?",
-        "Vilken är din favorit-NHL-spelare genom tiderna?"
+        "Vilken häst hejar du på?",
+        "Skulle du våga testa att köra själv?"
       ]
     },
     {
-      "id": "s-20260530-4",
+      "id": "s-20260531-4",
       "category": "sport",
-      "text": "Oj, Girona åkte ur La Liga efter den där Champions League-säsongen. Snacka om en berg-och-dalbana!",
-      "followUp": [
-        "Tror du att de kommer studsa tillbaka nästa säsong?",
-        "Vilken La Liga-match såg du som du tyckte var bäst?"
-      ]
-    },
-    {
-      "id": "s-20260530-5",
-      "category": "sport",
-      "text": "Victor Lindelöf delade ut gåvor till sina landslagskamrater innan VM. Så himla schysst av honom!",
-      "followUp": [
-        "Skulle du vilja ha en sån landslagstema-gåva?",
-        "Vad skulle du ge till dina kompisar för att peppa dem?"
-      ]
-    },
-    {
-      "id": "s-20260530-6",
-      "category": "sport",
-      "text": "Va, hörde du att Alexander Isak är tillbaka på träning? Det känns som han är glad att vara tillbaka!",
-      "followUp": [
-        "Tror du han kommer vara i form till VM?",
-        "Vilket svenskt spelmål minns du bäst från honom?"
-      ]
-    },
-    {
-      "id": "s-20260530-7",
-      "category": "sport",
-      "text": "Så sjukt att Henriette Jaeger missade guldet för att hon trampade innanför sargen. Vad kan man säga, snopet!",
-      "followUp": [
-        "Har du varit med om något liknande, typ något missat mål?",
-        "Vilket moment i friidrott är du mest imponerad av?"
-      ]
-    },
-    {
-      "id": "s-20260530-8",
-      "category": "sport",
-      "text": "Filip Björk går till AIK efter fyra SM-guld. Måste vara en bra känsla för honom!",
-      "followUp": [
-        "Tror du han kan leverera lika bra i AIK?",
-        "Vilket lag hejar du på i innebandy?"
-      ]
-    },
-    {
-      "id": "s-20260530-9",
-      "category": "sport",
-      "text": "André Göransson är typ ensam svensk i Paris just nu. Känns som en film, ha!",
-      "followUp": [
-        "Skulle du vilja hänga där ensam eller är det en skräckfilm?",
-        "Hur går det med din egen tennis?"
-      ]
-    },
-    {
-      "id": "s-20260530-10",
-      "category": "sport",
-      "text": "Elitloppet närmar sig och det är ju travets stora helg! Ser verkligen fram emot att följa det!",
-      "followUp": [
-        "Har du varit på Elitloppet förut?",
-        "Vilken häst har du ögonen på?"
-      ]
-    },
-    {
-      "id": "s-20260530-11",
-      "category": "sport",
-      "text": "Stockholm Marathon är ju sjukt nära nu! Har du någon plan på att delta?",
+      "text": "Stockholm Marathon är snart här! Jag funderar på att kolla på det live, för stämningen är ju alltid på topp.",
       "followUp": [
         "Har du någonsin sprungit ett marathon?",
-        "Vilket lopp är egentligen din dröm att springa?"
+        "Vilket lopp är din favorit?"
       ]
     },
     {
-      "id": "s-20260530-12",
+      "id": "s-20260531-5",
       "category": "sport",
-      "text": "Så är det dags för Hockey-VM-finalen i Zürich snart! Kommer bli spännande!",
+      "text": "MotoGP i Italien är på gång! Mugello-banan ser ju alltid så spektakulär ut.",
       "followUp": [
-        "Tror du att Sverige kan ta hem guldet den här gången?",
-        "Vilket lag hejar du på?"
+        "Har du varit där nån gång?",
+        "Vem tror du kommer att dominera loppet?"
       ]
     },
     {
-      "id": "s-20260530-13",
+      "id": "s-20260531-6",
       "category": "sport",
-      "text": "Champions League-finalen mellan PSG och Arsenal ser ruggigt intressant ut! Vilket lag hejar du på?",
+      "text": "Hörde du att Fred Kerley ska delta i de där 'Enhanced Games'? Det känns ju som en riktig snackis.",
       "followUp": [
-        "Har du sett de där matcherna tidigare i turneringen?",
-        "Vilken spelare från PSG skulle du helst ha i ditt favoritlag?"
+        "Skulle du våga delta i något sånt?",
+        "Vad tror du om konceptet?"
       ]
     },
     {
-      "id": "s-20260530-14",
+      "id": "s-20260531-7",
       "category": "sport",
-      "text": "MotoGP är snart i Italien! Mugello är ju en grym bana. Har du koll på det?",
+      "text": "Viktor Gyökeres firade Arsenals titel med en viral bild! Snacka om att skapa minnen.",
       "followUp": [
-        "Vilka förare håller du på?",
-        "Har du kört motorcykel själv någon gång?"
+        "Har du sett bilden?",
+        "Vilken fotbollsfest minns du bäst?"
       ]
     },
     {
-      "id": "s-20260530-15",
+      "id": "s-20260531-8",
       "category": "sport",
-      "text": "IndyCar drar nästa helg i Detroit. Riktigt kul med Felix Rosenqvists seger nyligen!",
+      "text": "Det snackas om flytt av Mjällby-Djurgården-matchen! Rätt beslut eller bara strul?",
       "followUp": [
-        "Följer du IndyCar eller är det mer F1 som gäller för dig?",
-        "Vilken är din favoritbana att se racing på?"
+        "Vad tycker du om matchflytt i allmänhet?",
+        "Vilken match vill du se i sommar?"
       ]
     },
     {
-      "id": "t-20260530-1",
-      "category": "teknik",
-      "text": "Såg du att det kommit en ny AI-app för kostrådgivning som heter PlateAI? Den lovar att ge realtidscoachning!",
+      "id": "s-20260531-9",
+      "category": "sport",
+      "text": "Oliver Ekman Larsson är tillbaka för Hockey-VM! Han är ju en riktig klippa.",
       "followUp": [
-        "Har du testat någon kostapp tidigare?",
-        "Tror du att AI kan funka som en dietist?"
+        "Har du något favoritminne av honom tidigare?",
+        "Tror du han kan göra skillnad i laget?"
       ]
     },
     {
-      "id": "t-20260530-2",
-      "category": "teknik",
-      "text": "Samsung släppte One UI 7 med massa coola uppdateringar. Tycker du att din mobil behöver fler AI-grejer?",
+      "id": "s-20260531-10",
+      "category": "sport",
+      "text": "Superettan drar igång igen! Värnamo–United Nordic låter ju intressant.",
       "followUp": [
-        "Vilken funktion skulle du verkligen vilja ha?",
-        "Använder du några smarta funktioner på din mobil just nu?"
+        "Vilka lag hejar du på?",
+        "Har du koll på några spelare?"
       ]
     },
     {
-      "id": "t-20260530-3",
-      "category": "teknik",
-      "text": "Elden Ring Nightreign har tagit gamingvärlden med storm, över 300 000 spelare online samtidigt! Hur sjukt är inte det?",
+      "id": "s-20260531-11",
+      "category": "sport",
+      "text": "Sverige har tuffa matcher i Hockey-VM! Kanada är alltid en utmaning.",
       "followUp": [
-        "Har du kört Nightreign än?",
-        "Vad är ditt favoritactionspel just nu?"
+        "Ser du fram emot matcherna?",
+        "Vilken match är du mest spänd på?"
       ]
     },
     {
-      "id": "t-20260530-4",
-      "category": "teknik",
-      "text": "SpaceX gjorde sin 32:a lastuppdrag till ISS. Vi är ju så nära rymden nu, eller?",
+      "id": "s-20260531-12",
+      "category": "sport",
+      "text": "Hörde du att TV4 sätter in stora resurser på Elitloppet? Det kommer bli grymt att följa!",
       "followUp": [
-        "Skulle du kunna tänka dig att åka upp dit?",
-        "Vad skulle du ta med dig till rymden?"
+        "Kommer du att kolla på sändningarna?",
+        "Vilken expert är din favorit?"
       ]
     },
     {
-      "id": "t-20260530-5",
-      "category": "teknik",
-      "text": "Cygnus XL-lastfarkost har just levererat över 11 000 pund forskning till ISS. Det låter ju som en sci-fi-film!",
+      "id": "s-20260531-13",
+      "category": "sport",
+      "text": "Den 24 maj är det fullt med fotboll på tv! Det känns som julafton för fotbollsälskare.",
       "followUp": [
-        "Tror du rymdstationerna är där vi kommer bo i framtiden?",
-        "Vad skulle du vilja forska på om du var i rymden?"
+        "Planerar du att sitta bänkad hela dagen?",
+        "Vilken match ser du mest fram emot?"
       ]
     },
     {
-      "id": "t-20260530-6",
-      "category": "teknik",
-      "text": "Det snackas om att många svenska företag är helt oförberedda på kommande cybersäkerhetsregler. Låter ju som en katastrof!",
+      "id": "s-20260531-14",
+      "category": "sport",
+      "text": "Oj, Girona åker ur La Liga efter sin Champions League-historia! Det var oväntat.",
       "followUp": [
-        "Har du hört om några knep för att skydda sig online?",
-        "Tycker du att företag gör tillräckligt för att skydda oss?"
+        "Tror du de kan ta sig tillbaka snabbt?",
+        "Vilket lag skulle du vilja se i La Liga nästa år?"
       ]
     },
     {
-      "id": "t-20260530-7",
-      "category": "teknik",
-      "text": "Samsung Galaxy AI har lagt till nya skrivfunktioner. Det känns som att AI skriver bättre än en del av oss!",
+      "id": "s-20260531-15",
+      "category": "sport",
+      "text": "Tre Kronor förlorade mot Norge i Hockey-VM! Snacka om kalldusch för fansen.",
       "followUp": [
-        "Har du provat någon smart skrivfunktion?",
-        "Vilken typ av appar använder du mest för att skriva?"
+        "Har du sett hur norska medier har reagerat?",
+        "Tror du Sverige kan hämta sig efter denna?"
       ]
     },
     {
-      "id": "t-20260530-8",
+      "id": "t-20260531-1",
       "category": "teknik",
-      "text": "SpaceX:s Fram2-uppdrag var första gången de flög en bemannad polär bana. Rymden känns ju som det verkliga äventyret!",
+      "text": "Har du sett att Apple lanserar sin AI på svenska? Det verkar som att Siri får lite extra hjärna nu.",
       "followUp": [
-        "Skulle du våga åka på ett sådant uppdrag?",
-        "Vad är det galnaste äventyret du drömt om?"
+        "Har du provat några av funktionerna än?",
+        "Skulle du använda smarta skrivverktyg?"
       ]
     },
     {
-      "id": "t-20260530-9",
+      "id": "t-20260531-2",
       "category": "teknik",
-      "text": "Volvo lanserade sin första helt elektriska crossover, EC40. Låter som en dröm för alla elbilsfantaster!",
+      "text": "Samsung droppar One UI 7 och deras Galaxy AI är riktigt spännande. Det känns som att varje telefon borde ha lite AI-magi.",
       "followUp": [
-        "Är du sugen på att byta till elbil?",
-        "Vad tycker du om elbilar som koncept?"
+        "Vilken funktion ser du mest fram emot?",
+        "Kollade du presentationen eller missade du den?"
+      ]
+    },
+    {
+      "id": "t-20260531-3",
+      "category": "teknik",
+      "text": "Xiaomi fortsätter att bygga ut sitt smarta hem-ekosystem. De släpper massor av bärbara prylar och de låter grymt!",
+      "followUp": [
+        "Har du några Xiaomi-grejer hemma?",
+        "Vad är din drömpryl i hemmet just nu?"
+      ]
+    },
+    {
+      "id": "t-20260531-4",
+      "category": "teknik",
+      "text": "IKEA släpper nya smarta hem-produkter som funkar med Matter. Snacka om att hålla sig relevant!",
+      "followUp": [
+        "Tror du att du skulle investera i smarta lampor eller annat kul?",
+        "Har du någon IKEA-pryl som är extra smart?"
+      ]
+    },
+    {
+      "id": "t-20260531-5",
+      "category": "teknik",
+      "text": "Har du sett Hyundai IONIQ 5? Den ser verkligen futuristisk ut och har så mycket schysst teknik!",
+      "followUp": [
+        "Skulle du köra elbil om du fick möjlighet?",
+        "Vad tycker du om elbilar som en helhet?"
+      ]
+    },
+    {
+      "id": "t-20260531-6",
+      "category": "teknik",
+      "text": "Kia lanserar EV3, en kompakt el-SUV med imponerande räckvidd. Känns som ett riktigt bra alternativ för den som vill ha något nytt.",
+      "followUp": [
+        "Skulle du föredra en liten SUV eller något stort?",
+        "Vilken bildröm har du?"
+      ]
+    },
+    {
+      "id": "t-20260531-7",
+      "category": "teknik",
+      "text": "Teslas självkörande mjukvara kommer testas på svenska vägar nu! Det känns som science fiction!",
+      "followUp": [
+        "Tror du att du skulle våga lita på en bil som kör själv?",
+        "Vad skulle du göra om du kunde släppa ratten?"
       ]
     },
     {
