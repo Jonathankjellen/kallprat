@@ -33,66 +33,93 @@
   ],
   "kallprat": [
     {
-      "id": "n-20260531-1",
+      "id": "n-20260601-1",
       "category": "nyheter",
-      "text": "Morgan Jay är på väg till Sverige med sin 'La dolce vita tour'! Hur häftigt är inte det?",
+      "text": "Såg du att Loreen vann Eurovision 2026 med sin låt 'Tattoo'? Hela internet exploderade ju!",
       "followUp": [
-        "Har du sett honom uppträda tidigare?",
-        "Skulle du vilja gå på hans show?"
+        "Har du hört låten?",
+        "Tror du att hon kan vinna igen nästa år?"
       ]
     },
     {
-      "id": "n-20260531-2",
+      "id": "n-20260601-2",
       "category": "nyheter",
-      "text": "Tjejtveka är tydligen det nya, och folk bara snackar om det! Vad är grejen?",
+      "text": "Kollade du på TikTok där folk visar upp sina bästa graphic tees? Det känns som att vintage är hetare än någonsin!",
       "followUp": [
-        "Känner du någon som tjejtvekar?",
-        "Har du smyglästa några memes om det?"
+        "Har du någon gammal tee som du älskar?",
+        "Vilken graphic tee skulle du vilja ha?"
       ]
     },
     {
-      "id": "n-20260531-3",
+      "id": "n-20260601-3",
       "category": "nyheter",
-      "text": "Bioarctic har tydligen kammat hem Affärsbragden för sin medicinska forskning! Häftigt, eller?",
+      "text": "Jag snubblade över den här 'underconsumption core'-trenden på TikTok. Det handlar om att vi ska köpa mindre, typ hållbarhetsteorin men med stil. Hur sjukt är det?",
       "followUp": [
-        "Har du hört talas om deras forskning tidigare?",
-        "Tycker du att sådana företag är framtiden?"
+        "Skulle du kunna leva mer minimalistiskt?",
+        "Har du redan testat något av det?"
       ]
     },
     {
-      "id": "n-20260531-4",
+      "id": "n-20260601-4",
       "category": "nyheter",
-      "text": "Sverigedemokraterna dominerar på sociala medier just nu. Det känns som en liten chock, va?",
+      "text": "Hörde du att TikToks korta serier och minishower bara växer? Det känns som att det är framtiden för hur vi konsumerar innehåll!",
       "followUp": [
-        "Vad tror du om politikernas närvaro online?",
-        "Kollade du deras senaste inlägg?"
+        "Vilken mini-show har du fastnat för?",
+        "Tror du att det slår ut Netflix eller?"
       ]
     },
     {
-      "id": "n-20260531-5",
+      "id": "n-20260601-5",
       "category": "nyheter",
-      "text": "Killgissarna får ny motstånd i form av tjejtveka! Hur kul är det inte?",
+      "text": "Trenden 'girl dinners' på TikTok är ju hysterisk! Det handlar om att bara slänga ihop något snabbt och enkelt av snacks.",
       "followUp": [
-        "Känner du igen dig i tjejtveka?",
-        "Tror du killar märker av det?"
+        "Vad skulle ingå i din perfekta girl dinner?",
+        "Vågar du laga något galet som nigella?"
       ]
     },
     {
-      "id": "n-20260531-6",
+      "id": "n-20260601-6",
       "category": "nyheter",
-      "text": "Polisen spoilade festen och beslagtog grejer för 1,7 miljoner från en influencer. Snacka om drama!",
+      "text": "Kollade du på den här 'Hamptons aesthetic'-trenden? Man vill typ bara flytta dit och leva livet i solen med snygga kläder.",
       "followUp": [
-        "Kollade du på TikTok när det här briserade?",
-        "Vad skulle du göra i den situationen?"
+        "Skulle du vilja besöka Hamptons nån gång?",
+        "Vad är ditt drömresmål just nu?"
       ]
     },
     {
-      "id": "n-20260531-7",
+      "id": "n-20260601-7",
       "category": "nyheter",
-      "text": "En ny undersökning visar att sociala medier är vår huvudkälla till nyheter! Hänger du med?",
+      "text": "#ClimbingTikTok har verkligen tagit fart! Folk delar sina klätteräventyr och tips. Lite friluftsliv är ju aldrig fel.",
       "followUp": [
-        "Vart brukar du kika för nyheter?",
-        "Har du en favvo-plattform?"
+        "Har du testat klättra nån gång?",
+        "Vilken är ditt bästa tips för att komma igång?"
+      ]
+    },
+    {
+      "id": "n-20260601-8",
+      "category": "nyheter",
+      "text": "Det är sjukt hur mycket bra tips för personlig ekonomi som dyker upp på TikTok nu för tiden! Man behöver ju inte alltid en ekonom till hjälp.",
+      "followUp": [
+        "Har du plockat upp något bra tips där?",
+        "Skulle du våga investera i kryptovaluta?"
+      ]
+    },
+    {
+      "id": "n-20260601-9",
+      "category": "nyheter",
+      "text": "Kollade du in TikTok för vintermode? Det är galet vad folk kommer på för outfits när det är kallt!",
+      "followUp": [
+        "Har du någon favvo-vinterjacka?",
+        "Vilket plagg skulle du aldrig kunna vara utan?"
+      ]
+    },
+    {
+      "id": "n-20260601-10",
+      "category": "nyheter",
+      "text": "#Vlogmas2025-trenden är ju rolig! Folk lägger ut sina jultraditioner och festliga aktiviteter. Man får ju så mycket inspiration!",
+      "followUp": [
+        "Har du några egna jultraditioner?",
+        "Vad är det mest udda du sett hittills?"
       ]
     },
     {
@@ -231,138 +258,57 @@
       ]
     },
     {
-      "id": "t-20260531-1",
+      "id": "t-20260601-1",
       "category": "teknik",
-      "text": "Såg du att Humane har släppt den här AI-pinnen som projicerar gränssnitt på handen? Sjukt coolt!",
+      "text": "Såg du att Humane har släppt sin AI Pin? Den verkar kunna göra allt utan en skärm, hur coolt är inte det?",
       "followUp": [
-        "Skulle du vilja ha en sån?",
-        "Tror du att det är framtiden för gadgetar?"
+        "Tror du att folk kommer att använda den här typen av grejer?",
+        "Skulle du klara dig utan skärm?"
       ]
     },
     {
-      "id": "t-20260531-2",
+      "id": "t-20260601-2",
       "category": "teknik",
-      "text": "Hörde du om Rewind.ai:s nya halsband som spelar in allt du säger? Snacka om att ha en personlig assistent alltid med sig!",
+      "text": "Hörde du om de nya Ray-Ban smartglasögonen från Meta? Man kan livestreama direkt till sociala medier!",
       "followUp": [
-        "Har du testat något liknande?",
-        "Tror du att folk skulle använda det?"
+        "Skulle du våga livestreama ditt liv så där?",
+        "Tror du att de blir en hit eller floppar totalt?"
       ]
     },
     {
-      "id": "t-20260531-3",
+      "id": "t-20260601-3",
       "category": "teknik",
-      "text": "Kollade du på Meta's uppdaterade Ray-Ban Stories? Nu kan man snacka med en AI-chatbot direkt genom dem!",
+      "text": "Kollade du på nyheten om att Nvidia och MediaTek ska göra smarta infotainmentsystem för bilar? Det kan bli något grymt!",
       "followUp": [
-        "Tror du att folk kommer att använda dem mer nu?",
-        "Vad skulle du fråga en AI i dem?"
+        "Vad tror du om självkörande bilar nu för tiden?",
+        "Vilken teknik skulle du vilja se i framtidens bilar?"
       ]
     },
     {
-      "id": "t-20260531-4",
+      "id": "t-20260601-4",
       "category": "teknik",
-      "text": "Såg du att Tab har släppt en smart wearable som skapar en personlig kunskapsbas? Låter lite futuristiskt!",
+      "text": "Va, har du hört att Adobe kan göra 3D-modeller från bara en 2D-bild? Snacka om att spara tid för kreatörer!",
       "followUp": [
-        "Vad skulle du vilja att den lärde sig om dig?",
-        "Tror du att det är för mycket övervakning?"
+        "Skulle du använda det i ditt jobb?",
+        "Har du något roligt projekt du skulle vilja göra med det?"
       ]
     },
     {
-      "id": "t-20260531-5",
+      "id": "t-20260601-5",
       "category": "teknik",
-      "text": "Jag hörde att Jony Ive jobbar på en AI-hårdvara med SoftBank och OpenAI. Spännande kombination!",
+      "text": "OpenAI har startat en grej med 'Data Partnerships' för AI-träning, vilket kan förändra spelplanen. Ganska intressant!",
       "followUp": [
-        "Tror du att han kommer att skapa något revolutionerande?",
-        "Vad skulle du vilja se ur ett designperspektiv?"
+        "Tror du att det kommer att leda till bättre AI?",
+        "Vad hade du velat att AI skulle lära sig mer om?"
       ]
     },
     {
-      "id": "t-20260531-6",
+      "id": "t-20260601-6",
       "category": "teknik",
-      "text": "Samsung har lanserat en AI-ugn som rekommenderar rätter baserat på vad man har hemma. Snacka om smart matlagning!",
+      "text": "Så, Snap har nu integrerat ChatGPT i sina AR-linser! Det verkar som att vi bara blir mer interaktiva för varje dag.",
       "followUp": [
-        "Vilken rätt skulle du laga först?",
-        "Tror du det skulle funka för dig?"
-      ]
-    },
-    {
-      "id": "t-20260531-7",
-      "category": "teknik",
-      "text": "Kollade du på LG:s MoodUp-kylskåp med färgskiftande dörrpaneler? Mycket festligt!",
-      "followUp": [
-        "Skulle du vilja ha ett sånt hemma?",
-        "Vad skulle du ställa på det för stämning?"
-      ]
-    },
-    {
-      "id": "t-20260531-8",
-      "category": "teknik",
-      "text": "Har du sett Samsungs nya vikbara skärm? Den ser verkligen lovande ut för multitasking!",
-      "followUp": [
-        "Tror du det skulle vara användbart i vardagen?",
-        "Vad skulle du använda det till?"
-      ]
-    },
-    {
-      "id": "t-20260531-9",
-      "category": "teknik",
-      "text": "Asus har släppt den första vikbara 17-tums laptopen. Hur sjukt är inte det?",
-      "followUp": [
-        "Skulle du gå över till en vikbar laptop?",
-        "Vad skulle du tycka om att ha så mycket skärmutrymme?"
-      ]
-    },
-    {
-      "id": "t-20260531-10",
-      "category": "teknik",
-      "text": "Kollade du på Nowatchs nya klocka utan urtavla? Den verkar sjukt intressant för att hålla koll på hälsan!",
-      "followUp": [
-        "Tror du att man klarar sig utan en vanlig klocka?",
-        "Vad skulle du mest vilja mäta?"
-      ]
-    },
-    {
-      "id": "t-20260531-11",
-      "category": "teknik",
-      "text": "Honda och Sony har lanserat en elbil med AI som känner av förarens humör. Vad tycker du om det?",
-      "followUp": [
-        "Skulle du våga köpa en sådan?",
-        "Hur mycket skulle du lita på den teknologin?"
-      ]
-    },
-    {
-      "id": "t-20260531-12",
-      "category": "teknik",
-      "text": "Har du hört att Tesla:s Optimus-robot kan sortera objekt nu? Snacka om att gå framåt!",
-      "followUp": [
-        "Tror du att vi snart har robotar i hemmet?",
-        "Vad skulle du få din robot att göra?"
-      ]
-    },
-    {
-      "id": "t-20260531-13",
-      "category": "teknik",
-      "text": "Såg du Samsungs nya 4K-TV med vikbar skärm som de visade på IFA? Härligt med ny tech!",
-      "followUp": [
-        "Skulle du uppgradera din TV för en sån?",
-        "Vilket innehåll skulle du njuta mest av på den?"
-      ]
-    },
-    {
-      "id": "t-20260531-14",
-      "category": "teknik",
-      "text": "Kollade du på de nya robotdammsugarna från LG? De verkar vara grymma på att hålla hemmet rent!",
-      "followUp": [
-        "Har du en robotdammsugare redan?",
-        "Vad tycker du om att ha så mycket automation i hemmet?"
-      ]
-    },
-    {
-      "id": "t-20260531-15",
-      "category": "teknik",
-      "text": "Govee har släppt en AI Gaming Sync Box Kit som synkar ljus med spel! Det låter riktigt fett!",
-      "followUp": [
-        "Skulle du skaffa en sån för ditt gaming setup?",
-        "Tror du att det gör spelen mer uppslukande?"
+        "Har du testat AR-linser nån gång?",
+        "Vilken typ av filter skulle du vilja ha med AI?"
       ]
     },
     {
