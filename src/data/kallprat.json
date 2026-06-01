@@ -123,138 +123,138 @@
       ]
     },
     {
-      "id": "s-20260531-1",
+      "id": "s-20260601-1",
       "category": "sport",
-      "text": "Kollade du in finalen i hockey-VM? Schweiz mot Finland i Zürich, det kommer bli ball!",
+      "text": "Helsingborgs IF verkar ha ett riktigt nyhetspaket på gång med alla truppförändringar. Vad är din första reaktion?",
       "followUp": [
-        "Vilket lag hejar du på?",
-        "Tror du att det blir jämnt eller kommer det bli en utskåpning?"
+        "Tror du de nya spelarna kommer att göra skillnad?",
+        "Har du kollat in deras senast match?"
       ]
     },
     {
-      "id": "s-20260531-2",
+      "id": "s-20260601-2",
       "category": "sport",
-      "text": "Såg du Viktor Gyökeres när han firade med sin 'mask'-gesture efter Arsenals titel? Riktigt kul!",
+      "text": "Så, Tre Kronor har skaffat sig en ny tränare. Hur sjukt är det att de verkligen satsar så hårt?",
       "followUp": [
-        "Har du en favoritmålgest?",
-        "Skulle du också vilja fira så där med fansen?"
+        "Tror du han kan leda dem till framgångar?",
+        "Har du hört om hans tidigare meriter?"
       ]
     },
     {
-      "id": "s-20260531-3",
+      "id": "s-20260601-3",
       "category": "sport",
-      "text": "Malmö FF måste klara sig utan Taha Ali mot Halmstad, hur tänker du att det påverkar matchen?",
+      "text": "Sverige vann precis mot Danmark i handboll! Spännande match, var det inte?",
       "followUp": [
-        "Kollade du deras senaste match?",
-        "Vilken spelare saknar du mest i laget?"
+        "Vilket spelmoment tyckte du var bäst?",
+        "Har du följt deras senaste matcher?"
       ]
     },
     {
-      "id": "s-20260531-4",
+      "id": "s-20260601-4",
       "category": "sport",
-      "text": "Hörde du att Mjällby-Djurgården kan flyttas på grund av VM-spelare? Snacka om stress!",
+      "text": "Svenska tennisspelare slog tillbaka mot USA i en stor turnering! Förvånade eller bara som väntat?",
       "followUp": [
-        "Hur många matcher har du sett live i år?",
-        "Tror du det blir fler matcher som flyttas?"
+        "Vem är din favoritspelare just nu?",
+        "Kollade du på matcherna?"
       ]
     },
     {
-      "id": "s-20260531-5",
+      "id": "s-20260601-5",
       "category": "sport",
-      "text": "Superettan drar igång med omgång 10 snart! Är det någon match du ser fram emot?",
+      "text": "Ferrari tog hem segern i Monaco GP, snacka om dramatik! Hur gött är inte det?",
       "followUp": [
-        "Vilket lag hejar du på?",
-        "Skulle du vilja gå på en live-match snart?"
+        "Vad tyckte du om racet i helgen?",
+        "Har du någonsin varit på en formel 1-tävling?"
       ]
     },
     {
-      "id": "s-20260531-6",
+      "id": "s-20260601-6",
       "category": "sport",
-      "text": "Det är kvartsfinaler i hockey-VM snart, det börjar hetta till!",
+      "text": "Svenska lag gjorde grymma resultat i vintersport, flera medaljer! Riktigt imponerande!",
       "followUp": [
-        "Vilket lag tror du tar hem det?",
-        "Har du någon favoritspelare att hålla ögonen på?"
+        "Har du någon favoritgren?",
+        "Vad tror du om deras chanser i kommande mästerskap?"
       ]
     },
     {
-      "id": "s-20260531-7",
+      "id": "s-20260601-7",
       "category": "sport",
-      "text": "Elitloppet går av stapeln snart! Är du sugen på att kolla?",
+      "text": "Flera svenska lag har stått ut i e-sportturneringar nyligen! Känns som svenskarna dominerar?",
       "followUp": [
-        "Har du något minne från ett tidigare Elitlopp?",
-        "Tror du att det blir några överraskningar i finalen?"
+        "Vilket spel följer du?",
+        "Skulle du tänkt på att delta i en turnering?"
       ]
     },
     {
-      "id": "s-20260531-8",
+      "id": "s-20260601-8",
       "category": "sport",
-      "text": "Stockholm Marathon närmar sig, kommer du kolla? Det brukar vara en mäktig grej!",
+      "text": "Den där bandymatchen mellan Sverige och Ryssland med den udda spelformen var ju galen! Visste du att de körde så?",
       "followUp": [
-        "Har du sprungit ett marathon eller är det en dröm?",
-        "Vilket lopp skulle du vilja göra i framtiden?"
+        "Hur skulle du reagera om det var mer vanligt?",
+        "Tycker du såna matcher är roliga att titta på?"
       ]
     },
     {
-      "id": "s-20260531-9",
+      "id": "s-20260601-9",
       "category": "sport",
-      "text": "Champions League-finalen mellan PSG och Arsenal kommer bli galen, eller vad säger du?",
+      "text": "Flera svenska spelare har fixat kontrakt i MLB, snacka om att ta steget!",
       "followUp": [
-        "Vilket lag hejar du på?",
-        "Har du sett några matcher mellan dem tidigare?"
+        "Har du följt deras karriärer?",
+        "Tror du intresset för baseboll ökar här hemma?"
       ]
     },
     {
-      "id": "s-20260531-10",
+      "id": "s-20260601-10",
       "category": "sport",
-      "text": "Fred Kerley ska vara med i de där Enhanced Games! Helt sjukt, va?",
+      "text": "Det kommer en massa spännande sportevenemang här framöver, snacka om att ha något att se fram emot!",
       "followUp": [
-        "Vad tycker du om idrott där dopning är tillåten?",
-        "Skulle du vara intresserad av att se sådana tävlingar?"
+        "Vilket evenemang ser du mest fram emot?",
+        "Har du några planschema redan?"
       ]
     },
     {
-      "id": "s-20260531-11",
+      "id": "s-20260601-11",
       "category": "sport",
-      "text": "Sverige och Slovakien möts snart i hockey-VM, det ska man inte missa!",
+      "text": "Sverige vann mot Italien med 2-1, hur bra var inte det?",
       "followUp": [
-        "Har du en favoritmatch från tidigare VM?",
-        "Hur viktigt är VM för dig som hockeyfan?"
+        "Är du taggad inför framtida matcher?",
+        "Hurdå? Släppte spänningen i slutet där eller?"
       ]
     },
     {
-      "id": "s-20260531-12",
+      "id": "s-20260601-12",
       "category": "sport",
-      "text": "MotoGP kör Italiens Grand Prix snart! Det är alltid spännande att se hur det går!",
+      "text": "Tre Kronor laddar upp inför VM med vännsmatcher. Känns som de är på rätt spår, eller?",
       "followUp": [
-        "Har du något Minnen från tidigare MotoGP-tävlingar?",
-        "Vilket team hänger du på?"
+        "Tror du vi får se några nya stjärnor i laget?",
+        "Vad har du för förväntningar på dem?"
       ]
     },
     {
-      "id": "s-20260531-13",
+      "id": "s-20260601-13",
       "category": "sport",
-      "text": "Indy 500 är ju klassikern av alla tävlingar! Ska du kolla eller följa resultatet?",
+      "text": "Sverige slog Norge i handboll med 30-25, härligt! Vad tyckte du om matchen?",
       "followUp": [
-        "Har du sett Indy 500 live någon gång?",
-        "Vad är det bästa med motorsport enligt dig?"
+        "Var det något spel som imponerade extra mycket?",
+        "Följer du handboll ofta?"
       ]
     },
     {
-      "id": "s-20260531-14",
+      "id": "s-20260601-14",
       "category": "sport",
-      "text": "Diamond League i Rabat kommer snart med friidrott på hög nivå, är du taggad?",
+      "text": "Det går så bra för svenska golfspelare på PGA Touren nu, topp 10-placeringar är ju galet!",
       "followUp": [
-        "Har du någon favoritfriidrottare?",
-        "Har du provat någon friidrottsgren själv?"
+        "Har du någon golffavorit bland dem?",
+        "Tänker du att de kan ta hem en stor turnering snart?"
       ]
     },
     {
-      "id": "s-20260531-15",
+      "id": "s-20260601-15",
       "category": "sport",
-      "text": "Sverige förlorade mot Norge i hockey-VM. Snacka om dramatik!",
+      "text": "Mercedes körde hem segern i Bahrain GP med stil. Hur cool är inte det?",
       "followUp": [
-        "Hur såg du på matchen?",
-        "Tycker du det blev rättvist?"
+        "Har du några favoriter bland förarna?",
+        "Vad brukar du kolla på under racen?"
       ]
     },
     {
