@@ -168,165 +168,192 @@
       ]
     },
     {
-      "id": "s-20260602-1",
+      "id": "s-20260603-1",
       "category": "sport",
-      "text": "Såg du att Tre Kronor åkte ut mot Schweiz? Den matchen var ju en riktig nagelbitare.",
+      "text": "Serena Williams är tillbaka på tennisbanan! Hon ska spela i Queens nästa vecka, hur sjukt är inte det?",
       "followUp": [
-        "Vad tyckte du om insatsen?",
-        "Hade du sett vår semifinal som en möjlighet?"
+        "Har du sett några klipp på henne?",
+        "Skulle du följa med till en match om hon spelar i Sverige?"
       ]
     },
     {
-      "id": "s-20260602-2",
+      "id": "s-20260603-2",
       "category": "sport",
-      "text": "Hörde du att Norge för första gången nått semifinal i Hockey-VM? Snacka om en historisk grej!",
+      "text": "Carl Starfelt verkar vara på bättringsvägen, vilket är grymt för honom och för VM!",
       "followUp": [
-        "Tror du att de kan gå hela vägen?",
-        "Vilka lag hejar du på i VM?"
+        "Kollade du hur han spelade innan skadan?",
+        "Tror du att Sverige har en chans i VM med honom på planen?"
       ]
     },
     {
-      "id": "s-20260602-3",
+      "id": "s-20260603-3",
       "category": "sport",
-      "text": "Det gick ju inte direkt bra för vädret under Sveriges första träning inför VM på Bosön. Snacka om utmaning!",
+      "text": "Woho, Jannik Sinner åkte ut ur Franska mästerskapen i andra omgången, snacka om överraskning!",
       "followUp": [
-        "Skulle du kunna träna i det vädret?",
-        "Vilket lag tror du har bäst förberedelser?"
+        "Hade du honom som favorit i turneringen?",
+        "Vilken spelare tror du kan ta hem hela skiten nu?"
       ]
     },
     {
-      "id": "s-20260602-4",
+      "id": "s-20260603-4",
       "category": "sport",
-      "text": "Carl Starfelt verkar vara på väg tillbaka och ger positiva besked om sin ryggskada. Snacka om att vara på hugget!",
+      "text": "Manny Malhotra är nu huvudtränare för Vancouver Canucks, kan bli intressant att se hur laget utvecklas!",
       "followUp": [
-        "Tror du att han kommer vara fit for fight till VM?",
-        "Vilket lag ser du mest fram emot att följa?"
+        "Kollade du på NHL när han spelade?",
+        "Vad tycker du om deras chanser nästa säsong?"
       ]
     },
     {
-      "id": "s-20260602-5",
+      "id": "s-20260603-5",
       "category": "sport",
-      "text": "Oj, Jannik Sinner åkte ut tidigt ur Franska mästerskapen efter att ha känt sig yr. Helt oväntat!",
+      "text": "Mirra Andreeva nådde semifinal och la faktiskt till att Snoop Dogg inspirerat henne, hur coolt är inte det?",
       "followUp": [
-        "Vad är din favoritmatch hittills i turneringen?",
-        "Har du någon favoritspelare på tennisfronten?"
+        "Har du lyssnat på Snoop Dogg?",
+        "Vilken idrottare skulle du säga är din inspiration?"
       ]
     },
     {
-      "id": "s-20260602-6",
+      "id": "s-20260603-6",
       "category": "sport",
-      "text": "Det suger att Kaworu Mitoma missar VM på grund av sin skada. Vilken besvikelse för Japan!",
+      "text": "Tråkiga nyheter om Sir Kenny Dalglish som har fått cancerdiagnos, men det verkar som att behandlingen går bra.",
       "followUp": [
-        "Vilken spelare tror du kommer kliva fram som stjärna istället?",
-        "Tycker du skadorna påverkar lagens chanser mycket?"
-      ]
-    },
-    {
-      "id": "s-20260602-7",
-      "category": "sport",
-      "text": "Mattias Svanberg körde individuell träning inför VM, snacka om fokus!",
-      "followUp": [
-        "Skulle du satsa på individuell träning om du var i hans kläder?",
-        "Vad är din grej för att komma i form?"
-      ]
-    },
-    {
-      "id": "s-20260602-8",
-      "category": "sport",
-      "text": "Emil Holm har fokuserat på gymträning under samlingen, smart drag!",
-      "followUp": [
-        "Vad skulle du lyfta om du tränade med honom?",
-        "Vilken typ av träning gillar du bäst?"
-      ]
-    },
-    {
-      "id": "s-20260602-9",
-      "category": "sport",
-      "text": "Viktor Gyökeres laddar för Champions League-finalen och missade Sveriges träning. Snacka om att prioritera!",
-      "followUp": [
-        "Tror du han kan göra skillnad i finalen?",
-        "Vilken match i Champions League är din absoluta favorit?"
-      ]
-    },
-    {
-      "id": "s-20260602-10",
-      "category": "sport",
-      "text": "Bra att Alexander Isak är tillbaka i lagträning efter skadan. Kan bli spännande framöver!",
-      "followUp": [
-        "Tror du att hans comeback kan ge Sverige en skjuts?",
-        "Vilken spelare i landslaget hejar du mest på?"
+        "Kollade du på hans matcher när han spelade?",
+        "Tror du att han kommer göra comeback som tränare efter det här?"
       ]
     },
     {
       "id": "t-20260603-1",
       "category": "teknik",
-      "text": "Såg du att Tesla Model Y blivit Sveriges tredje mest sålda bil? Snacka om comeback!",
+      "text": "Kollade du in JustMet-appen? Den verkar helt sjukt med sina AI-chattar!",
       "followUp": [
-        "Hur galet tror du det blir med fler EV-folk på vägarna?",
-        "Skulle du köpa en självkörande bil om du fick chansen?"
+        "Har du testat att skapa en egen karaktär?",
+        "Vilken typ av rollspel tror du skulle funka bäst?"
       ]
     },
     {
       "id": "t-20260603-2",
       "category": "teknik",
-      "text": "IKEA har släppt en massa nya smarta hemprodukter nu. Typ 21 stycken!",
+      "text": "Hörde du om Omni AI? Det är typ en allt-i-ett-assistent nu för tiden.",
       "followUp": [
-        "Vilken typ av smart hem-pryl hade du mest velat ha?",
-        "Kollade du på deras lansering?"
+        "Vad skulle du helst använda den till, chatt eller bildgenerering?",
+        "Tror du den kan göra mitt kaffe också?"
       ]
     },
     {
       "id": "t-20260603-3",
       "category": "teknik",
-      "text": "Xiaomi har just släppt sin 17-serie, och de ser ju riktigt spännande ut. Har du sett dem?",
+      "text": "Såg du att Google har lanserat sitt AI-läge för sökningar på svenska?",
       "followUp": [
-        "Skulle du testa kamera-funktionen på 17 Ultra?",
-        "Är du mer för design eller funktionalitet när det kommer till mobiler?"
+        "Vilken galen fråga skulle du ställa först?",
+        "Tror du att det kommer bli mer användbart än den gamla sökningen?"
       ]
     },
     {
       "id": "t-20260603-4",
       "category": "teknik",
-      "text": "Samsung har släppt en uppdatering av One UI som gör att AI blir ännu mer integrerat. Lite imponerande, eller?",
+      "text": "Apple har äntligen släppt sin AI på svenska! Snacka om att de lyssnar på oss.",
       "followUp": [
-        "Kollade du på nyheterna om vad AI kommer kunna göra nu?",
-        "Har du testat den senaste uppdateringen än?"
+        "Vilken funktion ser du mest fram emot?",
+        "Skulle du använda det mer på din iPad eller iPhone?"
       ]
     },
     {
       "id": "t-20260603-5",
       "category": "teknik",
-      "text": "I Strängnäs får Tesla nu testa sina självkörande bilar. Det känns som science fiction, eller?",
+      "text": "Slack har fått nya AI-funktioner som kan sammanfatta oändliga meddelanden, fett va?",
       "followUp": [
-        "Tror du att det kommer funka bra?",
-        "Vilken plats skulle du helst vilja åka självkörande till?"
+        "Hur ofta skulle du använda en sån sammanfattning?",
+        "Tror du att folk kommer bli mindre distraherade?"
       ]
     },
     {
       "id": "t-20260603-6",
       "category": "teknik",
-      "text": "Hörde du om alla cyberattacker som kan innebära identitetsstöld? Ganska läskigt, va?",
+      "text": "Xiaomi Pad 7 har nya AI-gimmickar som underlättar kontorslivet. Hur schysst är inte det?",
       "followUp": [
-        "Har du sett något som är extra bra för att skydda sig?",
-        "Blir du orolig att det ska hända dig?"
+        "Vilken av de nya funktionerna är du mest nyfiken på?",
+        "Tror du att det är tillräckligt för att byta ut din nuvarande paddan?"
       ]
     },
     {
       "id": "t-20260603-7",
       "category": "teknik",
-      "text": "Samsung Galaxy har en ny AI Photo Assist som ska kunna redigera bilder som en proffsig fotograf. Hur fränt är inte det?",
+      "text": "Volvo EX60 ser grym ut och är helt elektrisk! Känns som framtiden är här.",
       "followUp": [
-        "Skulle du lita på AI att redigera dina bilder?",
-        "Vilken typ av bildredigering använder du mest?"
+        "Vad tycker du om designen?",
+        "Tror du att du skulle kunna köra en självkörande bil?"
       ]
     },
     {
       "id": "t-20260603-8",
       "category": "teknik",
-      "text": "Xiaomi 17-serien har förbättrade kamerafunktioner med Leica-optik. Det låter ju lovande för fototagare!",
+      "text": "Google har släppt Gemini Intelligence för Android, så spännande!",
       "followUp": [
-        "Vad är det mest avancerade fotot du tagit?",
-        "Känner du att kameran i mobilen räcker för dig?"
+        "Finns det någon funktion som du verkligen skulle vilja prova?",
+        "Tror du att det kommer göra din telefon smartare?"
+      ]
+    },
+    {
+      "id": "t-20260603-9",
+      "category": "teknik",
+      "text": "Google har fört in AI-funktioner i sina nya appar för Windows och Mac. Helt sjukt!",
+      "followUp": [
+        "Skulle du hoppa på det direkt?",
+        "Hur ofta använder du egentligen Google i din dator?"
+      ]
+    },
+    {
+      "id": "t-20260603-10",
+      "category": "teknik",
+      "text": "Hörde du om AIbott? Den verkar vara en svensk AI-chat som kan hjälpa till med allt!",
+      "followUp": [
+        "Har du provat att chitchatta med en AI tidigare?",
+        "Vad skulle du fråga den först?"
+      ]
+    },
+    {
+      "id": "t-20260603-11",
+      "category": "teknik",
+      "text": "Xiaomi har släppt sin 17-serie mobiler, och de ser ju riktigt lovande ut!",
+      "followUp": [
+        "Vilken modell skulle du satsa på?",
+        "Är du mer av en kameranörd eller spelare?"
+      ]
+    },
+    {
+      "id": "t-20260603-12",
+      "category": "teknik",
+      "text": "Ulefone Armor 28 med termisk 5G? Det låter verkligen som en tuff telefon!",
+      "followUp": [
+        "Skulle du våga ta med den ut i skogen?",
+        "Är det något du tror att du skulle använda i vardagen?"
+      ]
+    },
+    {
+      "id": "t-20260603-13",
+      "category": "teknik",
+      "text": "Xiaomi 17 Ultra kom med ett 200MP teleobjektiv. Snacka om kamerafetisch!",
+      "followUp": [
+        "Kollade du de exempelbilderna de visade?",
+        "Vilken typ av foto gillar du att ta mest?"
+      ]
+    },
+    {
+      "id": "t-20260603-14",
+      "category": "teknik",
+      "text": "Xiaomi 17 med Leica-lins? Vill verkligen se vad den kan åstadkomma!",
+      "followUp": [
+        "Skulle du använda en mobil för seriös fotografering?",
+        "Har du någonsin testat en Leica-kamera?"
+      ]
+    },
+    {
+      "id": "t-20260603-15",
+      "category": "teknik",
+      "text": "Xiaomi 15 Ultra med nästa generations Leica-system verkar lovande för foton!",
+      "followUp": [
+        "Tycker du det är värt extra för kameran?",
+        "Har du hört om några grymma testbilder ännu?"
       ]
     },
     {
