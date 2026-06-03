@@ -258,120 +258,75 @@
       ]
     },
     {
-      "id": "t-20260602-1",
+      "id": "t-20260603-1",
       "category": "teknik",
-      "text": "Såg du Microsofts nya Surface Laptop Ultra? Den har Nvidias RTX Spark-chip för AI, galet peppande!",
+      "text": "Såg du att Tesla Model Y blivit Sveriges tredje mest sålda bil? Snacka om comeback!",
       "followUp": [
-        "Har du testat något med AI-funktioner tidigare?",
-        "Vilken typ av dator föredrar du egentligen?"
+        "Hur galet tror du det blir med fler EV-folk på vägarna?",
+        "Skulle du köpa en självkörande bil om du fick chansen?"
       ]
     },
     {
-      "id": "t-20260602-2",
+      "id": "t-20260603-2",
       "category": "teknik",
-      "text": "Kollade du vad Nvidia släppte med sitt RTX Spark-chip? Det känns som framtiden för Windowsdatorer!",
+      "text": "IKEA har släppt en massa nya smarta hemprodukter nu. Typ 21 stycken!",
       "followUp": [
-        "Skulle du våga bygga en dator med det chipet?",
-        "Vad är ditt drömprojekt med PC-gaming?"
+        "Vilken typ av smart hem-pryl hade du mest velat ha?",
+        "Kollade du på deras lansering?"
       ]
     },
     {
-      "id": "t-20260602-3",
+      "id": "t-20260603-3",
       "category": "teknik",
-      "text": "Hörde du om Googles nya AI-agent, Gemini Spark? Den ska ha någon magisk förmåga att göra grejer åt en!",
+      "text": "Xiaomi har just släppt sin 17-serie, och de ser ju riktigt spännande ut. Har du sett dem?",
       "followUp": [
-        "Vad skulle du helst låta en AI-agent sköta åt dig?",
-        "Kollade du på presentationen?"
+        "Skulle du testa kamera-funktionen på 17 Ultra?",
+        "Är du mer för design eller funktionalitet när det kommer till mobiler?"
       ]
     },
     {
-      "id": "t-20260602-4",
+      "id": "t-20260603-4",
       "category": "teknik",
-      "text": "Va, har du sett att Google lanserade Gemini 3.5 Flash? Snabbare AI och smartare grejer, riktigt fett!",
+      "text": "Samsung har släppt en uppdatering av One UI som gör att AI blir ännu mer integrerat. Lite imponerande, eller?",
       "followUp": [
-        "Skulle du lita på att den fixar din kalender?",
-        "Vad tycker du om AI som händer i bakgrunden?"
+        "Kollade du på nyheterna om vad AI kommer kunna göra nu?",
+        "Har du testat den senaste uppdateringen än?"
       ]
     },
     {
-      "id": "t-20260602-5",
+      "id": "t-20260603-5",
       "category": "teknik",
-      "text": "Tuya Smart har uppgraderat sin AI-assistent Hey Tuya, knyter den till Google Mail och Docs. Smart drag!",
+      "text": "I Strängnäs får Tesla nu testa sina självkörande bilar. Det känns som science fiction, eller?",
       "followUp": [
-        "Har du några smarta hem-prylar?",
-        "Vad skulle du vilja koppla ihop med Hey Tuya?"
+        "Tror du att det kommer funka bra?",
+        "Vilken plats skulle du helst vilja åka självkörande till?"
       ]
     },
     {
-      "id": "t-20260602-6",
+      "id": "t-20260603-6",
       "category": "teknik",
-      "text": "Amazon har redan släppt datumen för Prime Day 2026! Den kommer bli ett shoppingkaos mellan 23-26 juni.",
+      "text": "Hörde du om alla cyberattacker som kan innebära identitetsstöld? Ganska läskigt, va?",
       "followUp": [
-        "Planerar du att slå till på något?",
-        "Har du köpt något sjukt bra under Prime Day tidigare?"
+        "Har du sett något som är extra bra för att skydda sig?",
+        "Blir du orolig att det ska hända dig?"
       ]
     },
     {
-      "id": "t-20260602-7",
+      "id": "t-20260603-7",
       "category": "teknik",
-      "text": "Google har implementerat Gemini Intelligence för Android, så mobilen blir mer smart om grejer. Helt galet!",
+      "text": "Samsung Galaxy har en ny AI Photo Assist som ska kunna redigera bilder som en proffsig fotograf. Hur fränt är inte det?",
       "followUp": [
-        "Vad saknar du mest i din nuvarande telefon?",
-        "Har du kikat på några AI-funktioner?"
+        "Skulle du lita på AI att redigera dina bilder?",
+        "Vilken typ av bildredigering använder du mest?"
       ]
     },
     {
-      "id": "t-20260602-8",
+      "id": "t-20260603-8",
       "category": "teknik",
-      "text": "Motorola har släppt Edge 70 Pro+ och den verkar ha grymma kamerafunktioner! Dags att uppgradera?",
+      "text": "Xiaomi 17-serien har förbättrade kamerafunktioner med Leica-optik. Det låter ju lovande för fototagare!",
       "followUp": [
-        "Vilken funktion är mest viktiga i din mobil?",
-        "Kollade du på tekniska recensioner av den?"
-      ]
-    },
-    {
-      "id": "t-20260602-9",
-      "category": "teknik",
-      "text": "Xiaomi har släppt 17T, med en Leica-tunad kamera. Känns som de verkligen går all in på foto!",
-      "followUp": [
-        "Är du en som tar mycket bilder med mobilen?",
-        "Har du testat något med Leica-kameror innan?"
-      ]
-    },
-    {
-      "id": "t-20260602-10",
-      "category": "teknik",
-      "text": "Hört att Huawei just lanserade Nova 16-serien i Kina. Vad tror du? Kanske bra grejer på väg hit?",
-      "followUp": [
-        "Vilken telefonmodell är din favorit just nu?",
-        "Tänker du kolla på den om den släpps här?"
-      ]
-    },
-    {
-      "id": "t-20260602-11",
-      "category": "teknik",
-      "text": "Motorola har visat sin nya Signature-smartphone och siktar verkligen på att imponera när det kommer till kamera och prestanda.",
-      "followUp": [
-        "Vad är den viktigaste funktionen när du väljer telefon?",
-        "Har du någon gång övervägt att byta märke helt?"
-      ]
-    },
-    {
-      "id": "t-20260602-12",
-      "category": "teknik",
-      "text": "Google har uppdaterat Gemini-appen med proaktiv hjälp. Blir det lättare att utnyttja AI?",
-      "followUp": [
-        "Vad önskar du att AI ska hjälpa dig mest med?",
-        "Har du haft någon riktig wow-upplevelse med en app nyligen?"
-      ]
-    },
-    {
-      "id": "t-20260602-13",
-      "category": "teknik",
-      "text": "Kollade du på Googles nya AI-läge för sök? Det som använder Gemini 3.5 Flash, känns som en game changer!",
-      "followUp": [
-        "Är du en som använder Google för allt?",
-        "Vad tycker du om AI-integreringar i sök?"
+        "Vad är det mest avancerade fotot du tagit?",
+        "Känner du att kameran i mobilen räcker för dig?"
       ]
     },
     {
