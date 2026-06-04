@@ -168,192 +168,174 @@
       ]
     },
     {
-      "id": "s-20260603-1",
+      "id": "s-20260604-1",
       "category": "sport",
-      "text": "Serena Williams är tillbaka på tennisbanan! Hon ska spela i Queens nästa vecka, hur sjukt är inte det?",
+      "text": "Sverige tog hem bronset i VM, men det där nederlaget mot Schweiz var ju brutalt jobbigt att se.",
       "followUp": [
-        "Har du sett några klipp på henne?",
-        "Skulle du följa med till en match om hon spelar i Sverige?"
+        "Kollade du på matchen?",
+        "Vilket lag hejade du på?"
       ]
     },
     {
-      "id": "s-20260603-2",
+      "id": "s-20260604-2",
       "category": "sport",
-      "text": "Carl Starfelt verkar vara på bättringsvägen, vilket är grymt för honom och för VM!",
+      "text": "Felix Rosenqvist vann Indy 500! Snacka om att skriva racinghistoria.",
       "followUp": [
-        "Kollade du hur han spelade innan skadan?",
-        "Tror du att Sverige har en chans i VM med honom på planen?"
+        "Har du testat att köra gokart?",
+        "Vad tycker du om motorsport?"
       ]
     },
     {
-      "id": "s-20260603-3",
+      "id": "s-20260604-3",
       "category": "sport",
-      "text": "Woho, Jannik Sinner åkte ut ur Franska mästerskapen i andra omgången, snacka om överraskning!",
+      "text": "Oskar Sundqvist utgick på bår efter den där tacklingarna. Det såg verkligen inte bra ut.",
       "followUp": [
-        "Hade du honom som favorit i turneringen?",
-        "Vilken spelare tror du kan ta hem hela skiten nu?"
+        "Har du sett klippet?",
+        "Tror du han kommer tillbaka till nästa säsong?"
       ]
     },
     {
-      "id": "s-20260603-4",
+      "id": "s-20260604-4",
       "category": "sport",
-      "text": "Manny Malhotra är nu huvudtränare för Vancouver Canucks, kan bli intressant att se hur laget utvecklas!",
+      "text": "Jannik Sinner åkte ut tidigt i Franska mästerskapen. Helt otippat, va?",
       "followUp": [
-        "Kollade du på NHL när han spelade?",
-        "Vad tycker du om deras chanser nästa säsong?"
+        "Kollade du hans matcher innan?",
+        "Vilken spelare hejar du mest på nu?"
       ]
     },
     {
-      "id": "s-20260603-5",
+      "id": "s-20260604-5",
       "category": "sport",
-      "text": "Mirra Andreeva nådde semifinal och la faktiskt till att Snoop Dogg inspirerat henne, hur coolt är inte det?",
+      "text": "Lionel Messi skadad inför VM, snacka om att det kan påverka Argentinas chanser.",
       "followUp": [
-        "Har du lyssnat på Snoop Dogg?",
-        "Vilken idrottare skulle du säga är din inspiration?"
+        "Tror du han kommer vara redo i tid?",
+        "Vilket lag hade du trott skulle vinna utan honom?"
       ]
     },
     {
-      "id": "s-20260603-6",
-      "category": "sport",
-      "text": "Tråkiga nyheter om Sir Kenny Dalglish som har fått cancerdiagnos, men det verkar som att behandlingen går bra.",
-      "followUp": [
-        "Kollade du på hans matcher när han spelade?",
-        "Tror du att han kommer göra comeback som tränare efter det här?"
-      ]
-    },
-    {
-      "id": "t-20260603-1",
+      "id": "t-20260604-1",
       "category": "teknik",
-      "text": "Kollade du in JustMet-appen? Den verkar helt sjukt med sina AI-chattar!",
+      "text": "Kollade du på den nya grejen Ai Pin från Humane? Den verkar galen med hur den projicerar bilder på handen!",
       "followUp": [
-        "Har du testat att skapa en egen karaktär?",
-        "Vilken typ av rollspel tror du skulle funka bäst?"
+        "Skulle du använda något sånt?",
+        "Tycker du att det låter praktiskt eller bara flummigt?"
       ]
     },
     {
-      "id": "t-20260603-2",
+      "id": "t-20260604-2",
       "category": "teknik",
-      "text": "Hörde du om Omni AI? Det är typ en allt-i-ett-assistent nu för tiden.",
+      "text": "Så Meta har släppt nya Ray-Ban-smartglasögon – livestreaming direkt till Insta, hur sjukt är inte det?",
       "followUp": [
-        "Vad skulle du helst använda den till, chatt eller bildgenerering?",
-        "Tror du den kan göra mitt kaffe också?"
+        "Skulle du våga ha dem på dig offentligt?",
+        "Tror du att vi kommer se fler som går runt med dem?"
       ]
     },
     {
-      "id": "t-20260603-3",
+      "id": "t-20260604-3",
       "category": "teknik",
-      "text": "Såg du att Google har lanserat sitt AI-läge för sökningar på svenska?",
+      "text": "Pixel 8 Pro med den där 'Best Take'-funktionen låter ju sjukt bra! Ingen mer dålig selfie med kompisarna.",
       "followUp": [
-        "Vilken galen fråga skulle du ställa först?",
-        "Tror du att det kommer bli mer användbart än den gamla sökningen?"
+        "Har du haft något av de tidigare modellerna?",
+        "Finns det någon kamera-app som du gillar mer?"
       ]
     },
     {
-      "id": "t-20260603-4",
+      "id": "t-20260604-4",
       "category": "teknik",
-      "text": "Apple har äntligen släppt sin AI på svenska! Snacka om att de lyssnar på oss.",
+      "text": "Meta Quest 3 är ute nu, och jag hörde att den har Xbox Cloud Gaming! Bästa gamingkombon någonsin?",
       "followUp": [
-        "Vilken funktion ser du mest fram emot?",
-        "Skulle du använda det mer på din iPad eller iPhone?"
+        "Har du testat VR-spel innan?",
+        "Vilket spel skulle du köra först på den?"
       ]
     },
     {
-      "id": "t-20260603-5",
+      "id": "t-20260604-5",
       "category": "teknik",
-      "text": "Slack har fått nya AI-funktioner som kan sammanfatta oändliga meddelanden, fett va?",
+      "text": "Leaked benchmarks gör ju att man nästan vill ha Galaxy S24 nu! Snacka om kraftpaket med Snapdragon 8 Gen 3.",
       "followUp": [
-        "Hur ofta skulle du använda en sån sammanfattning?",
-        "Tror du att folk kommer bli mindre distraherade?"
+        "Vad är viktigast för dig i en smartphone?",
+        "Är du en av de som alltid måste ha det senaste?"
       ]
     },
     {
-      "id": "t-20260603-6",
+      "id": "t-20260604-6",
       "category": "teknik",
-      "text": "Xiaomi Pad 7 har nya AI-gimmickar som underlättar kontorslivet. Hur schysst är inte det?",
+      "text": "Logitech släpper en hopfällbar racingcockpit! Känns som en dröm för alla simracing-nördar.",
       "followUp": [
-        "Vilken av de nya funktionerna är du mest nyfiken på?",
-        "Tror du att det är tillräckligt för att byta ut din nuvarande paddan?"
+        "Tycker du racing-spel är kul?",
+        "Har du någon favorit bilspelsserie?"
       ]
     },
     {
-      "id": "t-20260603-7",
+      "id": "t-20260604-7",
       "category": "teknik",
-      "text": "Volvo EX60 ser grym ut och är helt elektrisk! Känns som framtiden är här.",
+      "text": "Meta ska släppa anpassade AI-chatbots – kan tänka mig att Snoop Dogg chatta med folk, haha!",
       "followUp": [
-        "Vad tycker du om designen?",
-        "Tror du att du skulle kunna köra en självkörande bil?"
+        "Tror du att vi kommer börja chatta mer med botar än människor?",
+        "Har du prövat några chatbots innan?"
       ]
     },
     {
-      "id": "t-20260603-8",
+      "id": "t-20260604-8",
       "category": "teknik",
-      "text": "Google har släppt Gemini Intelligence för Android, så spännande!",
+      "text": "FCC öppnar 6GHz-bandet för wearables! Det låter som framtiden för AR- och VR-grejer.",
       "followUp": [
-        "Finns det någon funktion som du verkligen skulle vilja prova?",
-        "Tror du att det kommer göra din telefon smartare?"
+        "Tror du att det kommer att förändra hur vi använder VR?",
+        "Hur mycket använder du AR i din vardag?"
       ]
     },
     {
-      "id": "t-20260603-9",
+      "id": "t-20260604-9",
       "category": "teknik",
-      "text": "Google har fört in AI-funktioner i sina nya appar för Windows och Mac. Helt sjukt!",
+      "text": "Deepfake-tekniken växer, och det börjar bli läskigt med falska videor av kända ansikten.",
       "followUp": [
-        "Skulle du hoppa på det direkt?",
-        "Hur ofta använder du egentligen Google i din dator?"
+        "Vad tror du blir nästa stora grej att använda deepfake till?",
+        "Har du sett några galna exempel på det?"
       ]
     },
     {
-      "id": "t-20260603-10",
+      "id": "t-20260604-10",
       "category": "teknik",
-      "text": "Hörde du om AIbott? Den verkar vara en svensk AI-chat som kan hjälpa till med allt!",
+      "text": "Apple släpper sitt Vision Pro-headset, helt sjukt med virtuell och förstärkt verklighet!",
       "followUp": [
-        "Har du provat att chitchatta med en AI tidigare?",
-        "Vad skulle du fråga den först?"
+        "Är du pepp på att testa det?",
+        "Vad skulle du vilja använda ett sånt headset till?"
       ]
     },
     {
-      "id": "t-20260603-11",
+      "id": "t-20260604-11",
       "category": "teknik",
-      "text": "Xiaomi har släppt sin 17-serie mobiler, och de ser ju riktigt lovande ut!",
+      "text": "OnePlus öppnar en ny värld med sin vikbara smartphone! Antingen kommer det att rocka, eller floppa.",
       "followUp": [
-        "Vilken modell skulle du satsa på?",
-        "Är du mer av en kameranörd eller spelare?"
+        "Tror du vikbara telefoner kommer att bli en grej?",
+        "Skulle du kunna tänka dig att byta till en vikbar?"
       ]
     },
     {
-      "id": "t-20260603-12",
+      "id": "t-20260604-12",
       "category": "teknik",
-      "text": "Ulefone Armor 28 med termisk 5G? Det låter verkligen som en tuff telefon!",
+      "text": "Samsung lanserar vattentåliga surfplattor! Perfekta för poolhäng, hur bra är inte det?",
       "followUp": [
-        "Skulle du våga ta med den ut i skogen?",
-        "Är det något du tror att du skulle använda i vardagen?"
+        "Har du haft något vattentåligt pryl tidigare?",
+        "Vilken är din dröm-surftplatta?"
       ]
     },
     {
-      "id": "t-20260603-13",
+      "id": "t-20260604-13",
       "category": "teknik",
-      "text": "Xiaomi 17 Ultra kom med ett 200MP teleobjektiv. Snacka om kamerafetisch!",
+      "text": "Quest 3 och Xbox Cloud Gaming är en match made in heaven! Jag är verkligen peppad.",
       "followUp": [
-        "Kollade du de exempelbilderna de visade?",
-        "Vilken typ av foto gillar du att ta mest?"
+        "Har du någonsin testat spel på VR?",
+        "Tror du det kommer att förändra sättet vi spelar på?"
       ]
     },
     {
-      "id": "t-20260603-14",
+      "id": "t-20260604-14",
       "category": "teknik",
-      "text": "Xiaomi 17 med Leica-lins? Vill verkligen se vad den kan åstadkomma!",
+      "text": "Den där 'Best Take'-funktionen i Pixel 8 är snygg, inget mer bråka med dåliga bilder.",
       "followUp": [
-        "Skulle du använda en mobil för seriös fotografering?",
-        "Har du någonsin testat en Leica-kamera?"
-      ]
-    },
-    {
-      "id": "t-20260603-15",
-      "category": "teknik",
-      "text": "Xiaomi 15 Ultra med nästa generations Leica-system verkar lovande för foton!",
-      "followUp": [
-        "Tycker du det är värt extra för kameran?",
-        "Har du hört om några grymma testbilder ännu?"
+        "Har du några roliga foto-minnen från tidigare?",
+        "Tror du andra märken kommer att följa efter?"
       ]
     },
     {
