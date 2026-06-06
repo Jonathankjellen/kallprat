@@ -168,75 +168,39 @@
       ]
     },
     {
-      "id": "s-20260605-1",
+      "id": "s-20260606-1",
       "category": "sport",
-      "text": "Har du hört att SVT:s Sportnytt har det tufft just nu? De har strypt bevakningen till typ fem sporter!",
+      "text": "Serena är tillbaka! Känns helt galet att hon ska lira igen efter allt hon har varit med om. Tänk om hon är bättre än någonsin?",
       "followUp": [
-        "Visste du vilka sporter som fick åka ut?",
-        "Tror du vi kommer att märka av det som tittare?"
+        "Tror du hon kommer att överraska alla?",
+        "Vilken match ser du mest fram emot?"
       ]
     },
     {
-      "id": "s-20260605-2",
+      "id": "s-20260606-2",
       "category": "sport",
-      "text": "Såg du att Ferrari-föraren Leclerc dominerade den första träningen inför Monaco? Snacka om att sätta press på Hamilton!",
+      "text": "Carl Starfelt ger tummen upp om sin ryggskada – riktigt skönt att höra! Han behöver ju vara fit till VM.",
       "followUp": [
-        "Tror du Leclerc kan hålla det hela racet?",
-        "Skulle du vilja åka dit live nästa gång?"
+        "Hur viktig är han för laget?",
+        "Kollade du på hans senaste matcher?"
       ]
     },
     {
-      "id": "s-20260605-3",
+      "id": "s-20260606-3",
       "category": "sport",
-      "text": "Hörde du om Andy Farrells nya kontrakt med Irland? Det känns som att de verkligen satsar nu!",
+      "text": "Carolina Hurricanes kvitterade serien i Stanley Cup – snacka om nervigt! Det var ju som en thriller hela matchen igenom.",
       "followUp": [
-        "Är du peppad på deras kommande matcher?",
-        "Har du någon favoritspelare i laget?"
+        "Tror du de kammar hem det nu?",
+        "Vilken match är din absoluta favorit hittills?"
       ]
     },
     {
-      "id": "s-20260605-4",
+      "id": "s-20260606-4",
       "category": "sport",
-      "text": "Roberto De Zerbi har visst fått en ny omstart med Tottenham, spännande grejer på gång!",
+      "text": "Shakira ska köra under VM-invigningen – som om det inte var nog hype redan! Hennes låtar är alltid ett frekvent gung i festerna.",
       "followUp": [
-        "Tror du han kan vända trenden?",
-        "Har du kollat några av deras matcher nyligen?"
-      ]
-    },
-    {
-      "id": "s-20260605-5",
-      "category": "sport",
-      "text": "Kollade du på boxningen där Harvey Dykes mötte Ivan Dychko? Den matchen var ju galen!",
-      "followUp": [
-        "Tycker du boxning är lika intressant nu som förr?",
-        "Har du någon favoritboxare?"
-      ]
-    },
-    {
-      "id": "s-20260605-6",
-      "category": "sport",
-      "text": "Liverpool har tydligen klämt ur sig en ny tränare, hur sjukt är inte det?",
-      "followUp": [
-        "Tror du att han kan få laget på fötter igen?",
-        "Har du några förväntningar på nästa säsong?"
-      ]
-    },
-    {
-      "id": "s-20260605-7",
-      "category": "sport",
-      "text": "Vad säger du om Manchester Uniteds planer på att sikta på ligaseger 2028? Det känns som det kan bli en lång väg dit!",
-      "followUp": [
-        "Skulle du tippa dem som favoriter i år?",
-        "Hur länge tror du det dröjer innan de är på toppen igen?"
-      ]
-    },
-    {
-      "id": "s-20260605-8",
-      "category": "sport",
-      "text": "Michael Olise med det där sjuka kvitteringsmålet igen – snacka om att han är på hugget!",
-      "followUp": [
-        "Tycker du han kan bli en framtida stjärna?",
-        "Har du sett några andra grymma mål på sistone?"
+        "Vilken är din favvolåt av henne?",
+        "Såg du hur många som gick loss på hennes senaste konsert?"
       ]
     },
     {
