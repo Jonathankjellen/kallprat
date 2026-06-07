@@ -168,273 +168,156 @@
       ]
     },
     {
-      "id": "s-20260606-1",
+      "id": "s-20260607-1",
       "category": "sport",
-      "text": "Såg du matchen mellan Sverige och Grekland? Det var ju helt sjukt att de lyckades kvittera i sista minuten!",
+      "text": "Carl Starfelt verkar vara på bättringsvägen efter diskbråck. Han pratar om att vara redo för VM-matcherna, hur bra är inte det?",
       "followUp": [
-        "Vad tyckte du om spelet?",
-        "Hade du din favoritspelare i matchen?"
+        "Tror du att han kan komma tillbaka helt och hållet?",
+        "Vilken match ser du mest fram emot på VM?"
       ]
     },
     {
-      "id": "s-20260606-2",
+      "id": "s-20260607-2",
       "category": "sport",
-      "text": "Ouff, Sverige fick lite stryk av Norge i den senaste träningsmatchen. Vad hände där egentligen?",
+      "text": "Oliver Ekman-Larsson blev lagkapten för Tre Kronor, det gillar man ju! Undrar hur det kommer påverka laget?",
       "followUp": [
-        "Trots förlusten, vilka spelare tyckte du var bra?",
-        "Kollade du matchen live eller i efterhand?"
+        "Tror du det blir bra med honom som kapten?",
+        "Vem är din favvo bland assisterande kaptener?"
       ]
     },
     {
-      "id": "s-20260606-3",
+      "id": "s-20260607-3",
       "category": "sport",
-      "text": "Sverige hamnar ju i Grupp F i VM nu, det ska bli intressant! Hur känns det med Nederländerna och Japan i mixen?",
+      "text": "Matias Siltanen snackar om att jonglera fotbollskarriären med värnplikt. Det måste vara en klurig sits!",
       "followUp": [
-        "Tror du Sverige har en chans att gå vidare?",
-        "Har du några favoriter i gruppen?"
+        "Skulle du klara av det?",
+        "Tror du att fler idrottare hamnar i liknande lägen?"
       ]
     },
     {
-      "id": "s-20260606-4",
+      "id": "s-20260607-4",
       "category": "sport",
-      "text": "Hörde du att Isak Hien blev kapten i träningsmatchen mot Norge? Kul för honom!",
+      "text": "Kalle Karlsson har delat med sig av sina känslor efter att ha fått sparken från Hammarby. Måste ju vara tufft!",
       "followUp": [
-        "Visste du att han har spelat i utlandet också?",
-        "Tror du att han klarar av ledarrollen?"
+        "Vad tror du han gör nu?",
+        "Vem tror du blir nästa tränare?"
       ]
     },
     {
-      "id": "s-20260606-5",
+      "id": "s-20260607-5",
       "category": "sport",
-      "text": "Kanadas Alphonso Davies kan missa premiären på grund av skada. Vilket tapp för dem!",
+      "text": "Marvin Bracy-Williams fått en brutal avstängning på tolv år för doping. Snacka om en game changer!",
       "followUp": [
-        "Vad tycker du om skadesituationen i fotboll just nu?",
-        "Har du några andra spelare som du oroar dig för?"
+        "Tycker du att straffet var för hårt eller rimligt?",
+        "Hur påverkar det hans karriär framöver?"
       ]
     },
     {
-      "id": "s-20260606-6",
+      "id": "s-20260607-6",
       "category": "sport",
-      "text": "Sydafrikas landslag verkar ha stött på visumproblem inför VM. Snacka om otur!",
+      "text": "Har du kollat in de senaste oddsen för e-sportturneringar? Det känns som allt är på tapeten just nu!",
       "followUp": [
-        "Tror du de hinner lösa det i tid?",
-        "Har du hört om liknande problem tidigare?"
+        "Har du några speltips du sätter pengar på?",
+        "Vilket spel håller du ögonen på?"
       ]
     },
     {
-      "id": "s-20260606-7",
+      "id": "s-20260607-7",
       "category": "sport",
-      "text": "Luis Suárez fick inte plats i Uruguays VM-trupp. Ja, vad hände där egentligen?",
+      "text": "En planstormare avbröt NBA-finalen och skapar kaos, snacka om att göra entré!",
       "followUp": [
-        "Tycker du det var rätt beslut?",
-        "Har du en favoritspelare i Uruguay istället?"
+        "Vad tycker du om sådana stunts?",
+        "Tror du det påverkar spelet?"
       ]
     },
     {
-      "id": "s-20260606-8",
+      "id": "s-20260607-8",
       "category": "sport",
-      "text": "Sander Eitrem satte världsrekord på 5 000 meter! Hur coolt är inte det?",
+      "text": "Shakira ska uppträda med 'Dai Dai' under VM-invigningen, hur coolt är inte det!?",
       "followUp": [
-        "Har du testat skridskor någon gång?",
-        "Vilken sport har du på din bucket list?"
+        "Är du fan av hennes musik?",
+        "Vilket annat artist skulle vara grym som VM-uppträdare?"
       ]
     },
     {
-      "id": "s-20260606-9",
+      "id": "s-20260607-9",
       "category": "sport",
-      "text": "Formel 1-säsongen drar ju igång snart! Vem hejar du på i år?",
+      "text": "Elpriserna verkar påverka motorsport, hur knasigt är inte det?",
       "followUp": [
-        "Blir det en spännande säsong, tror du?",
-        "Har du någon favoritrace?"
+        "Tror du det kommer påverka antalet racingshower?",
+        "Vad tycker du om att elpriser styr sporten?"
       ]
     },
     {
-      "id": "s-20260606-10",
-      "category": "sport",
-      "text": "Det snackas ju massor om e-sportturneringarna 2026, som League of Legends och Dota 2! Är du med i gamet?",
-      "followUp": [
-        "Har du sett några bra streams senaste tiden?",
-        "Vilket spel skulle du vilja delta i?"
-      ]
-    },
-    {
-      "id": "s-20260606-11",
-      "category": "sport",
-      "text": "Handbolls-VM närmar sig med stormsteg och jag är hypad! Ska du kolla?",
-      "followUp": [
-        "Har du haft någon favoritmatch genom åren?",
-        "Vilken nation hejar du på?"
-      ]
-    },
-    {
-      "id": "s-20260606-12",
-      "category": "sport",
-      "text": "Ishockey-VM 2026 hålls i Schweiz. Spännande, eller hur?",
-      "followUp": [
-        "Syftar du på någon särskild match?",
-        "Vilket lag hejar du på?"
-      ]
-    },
-    {
-      "id": "s-20260606-13",
-      "category": "sport",
-      "text": "Wimbledon 2026 börjar snart! Känner du vibbarna?",
-      "followUp": [
-        "Vilken spelar du på om du får välja?",
-        "Har du nån favoritmatch du sett?"
-      ]
-    },
-    {
-      "id": "s-20260606-14",
-      "category": "sport",
-      "text": "US Open i golf ska bli kul att följa! Har du någon favoritspelare där?",
-      "followUp": [
-        "Följde du förra årets turneringar?",
-        "Har du spelat golf något?"
-      ]
-    },
-    {
-      "id": "s-20260606-15",
-      "category": "sport",
-      "text": "NBA-finalerna mellan Spurs och Knicks ska bli episkt! Vem tror du tar hem det?",
-      "followUp": [
-        "Kollade du på några matcher förra året?",
-        "Har du en favoritspelare i NBA?"
-      ]
-    },
-    {
-      "id": "t-20260606-1",
+      "id": "t-20260607-1",
       "category": "teknik",
-      "text": "ChatGPT har nått 100 miljoner användare, det är ju helt sjukt. Hur tror du de lyckades med det?",
+      "text": "Såg du att Microsoft släppt några egna AI-modeller som är gjorda för deras hårdvara? Det verkar ju riktigt smart.",
       "followUp": [
-        "Skulle du våga lita på AI för att göra dina läxor?",
-        "Vilken funktion tycker du är mest användbar?"
+        "Har du testat någon av dem?",
+        "Tror du att det kommer göra det billigare att använda AI på jobbet?"
       ]
     },
     {
-      "id": "t-20260606-2",
+      "id": "t-20260607-2",
       "category": "teknik",
-      "text": "Google släpper en ny AI-chatbot som heter Bard. Det låter som något ur en sci-fi-film! Vad tror du?",
+      "text": "Hörde du att SpaceX siktar på att bli börsnoterade 2026? Det skulle ju kunna bli en riktig rymd-trend.",
       "followUp": [
-        "Har du testat nån AI-chatbot förut?",
-        "Vad skulle du fråga den om du fick chansen?"
+        "Skulle du investera i rymdföretag?",
+        "Vad tror du att aktierna skulle landa på i framtiden?"
       ]
     },
     {
-      "id": "t-20260606-3",
+      "id": "t-20260607-3",
       "category": "teknik",
-      "text": "OpenAI har lanserat sitt Whisper API som kan transkribera tal. Snacka om att underlätta livet!",
+      "text": "Kollade du på Sonys nya hörlurar som släpptes? Verkar som att de verkligen har uppgraderat ljudet.",
       "followUp": [
-        "Kan du tänka dig att använda det för att spela in poddar?",
-        "Har du nått roligt du skulle vilja transkribera?"
+        "Har du haft någon av deras tidigare modeller?",
+        "Vilken är din toppfavorit när det kommer till hörlurar?"
       ]
     },
     {
-      "id": "t-20260606-4",
+      "id": "t-20260607-4",
       "category": "teknik",
-      "text": "Hörde du om studenten i Jönköping som blev avstängd för att ha använt AI för att skriva uppsats? Galet!",
+      "text": "Va, har du hört att de jobbar på en uppföljare till Alien: Isolation? Det kan bli galet spännande!",
       "followUp": [
-        "Tycker du det är rätt eller fel?",
-        "Tror du det kommer bli vanligare?"
+        "Längtar du efter att spela mer skräckspel?",
+        "Vilken typ av spel är du mest sugen på just nu?"
       ]
     },
     {
-      "id": "t-20260606-5",
+      "id": "t-20260607-5",
       "category": "teknik",
-      "text": "OpenAI släppte just GPT-4, och det verkar kunna göra nästan vad som helst. Hur häftigt är inte det?",
+      "text": "Såg du vad Disney+ har på gång för juni 2026? Det ser ut som de släpper en hel del nytt!",
       "followUp": [
-        "Skulle du testa att använda det för något kreativt projekt?",
-        "Vad hade du velat att den skulle göra först?"
+        "Har du något favoritprogram på Disney+ just nu?",
+        "Blir du hypad inför något speciellt som kommer?"
       ]
     },
     {
-      "id": "t-20260606-6",
+      "id": "t-20260607-6",
       "category": "teknik",
-      "text": "Google har släppt en ny robothjärna kallad PaLM-E. Det låter som något direkt från framtiden!",
+      "text": "Hörde du att Sverige vill införa en åldersgräns på 15 år för sociala medier? Det är ju en rätt stor grej.",
       "followUp": [
-        "Skulle du våga ge en robot kommandon?",
-        "Vilken uppgift skulle du ge den först?"
+        "Vad tror du om det?",
+        "Skulle du ha klarat dig utan TikTok som tonåring?"
       ]
     },
     {
-      "id": "t-20260606-7",
+      "id": "t-20260607-7",
       "category": "teknik",
-      "text": "Flera AI-experter har undertecknat en deklaration om risker med AI. Det känns som de är lite oroliga, va?",
+      "text": "Kollade du på att NASA beordrade astronauterna att söka skydd i Crew Dragon? Snacka om spänning!",
       "followUp": [
-        "Tror du det finns en reell risk?",
-        "Hur skulle du förklara AI för nån som är skeptisk?"
+        "Tycker du att rymdstationen är en säker plats?",
+        "Vad skulle du göra först om du var astronaut där uppe?"
       ]
     },
     {
-      "id": "t-20260606-8",
+      "id": "t-20260607-8",
       "category": "teknik",
-      "text": "Google DeepMind har lanserat Gemini, den mest kapabla AI-modellen hittills. Måste kolla in den!",
+      "text": "Så, det nya spelet Calx har släppts och de säger att grafiken är magisk. Har du kollat på det?",
       "followUp": [
-        "Vad tror du den kan göra som ingen annan kan?",
-        "Har du nått drömprojekt du skulle vilja göra med den?"
-      ]
-    },
-    {
-      "id": "t-20260606-9",
-      "category": "teknik",
-      "text": "Snoop Dogg går in i gamingvärlden med AI. Det låter ju spännande!",
-      "followUp": [
-        "Skulle du spela ett Snoop Dogg-spel?",
-        "Vad tror du hans grej med AI kommer bli?"
-      ]
-    },
-    {
-      "id": "t-20260606-10",
-      "category": "teknik",
-      "text": "Snoop Dogg släppte NFTs med exklusivt innehåll från sin turné. Det blir ju bara mer och mer crazy!",
-      "followUp": [
-        "Samlar du på några NFTs eller är det bara en hype?",
-        "Skulle du betala för ett exklusivt musikspår?"
-      ]
-    },
-    {
-      "id": "t-20260606-11",
-      "category": "teknik",
-      "text": "Snoop Dogg och VeeFriends släpper ett nytt musikspår. Snacka om att samarbeta på riktigt!",
-      "followUp": [
-        "Kommer du att lyssna på det när det släpps?",
-        "Vad tycker du om att artister gör sådana samarbeten?"
-      ]
-    },
-    {
-      "id": "t-20260606-12",
-      "category": "teknik",
-      "text": "Snoop Dogg och Sam Jones har dragit igång 'Shiller', en plattform för kreatörer. Det låter spännande!",
-      "followUp": [
-        "Skulle du använda en sådan plattform för att dela din kreativitet?",
-        "Vad tycker du om att kändisar går in i Web3?"
-      ]
-    },
-    {
-      "id": "t-20260606-13",
-      "category": "teknik",
-      "text": "BYTE CITY hedrar Bruce Lee med en del av metaversen. Hur sjukt coolt är inte det?",
-      "followUp": [
-        "Skulle du springa omkring i ett sådant metaverse?",
-        "Har du nått favoritögonblick från Bruce Lee?"
-      ]
-    },
-    {
-      "id": "t-20260606-14",
-      "category": "teknik",
-      "text": "Meta släpper 28 nya AI-karaktärer. Det känns som att vi går mot en futuristisk superhjältefilm!",
-      "followUp": [
-        "Skulle du vilja hänga med nån av dem?",
-        "Vilken karaktär skulle du vilja se mer av?"
-      ]
-    },
-    {
-      "id": "t-20260606-15",
-      "category": "teknik",
-      "text": "Det snackas om att Snoop Dogg jobbar på ett nytt musikspår med VeeFriends. Så spännande!",
-      "followUp": [
-        "Tror du det kommer att sälja bra?",
-        "Vad skulle du vilja att de gör en video till?"
+        "Vad tycker du om spel som fokuserar på atmosfär?",
+        "Vilket spel ser du fram emot mest just nu?"
       ]
     },
     {
