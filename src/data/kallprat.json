@@ -33,291 +33,327 @@
   ],
   "kallprat": [
     {
-      "id": "n-20260605-1",
+      "id": "n-20260607-1",
       "category": "nyheter",
-      "text": "Skellefteå Summertime 2026 ser ut att bli grymt, med Petter och Molly Sandén på scen!",
+      "text": "Såg du att Ella Tiritiello precis släppt en ny singel? Det verkar som att den handlar om ett ganska personligt kapitel i hennes liv.",
+      "followUp": [
+        "Har du lyssnat på den än?",
+        "Vilken är din favoritlåt med henne?"
+      ]
+    },
+    {
+      "id": "n-20260607-2",
+      "category": "nyheter",
+      "text": "Hörde du grejen med Weibenfalks nya låt 'Minnen & Nostalgi'? Den tar verkligen tillbaka vibbarna från 90-talet.",
+      "followUp": [
+        "Älskar du också klassisk rock?",
+        "Vilket band skulle du vilja se igen?"
+      ]
+    },
+    {
+      "id": "n-20260607-3",
+      "category": "nyheter",
+      "text": "Va, A*Teens är tillbaka med en ny version av 'You Got The Look'? Snacka om nostalgi!",
+      "followUp": [
+        "Hade du en crush på dem när du var yngre?",
+        "Vilken gammal låt är din favorit?"
+      ]
+    },
+    {
+      "id": "n-20260607-4",
+      "category": "nyheter",
+      "text": "Björnzone släpper en anthem för fotbolls-VM 2026 som heter 'All of My Heart'. Låter som en riktig stämningshöjare!",
+      "followUp": [
+        "Blir det en mustig VM-fest eller?",
+        "Vad är din favorit VM-låt genom tiderna?"
+      ]
+    },
+    {
+      "id": "n-20260607-5",
+      "category": "nyheter",
+      "text": "Popbandet Hemliga Klubben har en ny singel som heter 'Typ 100 år' och ska spela på Gröna Lund!",
       "followUp": [
         "Ska du dit?",
-        "Vilken artist ser du mest fram emot?"
+        "Vilket minne har du från Gröna Lund?"
       ]
     },
     {
-      "id": "n-20260605-2",
+      "id": "n-20260607-6",
       "category": "nyheter",
-      "text": "Charli XCX släpper sitt nya album nu i juli, och omslaget är ju bara too cool!",
+      "text": "Dizzee Rascal gör comeback med konsert på Debaser! Det kommer bli legendariskt.",
       "followUp": [
-        "Har du hört något av de nya låtarna?",
-        "Vad tycker du om hennes stil?"
+        "Skulle du gå på en sån konsert?",
+        "Har du några favoritlåtar av honom?"
       ]
     },
     {
-      "id": "n-20260605-3",
+      "id": "n-20260607-7",
       "category": "nyheter",
-      "text": "Hörde du att Europe överraskade med en hemlig spelning på Sweden Rock? Snacka om att chocka publiken!",
+      "text": "The Jayhawks har just släppt nyheten om sverigeturné 2026! Helt sjukt!",
       "followUp": [
-        "Kollade du på spelningen?",
+        "Är du fan av alt-country?",
+        "Vilken konsert ser du fram emot mest?"
+      ]
+    },
+    {
+      "id": "n-20260607-8",
+      "category": "nyheter",
+      "text": "Kollade du på årets TikTok-trender? 'Grisch' och gurksallad är tydligen hetaste grejerna nu!",
+      "followUp": [
+        "Har du testat att göra gurksallad?",
+        "Vad tycker du om det?"
+      ]
+    },
+    {
+      "id": "n-20260607-9",
+      "category": "nyheter",
+      "text": "Korean Culture Festival i Stockholm lockade massor av folk i helgen! Helt galet vad K-pop växer.",
+      "followUp": [
+        "Har du lyssnat på K-pop?",
         "Vilken artist skulle du vilja se live?"
       ]
     },
     {
-      "id": "n-20260605-4",
+      "id": "n-20260607-10",
       "category": "nyheter",
-      "text": "Magnus Uggla kör sin grej i Huskvarna snart, har du någon favoritlåt med honom?",
+      "text": "Vattenfall pratar om ökade bonusar för att göra företaget mer attraktivt. Snacka om att prioritera rätt grejer!",
       "followUp": [
-        "Ska du gå dit?",
-        "Tycker du att han fortfarande har det?"
+        "Tycker du att bonusar är rimligt?",
+        "Vad skulle du göra om du fick en bonus?"
       ]
     },
     {
-      "id": "n-20260605-5",
+      "id": "n-20260607-11",
       "category": "nyheter",
-      "text": "Kulturministern snackade kultur i London nyligen, det känns lite coolt eller?",
+      "text": "Långtidsarbetslösheten syns mer nu enligt en ny rapport. Det är ju en viktig fråga.",
       "followUp": [
-        "Vilken kultur grej skulle du lyfta fram?",
-        "Har du varit i London?"
+        "Känner du att detta påverkar vår generation?",
+        "Har du sett några initiativ för att stötta?"
       ]
     },
     {
-      "id": "n-20260605-6",
+      "id": "n-20260607-12",
       "category": "nyheter",
-      "text": "SVT släppte bilder från Sweden Rock, och jag fastnade på några sjukt bra ögonblick!",
+      "text": "Det pratas om spännande mat- och drycktrender för 2026, nya smaker och fokus på hållbarhet!",
       "followUp": [
-        "Har du sett bilderna?",
-        "Vilken konsert skulle du vilja vara med på?"
+        "Vad skulle du vilja se mer av?",
+        "Har du sett några intressanta restauranger?"
       ]
     },
     {
-      "id": "n-20260605-7",
+      "id": "n-20260607-13",
       "category": "nyheter",
-      "text": "Rosendal Garden Party kommer bli en fest med artister som Faithless och Kaytranada. Skadad om man missar!",
+      "text": "Så gör du årets godaste midsommardrink med akvavit och syrén! Det låter ju supergott!",
       "followUp": [
-        "Ska du på någon festival i sommar?",
-        "Vilken är din favoritfestival?"
+        "Ska du testa?",
+        "Vad är din go-to drink på sommaren?"
       ]
     },
     {
-      "id": "n-20260605-8",
+      "id": "n-20260607-14",
       "category": "nyheter",
-      "text": "Dalhalla har släppt sitt sommarprogram, och det ser galet bra ut med Massive Attack och Lewis Capaldi!",
+      "text": "Modetrenderna för sommaren 2026 verkar  vara polka dots och lyxiga kontraster. Helt sjukt!",
       "followUp": [
-        "Har du varit där förut?",
-        "Vilken artist skulle du helst se?"
+        "Har du någon favoritstil?",
+        "Vad skulle du vilja ha i din sommargarderob?"
       ]
     },
     {
-      "id": "n-20260605-9",
+      "id": "n-20260607-15",
       "category": "nyheter",
-      "text": "Simon Superti släpper en ny singel snart, 'Rakt i kaklet'. Låter som ett bra namn!",
+      "text": "ELLE listar 6 semesterparadis i Italien som vi kanske har missat. Det låter lovande!",
       "followUp": [
-        "Ska du lyssna på den?",
-        "Har du sett honom live?"
-      ]
-    },
-    {
-      "id": "n-20260605-10",
-      "category": "nyheter",
-      "text": "Zara Larsson vann tre Grammisar! Förstår man varför, eller?",
-      "followUp": [
-        "Vad tycker du om hennes musik?",
-        "Har du en favoritlåt med henne?"
-      ]
-    },
-    {
-      "id": "n-20260605-11",
-      "category": "nyheter",
-      "text": "Ella Tiritiello släpper en personlig singel, och jag är nyfiken på vad det handlar om!",
-      "followUp": [
-        "Har du hört hennes tidigare låtar?",
-        "Vad söker du i ny musik?"
-      ]
-    },
-    {
-      "id": "n-20260605-12",
-      "category": "nyheter",
-      "text": "Weibenfalk är tillbaka med 'Minnen & Nostalgi'. Låter ju som en svensk klassiker!",
-      "followUp": [
-        "Lyssnar du mycket på svensk rock?",
-        "Har du en nostalgilåt du älskar?"
-      ]
-    },
-    {
-      "id": "n-20260605-13",
-      "category": "nyheter",
-      "text": "A*Teens gör comeback med en ny version av Roxettes klassiker. Galet att de är tillbaka!",
-      "followUp": [
-        "Gillar du A*Teens?",
-        "Vilken låt skulle du vilja höra dem göra?"
-      ]
-    },
-    {
-      "id": "n-20260605-14",
-      "category": "nyheter",
-      "text": "Trabelsi släpper singeln 'Everybody Moves', och det känns som en hit på dansgolvet!",
-      "followUp": [
-        "Känner du till honom?",
-        "Vilken musik får dig alltid att dansa?"
-      ]
-    },
-    {
-      "id": "n-20260605-15",
-      "category": "nyheter",
-      "text": "Iron Maiden gjorde en grym entré på Sweden Rock. Sjukt tight band!",
-      "followUp": [
-        "Älskar du metal?",
-        "Har du sett dem live?"
+        "Har du varit i Italien?",
+        "Vilket ställe skulle du vilja besöka?"
       ]
     },
     {
       "id": "s-20260607-1",
       "category": "sport",
-      "text": "Carl Starfelt verkar vara på bättringsvägen efter diskbråck. Han pratar om att vara redo för VM-matcherna, hur bra är inte det?",
+      "text": "Sverige och Grekland spelade ju 2–2 i genrepet, och Viktor Gyökeres firade tydligen sin födelsedag med ett mål. Ganska schysst, eller?",
       "followUp": [
-        "Tror du att han kan komma tillbaka helt och hållet?",
-        "Vilken match ser du mest fram emot på VM?"
+        "Hade du några förväntningar på matchen?",
+        "Vad tycker du om Gyökeres som spelare?"
       ]
     },
     {
       "id": "s-20260607-2",
       "category": "sport",
-      "text": "Oliver Ekman-Larsson blev lagkapten för Tre Kronor, det gillar man ju! Undrar hur det kommer påverka laget?",
+      "text": "Hammarby har fått en ny tränare, Maria Therese Jonsson, efter att Kalle Karlsson klivit av. Det känns som en spännande tid för klubben.",
       "followUp": [
-        "Tror du det blir bra med honom som kapten?",
-        "Vem är din favvo bland assisterande kaptener?"
+        "Tror du att hon kan göra skillnad?",
+        "Har du följt Hammarby mycket i år?"
       ]
     },
     {
       "id": "s-20260607-3",
       "category": "sport",
-      "text": "Matias Siltanen snackar om att jonglera fotbollskarriären med värnplikt. Det måste vara en klurig sits!",
+      "text": "Björn Borg fyllde 70 år på Ibiza! Tänk att fira där... Det är ju en riktig livsstil, eller?",
       "followUp": [
-        "Skulle du klara av det?",
-        "Tror du att fler idrottare hamnar i liknande lägen?"
+        "Har du någon favoritmatch med Borg?",
+        "Skulle du vilja åka dit och fira nån gång?"
       ]
     },
     {
       "id": "s-20260607-4",
       "category": "sport",
-      "text": "Kalle Karlsson har delat med sig av sina känslor efter att ha fått sparken från Hammarby. Måste ju vara tufft!",
+      "text": "Maja Stark klättrade i US Open efter tredje rundan. Verkar som att hon är på gång, eller vad säger du?",
       "followUp": [
-        "Vad tror du han gör nu?",
-        "Vem tror du blir nästa tränare?"
+        "Kollade du på hennes runda?",
+        "Tycker du golf är en rolig sport att följa?"
       ]
     },
     {
       "id": "s-20260607-5",
       "category": "sport",
-      "text": "Marvin Bracy-Williams fått en brutal avstängning på tolv år för doping. Snacka om en game changer!",
+      "text": "Carolina Hurricanes knöt serien mot Vegas Golden Knights i Stanley Cup-finalen. Snacka om spänningsnivå, va?",
       "followUp": [
-        "Tycker du att straffet var för hårt eller rimligt?",
-        "Hur påverkar det hans karriär framöver?"
+        "Har du hejat på något lag i finalen?",
+        "Vad tycker du om ishockey som sport?"
       ]
     },
     {
       "id": "s-20260607-6",
       "category": "sport",
-      "text": "Har du kollat in de senaste oddsen för e-sportturneringar? Det känns som allt är på tapeten just nu!",
+      "text": "Ludvig Åberg var inte nöjd med sin prestation på Memorial Tournament och kritiserade sig själv. Gillar du när spelare är så självkritiska?",
       "followUp": [
-        "Har du några speltips du sätter pengar på?",
-        "Vilket spel håller du ögonen på?"
-      ]
-    },
-    {
-      "id": "s-20260607-7",
-      "category": "sport",
-      "text": "En planstormare avbröt NBA-finalen och skapar kaos, snacka om att göra entré!",
-      "followUp": [
-        "Vad tycker du om sådana stunts?",
-        "Tror du det påverkar spelet?"
-      ]
-    },
-    {
-      "id": "s-20260607-8",
-      "category": "sport",
-      "text": "Shakira ska uppträda med 'Dai Dai' under VM-invigningen, hur coolt är inte det!?",
-      "followUp": [
-        "Är du fan av hennes musik?",
-        "Vilket annat artist skulle vara grym som VM-uppträdare?"
-      ]
-    },
-    {
-      "id": "s-20260607-9",
-      "category": "sport",
-      "text": "Elpriserna verkar påverka motorsport, hur knasigt är inte det?",
-      "followUp": [
-        "Tror du det kommer påverka antalet racingshower?",
-        "Vad tycker du om att elpriser styr sporten?"
+        "Tror du att det kan hjälpa honom att förbättra sig?",
+        "Har du sett hans spelstil?"
       ]
     },
     {
       "id": "t-20260607-1",
       "category": "teknik",
-      "text": "Såg du att Microsoft släppt några egna AI-modeller som är gjorda för deras hårdvara? Det verkar ju riktigt smart.",
+      "text": "Såg du att Karbon har lanserat Kai? En AI-kollega för redovisningsfirmor?",
       "followUp": [
-        "Har du testat någon av dem?",
-        "Tror du att det kommer göra det billigare att använda AI på jobbet?"
+        "Har du provat att använda AI i jobbet?",
+        "Tror du verkligen att AI kan ersätta oss någon gång?"
       ]
     },
     {
       "id": "t-20260607-2",
       "category": "teknik",
-      "text": "Hörde du att SpaceX siktar på att bli börsnoterade 2026? Det skulle ju kunna bli en riktig rymd-trend.",
+      "text": "Va, har du hört om Anumas nya privata AI-app? Den verkar sjukt smidig.",
       "followUp": [
-        "Skulle du investera i rymdföretag?",
-        "Vad tror du att aktierna skulle landa på i framtiden?"
+        "Skulle du använda en sån app för ditt minne?",
+        "Vilken AI-grej hade du velat ha som assistent?"
       ]
     },
     {
       "id": "t-20260607-3",
       "category": "teknik",
-      "text": "Kollade du på Sonys nya hörlurar som släpptes? Verkar som att de verkligen har uppgraderat ljudet.",
+      "text": "Kollade du in de nya funktionerna i Tuya Smarts Hey Tuya-assistent? Den kan typ göra allt nu.",
       "followUp": [
-        "Har du haft någon av deras tidigare modeller?",
-        "Vilken är din toppfavorit när det kommer till hörlurar?"
+        "Vad skulle du vilja ha styrt av en AI-assistent hemma?",
+        "Brukar du verkligen använda smarta hem-grejer?"
       ]
     },
     {
       "id": "t-20260607-4",
       "category": "teknik",
-      "text": "Va, har du hört att de jobbar på en uppföljare till Alien: Isolation? Det kan bli galet spännande!",
+      "text": "Hörde du att Google har lagt till musikgenerering i sin Gemini-app? Sjukt coolt!",
       "followUp": [
-        "Längtar du efter att spela mer skräckspel?",
-        "Vilken typ av spel är du mest sugen på just nu?"
+        "Skulle du kunna göra musik med en app?",
+        "Har du testat att skapa egna låtar innan?"
       ]
     },
     {
       "id": "t-20260607-5",
       "category": "teknik",
-      "text": "Såg du vad Disney+ har på gång för juni 2026? Det ser ut som de släpper en hel del nytt!",
+      "text": "Zoom har släppt AI-drivna avatarer för möten. Hur sjukt är inte det?",
       "followUp": [
-        "Har du något favoritprogram på Disney+ just nu?",
-        "Blir du hypad inför något speciellt som kommer?"
+        "Tror du att du skulle använda en mötes-avatar istället för dig själv?",
+        "Har du någon favorit-avatar i spel eller filmer?"
       ]
     },
     {
       "id": "t-20260607-6",
       "category": "teknik",
-      "text": "Hörde du att Sverige vill införa en åldersgräns på 15 år för sociala medier? Det är ju en rätt stor grej.",
+      "text": "Microsoft har nu lanserat Surface Laptop Ultra med det nya RTX Spark-chipet. Det låter ju grymt!",
       "followUp": [
-        "Vad tror du om det?",
-        "Skulle du ha klarat dig utan TikTok som tonåring?"
+        "Skulle du byta ut din laptop mot en sådan?",
+        "Gör grafikkort egentligen så stor skillnad i din dator?"
       ]
     },
     {
       "id": "t-20260607-7",
       "category": "teknik",
-      "text": "Kollade du på att NASA beordrade astronauterna att söka skydd i Crew Dragon? Snacka om spänning!",
+      "text": "Motorola har släppt Edge 70 Pro+ och den verkar ha en del schyssta grejer.",
       "followUp": [
-        "Tycker du att rymdstationen är en säker plats?",
-        "Vad skulle du göra först om du var astronaut där uppe?"
+        "Har du någon favoritmobil som du skulle rekommendera?",
+        "Vad måste en smartphone ha för att du ska köpa den?"
       ]
     },
     {
       "id": "t-20260607-8",
       "category": "teknik",
-      "text": "Så, det nya spelet Calx har släppts och de säger att grafiken är magisk. Har du kollat på det?",
+      "text": "Xiaomi presenterade 17T med Leica-teknik för kameran. Riktigt spännande!",
       "followUp": [
-        "Vad tycker du om spel som fokuserar på atmosfär?",
-        "Vilket spel ser du fram emot mest just nu?"
+        "Skulle du känna skillnad på en bra kamera i telefonen?",
+        "Vad fångar du helst med din telefon?"
+      ]
+    },
+    {
+      "id": "t-20260607-9",
+      "category": "teknik",
+      "text": "Sony lanserade sina nya WH-1000XM6-hörlurar. De verkar ha riktigt bra ljud!",
+      "followUp": [
+        "Vad tycker du är viktigt i hörlurar?",
+        "Har du hört talas om trådlösa hörlurar som inte tappar ljudkvaliteten?"
+      ]
+    },
+    {
+      "id": "t-20260607-10",
+      "category": "teknik",
+      "text": "Sennheiser har släppt Spectera, ett nytt trådlöst ljudsystem. Låter fancy, va?",
+      "followUp": [
+        "Använder du trådlöst ljud i vardagen?",
+        "Skulle du våga investera i ett högkvalitativt ljudsystem?"
+      ]
+    },
+    {
+      "id": "t-20260607-11",
+      "category": "teknik",
+      "text": "Har du kollat på Gothic 1 Remake? Det ser riktigt bra ut med uppdaterad grafik!",
+      "followUp": [
+        "Spelar du fortfarande gamla klassiska spel?",
+        "Vad är ditt favoritspel från barndomen?"
+      ]
+    },
+    {
+      "id": "t-20260607-12",
+      "category": "teknik",
+      "text": "Kollade du på det nya spelet Calx? Jag älskar den cel-shadade grafiken!",
+      "followUp": [
+        "Vilken speltyp lockar dig mest just nu?",
+        "Har du testat något nytt spel nyligen?"
+      ]
+    },
+    {
+      "id": "t-20260607-13",
+      "category": "teknik",
+      "text": "Hörde du om Voidling Bound? Att samla och anpassa varelser låter ju skitkul!",
+      "followUp": [
+        "Skulle du satsa på att anpassa din egen karaktär?",
+        "Vilken typ av spelvärld tycker du är mest intressant?"
+      ]
+    },
+    {
+      "id": "t-20260607-14",
+      "category": "teknik",
+      "text": "Witchspire har släppts i early access nu. Det ser ut att vara en rolig överlevnadsgrej!",
+      "followUp": [
+        "Vad är din go-to taktik i överlevnadsspel?",
+        "Skulle du spela det med några kompisar?"
+      ]
+    },
+    {
+      "id": "t-20260607-15",
+      "category": "teknik",
+      "text": "Windows 11:s juni 2026-uppdatering kommer med delad ljuduppspelning. Kontrollfreaks, unite!",
+      "followUp": [
+        "Tror du att det kommer bli bättre att dela ljud?",
+        "Har du provat liknande funktioner på andra plattformar?"
       ]
     },
     {
