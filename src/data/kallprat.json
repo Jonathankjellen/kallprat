@@ -168,192 +168,237 @@
       ]
     },
     {
-      "id": "s-20260607-1",
+      "id": "s-20260608-1",
       "category": "sport",
-      "text": "Sverige och Grekland spelade ju 2–2 i genrepet, och Viktor Gyökeres firade tydligen sin födelsedag med ett mål. Ganska schysst, eller?",
+      "text": "Såg du att Serena Williams gör comeback på tennisbanan? Hon ska köra sitt första race i Queens nästa vecka!",
       "followUp": [
-        "Hade du några förväntningar på matchen?",
-        "Vad tycker du om Gyökeres som spelare?"
+        "Har du följt henne under åren?",
+        "Tror du hon har en chans att vinna?"
       ]
     },
     {
-      "id": "s-20260607-2",
+      "id": "s-20260608-2",
       "category": "sport",
-      "text": "Hammarby har fått en ny tränare, Maria Therese Jonsson, efter att Kalle Karlsson klivit av. Det känns som en spännande tid för klubben.",
+      "text": "Wow, Dino Beganovic tog ju sin första pallplats i Formel 1 i Monaco! Snacka om debut!",
       "followUp": [
-        "Tror du att hon kan göra skillnad?",
-        "Har du följt Hammarby mycket i år?"
+        "Hade du koll på honom innan?",
+        "Vad tycker du om F1-racing generellt?"
       ]
     },
     {
-      "id": "s-20260607-3",
+      "id": "s-20260608-3",
       "category": "sport",
-      "text": "Björn Borg fyllde 70 år på Ibiza! Tänk att fira där... Det är ju en riktig livsstil, eller?",
+      "text": "Vilken dramatik i Stanley Cup-finalen! Carolina Hurricanes kvittar serien med ett galet vinstmål i förlängning!",
       "followUp": [
-        "Har du någon favoritmatch med Borg?",
-        "Skulle du vilja åka dit och fira nån gång?"
+        "Kollade du på matchen?",
+        "Vilken är din favorit i NHL?"
       ]
     },
     {
-      "id": "s-20260607-4",
+      "id": "s-20260608-4",
       "category": "sport",
-      "text": "Maja Stark klättrade i US Open efter tredje rundan. Verkar som att hon är på gång, eller vad säger du?",
+      "text": "Shakira ska sjunga under invigningen av fotbolls-VM i Mexiko – kan det bli mer ikoniskt?",
       "followUp": [
-        "Kollade du på hennes runda?",
-        "Tycker du golf är en rolig sport att följa?"
+        "Vilken är din favvo-låt med henne?",
+        "Ska du kolla på VM?"
       ]
     },
     {
-      "id": "s-20260607-5",
+      "id": "s-20260608-5",
       "category": "sport",
-      "text": "Carolina Hurricanes knöt serien mot Vegas Golden Knights i Stanley Cup-finalen. Snacka om spänningsnivå, va?",
+      "text": "Horribel incident med Christian Eriksen på planen, men tur att han är vid medvetande igen!",
       "followUp": [
-        "Har du hejat på något lag i finalen?",
-        "Vad tycker du om ishockey som sport?"
+        "Har du följt hans karriär?",
+        "Kollade du på matchen?"
       ]
     },
     {
-      "id": "s-20260607-6",
+      "id": "s-20260608-6",
       "category": "sport",
-      "text": "Ludvig Åberg var inte nöjd med sin prestation på Memorial Tournament och kritiserade sig själv. Gillar du när spelare är så självkritiska?",
+      "text": "Tråkiga nyheter om Stacey King, en riktig NBA-legendar som har gått bort. Tiden går fort.",
       "followUp": [
-        "Tror du att det kan hjälpa honom att förbättra sig?",
-        "Har du sett hans spelstil?"
+        "Har du sett några av hans klassiska matcher?",
+        "Vem är din favoritspelare i NBA?"
       ]
     },
     {
-      "id": "t-20260607-1",
-      "category": "teknik",
-      "text": "Såg du att Karbon har lanserat Kai? En AI-kollega för redovisningsfirmor?",
+      "id": "s-20260608-7",
+      "category": "sport",
+      "text": "Maria João Pinto lägger skorna på hyllan, hon har haft en så imponerande karriär!",
       "followUp": [
-        "Har du provat att använda AI i jobbet?",
-        "Tror du verkligen att AI kan ersätta oss någon gång?"
+        "Har du sett några av hennes matcher?",
+        "Vad tycker du om handboll i allmänhet?"
       ]
     },
     {
-      "id": "t-20260607-2",
-      "category": "teknik",
-      "text": "Va, har du hört om Anumas nya privata AI-app? Den verkar sjukt smidig.",
+      "id": "s-20260608-8",
+      "category": "sport",
+      "text": "Mikaela Shiffrin har just satt ett nytt rekord för flest världscupsegrar i alpin skidåkning! Sjukt imponerande!",
       "followUp": [
-        "Skulle du använda en sån app för ditt minne?",
-        "Vilken AI-grej hade du velat ha som assistent?"
+        "Kollade du på någon av hennes tävlingar nyligen?",
+        "Vilken sport tycker du är mest spännande att följa?"
       ]
     },
     {
-      "id": "t-20260607-3",
-      "category": "teknik",
-      "text": "Kollade du in de nya funktionerna i Tuya Smarts Hey Tuya-assistent? Den kan typ göra allt nu.",
+      "id": "s-20260608-9",
+      "category": "sport",
+      "text": "Flera e-sportturneringar planeras inför 2026, det börjar bli riktigt intressant!",
       "followUp": [
-        "Vad skulle du vilja ha styrt av en AI-assistent hemma?",
-        "Brukar du verkligen använda smarta hem-grejer?"
+        "Vilka spel är du mest pepp på?",
+        "Har du några favoriter inom e-sport?"
       ]
     },
     {
-      "id": "t-20260607-4",
-      "category": "teknik",
-      "text": "Hörde du att Google har lagt till musikgenerering i sin Gemini-app? Sjukt coolt!",
+      "id": "s-20260608-10",
+      "category": "sport",
+      "text": "Sven-Göran Eriksson tar sig an ett nytt uppdrag i Kina! Det blir intressant att se vad han gör där.",
       "followUp": [
-        "Skulle du kunna göra musik med en app?",
-        "Har du testat att skapa egna låtar innan?"
+        "Vad tycker du om hans tidigare insatser?",
+        "Skulle du kunna tänka dig att jobba utomlands?"
       ]
     },
     {
-      "id": "t-20260607-5",
-      "category": "teknik",
-      "text": "Zoom har släppt AI-drivna avatarer för möten. Hur sjukt är inte det?",
+      "id": "s-20260608-11",
+      "category": "sport",
+      "text": "Mikael Arnell släpper en självbiografi om sin karriär, det där kommer bli en page-turner!",
       "followUp": [
-        "Tror du att du skulle använda en mötes-avatar istället för dig själv?",
-        "Har du någon favorit-avatar i spel eller filmer?"
+        "Kommer du att läsa den?",
+        "Vilka sportbiografier har du gillat?"
       ]
     },
     {
-      "id": "t-20260607-6",
-      "category": "teknik",
-      "text": "Microsoft har nu lanserat Surface Laptop Ultra med det nya RTX Spark-chipet. Det låter ju grymt!",
+      "id": "s-20260608-12",
+      "category": "sport",
+      "text": "Formel 1 introducerar nya tekniska regler inför säsongen 2026. Ska bli spännande att se hur det påverkar racen!",
       "followUp": [
-        "Skulle du byta ut din laptop mot en sådan?",
-        "Gör grafikkort egentligen så stor skillnad i din dator?"
+        "Vad tycker du om de nya reglerna?",
+        "Följer du F1 ofta?"
       ]
     },
     {
-      "id": "t-20260607-7",
-      "category": "teknik",
-      "text": "Motorola har släppt Edge 70 Pro+ och den verkar ha en del schyssta grejer.",
+      "id": "s-20260608-13",
+      "category": "sport",
+      "text": "Sveriges handbollslandslag har fått en ny tränare inför kommande tävlingar, undrar hur det kommer att gå?",
       "followUp": [
-        "Har du någon favoritmobil som du skulle rekommendera?",
-        "Vad måste en smartphone ha för att du ska köpa den?"
+        "Har du koll på lagets historia?",
+        "Vilket är ditt bästa minne av dem?"
       ]
     },
     {
-      "id": "t-20260607-8",
-      "category": "teknik",
-      "text": "Xiaomi presenterade 17T med Leica-teknik för kameran. Riktigt spännande!",
+      "id": "s-20260608-14",
+      "category": "sport",
+      "text": "Allsvenskan har verkligen bjudit på en del överraskningar den senaste tiden, vissa matcher har varit kaos!",
       "followUp": [
-        "Skulle du känna skillnad på en bra kamera i telefonen?",
-        "Vad fångar du helst med din telefon?"
+        "Har du sett någon match nyligen?",
+        "Vilket lag håller du på?"
       ]
     },
     {
-      "id": "t-20260607-9",
-      "category": "teknik",
-      "text": "Sony lanserade sina nya WH-1000XM6-hörlurar. De verkar ha riktigt bra ljud!",
+      "id": "s-20260608-15",
+      "category": "sport",
+      "text": "Mikaela Lindberg satte nytt svenskt rekord på 200 meter fjäril, sjukt grymt gjort!",
       "followUp": [
-        "Vad tycker du är viktigt i hörlurar?",
-        "Har du hört talas om trådlösa hörlurar som inte tappar ljudkvaliteten?"
+        "Kollade du på tävlingen?",
+        "Är du själv intresserad av simning?"
       ]
     },
     {
-      "id": "t-20260607-10",
+      "id": "t-20260608-1",
       "category": "teknik",
-      "text": "Sennheiser har släppt Spectera, ett nytt trådlöst ljudsystem. Låter fancy, va?",
+      "text": "Såg du att Meta släppte en ny AI-app som typ ska vara som en personlig assistent? Det känns ju rätt futuristiskt med glasögon och allt.",
       "followUp": [
-        "Använder du trådlöst ljud i vardagen?",
-        "Skulle du våga investera i ett högkvalitativt ljudsystem?"
+        "Skulle du våga använda smarta glasögon?",
+        "Vad skulle du vilja ha hjälp med av en AI-assistent?"
       ]
     },
     {
-      "id": "t-20260607-11",
+      "id": "t-20260608-2",
       "category": "teknik",
-      "text": "Har du kollat på Gothic 1 Remake? Det ser riktigt bra ut med uppdaterad grafik!",
+      "text": "Samsung lanserade nyligen Galaxy A57 5G, med en grym kamera och AI-grejer. Man hör ju att de kör hårt för att konkurrera på pris.",
       "followUp": [
-        "Spelar du fortfarande gamla klassiska spel?",
-        "Vad är ditt favoritspel från barndomen?"
+        "Har du sett några bilder från kameran än?",
+        "Vad är viktigast för dig när du väljer mobil: kamera eller batteritid?"
       ]
     },
     {
-      "id": "t-20260607-12",
+      "id": "t-20260608-3",
       "category": "teknik",
-      "text": "Kollade du på det nya spelet Calx? Jag älskar den cel-shadade grafiken!",
+      "text": "Hörde du att Splitgate: Arena Reloaded har fått en ny version? De har tydligen fixat gameplay och lagt till enklare progression.",
       "followUp": [
-        "Vilken speltyp lockar dig mest just nu?",
-        "Har du testat något nytt spel nyligen?"
+        "Spelar du fortfarande Splitgate, eller har du fastnat för något annat?",
+        "Vilken typ av spel skulle du vilja se mer av i framtiden?"
       ]
     },
     {
-      "id": "t-20260607-13",
+      "id": "t-20260608-4",
       "category": "teknik",
-      "text": "Hörde du om Voidling Bound? Att samla och anpassa varelser låter ju skitkul!",
+      "text": "Google Gemini-appen har fått en uppdatering med Daily Brief och ny design. Jag gillar när appar blir mer användarvänliga!",
       "followUp": [
-        "Skulle du satsa på att anpassa din egen karaktär?",
-        "Vilken typ av spelvärld tycker du är mest intressant?"
+        "Har du testat den nya designen än?",
+        "Vilka appar använder du mest i din vardag?"
       ]
     },
     {
-      "id": "t-20260607-14",
+      "id": "t-20260608-5",
       "category": "teknik",
-      "text": "Witchspire har släppts i early access nu. Det ser ut att vara en rolig överlevnadsgrej!",
+      "text": "SpaceX skickade just en obemannad Dragon-farkost till ISS med 6 500 pund last. Det känns så galet att vi skickar prylar ut i rymden!",
       "followUp": [
-        "Vad är din go-to taktik i överlevnadsspel?",
-        "Skulle du spela det med några kompisar?"
+        "Tror du att vi kommer att se fler människor i rymden snart?",
+        "Om du fick åka med SpaceX, skulle du göra det?"
       ]
     },
     {
-      "id": "t-20260607-15",
+      "id": "t-20260608-6",
       "category": "teknik",
-      "text": "Windows 11:s juni 2026-uppdatering kommer med delad ljuduppspelning. Kontrollfreaks, unite!",
+      "text": "Mobilspel är tydligen superpopulärt i USA, med 212,3 miljoner veckovisa spelare. Generation Z leder spelutgifterna, vad hände där?",
       "followUp": [
-        "Tror du att det kommer bli bättre att dela ljud?",
-        "Har du provat liknande funktioner på andra plattformar?"
+        "Vad spelar du mest på mobilen?",
+        "Tror du att mobilspel kommer att bli ännu mer populära?"
+      ]
+    },
+    {
+      "id": "t-20260608-7",
+      "category": "teknik",
+      "text": "Har du tänkt på hur ofta vi hör om cyberattacker nu? Allt handlar om att skydda sina grejer, som information och enheter.",
+      "followUp": [
+        "Har du någonsin blivit utsatt för något liknande?",
+        "Vilka säkerhetsgrejer har du hemma för att skydda dig?"
+      ]
+    },
+    {
+      "id": "t-20260608-8",
+      "category": "teknik",
+      "text": "Kollade du in Samsungs nya guide för att skapa ett smart hem? Känns som en bra grej om man vill ha allt kopplat.",
+      "followUp": [
+        "Vilka smarta prylar skulle du vilja ha hemma?",
+        "Är du en sån som gillar att styra allt med mobilen?"
+      ]
+    },
+    {
+      "id": "t-20260608-9",
+      "category": "teknik",
+      "text": "Google Pixel 10 har fått några coola AI-funktioner som Magic Cue. Hela AI-grejen börjar ju verkligen bli en del av våra mobiler.",
+      "followUp": [
+        "Har du testat någon av de nya funktionerna?",
+        "Vad är den bästa funktionen du har på din nuvarande telefon?"
+      ]
+    },
+    {
+      "id": "t-20260608-10",
+      "category": "teknik",
+      "text": "SpaceX genomförde sitt Transporter-16-uppdrag och skickade 119 satelliter! Snacka om att det är fullt i rymden.",
+      "followUp": [
+        "Vad tycker du om att så många satelliter skickas upp?",
+        "Hur länge tror du vi kan fortsätta skicka upp dem utan problem?"
+      ]
+    },
+    {
+      "id": "t-20260608-11",
+      "category": "teknik",
+      "text": "Framtiden för vår elförsörjning kan ju påverkas av cyberattacker. Tänk om strömmen går för att någon knäcker koden?",
+      "followUp": [
+        "Hur skulle du klara dig utan el en längre tid?",
+        "Tror du att folk är tillräckligt medvetna om det här?"
       ]
     },
     {
