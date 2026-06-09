@@ -132,237 +132,210 @@
       ]
     },
     {
-      "id": "s-20260608-1",
+      "id": "s-20260609-1",
       "category": "sport",
-      "text": "Såg du att Serena Williams gör comeback på tennisbanan? Hon ska köra sitt första race i Queens nästa vecka!",
+      "text": "Kollade du på nyheterna om Breel Embolo? Han fick sitt visum godkänt efter två dagars strul.",
       "followUp": [
-        "Har du följt henne under åren?",
-        "Tror du hon har en chans att vinna?"
+        "Vilken sport skulle du helst åka till VM för?",
+        "Tror du att han kan göra en impact i turneringen?"
       ]
     },
     {
-      "id": "s-20260608-2",
+      "id": "s-20260609-2",
       "category": "sport",
-      "text": "Wow, Dino Beganovic tog ju sin första pallplats i Formel 1 i Monaco! Snacka om debut!",
+      "text": "Såg du att Jurrien Timber missar VM på grund av skada? Riktigt trist för Nederländerna.",
       "followUp": [
-        "Hade du koll på honom innan?",
-        "Vad tycker du om F1-racing generellt?"
+        "Tror du det påverkar deras chanser?",
+        "Har du sett något av hans spel?"
       ]
     },
     {
-      "id": "s-20260608-3",
+      "id": "s-20260609-3",
       "category": "sport",
-      "text": "Vilken dramatik i Stanley Cup-finalen! Carolina Hurricanes kvittar serien med ett galet vinstmål i förlängning!",
+      "text": "Det var ju en spännande match mellan Sverige och Grekland, sluta 2–2! Vad tycker du om spelet?",
       "followUp": [
-        "Kollade du på matchen?",
-        "Vilken är din favorit i NHL?"
+        "Hade du förväntat dig det resultatet?",
+        "Vilken spelare tycker du såg bäst ut?"
       ]
     },
     {
-      "id": "s-20260608-4",
+      "id": "s-20260609-4",
       "category": "sport",
-      "text": "Shakira ska sjunga under invigningen av fotbolls-VM i Mexiko – kan det bli mer ikoniskt?",
+      "text": "Sverige har just haft sin första träning i Dallas inför VM. Spännande grejer på gång!",
       "followUp": [
-        "Vilken är din favvo-låt med henne?",
-        "Ska du kolla på VM?"
+        "Tror du de kommer vara redo i tid?",
+        "Vilka spelare behöver verkligen steppa upp?"
       ]
     },
     {
-      "id": "s-20260608-5",
+      "id": "s-20260609-5",
       "category": "sport",
-      "text": "Horribel incident med Christian Eriksen på planen, men tur att han är vid medvetande igen!",
+      "text": "Alla spelare deltog på Sveriges senaste träning. Det kan bli intressant att se hur laget formeras!",
       "followUp": [
-        "Har du följt hans karriär?",
-        "Kollade du på matchen?"
+        "Har du någon favoritspelare i truppen?",
+        "Vilka positioner ser du som mest osäkra?"
       ]
     },
     {
-      "id": "s-20260608-6",
+      "id": "s-20260609-6",
       "category": "sport",
-      "text": "Tråkiga nyheter om Stacey King, en riktig NBA-legendar som har gått bort. Tiden går fort.",
+      "text": "Sveriges VM-grupp ser ju rätt tuff ut med Nederländerna, Japan och Tunisien. Snacka om utmaning!",
       "followUp": [
-        "Har du sett några av hans klassiska matcher?",
-        "Vem är din favoritspelare i NBA?"
+        "Vilken match ser du mest fram emot?",
+        "Tror du Sverige går vidare?"
       ]
     },
     {
-      "id": "s-20260608-7",
+      "id": "s-20260609-7",
       "category": "sport",
-      "text": "Maria João Pinto lägger skorna på hyllan, hon har haft en så imponerande karriär!",
+      "text": "Sverige laddar upp med träningsmatcher och tuffa pass inför VM. Det gäller att vara i form!",
       "followUp": [
-        "Har du sett några av hennes matcher?",
-        "Vad tycker du om handboll i allmänhet?"
+        "Har du testat något liknande upplägg för träning?",
+        "Vilken typ av träning funkar bäst för dig?"
       ]
     },
     {
-      "id": "s-20260608-8",
+      "id": "s-20260609-8",
       "category": "sport",
-      "text": "Mikaela Shiffrin har just satt ett nytt rekord för flest världscupsegrar i alpin skidåkning! Sjukt imponerande!",
+      "text": "Sveriges trupp till VM ser spännande ut, särskilt med spelare som Isak och Gyökeres. Vad säger du?",
       "followUp": [
-        "Kollade du på någon av hennes tävlingar nyligen?",
-        "Vilken sport tycker du är mest spännande att följa?"
+        "Vilken spelare tror du kommer överraska mest?",
+        "Skulle du vilja se fler unga spelare i truppen?"
       ]
     },
     {
-      "id": "s-20260608-9",
+      "id": "s-20260609-9",
       "category": "sport",
-      "text": "Flera e-sportturneringar planeras inför 2026, det börjar bli riktigt intressant!",
+      "text": "Kollade du spelschemat för Sverige i VM? Det blir matcher mot Tunisia, Nederländerna och Japan!",
       "followUp": [
-        "Vilka spel är du mest pepp på?",
-        "Har du några favoriter inom e-sport?"
+        "Vilken match kommer du se?",
+        "Hur viktigt är det med bra start?"
       ]
     },
     {
-      "id": "s-20260608-10",
+      "id": "s-20260609-10",
       "category": "sport",
-      "text": "Sven-Göran Eriksson tar sig an ett nytt uppdrag i Kina! Det blir intressant att se vad han gör där.",
+      "text": "Har du sett de senaste nyheterna om Sveriges VM-förberedelser? Det är alltid spännande med sånt!",
       "followUp": [
-        "Vad tycker du om hans tidigare insatser?",
-        "Skulle du kunna tänka dig att jobba utomlands?"
+        "Tror du att vi kommer se några överraskningar från laget?",
+        "Vad vill du att de fokuserar på innan turneringen?"
       ]
     },
     {
-      "id": "s-20260608-11",
-      "category": "sport",
-      "text": "Mikael Arnell släpper en självbiografi om sin karriär, det där kommer bli en page-turner!",
-      "followUp": [
-        "Kommer du att läsa den?",
-        "Vilka sportbiografier har du gillat?"
-      ]
-    },
-    {
-      "id": "s-20260608-12",
-      "category": "sport",
-      "text": "Formel 1 introducerar nya tekniska regler inför säsongen 2026. Ska bli spännande att se hur det påverkar racen!",
-      "followUp": [
-        "Vad tycker du om de nya reglerna?",
-        "Följer du F1 ofta?"
-      ]
-    },
-    {
-      "id": "s-20260608-13",
-      "category": "sport",
-      "text": "Sveriges handbollslandslag har fått en ny tränare inför kommande tävlingar, undrar hur det kommer att gå?",
-      "followUp": [
-        "Har du koll på lagets historia?",
-        "Vilket är ditt bästa minne av dem?"
-      ]
-    },
-    {
-      "id": "s-20260608-14",
-      "category": "sport",
-      "text": "Allsvenskan har verkligen bjudit på en del överraskningar den senaste tiden, vissa matcher har varit kaos!",
-      "followUp": [
-        "Har du sett någon match nyligen?",
-        "Vilket lag håller du på?"
-      ]
-    },
-    {
-      "id": "s-20260608-15",
-      "category": "sport",
-      "text": "Mikaela Lindberg satte nytt svenskt rekord på 200 meter fjäril, sjukt grymt gjort!",
-      "followUp": [
-        "Kollade du på tävlingen?",
-        "Är du själv intresserad av simning?"
-      ]
-    },
-    {
-      "id": "t-20260608-1",
+      "id": "t-20260609-1",
       "category": "teknik",
-      "text": "Såg du att Meta släppte en ny AI-app som typ ska vara som en personlig assistent? Det känns ju rätt futuristiskt med glasögon och allt.",
+      "text": "Kollade du in den senaste uppdateringen av Gemini-appen? Riktigt coola grejer som 'Daily Brief' och en AI-agent som ger råd.",
       "followUp": [
-        "Skulle du våga använda smarta glasögon?",
-        "Vad skulle du vilja ha hjälp med av en AI-assistent?"
+        "Har du testat den nya designen?",
+        "Tror du att den här typen av AI kommer att bli en grej i vardagen?"
       ]
     },
     {
-      "id": "t-20260608-2",
+      "id": "t-20260609-2",
       "category": "teknik",
-      "text": "Samsung lanserade nyligen Galaxy A57 5G, med en grym kamera och AI-grejer. Man hör ju att de kör hårt för att konkurrera på pris.",
+      "text": "Har du hört att Perplexity uppdaterat sin Comet-webbläsare? Åtta nya funktioner, bland annat telefonnummeråtgärder.",
       "followUp": [
-        "Har du sett några bilder från kameran än?",
-        "Vad är viktigast för dig när du väljer mobil: kamera eller batteritid?"
+        "Vilken av de nya funktionerna verkar mest intressant?",
+        "Kollade du de förbättringarna för iPad?"
       ]
     },
     {
-      "id": "t-20260608-3",
+      "id": "t-20260609-3",
       "category": "teknik",
-      "text": "Hörde du att Splitgate: Arena Reloaded har fått en ny version? De har tydligen fixat gameplay och lagt till enklare progression.",
+      "text": "Såg du vad Zoom släppte nyligen? Nu kan man få AI-noteringar och avatarer till sina möten. Ganska vildt!",
       "followUp": [
-        "Spelar du fortfarande Splitgate, eller har du fastnat för något annat?",
-        "Vilken typ av spel skulle du vilja se mer av i framtiden?"
+        "Tror du att AI-noteringarna kommer göra möten mer effektiva?",
+        "Skulle du använda en AI-avatar?"
       ]
     },
     {
-      "id": "t-20260608-4",
+      "id": "t-20260609-4",
       "category": "teknik",
-      "text": "Google Gemini-appen har fått en uppdatering med Daily Brief och ny design. Jag gillar när appar blir mer användarvänliga!",
+      "text": "Hörde du att Grok-chatboten har fått nya vision och röstfunktioner? Snacka om att ta det ett steg längre!",
       "followUp": [
-        "Har du testat den nya designen än?",
-        "Vilka appar använder du mest i din vardag?"
+        "Skulle du lita på en AI som kan se och prata?",
+        "Kollade du på hur den fungerar?"
       ]
     },
     {
-      "id": "t-20260608-5",
+      "id": "t-20260609-5",
       "category": "teknik",
-      "text": "SpaceX skickade just en obemannad Dragon-farkost till ISS med 6 500 pund last. Det känns så galet att vi skickar prylar ut i rymden!",
+      "text": "Kollade du på Metas nya AI-chatbot-app för iPhone? Låt oss se om den är lika bra som den låter!",
       "followUp": [
-        "Tror du att vi kommer att se fler människor i rymden snart?",
-        "Om du fick åka med SpaceX, skulle du göra det?"
+        "Har du testat en AI-chatbot tidigare?",
+        "Vad tror du om Llama 4-modellen?"
       ]
     },
     {
-      "id": "t-20260608-6",
+      "id": "t-20260609-6",
       "category": "teknik",
-      "text": "Mobilspel är tydligen superpopulärt i USA, med 212,3 miljoner veckovisa spelare. Generation Z leder spelutgifterna, vad hände där?",
+      "text": "Såg att Samsung har släppt Galaxy S26 Ultra. Låter som en riktig monstertelefon, eller?",
       "followUp": [
-        "Vad spelar du mest på mobilen?",
-        "Tror du att mobilspel kommer att bli ännu mer populära?"
+        "Vilka funktioner i den lockar dig mest?",
+        "Tänker du byta till en ny mobil snart?"
       ]
     },
     {
-      "id": "t-20260608-7",
+      "id": "t-20260609-7",
       "category": "teknik",
-      "text": "Har du tänkt på hur ofta vi hör om cyberattacker nu? Allt handlar om att skydda sina grejer, som information och enheter.",
+      "text": "Kollade du på Nothing Phone (3)? Den ser verkligen unik ut med sin design!",
       "followUp": [
-        "Har du någonsin blivit utsatt för något liknande?",
-        "Vilka säkerhetsgrejer har du hemma för att skydda dig?"
+        "Vad tycker du om den designen?",
+        "Skulle du våga prova en så annorlunda telefon?"
       ]
     },
     {
-      "id": "t-20260608-8",
+      "id": "t-20260609-8",
       "category": "teknik",
-      "text": "Kollade du in Samsungs nya guide för att skapa ett smart hem? Känns som en bra grej om man vill ha allt kopplat.",
+      "text": "Hörde att Sony har lanserat Xperia 1 VII. Den ska ha grymma kamerafunktioner, food pics här kommer jag!",
       "followUp": [
-        "Vilka smarta prylar skulle du vilja ha hemma?",
-        "Är du en sån som gillar att styra allt med mobilen?"
+        "Har du använt någon Sony-telefon tidigare?",
+        "Vilken typ av bilder brukar du ta med mobilen?"
       ]
     },
     {
-      "id": "t-20260608-9",
+      "id": "t-20260609-9",
       "category": "teknik",
-      "text": "Google Pixel 10 har fått några coola AI-funktioner som Magic Cue. Hela AI-grejen börjar ju verkligen bli en del av våra mobiler.",
+      "text": "Samsung har släppt Galaxy S25 Edge, den tunnaste smartphonen hittills! Som en supermodell för fickan.",
       "followUp": [
-        "Har du testat någon av de nya funktionerna?",
-        "Vad är den bästa funktionen du har på din nuvarande telefon?"
+        "Tror du att tunnare telefoner är bättre?",
+        "Skulle du nästan vara rädd för att tappa den?"
       ]
     },
     {
-      "id": "t-20260608-10",
+      "id": "t-20260609-10",
       "category": "teknik",
-      "text": "SpaceX genomförde sitt Transporter-16-uppdrag och skickade 119 satelliter! Snacka om att det är fullt i rymden.",
+      "text": "Nu har Apple presenterat iPhone 17-serien. Gissar att vi kommer se en hel del memes om den snart!",
       "followUp": [
-        "Vad tycker du om att så många satelliter skickas upp?",
-        "Hur länge tror du vi kan fortsätta skicka upp dem utan problem?"
+        "Har du en favoritmodell bland de nya?",
+        "Kommer du att uppgradera till den?"
       ]
     },
     {
-      "id": "t-20260608-11",
+      "id": "t-20260609-11",
       "category": "teknik",
-      "text": "Framtiden för vår elförsörjning kan ju påverkas av cyberattacker. Tänk om strömmen går för att någon knäcker koden?",
+      "text": "Microsoft släppte sju nya AI-modeller. Snacka om att köra över konkurrenterna!",
       "followUp": [
-        "Hur skulle du klara dig utan el en längre tid?",
-        "Tror du att folk är tillräckligt medvetna om det här?"
+        "Vilken av de nya modellerna verkar mest spännande?",
+        "Tror du att Microsoft kommer dominera AI-marknaden?"
+      ]
+    },
+    {
+      "id": "t-20260609-12",
+      "category": "teknik",
+      "text": "Elliptic Labs har introducerat AI Virtual Smart Sensor på tre olika smartphones. Det känns som en game-changer!",
+      "followUp": [
+        "Skulle du vilja ha en telefon med AI-sensorer?",
+        "Tror du att det här kommer bli en standard grej?"
+      ]
+    },
+    {
+      "id": "t-20260609-13",
+      "category": "teknik",
+      "text": "Så Google har nu 'Daily Brief' i sin Gemini-app. Riktigt fräscht att ha allt samlat!",
+      "followUp": [
+        "Skulle du använda en sådan daglig sammanställning?",
+        "Vad är det viktigaste du vill se i din dagliga brief?"
       ]
     },
     {
