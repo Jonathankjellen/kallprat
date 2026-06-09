@@ -33,138 +33,102 @@
   ],
   "kallprat": [
     {
-      "id": "n-20260607-1",
+      "id": "n-20260609-1",
       "category": "nyheter",
-      "text": "Såg du att Ella Tiritiello precis släppt en ny singel? Det verkar som att den handlar om ett ganska personligt kapitel i hennes liv.",
+      "text": "Har du snubblat över Camilla Hornbäks story? Helt sjukt hur hon klarade sig efter att ha fötts så tidigt.",
       "followUp": [
-        "Har du lyssnat på den än?",
-        "Vilken är din favoritlåt med henne?"
+        "Vilken del av historien tyckte du var mest fascinerande?",
+        "Kollade du hennes intervju?"
       ]
     },
     {
-      "id": "n-20260607-2",
+      "id": "n-20260609-2",
       "category": "nyheter",
-      "text": "Hörde du grejen med Weibenfalks nya låt 'Minnen & Nostalgi'? Den tar verkligen tillbaka vibbarna från 90-talet.",
+      "text": "Såg du att Gabriel Aspholm blev utsedd till Årets Junior? Biljardkillen gör verkligen stordåd just nu.",
       "followUp": [
-        "Älskar du också klassisk rock?",
-        "Vilket band skulle du vilja se igen?"
+        "Spelar du själv biljard?",
+        "Har du någon favoritspelare inom biljard?"
       ]
     },
     {
-      "id": "n-20260607-3",
+      "id": "n-20260609-3",
       "category": "nyheter",
-      "text": "Va, A*Teens är tillbaka med en ny version av 'You Got The Look'? Snacka om nostalgi!",
+      "text": "Det snackas en del om Mohamsson och huruvida han borde avgå. Vad tycker du?",
       "followUp": [
-        "Hade du en crush på dem när du var yngre?",
-        "Vilken gammal låt är din favorit?"
+        "Tror du att det gör skillnad om han går?",
+        "Har du följt debatten kring honom?"
       ]
     },
     {
-      "id": "n-20260607-4",
+      "id": "n-20260609-4",
       "category": "nyheter",
-      "text": "Björnzone släpper en anthem för fotbolls-VM 2026 som heter 'All of My Heart'. Låter som en riktig stämningshöjare!",
+      "text": "Mölndal Energi har precis öppnat en ny batteripark. Häftigt att se det händer i energisektorn!",
       "followUp": [
-        "Blir det en mustig VM-fest eller?",
-        "Vad är din favorit VM-låt genom tiderna?"
+        "Skulle du kunna tänka dig att ha solpaneler hemma?",
+        "Vad tror du om framtiden för förnybar energi?"
       ]
     },
     {
-      "id": "n-20260607-5",
+      "id": "n-20260609-5",
       "category": "nyheter",
-      "text": "Popbandet Hemliga Klubben har en ny singel som heter 'Typ 100 år' och ska spela på Gröna Lund!",
+      "text": "Willab Garden har öppnat en ny butik i Bromma. Dags för trädgårdsfix i helgen?",
       "followUp": [
-        "Ska du dit?",
-        "Vilket minne har du från Gröna Lund?"
+        "Har du något trädgårdsprojekt på gång?",
+        "Vilka växter gillar du mest?"
       ]
     },
     {
-      "id": "n-20260607-6",
+      "id": "n-20260609-6",
       "category": "nyheter",
-      "text": "Dizzee Rascal gör comeback med konsert på Debaser! Det kommer bli legendariskt.",
+      "text": "Airmee lanserar helgleveranser – nu kan man beställa grejer när som helst! Hur smidigt?",
       "followUp": [
-        "Skulle du gå på en sån konsert?",
-        "Har du några favoritlåtar av honom?"
+        "Vilka grejer skulle du beställa på helgen?",
+        "Tycker du att det är worth it med helgleveranser?"
       ]
     },
     {
-      "id": "n-20260607-7",
+      "id": "n-20260609-7",
       "category": "nyheter",
-      "text": "The Jayhawks har just släppt nyheten om sverigeturné 2026! Helt sjukt!",
+      "text": "Något solutbrott har ökat chansen för norrsken här i Sverige nu. Spännande tid för alla stjärntittare!",
       "followUp": [
-        "Är du fan av alt-country?",
-        "Vilken konsert ser du fram emot mest?"
+        "Har du sett norrsken någon gång?",
+        "Skulle du ge dig ut för att fånga det på bild?"
       ]
     },
     {
-      "id": "n-20260607-8",
+      "id": "n-20260609-8",
       "category": "nyheter",
-      "text": "Kollade du på årets TikTok-trender? 'Grisch' och gurksallad är tydligen hetaste grejerna nu!",
+      "text": "Berättade jag att det hänt något skumt i Skellefteå? Det handlar om en misshandel som rubriceras som mordförsök.",
       "followUp": [
-        "Har du testat att göra gurksallad?",
-        "Vad tycker du om det?"
+        "Kollade du på nyheterna om det?",
+        "Tycker du att sånt här händer oftare nu för tiden?"
       ]
     },
     {
-      "id": "n-20260607-9",
+      "id": "n-20260609-9",
       "category": "nyheter",
-      "text": "Korean Culture Festival i Stockholm lockade massor av folk i helgen! Helt galet vad K-pop växer.",
+      "text": "I Borås hittade de ett misstänkt farligt föremål, men det var bara bluff. Snacka om att bli spänd i onödan!",
       "followUp": [
-        "Har du lyssnat på K-pop?",
-        "Vilken artist skulle du vilja se live?"
+        "Tror du att folk överdriver ibland?",
+        "Har du hört liknande historier tidigare?"
       ]
     },
     {
-      "id": "n-20260607-10",
+      "id": "n-20260609-10",
       "category": "nyheter",
-      "text": "Vattenfall pratar om ökade bonusar för att göra företaget mer attraktivt. Snacka om att prioritera rätt grejer!",
+      "text": "Johanna Nyberg ska genomgå drogtestning efter sina uttalanden. Det blir ju lite drama kring politik!",
       "followUp": [
-        "Tycker du att bonusar är rimligt?",
-        "Vad skulle du göra om du fick en bonus?"
+        "Tror du att det kommer påverka hennes karriär?",
+        "Har du följt hennes politiska resa?"
       ]
     },
     {
-      "id": "n-20260607-11",
+      "id": "n-20260609-11",
       "category": "nyheter",
-      "text": "Långtidsarbetslösheten syns mer nu enligt en ny rapport. Det är ju en viktig fråga.",
+      "text": "Sundsvall får ett nytt företag som skapar arbetstillfällen, kul att det händer grejer i regionen!",
       "followUp": [
-        "Känner du att detta påverkar vår generation?",
-        "Har du sett några initiativ för att stötta?"
-      ]
-    },
-    {
-      "id": "n-20260607-12",
-      "category": "nyheter",
-      "text": "Det pratas om spännande mat- och drycktrender för 2026, nya smaker och fokus på hållbarhet!",
-      "followUp": [
-        "Vad skulle du vilja se mer av?",
-        "Har du sett några intressanta restauranger?"
-      ]
-    },
-    {
-      "id": "n-20260607-13",
-      "category": "nyheter",
-      "text": "Så gör du årets godaste midsommardrink med akvavit och syrén! Det låter ju supergott!",
-      "followUp": [
-        "Ska du testa?",
-        "Vad är din go-to drink på sommaren?"
-      ]
-    },
-    {
-      "id": "n-20260607-14",
-      "category": "nyheter",
-      "text": "Modetrenderna för sommaren 2026 verkar  vara polka dots och lyxiga kontraster. Helt sjukt!",
-      "followUp": [
-        "Har du någon favoritstil?",
-        "Vad skulle du vilja ha i din sommargarderob?"
-      ]
-    },
-    {
-      "id": "n-20260607-15",
-      "category": "nyheter",
-      "text": "ELLE listar 6 semesterparadis i Italien som vi kanske har missat. Det låter lovande!",
-      "followUp": [
-        "Har du varit i Italien?",
-        "Vilket ställe skulle du vilja besöka?"
+        "Känner du att det påverkar staden mycket?",
+        "Vad tycker du om jobbmöjligheterna här?"
       ]
     },
     {
