@@ -33,102 +33,66 @@
   ],
   "kallprat": [
     {
-      "id": "n-20260609-1",
+      "id": "n-20260610-1",
       "category": "nyheter",
-      "text": "Har du snubblat över Camilla Hornbäks story? Helt sjukt hur hon klarade sig efter att ha fötts så tidigt.",
+      "text": "Snacka om att Foo Fighters kommer till Stockholm! Det är ju verkligen något att se fram emot.",
       "followUp": [
-        "Vilken del av historien tyckte du var mest fascinerande?",
-        "Kollade du hennes intervju?"
+        "Har du sett dem live tidigare?",
+        "Vilken låt hoppas du att de spelar?"
       ]
     },
     {
-      "id": "n-20260609-2",
+      "id": "n-20260610-2",
       "category": "nyheter",
-      "text": "Såg du att Gabriel Aspholm blev utsedd till Årets Junior? Biljardkillen gör verkligen stordåd just nu.",
+      "text": "Så SVT kanske slopar det där avsnittet av 'Invandrare för svenskar'. Tydligen hetsade det upp en del känslor.",
       "followUp": [
-        "Spelar du själv biljard?",
-        "Har du någon favoritspelare inom biljard?"
+        "Tror du de gör rätt i att backa?",
+        "Vad tycker du om programmet annars?"
       ]
     },
     {
-      "id": "n-20260609-3",
+      "id": "n-20260610-3",
       "category": "nyheter",
-      "text": "Det snackas en del om Mohamsson och huruvida han borde avgå. Vad tycker du?",
+      "text": "Regeringen sätter igång en utredning för att göra äldreomsorgen tryggare. Det känns ju som ett måste nu för tiden.",
       "followUp": [
-        "Tror du att det gör skillnad om han går?",
-        "Har du följt debatten kring honom?"
+        "Vet du hur det ska funka i praktiken?",
+        "Har du sett några förbättringar på sistone?"
       ]
     },
     {
-      "id": "n-20260609-4",
+      "id": "n-20260610-4",
       "category": "nyheter",
-      "text": "Mölndal Energi har precis öppnat en ny batteripark. Häftigt att se det händer i energisektorn!",
+      "text": "Har du sett de nya TikTok-trenderna 'brat rot' och 'goblin mode 2.0'? Det är ju nästan humoristiskt!",
       "followUp": [
-        "Skulle du kunna tänka dig att ha solpaneler hemma?",
-        "Vad tror du om framtiden för förnybar energi?"
+        "Vilken av dem gillar du mest?",
+        "Har du redan testat något av det?"
       ]
     },
     {
-      "id": "n-20260609-5",
+      "id": "n-20260610-5",
       "category": "nyheter",
-      "text": "Willab Garden har öppnat en ny butik i Bromma. Dags för trädgårdsfix i helgen?",
+      "text": "SMHI varnar för hög risk för skogsbränder. Inte direkt det bästa vädret för att grilla i skogen.",
       "followUp": [
-        "Har du något trädgårdsprojekt på gång?",
-        "Vilka växter gillar du mest?"
+        "Har du planerat något utomhus snart?",
+        "Känns det som att vi har haft mycket sånt här på sistone?"
       ]
     },
     {
-      "id": "n-20260609-6",
+      "id": "n-20260610-6",
       "category": "nyheter",
-      "text": "Airmee lanserar helgleveranser – nu kan man beställa grejer när som helst! Hur smidigt?",
+      "text": "Typiskt att damlandslaget förlorade mot Danmark med 1–2. Snacka om besvikelse!",
       "followUp": [
-        "Vilka grejer skulle du beställa på helgen?",
-        "Tycker du att det är worth it med helgleveranser?"
+        "Kollade du matchen?",
+        "Vad tror du om deras chanser nästa gång?"
       ]
     },
     {
-      "id": "n-20260609-7",
+      "id": "n-20260610-7",
       "category": "nyheter",
-      "text": "Något solutbrott har ökat chansen för norrsken här i Sverige nu. Spännande tid för alla stjärntittare!",
+      "text": "Visste du att herrlandslaget är på väg till VM nu? De måste vara taggade!",
       "followUp": [
-        "Har du sett norrsken någon gång?",
-        "Skulle du ge dig ut för att fånga det på bild?"
-      ]
-    },
-    {
-      "id": "n-20260609-8",
-      "category": "nyheter",
-      "text": "Berättade jag att det hänt något skumt i Skellefteå? Det handlar om en misshandel som rubriceras som mordförsök.",
-      "followUp": [
-        "Kollade du på nyheterna om det?",
-        "Tycker du att sånt här händer oftare nu för tiden?"
-      ]
-    },
-    {
-      "id": "n-20260609-9",
-      "category": "nyheter",
-      "text": "I Borås hittade de ett misstänkt farligt föremål, men det var bara bluff. Snacka om att bli spänd i onödan!",
-      "followUp": [
-        "Tror du att folk överdriver ibland?",
-        "Har du hört liknande historier tidigare?"
-      ]
-    },
-    {
-      "id": "n-20260609-10",
-      "category": "nyheter",
-      "text": "Johanna Nyberg ska genomgå drogtestning efter sina uttalanden. Det blir ju lite drama kring politik!",
-      "followUp": [
-        "Tror du att det kommer påverka hennes karriär?",
-        "Har du följt hennes politiska resa?"
-      ]
-    },
-    {
-      "id": "n-20260609-11",
-      "category": "nyheter",
-      "text": "Sundsvall får ett nytt företag som skapar arbetstillfällen, kul att det händer grejer i regionen!",
-      "followUp": [
-        "Känner du att det påverkar staden mycket?",
-        "Vad tycker du om jobbmöjligheterna här?"
+        "Vilket land är du mest peppad på att se dem möta?",
+        "Har du några tips på bra matcher att kolla in?"
       ]
     },
     {
@@ -224,136 +188,136 @@
     {
       "id": "t-20260610-1",
       "category": "teknik",
-      "text": "Såg du att Luna Band släpper en skärmfri fitness-tracker med AI-funktioner? Det känns som nästa nivå av träning.",
+      "text": "Såg du att Ericsson snackade om 6G på Mobile World Congress? De pratar om att AI ska lösa allt i nätverkslagren.",
       "followUp": [
-        "Har du testat någon sån där tracker?",
-        "Tror du det funkar bättre utan skärm?"
+        "Vad tror du att man kommer hinna med med 6G?",
+        "Tycker du att det kännas som science fiction eller mer verklighet?"
       ]
     },
     {
       "id": "t-20260610-2",
       "category": "teknik",
-      "text": "Hörde du att Sandbar fick 23 miljoner dollar för sin AI-ring som kan anteckna i röst? Snacka om att spara tid!",
+      "text": "Kollade du på Microsofts nya bärbara AI-badge? Den verkar ge hjälp direkt utan att man ens behöver be om det.",
       "followUp": [
-        "Skulle du våga ha en ring som kan ta anteckningar?",
-        "Funkar det verkligen bättre än att skriva själv?"
+        "Skulle du kunna tänka dig att ha en sån?",
+        "Tror du det blir en hit eller floppar det?"
       ]
     },
     {
       "id": "t-20260610-3",
       "category": "teknik",
-      "text": "Garmin och Meta fixar något sjukt coolt med bilar, där man styr infotainmentsystemet med handgester! Det är ju sci-fi rakt av.",
+      "text": "Hur grymt är det inte med Asus nya dator som gör spelupplevelsen holografisk? Känns som man kliver rakt in i spelet!",
       "followUp": [
-        "Tänk om det strular, skulle du våga köra?",
-        "Vilken annan funktion skulle vara cool att styra med gester?"
+        "Skulle du våga spela med sådana glasögon?",
+        "Vilket spel skulle du vilja testa det på först?"
       ]
     },
     {
       "id": "t-20260610-4",
       "category": "teknik",
-      "text": "Meta satsar på fler AI-wearables och smarta glasögon. Lär vi oss någonsin att släppa sökandet efter den perfekta gadgeten?",
+      "text": "Hörde du om de nya smarta glasögonen från Google och Samsung? De kan tydligen ge både ljud och visuell info.",
       "followUp": [
-        "Vilken typ av tech skulle du vilja ha som wearable?",
-        "Tror du de lyckas sälja 10 miljoner?"
+        "Skulle du klara av att ha dem på dig hela dagen?",
+        "Tror du de kan göra livet enklare eller mer krångligt?"
       ]
     },
     {
       "id": "t-20260610-5",
       "category": "teknik",
-      "text": "MIT har utvecklat ett ultraljudsarmband för att styra robotar med handgester. Snacka om att få kontroll över sina egna terminatorer!",
+      "text": "Jag fastnade på en intervju med Nothing's vd, där han pratar om att AI-agenter ska ta över smartphone-appar. Låter lite galet, va?",
       "followUp": [
-        "Tror du det kommer funka i praktiken?",
-        "Skulle du lita på att styra en robot så?"
+        "Tror du verkligen att vi kommer släppa våra appar helt?",
+        "Vad skulle du vilja att en AI-agent gjorde för dig?"
       ]
     },
     {
       "id": "t-20260610-6",
       "category": "teknik",
-      "text": "Visste du att Autoliv och Tensor lanserat en hopfällbar ratt för självkörande bilar? Känns ju som något från framtiden!",
+      "text": "Kollade du på Qualcomms senaste snack om AI-agenter som ska bli osynliga? Helt sjukt hur de vill integrera dem i allt!",
       "followUp": [
-        "Är det här nästa steg för självkörning?",
-        "Skulle du kunna tänka dig att ha en bil som är så här cool?"
+        "Känns det här som en bra idé eller blir det för mycket?",
+        "Hur skulle du vilja att en sådan agent såg ut?"
       ]
     },
     {
       "id": "t-20260610-7",
       "category": "teknik",
-      "text": "CES 2026 visade upp holografiska skärmar för gaming. Det kändes nästan som att gå in i ett datorspel!",
+      "text": "Ring har släppt AI-säkerhetsverktyg som lär sig dina rutiner. Snacka om att sätta tryggheten anpassad efter dig!",
       "followUp": [
-        "Vilket spel skulle vara bäst i holografisk version?",
-        "Blir det hype eller floppar det?"
+        "Skulle du våga lita på den typen av teknik?",
+        "Vad skulle vara ditt största orosmoment när det kommer till smarta hem-säkerhet?"
       ]
     },
     {
       "id": "t-20260610-8",
       "category": "teknik",
-      "text": "Meta uppdaterade sina Ray-Ban-glasögon med inbyggd teleprompter. Blir vår vardag snart filmisk?",
+      "text": "IEEE spår att AI kommer att ta över mycket av det tråkiga jobbet i affärer. Tänk om det stämmer!",
       "followUp": [
-        "Skulle du använda såna dagligen?",
-        "Vad mer skulle du vilja ha i ett par smarta glasögon?"
+        "Vad skulle du vilja att AI gjorde för dig på jobbet?",
+        "Tror du att folk skulle bli av med några jobb eller bara få mer tid över?"
       ]
     },
     {
       "id": "t-20260610-9",
       "category": "teknik",
-      "text": "Zscaler har släppt en zero trust-plattform för AI. Äntligen ett smart drag för att hålla snubbarna borta från det känsliga!",
+      "text": "OpenAI släppte Dreaming V3, där ChatGPT ska minnas tidigare grejer. Det kan ju bli riktigt användbart!",
       "followUp": [
-        "Tycker du att fler företag borde tänka så här?",
-        "Vad ska man mer skydda från dessa AI-attacker?"
+        "Tror du att det är en bra idé eller bara mer att hålla koll på?",
+        "Hur mycket skulle du vilja att ChatGPT lärde sig om dig?"
       ]
     },
     {
       "id": "t-20260610-10",
       "category": "teknik",
-      "text": "CISA har gett amerikanska myndigheter tre dagar på sig att fixa en VPN-sårbarhet. Snacka om pressat läge!",
+      "text": "Nvidia och Microsoft har släppt RTX Spark, en superchip som låter sjukt kraftfull för AI-prestanda. Vad tror du om den?",
       "followUp": [
-        "Hur säkra tror du att våra egna VPN-lösningar är?",
-        "Vad skulle du göra om din VPN plötsligt blev hackad?"
+        "Skulle du få användning för en sådan hemma?",
+        "Vilka typer av projekt skulle du använda den till?"
       ]
     },
     {
       "id": "t-20260610-11",
       "category": "teknik",
-      "text": "EU vill blockera leverantörer med en 'kill switch'. Bra move eller skrämmande grej?",
+      "text": "Har du sett att DuckDuckGo har fått en explosion av nedladdningar efter crazy-tider med AI-sökning? Snacka om att de dumpar vissa jätte!",
       "followUp": [
-        "Tror du att fler regioner kommer följa efter?",
-        "Vad tycker du om tanken på att skydda tekniken så här?"
+        "Tror du att de kommer att hålla i det här?",
+        "Använder du DuckDuckGo, eller är du mer en Google-person?"
       ]
     },
     {
       "id": "t-20260610-12",
       "category": "teknik",
-      "text": "Zscaler utökar sitt AI-Guardian-projekt. Det känns som att ha en digital bodyguard, eller?",
+      "text": "Zoom har lanserat sin AI-arbetsyta, ZoomMate. Undrar hur mycket tid man kommer spara på möten med det?",
       "followUp": [
-        "Tror du att AI kan bli vår bästa vän i cybersäkerhet?",
-        "Vad är det största hotet mot säkerheten just nu, enligt dig?"
+        "Känns det som något som kan bli din nya bästa vän på jobbet?",
+        "Har du testat några AI-verktyg tidigare?"
       ]
     },
     {
       "id": "t-20260610-13",
       "category": "teknik",
-      "text": "F-Secure säger att AI gör cyberattacker mer tillgängliga. Ska vi börja investera i fler lås och larm?",
+      "text": "Hörde du om dataläckan hos Charter Communications? Det är ju bara galet hur många konton som är drabbade!",
       "followUp": [
-        "Skulle du skaffa specialprogram för att skydda dig?",
-        "Tror du det kommer att bli värre framöver?"
+        "Skulle du våga ha kvar dina uppgifter där nu?",
+        "Hur gör du för att skydda dig online?"
       ]
     },
     {
       "id": "t-20260610-14",
       "category": "teknik",
-      "text": "Digital.ai:s rapport visar att nästan alla mobilappar varit utsatta för attacker. Det känns ju lite läskigt!",
+      "text": "SpaceX planerar en galet stor IPO på 75 miljarder dollar. Helt sjukt, jag trodde de skulle växa i raketfart!",
       "followUp": [
-        "Hur bra skydd har du på din telefon?",
-        "Vilka appar använder du som känns allra mest utsatta?"
+        "Tror du att det blir värt det för dem i längden?",
+        "Hade du investerat i rymdteknik om du haft chansen?"
       ]
     },
     {
       "id": "t-20260610-15",
       "category": "teknik",
-      "text": "Forskare snackar om mulsemedia-kommunikation för 6G. Ska vår teknik alltså stimulera alla fem sinnen?",
+      "text": "Apple presenterade sin förbättrade Siri som nu ska kunna snacka mer som en människa. Låter som vi går mot något grymt!",
       "followUp": [
-        "Vilken av dina sinnen saknar du mest i tech-världen just nu?",
-        "Hur långt tror du att vi är från detta?"
+        "Skulle du kunna tänka dig att prata ännu mer med din telefon?",
+        "Vad hoppas du att Siri ska kunna göra i framtiden?"
       ]
     },
     {
