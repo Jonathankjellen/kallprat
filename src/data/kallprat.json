@@ -222,120 +222,138 @@
       ]
     },
     {
-      "id": "t-20260609-1",
+      "id": "t-20260610-1",
       "category": "teknik",
-      "text": "Kollade du in den senaste uppdateringen av Gemini-appen? Riktigt coola grejer som 'Daily Brief' och en AI-agent som ger råd.",
+      "text": "Såg du att Luna Band släpper en skärmfri fitness-tracker med AI-funktioner? Det känns som nästa nivå av träning.",
       "followUp": [
-        "Har du testat den nya designen?",
-        "Tror du att den här typen av AI kommer att bli en grej i vardagen?"
+        "Har du testat någon sån där tracker?",
+        "Tror du det funkar bättre utan skärm?"
       ]
     },
     {
-      "id": "t-20260609-2",
+      "id": "t-20260610-2",
       "category": "teknik",
-      "text": "Har du hört att Perplexity uppdaterat sin Comet-webbläsare? Åtta nya funktioner, bland annat telefonnummeråtgärder.",
+      "text": "Hörde du att Sandbar fick 23 miljoner dollar för sin AI-ring som kan anteckna i röst? Snacka om att spara tid!",
       "followUp": [
-        "Vilken av de nya funktionerna verkar mest intressant?",
-        "Kollade du de förbättringarna för iPad?"
+        "Skulle du våga ha en ring som kan ta anteckningar?",
+        "Funkar det verkligen bättre än att skriva själv?"
       ]
     },
     {
-      "id": "t-20260609-3",
+      "id": "t-20260610-3",
       "category": "teknik",
-      "text": "Såg du vad Zoom släppte nyligen? Nu kan man få AI-noteringar och avatarer till sina möten. Ganska vildt!",
+      "text": "Garmin och Meta fixar något sjukt coolt med bilar, där man styr infotainmentsystemet med handgester! Det är ju sci-fi rakt av.",
       "followUp": [
-        "Tror du att AI-noteringarna kommer göra möten mer effektiva?",
-        "Skulle du använda en AI-avatar?"
+        "Tänk om det strular, skulle du våga köra?",
+        "Vilken annan funktion skulle vara cool att styra med gester?"
       ]
     },
     {
-      "id": "t-20260609-4",
+      "id": "t-20260610-4",
       "category": "teknik",
-      "text": "Hörde du att Grok-chatboten har fått nya vision och röstfunktioner? Snacka om att ta det ett steg längre!",
+      "text": "Meta satsar på fler AI-wearables och smarta glasögon. Lär vi oss någonsin att släppa sökandet efter den perfekta gadgeten?",
       "followUp": [
-        "Skulle du lita på en AI som kan se och prata?",
-        "Kollade du på hur den fungerar?"
+        "Vilken typ av tech skulle du vilja ha som wearable?",
+        "Tror du de lyckas sälja 10 miljoner?"
       ]
     },
     {
-      "id": "t-20260609-5",
+      "id": "t-20260610-5",
       "category": "teknik",
-      "text": "Kollade du på Metas nya AI-chatbot-app för iPhone? Låt oss se om den är lika bra som den låter!",
+      "text": "MIT har utvecklat ett ultraljudsarmband för att styra robotar med handgester. Snacka om att få kontroll över sina egna terminatorer!",
       "followUp": [
-        "Har du testat en AI-chatbot tidigare?",
-        "Vad tror du om Llama 4-modellen?"
+        "Tror du det kommer funka i praktiken?",
+        "Skulle du lita på att styra en robot så?"
       ]
     },
     {
-      "id": "t-20260609-6",
+      "id": "t-20260610-6",
       "category": "teknik",
-      "text": "Såg att Samsung har släppt Galaxy S26 Ultra. Låter som en riktig monstertelefon, eller?",
+      "text": "Visste du att Autoliv och Tensor lanserat en hopfällbar ratt för självkörande bilar? Känns ju som något från framtiden!",
       "followUp": [
-        "Vilka funktioner i den lockar dig mest?",
-        "Tänker du byta till en ny mobil snart?"
+        "Är det här nästa steg för självkörning?",
+        "Skulle du kunna tänka dig att ha en bil som är så här cool?"
       ]
     },
     {
-      "id": "t-20260609-7",
+      "id": "t-20260610-7",
       "category": "teknik",
-      "text": "Kollade du på Nothing Phone (3)? Den ser verkligen unik ut med sin design!",
+      "text": "CES 2026 visade upp holografiska skärmar för gaming. Det kändes nästan som att gå in i ett datorspel!",
       "followUp": [
-        "Vad tycker du om den designen?",
-        "Skulle du våga prova en så annorlunda telefon?"
+        "Vilket spel skulle vara bäst i holografisk version?",
+        "Blir det hype eller floppar det?"
       ]
     },
     {
-      "id": "t-20260609-8",
+      "id": "t-20260610-8",
       "category": "teknik",
-      "text": "Hörde att Sony har lanserat Xperia 1 VII. Den ska ha grymma kamerafunktioner, food pics här kommer jag!",
+      "text": "Meta uppdaterade sina Ray-Ban-glasögon med inbyggd teleprompter. Blir vår vardag snart filmisk?",
       "followUp": [
-        "Har du använt någon Sony-telefon tidigare?",
-        "Vilken typ av bilder brukar du ta med mobilen?"
+        "Skulle du använda såna dagligen?",
+        "Vad mer skulle du vilja ha i ett par smarta glasögon?"
       ]
     },
     {
-      "id": "t-20260609-9",
+      "id": "t-20260610-9",
       "category": "teknik",
-      "text": "Samsung har släppt Galaxy S25 Edge, den tunnaste smartphonen hittills! Som en supermodell för fickan.",
+      "text": "Zscaler har släppt en zero trust-plattform för AI. Äntligen ett smart drag för att hålla snubbarna borta från det känsliga!",
       "followUp": [
-        "Tror du att tunnare telefoner är bättre?",
-        "Skulle du nästan vara rädd för att tappa den?"
+        "Tycker du att fler företag borde tänka så här?",
+        "Vad ska man mer skydda från dessa AI-attacker?"
       ]
     },
     {
-      "id": "t-20260609-10",
+      "id": "t-20260610-10",
       "category": "teknik",
-      "text": "Nu har Apple presenterat iPhone 17-serien. Gissar att vi kommer se en hel del memes om den snart!",
+      "text": "CISA har gett amerikanska myndigheter tre dagar på sig att fixa en VPN-sårbarhet. Snacka om pressat läge!",
       "followUp": [
-        "Har du en favoritmodell bland de nya?",
-        "Kommer du att uppgradera till den?"
+        "Hur säkra tror du att våra egna VPN-lösningar är?",
+        "Vad skulle du göra om din VPN plötsligt blev hackad?"
       ]
     },
     {
-      "id": "t-20260609-11",
+      "id": "t-20260610-11",
       "category": "teknik",
-      "text": "Microsoft släppte sju nya AI-modeller. Snacka om att köra över konkurrenterna!",
+      "text": "EU vill blockera leverantörer med en 'kill switch'. Bra move eller skrämmande grej?",
       "followUp": [
-        "Vilken av de nya modellerna verkar mest spännande?",
-        "Tror du att Microsoft kommer dominera AI-marknaden?"
+        "Tror du att fler regioner kommer följa efter?",
+        "Vad tycker du om tanken på att skydda tekniken så här?"
       ]
     },
     {
-      "id": "t-20260609-12",
+      "id": "t-20260610-12",
       "category": "teknik",
-      "text": "Elliptic Labs har introducerat AI Virtual Smart Sensor på tre olika smartphones. Det känns som en game-changer!",
+      "text": "Zscaler utökar sitt AI-Guardian-projekt. Det känns som att ha en digital bodyguard, eller?",
       "followUp": [
-        "Skulle du vilja ha en telefon med AI-sensorer?",
-        "Tror du att det här kommer bli en standard grej?"
+        "Tror du att AI kan bli vår bästa vän i cybersäkerhet?",
+        "Vad är det största hotet mot säkerheten just nu, enligt dig?"
       ]
     },
     {
-      "id": "t-20260609-13",
+      "id": "t-20260610-13",
       "category": "teknik",
-      "text": "Så Google har nu 'Daily Brief' i sin Gemini-app. Riktigt fräscht att ha allt samlat!",
+      "text": "F-Secure säger att AI gör cyberattacker mer tillgängliga. Ska vi börja investera i fler lås och larm?",
       "followUp": [
-        "Skulle du använda en sådan daglig sammanställning?",
-        "Vad är det viktigaste du vill se i din dagliga brief?"
+        "Skulle du skaffa specialprogram för att skydda dig?",
+        "Tror du det kommer att bli värre framöver?"
+      ]
+    },
+    {
+      "id": "t-20260610-14",
+      "category": "teknik",
+      "text": "Digital.ai:s rapport visar att nästan alla mobilappar varit utsatta för attacker. Det känns ju lite läskigt!",
+      "followUp": [
+        "Hur bra skydd har du på din telefon?",
+        "Vilka appar använder du som känns allra mest utsatta?"
+      ]
+    },
+    {
+      "id": "t-20260610-15",
+      "category": "teknik",
+      "text": "Forskare snackar om mulsemedia-kommunikation för 6G. Ska vår teknik alltså stimulera alla fem sinnen?",
+      "followUp": [
+        "Vilken av dina sinnen saknar du mest i tech-världen just nu?",
+        "Hur långt tror du att vi är från detta?"
       ]
     },
     {
