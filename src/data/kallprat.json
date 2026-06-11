@@ -33,66 +33,138 @@
   ],
   "kallprat": [
     {
-      "id": "n-20260610-1",
+      "id": "n-20260611-1",
       "category": "nyheter",
-      "text": "Snacka om att Foo Fighters kommer till Stockholm! Det är ju verkligen något att se fram emot.",
+      "text": "Såg du att Zlatan åkt på en ny knäskada? Klart han missar EM igen.",
       "followUp": [
-        "Har du sett dem live tidigare?",
-        "Vilken låt hoppas du att de spelar?"
+        "Tror du han kommer tillbaka, eller har han sett sina bästa dagar?",
+        "Ska vi satsa på landslaget utan Zlatan?"
       ]
     },
     {
-      "id": "n-20260610-2",
+      "id": "n-20260611-2",
       "category": "nyheter",
-      "text": "Så SVT kanske slopar det där avsnittet av 'Invandrare för svenskar'. Tydligen hetsade det upp en del känslor.",
+      "text": "Hörde du om den nya dansutmaningen på TikTok? Folk gör helt galna moves!",
       "followUp": [
-        "Tror du de gör rätt i att backa?",
-        "Vad tycker du om programmet annars?"
+        "Har du testat att dansa den?",
+        "Vilken är din favvodansjust nu?"
       ]
     },
     {
-      "id": "n-20260610-3",
+      "id": "n-20260611-3",
       "category": "nyheter",
-      "text": "Regeringen sätter igång en utredning för att göra äldreomsorgen tryggare. Det känns ju som ett måste nu för tiden.",
+      "text": "Minimalism är typ överallt just nu. Alla verkar vilja släppa grejer och ha det enklare.",
       "followUp": [
-        "Vet du hur det ska funka i praktiken?",
-        "Har du sett några förbättringar på sistone?"
+        "Känner du att du skulle kunna leva med mindre?",
+        "Har du rensat bland dina prylar på sistone?"
       ]
     },
     {
-      "id": "n-20260610-4",
+      "id": "n-20260611-4",
       "category": "nyheter",
-      "text": "Har du sett de nya TikTok-trenderna 'brat rot' och 'goblin mode 2.0'? Det är ju nästan humoristiskt!",
+      "text": "Adele är tillbaka med ny musik efter fem år! Snacka om efterlängtad!",
       "followUp": [
-        "Vilken av dem gillar du mest?",
-        "Har du redan testat något av det?"
+        "Har du hört den nya låten än?",
+        "Vad tycker du om hennes senaste stil?"
       ]
     },
     {
-      "id": "n-20260610-5",
+      "id": "n-20260611-5",
       "category": "nyheter",
-      "text": "SMHI varnar för hög risk för skogsbränder. Inte direkt det bästa vädret för att grilla i skogen.",
+      "text": "Det har öppnat en ny vegansk restaurang i Stockholm som verkar superinnovativ!",
       "followUp": [
-        "Har du planerat något utomhus snart?",
-        "Känns det som att vi har haft mycket sånt här på sistone?"
+        "Vad är det mest spännande veganska du ätit?",
+        "Skulle du våga testa en helt vegansk meny?"
       ]
     },
     {
-      "id": "n-20260610-6",
+      "id": "n-20260611-6",
       "category": "nyheter",
-      "text": "Typiskt att damlandslaget förlorade mot Danmark med 1–2. Snacka om besvikelse!",
+      "text": "Billiga flygpriser gör att alla pratar om drömresor just nu!",
       "followUp": [
-        "Kollade du matchen?",
-        "Vad tror du om deras chanser nästa gång?"
+        "Har du några resmål på din lista?",
+        "Skulle du impulsboka en resa?"
       ]
     },
     {
-      "id": "n-20260610-7",
+      "id": "n-20260611-7",
       "category": "nyheter",
-      "text": "Visste du att herrlandslaget är på väg till VM nu? De måste vara taggade!",
+      "text": "Plastfri juni är igång! Kärlek till de som verkligen går all in på det här.",
       "followUp": [
-        "Vilket land är du mest peppad på att se dem möta?",
-        "Har du några tips på bra matcher att kolla in?"
+        "Har du gjort några plastfria val i sommar?",
+        "Vilken plastgrej tycker du är svårast att klara sig utan?"
+      ]
+    },
+    {
+      "id": "n-20260611-8",
+      "category": "nyheter",
+      "text": "Det snackas om högre löner för unga, med tanke på levnadskostnaderna. Det behövs!",
+      "followUp": [
+        "Tycker du att lönerna verkligen hänger med?",
+        "Vad skulle du göra med en lönehöjning?"
+      ]
+    },
+    {
+      "id": "n-20260611-9",
+      "category": "nyheter",
+      "text": "Medeltidsfestivalen i Visby verkar vara ren fest! Hela stan är fylld av liv och rörelse.",
+      "followUp": [
+        "Har du varit där någon gång?",
+        "Vilken tidsepok skulle du vilja leva i?"
+      ]
+    },
+    {
+      "id": "n-20260611-10",
+      "category": "nyheter",
+      "text": "Det snackas om ett mystiskt ljusfenomen i norr. Typ sci-fi-vibbar!",
+      "followUp": [
+        "Tror du på UFO:n eller är det bara rykten?",
+        "Vad skulle du göra om du såg något sånt själv?"
+      ]
+    },
+    {
+      "id": "n-20260611-11",
+      "category": "nyheter",
+      "text": "Ett nytt skräckspel släpps och alla verkar vara peppade! Ruggiga vibbar.",
+      "followUp": [
+        "Spelar du skräckspel eller är det för läskigt?",
+        "Har du något favoritspel du alltid går tillbaka till?"
+      ]
+    },
+    {
+      "id": "n-20260611-12",
+      "category": "nyheter",
+      "text": "Dansutmaningar på TikTok sprider sig snabbare än löpeld!",
+      "followUp": [
+        "Vilken dans har du sett flest klipp på nyligen?",
+        "Skulle du gå med i en TikTok-dans ihop med gänget?"
+      ]
+    },
+    {
+      "id": "n-20260611-13",
+      "category": "nyheter",
+      "text": "Experter delar tips om minimalistisk inredning. Mindre är mer, tydligen!",
+      "followUp": [
+        "Har du inrett på ett minimalistiskt sätt hemma?",
+        "Vad skulle du rensa ut om du fick välja?"
+      ]
+    },
+    {
+      "id": "n-20260611-14",
+      "category": "nyheter",
+      "text": "Ett nytt italienskt kafé har öppnat i Göteborg, jag hörde att bakverken är magiska!",
+      "followUp": [
+        "Har du besökt något bra kafé på sistone?",
+        "Kaffe eller te – vilket är du på?"
+      ]
+    },
+    {
+      "id": "n-20260611-15",
+      "category": "nyheter",
+      "text": "Billiga hotell i Stockholm hör verkligen sommaren till. Perfekt för en spontanhelg!",
+      "followUp": [
+        "Har du någon gång bott på ett bra budgethotell?",
+        "Vad är det bästa med Stockholm under sommaren?"
       ]
     },
     {
