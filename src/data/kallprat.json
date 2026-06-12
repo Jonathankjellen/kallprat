@@ -33,129 +33,120 @@
   ],
   "kallprat": [
     {
-      "id": "n-20260611-1",
+      "id": "n-20260612-1",
       "category": "nyheter",
-      "text": "Det pågår ju en grej nu med hopecore på TikTok som är helt galet inspirerande. Gillar du sånt som sprider glädje?",
+      "text": "Kollade du på TikTok nyligen? Loreens låt 'Tattoo' är typ överallt, såg att den har blivit med i 365,000 videor!",
       "followUp": [
-        "Har du sett några catchy klipp?",
-        "Vilket budskap skulle du vilja dela med världen?"
+        "Har du sett några roliga clips?",
+        "Tror du att det är hennes bästa låt?"
       ]
     },
     {
-      "id": "n-20260611-2",
+      "id": "n-20260612-2",
       "category": "nyheter",
-      "text": "Har du hört att Indiens bästa restaurang öppnar i Stockholm? Snacka om att man vill ha en biljet till ett matäventyr!",
+      "text": "Hörde du om Elecktra som körde 'Unna Daj' i Drag Race? Den grejen sprängde ju TikTok!",
       "followUp": [
-        "Skulle du testa deras mat?",
-        "Vad är din go-to indiska rätt?"
+        "Kollade du på hela föreställningen?",
+        "Vilken drag artist är din favorit?"
       ]
     },
     {
-      "id": "s-20260611-1",
-      "category": "sport",
-      "text": "Såg du att flera av våra svenska fotbollsspelare just har bytt klubbar utomlands? Riktigt spännande!",
+      "id": "n-20260612-3",
+      "category": "nyheter",
+      "text": "Haha, visste du att Kalmar FF:s videohälsning till Sodiq Lawal blev viral i Nigeria? Snacka om globalt!",
       "followUp": [
-        "Vilken klubb tycker du att de landade i rätt?",
-        "Har du någon favoritspelare du hejar på?"
+        "Tror du att det kommer dra mer spelare till klubben?",
+        "Har du sett hur de firar sina nyförvärv?"
       ]
     },
     {
-      "id": "s-20260611-2",
-      "category": "sport",
-      "text": "Hörde du om förberedelserna inför ishockey-VM 2026? Det snackas om vilka som ska få en plats i truppen.",
+      "id": "n-20260612-4",
+      "category": "nyheter",
+      "text": "Såg du den där grejen om att TikTok blir en nyhetskälla för yngre? Särskilt i Sverige, tydligen!",
       "followUp": [
-        "Skulle du våga satsa på att gå på matcherna?",
-        "Tror du på en medalj för Sverige?"
+        "Kollar du nyheterna på TikTok?",
+        "Vilken typ av nyheter lär du dig där?"
       ]
     },
     {
-      "id": "s-20260611-3",
-      "category": "sport",
-      "text": "Sjukt häftigt att Sverige förbereder sig för innebandy-VM 2026, och träningsmatcherna verkar gå bra.",
+      "id": "n-20260612-5",
+      "category": "nyheter",
+      "text": "Det är ju helt sjukt hur 'Romarriket'-trenden på TikTok har tagit fart, folk snackar om det som om det vore igår!",
       "followUp": [
-        "Har du kollat på några matcher nu på sistone?",
-        "Vilken är din favoritteknik i innebandy?"
+        "Skulle du kunna tänka dig att göra en video om det?",
+        "Vilka historiska grejer tycker du är mest intressanta?"
       ]
     },
     {
-      "id": "s-20260611-4",
-      "category": "sport",
-      "text": "Såg du att tennisvärlden börjar ladda upp för kommande Grand Slam-turneringar? Vi har riktigt bra spelare på gång!",
+      "id": "n-20260612-6",
+      "category": "nyheter",
+      "text": "Loreen toppade DigiListan igen med 'Tattoo'! Snacka om att hålla segertåget rullande!",
       "followUp": [
-        "Har du någon favoritsvensk du hejar på?",
-        "Kollade du på den senaste turneringen?"
+        "Har du hört hennes andra låtar?",
+        "Vilken låt skulle du vilja se där nästa gång?"
       ]
     },
     {
-      "id": "s-20260611-5",
+      "id": "s-20260612-1",
       "category": "sport",
-      "text": "F1-säsongen 2026 har redan bjudit på en hel del oväntade resultat, eller hur?",
+      "text": "Såg du när Diamond League kommer till Oslo? Det blir fullt med riktiga friidrottsstjärnor där.",
       "followUp": [
-        "Vilken bana ser du fram emot mest?",
-        "Håller du på något speciellt team?"
+        "Har du planerat att kolla in det?",
+        "Vilken friidrottare skulle du vilja se live?"
       ]
     },
     {
-      "id": "s-20260611-6",
+      "id": "s-20260612-2",
       "category": "sport",
-      "text": "Hörde du att Alpin-VM 2026 ska gå här i Sverige? Det är så många grymma åkare som kommer!",
+      "text": "Hörde du om Le Mans 24-timmars? Det är så sjukt mycket action på den banan.",
       "followUp": [
-        "Vilken gren gillar du mest inom alpinsk?",
-        "Tror du att vi får se en svensk medalj?"
+        "Skulle du våga köra en sån lång tävling?",
+        "Följer du motorsport ofta?"
       ]
     },
     {
-      "id": "s-20260611-7",
+      "id": "s-20260612-3",
       "category": "sport",
-      "text": "Kollade du på e-sportturneringarna nyligen? De har ju haft rekordhöga tittarsiffror!",
+      "text": "Är du peppad på FIFA VM 2026? Det kommer vara grymma matcher, som Mexiko mot Sydafrika.",
       "followUp": [
-        "Vilket spel brinner du för just nu?",
-        "Skulle du vilja delta i en turnering?"
+        "Vilket lag hejar du på?",
+        "Tror du det blir en överraskning i turneringen?"
       ]
     },
     {
-      "id": "s-20260611-8",
+      "id": "s-20260612-4",
       "category": "sport",
-      "text": "Det verkar som att skid-VM 2026 i Norge har gått riktigt bra för våra svenska åkare!",
+      "text": "Superettan rullar på för fullt nu! Helsingborg mot Landskrona låter ju spännande.",
       "followUp": [
-        "Har du en favoritåkare du hejar på?",
-        "Vilken skidgren tycker du är mest spännande?"
+        "Har du sett någon match live?",
+        "Vilka lag tycker du ser starkast ut i år?"
       ]
     },
     {
-      "id": "s-20260611-9",
+      "id": "s-20260612-5",
       "category": "sport",
-      "text": "Handboll-EM 2026 bjuder på sjukt intensiva matcher! Har du sett någon match nyligen?",
+      "text": "Kollade du på Global Champions Tour? Det är alltid galet med hästar som hoppar så högt.",
       "followUp": [
-        "Vad tycker du om Sveriges chanser i turneringen?",
-        "Spelar du handboll själv?"
+        "Har du någon favorithäst att följa?",
+        "Skulle du vilja prova hoppning?"
       ]
     },
     {
-      "id": "s-20260611-10",
+      "id": "s-20260612-6",
       "category": "sport",
-      "text": "Golf är tillbaka i OS-programmet för 2026, och det skapar verkligen hype just nu!",
+      "text": "Monaco GP i Formel 2 är också på gång! Kan bli riktigt intressant med den helgen.",
       "followUp": [
-        "Har du spelat golf själv någon gång?",
-        "Vilken golfare ser du fram emot att följa?"
+        "Är du mer för Formel 1 eller Formel 2?",
+        "Har du varit i Monaco någon gång?"
       ]
     },
     {
-      "id": "s-20260611-11",
+      "id": "s-20260612-7",
       "category": "sport",
-      "text": "Wow, e-sport-VM 2026 ser ut att sätta nya rekord för deltagande! Det är helt galet!",
+      "text": "PGA Touren Canadian Open ser ut att kunna bli en snackis i år. Golf på toppnivå är ju alltid kul.",
       "followUp": [
-        "Är du mer en spelare eller tittare när det kommer till e-sport?",
-        "Vilket spel tror du kommer att dominera?"
-      ]
-    },
-    {
-      "id": "s-20260611-12",
-      "category": "sport",
-      "text": "Rally-VM 2026 har verkligen varit spännande med överraskande vändningar!",
-      "followUp": [
-        "Vilken typ av bilar gillar du mest?",
-        "Skulle du kunna tänka dig att åka med i en rallybil?"
+        "Spelar du golf själv?",
+        "Vilken golfspelare följer du för stunden?"
       ]
     },
     {
