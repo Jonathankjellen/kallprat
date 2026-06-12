@@ -89,64 +89,136 @@
     {
       "id": "s-20260612-1",
       "category": "sport",
-      "text": "Såg du när Diamond League kommer till Oslo? Det blir fullt med riktiga friidrottsstjärnor där.",
+      "text": "Såg du att Fotbolls-VM 2026 dragit igång? Fick du med dig Mexiko mot Sydafrika?",
       "followUp": [
-        "Har du planerat att kolla in det?",
-        "Vilken friidrottare skulle du vilja se live?"
+        "Vilken match ser du mest fram emot?",
+        "Kollade du på någon av matcherna?"
       ]
     },
     {
       "id": "s-20260612-2",
       "category": "sport",
-      "text": "Hörde du om Le Mans 24-timmars? Det är så sjukt mycket action på den banan.",
+      "text": "Hörde du att Gabriel Gudmundsson fortfarande är skadad? Synd för Leeds, de har ju sett knackiga ut!",
       "followUp": [
-        "Skulle du våga köra en sån lång tävling?",
-        "Följer du motorsport ofta?"
+        "Tror du att de kan slå tillbaka utan honom?",
+        "Vilken spelare saknar du mest i Premier League just nu?"
       ]
     },
     {
       "id": "s-20260612-3",
       "category": "sport",
-      "text": "Är du peppad på FIFA VM 2026? Det kommer vara grymma matcher, som Mexiko mot Sydafrika.",
+      "text": "Alexander Isak är tillbaka på träning! Snacka om en liten boost för laget.",
       "followUp": [
-        "Vilket lag hejar du på?",
-        "Tror du det blir en överraskning i turneringen?"
+        "När tror du han är redo för match igen?",
+        "Vilken match vill du se honom i?"
       ]
     },
     {
       "id": "s-20260612-4",
       "category": "sport",
-      "text": "Superettan rullar på för fullt nu! Helsingborg mot Landskrona låter ju spännande.",
+      "text": "AIK och Hammarby har skador inför derbyt, hur sjukt är inte det!",
       "followUp": [
-        "Har du sett någon match live?",
-        "Vilka lag tycker du ser starkast ut i år?"
+        "Tror du att det blir en jämn match ändå?",
+        "Vem är din favorit inför den matchen?"
       ]
     },
     {
       "id": "s-20260612-5",
       "category": "sport",
-      "text": "Kollade du på Global Champions Tour? Det är alltid galet med hästar som hoppar så högt.",
+      "text": "Oliver Ekman-Larsson har blivit lagkapten för Tre Kronor, det är ju en stor grej!",
       "followUp": [
-        "Har du någon favorithäst att följa?",
-        "Skulle du vilja prova hoppning?"
+        "Vad tror du om Sveriges chanser i VM nu?",
+        "Kollade du på hans senaste matcher?"
       ]
     },
     {
       "id": "s-20260612-6",
       "category": "sport",
-      "text": "Monaco GP i Formel 2 är också på gång! Kan bli riktigt intressant med den helgen.",
+      "text": "Roger Rönnberg hyllas för sin tid i Schweiz! Riktigt kul att se!",
       "followUp": [
-        "Är du mer för Formel 1 eller Formel 2?",
-        "Har du varit i Monaco någon gång?"
+        "Vilken tränare tycker du har gjort mest för svensk hockey?",
+        "Har du sett mycket av hans matcher där?"
       ]
     },
     {
       "id": "s-20260612-7",
       "category": "sport",
-      "text": "PGA Touren Canadian Open ser ut att kunna bli en snackis i år. Golf på toppnivå är ju alltid kul.",
+      "text": "Mjällby mot Hammarby i cupfinal, det blir spännande!",
       "followUp": [
-        "Spelar du golf själv?",
-        "Vilken golfspelare följer du för stunden?"
+        "Vilka tror du tar hem det?",
+        "Har du någon favoritspelare i något av lagen?"
+      ]
+    },
+    {
+      "id": "s-20260612-8",
+      "category": "sport",
+      "text": "Skara HF är i SM-final igen, snacka om bra säsong!",
+      "followUp": [
+        "Har du följt dem under säsongen?",
+        "Vilket lag hejar du på i handboll?"
+      ]
+    },
+    {
+      "id": "s-20260612-9",
+      "category": "sport",
+      "text": "Mondo Duplantis siktar på världsrekord! Det är verkligen på tiden!",
+      "followUp": [
+        "Tror du han klarar det?",
+        "Vad tycker du om hans prestationer hittills?"
+      ]
+    },
+    {
+      "id": "s-20260612-10",
+      "category": "sport",
+      "text": "Maria Julevik är redo för EM hemma! Kan det bli bättre?",
+      "followUp": [
+        "Har du sett henne tävla tidigare?",
+        "Vilken gren är din favorit att följa?"
+      ]
+    },
+    {
+      "id": "s-20260612-11",
+      "category": "sport",
+      "text": "Maria Julevik pratar om året som förändrade allt för henne, låter intressant!",
+      "followUp": [
+        "Vilka idrottare inspirerar dig mest?",
+        "Har du något personligt år som du minns?"
+      ]
+    },
+    {
+      "id": "s-20260612-12",
+      "category": "sport",
+      "text": "Hörde du vad Maria Julevik sa om livets orättvisor? Det träffar rätt!",
+      "followUp": [
+        "Har du någon gång upplevt liknande i ditt liv?",
+        "Tycker du att sport kan vara en flykt från verkligheten?"
+      ]
+    },
+    {
+      "id": "s-20260612-13",
+      "category": "sport",
+      "text": "Maria Julevik längtar efter att tävla på hemmaplan under EM! Snacka om hemmaplansfördel!",
+      "followUp": [
+        "Vilken tävling skulle du vilja se på hemmaplan?",
+        "Har du varit på någon stor idrottsevenemang här?"
+      ]
+    },
+    {
+      "id": "s-20260612-14",
+      "category": "sport",
+      "text": "Maria Julevik delar med sig av sitt omtumlande år, intressant att höra hennes resa!",
+      "followUp": [
+        "Känner du igen dig i det hon säger?",
+        "Hur hanterar du tuffa perioder?"
+      ]
+    },
+    {
+      "id": "s-20260612-15",
+      "category": "sport",
+      "text": "Maria Julevik snackar om sin personliga omvandling inför EM, det är ju alltid spännande!",
+      "followUp": [
+        "Har du också gjort stora förändringar i ditt liv?",
+        "Vilken förändring har gjort störst skillnad för dig?"
       ]
     },
     {
