@@ -33,192 +33,201 @@
   ],
   "kallprat": [
     {
-      "id": "n-20260612-1",
+      "id": "n-20260613-1",
       "category": "nyheter",
-      "text": "Kollade du på TikTok nyligen? Loreens låt 'Tattoo' är typ överallt, såg att den har blivit med i 365,000 videor!",
+      "text": "Har du sett att norrskenet kan bli galet mycket synligt i natt? Det är ju perfekt väder för det!",
       "followUp": [
-        "Har du sett några roliga clips?",
-        "Tror du att det är hennes bästa låt?"
+        "Ska du försöka fånga det på bild?",
+        "Kollade du på norrskenet förra vintern?"
       ]
     },
     {
-      "id": "n-20260612-2",
+      "id": "n-20260613-2",
       "category": "nyheter",
-      "text": "Hörde du om Elecktra som körde 'Unna Daj' i Drag Race? Den grejen sprängde ju TikTok!",
+      "text": "Såg du nyheten om vapenhotet på skärgårdsbåten på Möja? Riktigt sjukt, eller?",
       "followUp": [
-        "Kollade du på hela föreställningen?",
-        "Vilken drag artist är din favorit?"
+        "Tycker du att det har blivit mer vanligt med sånt nu för tiden?",
+        "Käkar du mycket skärgårdsmat när du är där?"
       ]
     },
     {
-      "id": "n-20260612-3",
+      "id": "n-20260613-3",
       "category": "nyheter",
-      "text": "Haha, visste du att Kalmar FF:s videohälsning till Sodiq Lawal blev viral i Nigeria? Snacka om globalt!",
+      "text": "Hörde du om händelsen med mannen i Malmö? Det känns som att staden har fått mycket uppmärksamhet på sistone.",
       "followUp": [
-        "Tror du att det kommer dra mer spelare till klubben?",
-        "Har du sett hur de firar sina nyförvärv?"
+        "Skulle du våga åka dit nu?",
+        "Har du något favoritminne från Malmö?"
       ]
     },
     {
-      "id": "n-20260612-4",
+      "id": "n-20260613-4",
       "category": "nyheter",
-      "text": "Såg du den där grejen om att TikTok blir en nyhetskälla för yngre? Särskilt i Sverige, tydligen!",
+      "text": "Kollade du på den där konserten med hiphopgruppen och bråket mot samer? Det har blivit en rätt tråkig snackis.",
       "followUp": [
-        "Kollar du nyheterna på TikTok?",
-        "Vilken typ av nyheter lär du dig där?"
+        "Vad tyckte du om deras musik innan det?",
+        "Tror du att de kommer få konsekvenser av det här?"
       ]
     },
     {
-      "id": "n-20260612-5",
+      "id": "n-20260613-5",
       "category": "nyheter",
-      "text": "Det är ju helt sjukt hur 'Romarriket'-trenden på TikTok har tagit fart, folk snackar om det som om det vore igår!",
+      "text": "Såg du vad Hanif Bali sa om högern efter SVT:s sista drag? Han är ju inte rädd för att säga sin mening.",
       "followUp": [
-        "Skulle du kunna tänka dig att göra en video om det?",
-        "Vilka historiska grejer tycker du är mest intressanta?"
+        "Hänger du med i politiken eller?",
+        "Tycker du att politiker pratar för mycket nuförtiden?"
       ]
     },
     {
-      "id": "n-20260612-6",
+      "id": "n-20260613-6",
       "category": "nyheter",
-      "text": "Loreen toppade DigiListan igen med 'Tattoo'! Snacka om att hålla segertåget rullande!",
+      "text": "Läste du om Sida som vill avskeda en medarbetare efter anklagelser? Man undrar ju vad som egentligen hände där.",
       "followUp": [
-        "Har du hört hennes andra låtar?",
-        "Vilken låt skulle du vilja se där nästa gång?"
+        "Har du någonsin sett något liknande på jobbet?",
+        "Tror du att företag är bra på att hantera sånt här?"
       ]
     },
     {
-      "id": "s-20260612-1",
-      "category": "sport",
-      "text": "Såg du att Fotbolls-VM 2026 dragit igång? Fick du med dig Mexiko mot Sydafrika?",
+      "id": "n-20260613-7",
+      "category": "nyheter",
+      "text": "Kollade du på förslaget om att äldre ska kunna välja bort personal efter övergrepp? Det öppnar ju upp för mycket diskussioner.",
       "followUp": [
-        "Vilken match ser du mest fram emot?",
-        "Kollade du på någon av matcherna?"
+        "Tror du att det kommer att bli verklighet?",
+        "Vad tycker du om äldreomsorgen i allmänhet?"
       ]
     },
     {
-      "id": "s-20260612-2",
-      "category": "sport",
-      "text": "Hörde du att Gabriel Gudmundsson fortfarande är skadad? Synd för Leeds, de har ju sett knackiga ut!",
+      "id": "n-20260613-8",
+      "category": "nyheter",
+      "text": "Va, hur sjukt är det inte att Säpo anmälde en berusad anställd som drog upp sitt jobb på fritiden? Snacka om att vara oförsiktig!",
       "followUp": [
-        "Tror du att de kan slå tillbaka utan honom?",
-        "Vilken spelare saknar du mest i Premier League just nu?"
+        "Har du råkat ut för något sånt på jobbet?",
+        "Känner du någon som skulle göra något liknande?"
       ]
     },
     {
-      "id": "s-20260612-3",
-      "category": "sport",
-      "text": "Alexander Isak är tillbaka på träning! Snacka om en liten boost för laget.",
+      "id": "n-20260613-9",
+      "category": "nyheter",
+      "text": "Såg du att antalet skjutningar i Sverige halverats, men sprängningar har dubblerats? Rena karusellen!",
       "followUp": [
-        "När tror du han är redo för match igen?",
-        "Vilken match vill du se honom i?"
+        "Vad tror du det beror på?",
+        "Känner du att det har blivit säkrare där du bor?"
       ]
     },
     {
-      "id": "s-20260612-4",
+      "id": "s-20260613-1",
       "category": "sport",
-      "text": "AIK och Hammarby har skador inför derbyt, hur sjukt är inte det!",
+      "text": "Satt och kollade på premiären av Fotbolls-VM 2026. Mexiko körde över Sydafrika, hur sjukt var inte det?",
       "followUp": [
-        "Tror du att det blir en jämn match ändå?",
-        "Vem är din favorit inför den matchen?"
+        "Vad tyckte du om matchen?",
+        "Håller du på något lag i VM?"
       ]
     },
     {
-      "id": "s-20260612-5",
+      "id": "s-20260613-2",
       "category": "sport",
-      "text": "Oliver Ekman-Larsson har blivit lagkapten för Tre Kronor, det är ju en stor grej!",
+      "text": "Såg du att Simone Biles delade sin galna skräckupplevelse? Trodde nästan hon inte skulle klara sig!",
       "followUp": [
-        "Vad tror du om Sveriges chanser i VM nu?",
-        "Kollade du på hans senaste matcher?"
+        "Har du läst hennes bok?",
+        "Är du nervös av att pröva nya sporter?"
       ]
     },
     {
-      "id": "s-20260612-6",
+      "id": "s-20260613-3",
       "category": "sport",
-      "text": "Roger Rönnberg hyllas för sin tid i Schweiz! Riktigt kul att se!",
+      "text": "Sverige mötte Tunisien i en VM-match, och jag måste säga att det var nervigt!",
       "followUp": [
-        "Vilken tränare tycker du har gjort mest för svensk hockey?",
-        "Har du sett mycket av hans matcher där?"
+        "Kollade du på matchen?",
+        "Vilken spelare gillade du bäst?"
       ]
     },
     {
-      "id": "s-20260612-7",
+      "id": "s-20260613-4",
       "category": "sport",
-      "text": "Mjällby mot Hammarby i cupfinal, det blir spännande!",
+      "text": "Sjukt att Shakira körde en show vid invigningen av VM! Hon är fortfarande på topp!",
       "followUp": [
-        "Vilka tror du tar hem det?",
-        "Har du någon favoritspelare i något av lagen?"
+        "Vilken låt är din favorit av henne?",
+        "Har du sett några memes från invigningen?"
       ]
     },
     {
-      "id": "s-20260612-8",
+      "id": "s-20260613-5",
       "category": "sport",
-      "text": "Skara HF är i SM-final igen, snacka om bra säsong!",
+      "text": "England gjorde verkligen rent hus i ICC Women's T20 World Cup! Snacka om att dominera!",
       "followUp": [
-        "Har du följt dem under säsongen?",
-        "Vilket lag hejar du på i handboll?"
+        "Vad tyckte du om matchen?",
+        "Har du någon favorithand innan match?"
       ]
     },
     {
-      "id": "s-20260612-9",
+      "id": "s-20260613-6",
       "category": "sport",
-      "text": "Mondo Duplantis siktar på världsrekord! Det är verkligen på tiden!",
+      "text": "Japan hjälper Vietnam med fotboll för att bygga motståndskraft mot katastrofer, rätt coolt faktiskt!",
       "followUp": [
-        "Tror du han klarar det?",
-        "Vad tycker du om hans prestationer hittills?"
+        "Skulle du vara med på sånt?",
+        "Har du sett några sköna sociala projekt här hemma?"
       ]
     },
     {
-      "id": "s-20260612-10",
+      "id": "s-20260613-7",
       "category": "sport",
-      "text": "Maria Julevik är redo för EM hemma! Kan det bli bättre?",
+      "text": "Duplantis är på väg att slå sitt eget världsrekord, det kommer bli episkt!",
       "followUp": [
-        "Har du sett henne tävla tidigare?",
-        "Vilken gren är din favorit att följa?"
+        "Har du någon gång testat stavhopp?",
+        "Regnar det innesport hos dig nu?"
       ]
     },
     {
-      "id": "s-20260612-11",
+      "id": "s-20260613-8",
       "category": "sport",
-      "text": "Maria Julevik pratar om året som förändrade allt för henne, låter intressant!",
+      "text": "Maja Stark klättrade verkligen i rankingen under US Open, så imponerande!",
       "followUp": [
-        "Vilka idrottare inspirerar dig mest?",
-        "Har du något personligt år som du minns?"
+        "Har du spelat tennis nån gång?",
+        "Vem är din favvis bland kvinnliga spelare?"
       ]
     },
     {
-      "id": "s-20260612-12",
+      "id": "s-20260613-9",
       "category": "sport",
-      "text": "Hörde du vad Maria Julevik sa om livets orättvisor? Det träffar rätt!",
+      "text": "Såg att Sverige spelade mot Skottland i en VM-match, nervöst i Boston!",
       "followUp": [
-        "Har du någon gång upplevt liknande i ditt liv?",
-        "Tycker du att sport kan vara en flykt från verkligheten?"
+        "Vilka trodde du skulle vinna?",
+        "Har du varit på någon live-match?"
       ]
     },
     {
-      "id": "s-20260612-13",
+      "id": "s-20260613-10",
       "category": "sport",
-      "text": "Maria Julevik längtar efter att tävla på hemmaplan under EM! Snacka om hemmaplansfördel!",
+      "text": "Frida Karlsson kammade hem guld i längdskidåkningen under OS, hur bra är inte det?",
       "followUp": [
-        "Vilken tävling skulle du vilja se på hemmaplan?",
-        "Har du varit på någon stor idrottsevenemang här?"
+        "Är du en vinterstudent eller sommar?",
+        "Har du åkt skidor något?"
       ]
     },
     {
-      "id": "s-20260612-14",
+      "id": "s-20260613-11",
       "category": "sport",
-      "text": "Maria Julevik delar med sig av sitt omtumlande år, intressant att höra hennes resa!",
+      "text": "Sverige spelade mot Nederländerna i en spännande VM-match i Houston, och det var verkligen fart på grejerna!",
       "followUp": [
-        "Känner du igen dig i det hon säger?",
-        "Hur hanterar du tuffa perioder?"
+        "Vilken match ser du fram emot mest?",
+        "Kollar du på svenska fotbollsligan också?"
       ]
     },
     {
-      "id": "s-20260612-15",
+      "id": "s-20260613-12",
       "category": "sport",
-      "text": "Maria Julevik snackar om sin personliga omvandling inför EM, det är ju alltid spännande!",
+      "text": "Japans damfotbollslag vs Nordkorea är ju inget man ser varje dag, snacka om en intensiv match!",
       "followUp": [
-        "Har du också gjort stora förändringar i ditt liv?",
-        "Vilken förändring har gjort störst skillnad för dig?"
+        "Har du någon favorit i damfotboll?",
+        "Tycker du att dam- och herrfotboll ska jämföras?"
+      ]
+    },
+    {
+      "id": "s-20260613-13",
+      "category": "sport",
+      "text": "England mötte Spanien i darts, och stämningen var helt galen!",
+      "followUp": [
+        "Är du bra på darts eller ska vi köra en match?",
+        "Följer du mycket e-sport?"
       ]
     },
     {
