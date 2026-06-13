@@ -35,334 +35,280 @@
     {
       "id": "n-20260613-1",
       "category": "nyheter",
-      "text": "Har du sett att norrskenet kan bli galet mycket synligt i natt? Det är ju perfekt väder för det!",
+      "text": "Kollade du på den koreanska kulturfestivalen i Stockholm? Helt galet hur mycket folk som var där!",
       "followUp": [
-        "Ska du försöka fånga det på bild?",
-        "Kollade du på norrskenet förra vintern?"
+        "Har du varit på något liknande?",
+        "Vilken del av den kulturen är du mest nyfiken på?"
       ]
     },
     {
       "id": "n-20260613-2",
       "category": "nyheter",
-      "text": "Såg du nyheten om vapenhotet på skärgårdsbåten på Möja? Riktigt sjukt, eller?",
+      "text": "Va, har du sett att Heeseung hoppar av Enhypen? Det drar ju verkligen igång känslor bland fansen.",
       "followUp": [
-        "Tycker du att det har blivit mer vanligt med sånt nu för tiden?",
-        "Käkar du mycket skärgårdsmat när du är där?"
+        "Vad tror du att det kommer få för påverkan på gruppen?",
+        "Hurdana reaktioner har du sett bland fansen?"
       ]
     },
     {
       "id": "n-20260613-3",
       "category": "nyheter",
-      "text": "Hörde du om händelsen med mannen i Malmö? Det känns som att staden har fått mycket uppmärksamhet på sistone.",
+      "text": "Sydkoreansk kultur är verkligen i ropet just nu, eller hur? Allt från mat till musik bara växer!",
       "followUp": [
-        "Skulle du våga åka dit nu?",
-        "Har du något favoritminne från Malmö?"
+        "Vilken K-pop låt har du fastnat för?",
+        "Har du testat något koreanskt snacks som du älskade?"
       ]
     },
     {
       "id": "n-20260613-4",
       "category": "nyheter",
-      "text": "Kollade du på den där konserten med hiphopgruppen och bråket mot samer? Det har blivit en rätt tråkig snackis.",
+      "text": "Hörde du om att Sabrina Carpenter har fått kritik för sin klädstil? Snacka om att alltid vara i blickfånget!",
       "followUp": [
-        "Vad tyckte du om deras musik innan det?",
-        "Tror du att de kommer få konsekvenser av det här?"
+        "Tycker du att hon ska skita i kritiken?",
+        "Vad skulle du säga är hennes mest ikoniska look?"
       ]
     },
     {
       "id": "n-20260613-5",
       "category": "nyheter",
-      "text": "Såg du vad Hanif Bali sa om högern efter SVT:s sista drag? Han är ju inte rädd för att säga sin mening.",
+      "text": "Alltså, TikTok är verkligen ett helt eget universum nu. Har du sett några nya trender som dykt upp?",
       "followUp": [
-        "Hänger du med i politiken eller?",
-        "Tycker du att politiker pratar för mycket nuförtiden?"
+        "Vad tror du kommer bli nästa stora grej där?",
+        "Har du någon TikTok-utmaning som du tycker är kul?"
       ]
     },
     {
       "id": "n-20260613-6",
       "category": "nyheter",
-      "text": "Läste du om Sida som vill avskeda en medarbetare efter anklagelser? Man undrar ju vad som egentligen hände där.",
+      "text": "Helt sjukt hur godis och gurka blivit en grej på TikTok! Vem kom ens på det?",
       "followUp": [
-        "Har du någonsin sett något liknande på jobbet?",
-        "Tror du att företag är bra på att hantera sånt här?"
-      ]
-    },
-    {
-      "id": "n-20260613-7",
-      "category": "nyheter",
-      "text": "Kollade du på förslaget om att äldre ska kunna välja bort personal efter övergrepp? Det öppnar ju upp för mycket diskussioner.",
-      "followUp": [
-        "Tror du att det kommer att bli verklighet?",
-        "Vad tycker du om äldreomsorgen i allmänhet?"
-      ]
-    },
-    {
-      "id": "n-20260613-8",
-      "category": "nyheter",
-      "text": "Va, hur sjukt är det inte att Säpo anmälde en berusad anställd som drog upp sitt jobb på fritiden? Snacka om att vara oförsiktig!",
-      "followUp": [
-        "Har du råkat ut för något sånt på jobbet?",
-        "Känner du någon som skulle göra något liknande?"
-      ]
-    },
-    {
-      "id": "n-20260613-9",
-      "category": "nyheter",
-      "text": "Såg du att antalet skjutningar i Sverige halverats, men sprängningar har dubblerats? Rena karusellen!",
-      "followUp": [
-        "Vad tror du det beror på?",
-        "Känner du att det har blivit säkrare där du bor?"
+        "Har du testat kombo själv?",
+        "Vilket svenskt godis skulle du vilja satsa på?"
       ]
     },
     {
       "id": "s-20260613-1",
       "category": "sport",
-      "text": "Satt och kollade på premiären av Fotbolls-VM 2026. Mexiko körde över Sydafrika, hur sjukt var inte det?",
+      "text": "Såg du att Fotbolls-VM 2026 snart drar igång? Det känns som ett megaevent som verkligen kommer att samla hela fotbollsvärlden!",
       "followUp": [
-        "Vad tyckte du om matchen?",
-        "Håller du på något lag i VM?"
+        "Ska du kolla på matcherna?",
+        "Har du något favoritlag du hejar på?"
       ]
     },
     {
       "id": "s-20260613-2",
       "category": "sport",
-      "text": "Såg du att Simone Biles delade sin galna skräckupplevelse? Trodde nästan hon inte skulle klara sig!",
+      "text": "Hörde du grejen med Gabriel Gudmundsson? Skadad igen, så trist för honom och Leeds!",
       "followUp": [
-        "Har du läst hennes bok?",
-        "Är du nervös av att pröva nya sporter?"
+        "Vad tror du om deras chanser utan honom?",
+        "Har du något favorittips för hur man undviker skador?"
       ]
     },
     {
       "id": "s-20260613-3",
       "category": "sport",
-      "text": "Sverige mötte Tunisien i en VM-match, och jag måste säga att det var nervigt!",
+      "text": "Kollade du på Lucas Raymonds senaste drag? Han är klar för VM med Tre Kronor!",
       "followUp": [
-        "Kollade du på matchen?",
-        "Vilken spelare gillade du bäst?"
+        "Vilka spelare ser du fram emot att se i VM?",
+        "Tror du att han kan göra stor skillnad för laget?"
       ]
     },
     {
       "id": "s-20260613-4",
       "category": "sport",
-      "text": "Sjukt att Shakira körde en show vid invigningen av VM! Hon är fortfarande på topp!",
+      "text": "Mika Zibanejad krossade ju allt förra veckan med sina poäng i NHL! Galet bra!",
       "followUp": [
-        "Vilken låt är din favorit av henne?",
-        "Har du sett några memes från invigningen?"
+        "Ska du följa några matcher nu när han är i toppform?",
+        "Vad är ditt bästa NHL-minne?"
       ]
     },
     {
       "id": "s-20260613-5",
       "category": "sport",
-      "text": "England gjorde verkligen rent hus i ICC Women's T20 World Cup! Snacka om att dominera!",
+      "text": "Andreas Almgren satte svenskt rekord på 3 000 meter! Snacka om att leverera under press!",
       "followUp": [
-        "Vad tyckte du om matchen?",
-        "Har du någon favorithand innan match?"
+        "Har du någonsin sprungit en 3000a?",
+        "Vilken idrott skulle du vilja prova men aldrig har gjort?"
       ]
     },
     {
       "id": "s-20260613-6",
       "category": "sport",
-      "text": "Japan hjälper Vietnam med fotboll för att bygga motståndskraft mot katastrofer, rätt coolt faktiskt!",
+      "text": "Duplantis fortsätter att dominera! Just vann han Diamond League, han är ju supersnabb!",
       "followUp": [
-        "Skulle du vara med på sånt?",
-        "Har du sett några sköna sociala projekt här hemma?"
+        "Tror du han kan slå fler rekord i framtiden?",
+        "Har du sett något av hans hopp på TikTok?"
       ]
     },
     {
       "id": "s-20260613-7",
       "category": "sport",
-      "text": "Duplantis är på väg att slå sitt eget världsrekord, det kommer bli episkt!",
+      "text": "Ludvig Åberg snor verkligen rubrikerna nu! Toppar PGA-touren, snacka om att vara i zonen!",
       "followUp": [
-        "Har du någon gång testat stavhopp?",
-        "Regnar det innesport hos dig nu?"
+        "Har du testat att spela golf?",
+        "Vilka golfbanor skulle vara drömmen att spela på?"
       ]
     },
     {
       "id": "s-20260613-8",
       "category": "sport",
-      "text": "Maja Stark klättrade verkligen i rankingen under US Open, så imponerande!",
+      "text": "Mira Andreeva, 19 år gammal, vann Franska Öppna! Helt sjukt, eller hur?",
       "followUp": [
-        "Har du spelat tennis nån gång?",
-        "Vem är din favvis bland kvinnliga spelare?"
+        "Kollade du finalen eller missade du den?",
+        "Har du någon favorit i tennis just nu?"
       ]
     },
     {
       "id": "s-20260613-9",
       "category": "sport",
-      "text": "Såg att Sverige spelade mot Skottland i en VM-match, nervöst i Boston!",
+      "text": "Formel 1-säsongen 2026 drar snart igång! Lando Norris är en av dem man ska kolla på!",
       "followUp": [
-        "Vilka trodde du skulle vinna?",
-        "Har du varit på någon live-match?"
+        "Har du någon favoritförare?",
+        "Skulle du våga köra en F1-bil?"
       ]
     },
     {
       "id": "s-20260613-10",
       "category": "sport",
-      "text": "Frida Karlsson kammade hem guld i längdskidåkningen under OS, hur bra är inte det?",
+      "text": "Har du hört talas om Grand Racing? De har coola motorsportupplevelser, riktigt spännande!",
       "followUp": [
-        "Är du en vinterstudent eller sommar?",
-        "Har du åkt skidor något?"
+        "Skulle du vilja testa på sånt?",
+        "Vilket motorevenemang drömmer du om att se live?"
       ]
     },
     {
       "id": "s-20260613-11",
       "category": "sport",
-      "text": "Sverige spelade mot Nederländerna i en spännande VM-match i Houston, och det var verkligen fart på grejerna!",
+      "text": "Svenska Gymnastikförbundet rapporterar om nya rekord! Gymnastik är ju verkligen på uppgång!",
       "followUp": [
-        "Vilken match ser du fram emot mest?",
-        "Kollar du på svenska fotbollsligan också?"
+        "Har du någonsin provat på gymnastik?",
+        "Vilken idrott skulle du vilja se mer av på tv?"
       ]
     },
     {
       "id": "s-20260613-12",
       "category": "sport",
-      "text": "Japans damfotbollslag vs Nordkorea är ju inget man ser varje dag, snacka om en intensiv match!",
+      "text": "Hörde du om det nya datasetet från SportsMOT? Fantastiskt för att analysera sport!",
       "followUp": [
-        "Har du någon favorit i damfotboll?",
-        "Tycker du att dam- och herrfotboll ska jämföras?"
+        "Tror du det kommer att förändra hur vi ser på sport?",
+        "Vilken sport skulle du vilja analysera närmare?"
       ]
     },
     {
       "id": "s-20260613-13",
       "category": "sport",
-      "text": "England mötte Spanien i darts, och stämningen var helt galen!",
+      "text": "Anthony Gordon har dragit till Barcelona! Det är ju en ganska stor transfer, eller?",
       "followUp": [
-        "Är du bra på darts eller ska vi köra en match?",
-        "Följer du mycket e-sport?"
+        "Vilken är den bästa transfern du kan komma på?",
+        "Har du någon spelare du skulle vilja se i ett annat lag?"
       ]
     },
     {
-      "id": "t-20260611-1",
-      "category": "teknik",
-      "text": "Såg du nyheterna från Computex 2026? Nvidias nya RTX Spark SoC ser ju helt galet ut!",
+      "id": "s-20260613-14",
+      "category": "sport",
+      "text": "Allsvenskan avslutar nu med sista omgången, vissa matcher kan bli riktigt spännande!",
       "followUp": [
-        "Har du fått tag på något nytt spelsystem recently?",
-        "Kan du tänka dig att uppgradera din rigg snart?"
+        "Ska du kolla något av matcherna?",
+        "Vilket lag hejar du på?"
       ]
     },
     {
-      "id": "t-20260611-2",
-      "category": "teknik",
-      "text": "LG C6 OLED TV har tydligen landat och folk säger att den sätter en ny standard. Känns som man vill ha en sån, eller?",
+      "id": "s-20260613-15",
+      "category": "sport",
+      "text": "Inför Stockholmsderbyt pratas det mycket om skador i båda lagen, så inte kul!",
       "followUp": [
-        "Har du testat OLED tidigare?",
-        "Vad gillar du mest med din TV just nu?"
+        "Vilket derby är ditt favorit derbymatch att kolla på?",
+        "Hur ser du på rivaliteten mellan lagen?"
       ]
     },
     {
-      "id": "t-20260611-3",
+      "id": "t-20260613-1",
       "category": "teknik",
-      "text": "Hörde du grejen med Razers Project AVA? En AI-assistent med skärm som svarar med animerade gubbar, hur coolt?",
+      "text": "Tänkte på vad Nvidias vd sa om AI och jobb. Han tror att AI faktiskt gör utvecklare mer eftersökta.",
       "followUp": [
-        "Skulle du vilja ha en sån hemma?",
-        "Vilken gadget tycker du är mest användbar?"
+        "Tror du att det stämmer?",
+        "Skulle du vilja jobba med AI?"
       ]
     },
     {
-      "id": "t-20260611-4",
+      "id": "t-20260613-2",
       "category": "teknik",
-      "text": "Asus har släppt ROG XReal R1 med AR-glasögon. Tänk att spela med såna, sjukt spännande!",
+      "text": "Har du kollat in Conifer? De gör lokal AI tillgänglig utan att man behöver ha en monsterPC.",
       "followUp": [
-        "Tror du på AR som framtiden för spel?",
-        "Har du kikat på något PR-labb för spelutrustning?"
+        "Känns det som något du skulle vilja testa?",
+        "Vilken lokal AI-lösning gillar du mest?"
       ]
     },
     {
-      "id": "t-20260611-5",
+      "id": "t-20260613-3",
       "category": "teknik",
-      "text": "Microsoft har släppt en AI-badge som ser ut som något ur en sci-fi-film, sjukt intressant!",
+      "text": "Såg att Microsoft släppte en Surface Laptop Ultra med ett Nvidia-superchip. Häftigt!",
       "followUp": [
-        "Vad tycker du om wearables i allmänhet?",
-        "Skulle du våga ha en kamera på dig hela tiden?"
+        "Skulle du uppgradera din laptop för det?",
+        "Vad saknar du mest i din nuvarande dator?"
       ]
     },
     {
-      "id": "t-20260611-6",
+      "id": "t-20260613-4",
       "category": "teknik",
-      "text": "Amazon uppdaterade sina Ring-dörrklockor med en appbutik. Det är ju nästan som att de blir smartphones!",
+      "text": "Hörde att Teslas AI-tränare vägrar åka med i sina egna självkörande bilar. Skumt, va?",
       "followUp": [
-        "Har du en Ring eller något liknande?",
-        "Vilken smart hem-pryla drömmer du om just nu?"
+        "Tror du att det finns något att vara rädd för?",
+        "Skulle du våga åka i en självkörande bil?"
       ]
     },
     {
-      "id": "t-20260611-7",
+      "id": "t-20260613-5",
       "category": "teknik",
-      "text": "Acer släppte en el-scooter med 500W motor. Verkar som de hoppar in i mobilitetsvärlden!",
+      "text": "Så DuckDuckGo får plötsligt tre gånger fler användare när folk lämnar Googles AI-sökmotor. Crazy!",
       "followUp": [
-        "Skulle du våga köra en sån?",
-        "Hur ser drömmycket ut för el-scootrar, vad tycker du?"
+        "Kollar du ofta på andra sökmotorer?",
+        "Vad är viktigast för dig när du söker på nätet?"
       ]
     },
     {
-      "id": "t-20260611-8",
+      "id": "t-20260613-6",
       "category": "teknik",
-      "text": "LG lanserade en 6K-monitor — snacka om uppgradering på bildkvalitet!",
+      "text": "Meta utvecklar ett AI-halsband för att spela in samtal. Snacka om att ta röststyrning till nästa nivå!",
       "followUp": [
-        "Har du provat en 4K eller 8K-skärm?",
-        "Vad skulle du helst använda en sån monitor till?"
+        "Skulle du använda ett sånt halsband?",
+        "Vad tycker du om smarta wearables generellt?"
       ]
     },
     {
-      "id": "t-20260611-9",
+      "id": "t-20260613-7",
       "category": "teknik",
-      "text": "Razer droppade Project Motoko med haptisk feedback i ett headset. Det låter ju som en spelupplevelse utöver det vanliga!",
+      "text": "Claude har sänkt priserna, och nu ska de integrera ChatGPT i Excel. Helt galet!",
       "followUp": [
-        "Tror du att ljud kan göra så stor skillnad i spel?",
-        "Har du några favorit-headset just nu?"
+        "Vilket program skulle du vilja se AI i?",
+        "Har du använt AI i ditt arbete än?"
       ]
     },
     {
-      "id": "t-20260611-10",
+      "id": "t-20260613-8",
       "category": "teknik",
-      "text": "Samsung visade upp sin Galaxy Z TriFold — en telefon som blir en surfplatta. Crazy eller?",
+      "text": "SpaceX är på väg med en börsnotering. Det luktar både spännande och riskfyllt!",
       "followUp": [
-        "Hur många skärmar skulle du vilja ha i framtiden?",
-        "Är du för vikbara enheter eller föredrar du klassisk design?"
+        "Tror du att det kommer att bli en succé?",
+        "Är du sugen på att investera i rymdteknik?"
       ]
     },
     {
-      "id": "t-20260611-11",
+      "id": "t-20260613-9",
       "category": "teknik",
-      "text": "LG har släppt en 'wallpaper TV' som är bara 9 mm tjock. Perfekt för minimalistiska hem!",
+      "text": "Nvidia och Microsoft hintar om ett hemligt superchipp som kan förändra PC-världen. Häftigt!",
       "followUp": [
-        "Hur sjukt coolt hade det inte varit att ha en sån i vardagsrummet?",
-        "Vad är det coolaste du sett bland TV-teknik?"
+        "Vad skulle du vilja se i en ny dator?",
+        "Hur viktigt är prestanda för dig?"
       ]
     },
     {
-      "id": "t-20260611-12",
+      "id": "t-20260613-10",
       "category": "teknik",
-      "text": "Razer släppte en ny Bluetooth-controller som ska vara världens snabbaste! Måste vara guld för molnspel!",
+      "text": "AI-genererat skräp är tydligen på väg att dra in över en miljard dollar på YouTube. Vad hände där?",
       "followUp": [
-        "Spelar du mycket på moln nu för tiden?",
-        "Vilken kontrollmetod är din favorit?"
-      ]
-    },
-    {
-      "id": "t-20260611-13",
-      "category": "teknik",
-      "text": "Razer har lanserat Project Madison med haptisk feedback i en spelstol! Snacka om att sittupplevelsen lyfter!",
-      "followUp": [
-        "Har du provat någon speciell spelstol någonsin?",
-        "Vad är det viktigaste i en spelstol för dig?"
-      ]
-    },
-    {
-      "id": "t-20260611-14",
-      "category": "teknik",
-      "text": "Razer släppte en uppgradering av sin spelstol och den ska vara i toppklass — hur bra kan det bli?",
-      "followUp": [
-        "Kör du mycket gaming som behöver bra komfort?",
-        "Vad är din drömögonblick för gamingsetup?"
-      ]
-    },
-    {
-      "id": "t-20260611-15",
-      "category": "teknik",
-      "text": "Razer har lanserat en AI-utvecklingsstation. För dem som verkligen vill nörda ner sig, tänker jag!",
-      "followUp": [
-        "Vad skulle du vilja utveckla om du hade en sån?",
-        "Är du mer av en spelare än utvecklare?"
+        "Har du sett något av det här skräpet?",
+        "Tror du att det kommer att påverka vad vi ser på plattformen?"
       ]
     },
     {
