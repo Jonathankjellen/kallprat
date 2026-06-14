@@ -89,136 +89,127 @@
     {
       "id": "s-20260614-1",
       "category": "sport",
-      "text": "Såg du att Sveriges herrlandslag körde sin första VM-träning i Dallas? Det kändes som ett stort steg mot premiären mot Tunisien!",
+      "text": "Såg du att Sverige drar igång fotbolls-VM mot Tunisien den 15 juni? Det här kan bli spännande!",
       "followUp": [
-        "Tror du de är redo för matchen?",
-        "Har du några favoritspelare att hålla ögonen på?"
+        "Hur känns det inför premiären?",
+        "Vad tror du om chanserna i den matchen?"
       ]
     },
     {
       "id": "s-20260614-2",
       "category": "sport",
-      "text": "Hörde du om Graham Potter som dök upp i cowboyhatt på träningen? Det gjorde ju att stämningen blev lite extra festlig, eller?",
+      "text": "Kollade du på schemat för fotbolls-VM 2026? SVT och TV4 ska sända, så vi kommer inte missa något!",
       "followUp": [
-        "Skulle du sporta en sån hatt på en match?",
-        "Har du sett några roliga kläder på tränare förut?"
+        "Blir det bänkrace med snacks hemma?",
+        "Vilken match ser du mest fram emot?"
       ]
     },
     {
       "id": "s-20260614-3",
       "category": "sport",
-      "text": "Det snackas om att Amazon och Disney+ kanske tar över TV-rättigheterna för sport! Hur sjukt vore inte det?",
+      "text": "Hörde du att Sveriges damlandslag i volleyboll möter Litauen den 12 juni? Det blir en spännande match!",
       "followUp": [
-        "Skulle du kolla fotboll på en streamingtjänst?",
-        "Vilken plattform tycker du skulle ge bäst sändningar?"
+        "Kommer du kolla på den?",
+        "Har du sett dem spela förut?"
       ]
     },
     {
       "id": "s-20260614-4",
       "category": "sport",
-      "text": "Stockholmskrogarna får ha öppet sent under VM! Det kommer ju bli livat med sena matcher!",
+      "text": "Sverige spelar mot Bosnien-Hercegovina den 14 juni i volleyboll. Det kommer bli en rysare!",
       "followUp": [
-        "Tänker du dra ut och kolla matcherna med polarna?",
-        "Vilken kroggäng har du på tapeten för en sån kväll?"
+        "Tror du vi tar hem det?",
+        "Vad är din favoritvolleybollmatch genom tiderna?"
       ]
     },
     {
       "id": "s-20260614-5",
       "category": "sport",
-      "text": "Sverige hamnade i Grupp F med Nederländerna, Japan och Tunisien. Det är ju en rejäl utmaning, eller hur?",
+      "text": "Sverige hamnar i Grupp F med Nederländerna, Japan och Tunisien i VM. Det känns som en tuff men spännande grupp!",
       "followUp": [
-        "Vilket lag tror du Sverige kommer ha svårast mot?",
-        "Blir det några skrällar i gruppen, tror du?"
+        "Vilken match i gruppen ser du fram mest emot?",
+        "Har vi chanser mot Nederländerna?"
       ]
     },
     {
       "id": "s-20260614-6",
       "category": "sport",
-      "text": "Sveriges laguppställning inför VM har släppts, och Kulusevski och Gyökeres är med! Känns lovande!",
+      "text": "Sveriges trupp till VM har spelare som Gyökeres och Kulusevski. Det ser lovande ut, eller hur?",
       "followUp": [
-        "Vilka spelare ser du mest fram emot att se?",
-        "Hade du valt någon annan spelare istället?"
+        "Vilken spelare hejar du mest på?",
+        "Skulle du kunna spela i det laget?"
       ]
     },
     {
       "id": "s-20260614-7",
       "category": "sport",
-      "text": "NHL-draften går av stapeln i juni! Vilka talanger tror du vi kommer få se i ligan nästa säsong?",
+      "text": "Sveriges herrlandslag har haft sin första VM-träning i Dallas. Hoppas de laddar upp inför premiären!",
       "followUp": [
-        "Har du någon favoritspelare som ska draftas?",
-        "Vilket lag kommer att göra de bästa valen, tror du?"
+        "Kollade du streamingen av träningen?",
+        "Funderar du på att åka över dit?"
       ]
     },
     {
       "id": "s-20260614-8",
       "category": "sport",
-      "text": "Stanley Cup-finalerna är i full gång! Vilket lag hejar du på?",
+      "text": "TV-rättigheterna för VM har blivit dyrare, så vi får se hur det påverkar sändningarna. Lite trist, va?",
       "followUp": [
-        "Vilka matcher har varit mest spännande hittills?",
-        "Skulle du vilja se finalerna live?"
+        "Blir du irriterad över sånt här?",
+        "Hur brukar du följa matcher?"
       ]
     },
     {
       "id": "s-20260614-9",
       "category": "sport",
-      "text": "Svenska mästerskapen i innebandy närmar sig, och Sirius och Storvreta är verkligen i toppform!",
+      "text": "Har du hört att Stockholmskrogar har nattöppet under VM? Perfekt för sent matcher!",
       "followUp": [
-        "Har du spelat innebandy själv någon gång?",
-        "Vem tror du tar hem titeln i år?"
+        "Vilken krog tycker du är bäst för att se matcher?",
+        "Kommer du att hänga med vännerna där?"
       ]
     },
     {
       "id": "s-20260614-10",
       "category": "sport",
-      "text": "Damallsvenskan har bjudit på riktigt intensiva matcher, särskilt mellan Sävehof och Skuru IK! Sjukt spännande!",
+      "text": "Svenska fans är på väg till Nordamerika för att heja på Sverige i VM. Snacka om engagemang!",
       "followUp": [
-        "Har du kollat på någon match nyligen?",
-        "Vilket lag tycker du har imponerat mest?"
+        "Hade du velat åka dit?",
+        "Tror du vi får se mycket svenskt stöd?"
       ]
     },
     {
       "id": "s-20260614-11",
       "category": "sport",
-      "text": "Södertälje Kings är favoriter i basket-SM! Känns som de kan ta hem det i år?",
+      "text": "Sveriges första VM-träning i Dallas bjöd på regn, vilket spelarna inte verkar vara vana vid. Men skit samma!",
       "followUp": [
-        "Har du några egna lag du hejar på?",
-        "Tycker du att basketen har blivit roligare på sistone?"
+        "Vilket väder är din nightmare för en match?",
+        "Har du varit med om sämre väder på träningar?"
       ]
     },
     {
       "id": "s-20260614-12",
       "category": "sport",
-      "text": "Diamantligan har verkligen sprutat ut svenskt framgång under 2026! Det är ju en riktig adrenalinkick!",
+      "text": "Haha, förbundskapten Graham Potter dök upp i cowboyhatt under träningen i Dallas. Kanske för att komma in i stämningen?",
       "followUp": [
-        "Vilken gren fascinerar dig mest inom friidrott?",
-        "Har du sett några grymma avslutningar på tävlingar?"
+        "Vad tycker du om tränarens stil?",
+        "Skulle du våga klä dig så på en träning?"
       ]
     },
     {
       "id": "s-20260614-13",
       "category": "sport",
-      "text": "Wimbledon rullar på och Mikael Ymer gör verkligen sitt för att glänsa! Han är ju kul att följa!",
+      "text": "TV4 ska sända mängder av matcher från VM, det känns ju bra! Då går vi inte miste om något.",
       "followUp": [
-        "Har du sett några matcher live?",
-        "Vad skulle du säga är den mest spännande delen av Wimbledon?"
+        "Bänkar du dig framför rutan?",
+        "Vilket snacks är ett måste för matcherna?"
       ]
     },
     {
       "id": "s-20260614-14",
       "category": "sport",
-      "text": "US Open har bjudit på en hel del dramatik, med unga talanger som verkligen kämpar om titeln!",
+      "text": "Svenskarna kan streama VM på SVT Play och TV4 Play. Perfekt för att få in alla matcher!",
       "followUp": [
-        "Har du testat golf själv, eller är du mer av en åskådare?",
-        "Vilka spelare hejar du mest på?"
-      ]
-    },
-    {
-      "id": "s-20260614-15",
-      "category": "sport",
-      "text": "Monaco Grand Prix i F1 har verkligen varit en av säsongens mest dramatiska tävlingar! Snacka om adrenalinkick!",
-      "followUp": [
-        "Har du någon favoritförare du hejar på?",
-        "Skulle du kunna tänka dig att gå på ett GP i framtiden?"
+        "Streamar du mycket sport?",
+        "Har du en favoritstreamingtjänst?"
       ]
     },
     {
