@@ -35,280 +35,316 @@
     {
       "id": "n-20260615-1",
       "category": "nyheter",
-      "text": "Svensk musik är verkligen på hugget i år! Intäkterna har ökat med 8% jämfört med förra året. Vad är grejen, egentligen?",
+      "text": "Har du sett Issa Raes nya TikTok-serie 'Screen Time'? Den har ju blivit en riktig grej med över 150 miljoner visningar!",
       "followUp": [
-        "Vilken svensk artist har du lyssnat mest på nyligen?",
-        "Hade du koll på hur många som strömmar svenskt nu för tiden?"
+        "Skulle du vilja hänga med i ett sånt drama?",
+        "Vad är din favorit-TikTok just nu?"
       ]
     },
     {
       "id": "n-20260615-2",
       "category": "nyheter",
-      "text": "Alltså, TikTok och Instagram som nyhetskällor för unga är helt sjukt! Hur blev det så?",
+      "text": "Folk pratar om 'underconsumptioncore' på TikTok nu, där Gen Z uppmanar oss att vara mer sparsamma. Helt galet!",
       "followUp": [
-        "Kollade du senaste nyheterna där?",
-        "Tror du att det är bra eller dåligt att få nyheter så?"
+        "Har du provat att repurposa något gammalt?",
+        "Vad är det senaste du verkligen behövde köpa?"
       ]
     },
     {
       "id": "n-20260615-3",
       "category": "nyheter",
-      "text": "Svenskarna lägger sjukt mycket tid på medier – nästan sju timmar om dagen! Vad gör vi ens hela dagen?",
+      "text": "Sombr hade sin första konsert i Stockholm nyligen, och det var tydligen helt sjukt med fullsatt publik!",
       "followUp": [
-        "Vilken typ av innehåll fastnar du för mest?",
-        "Har du något tips på grymt innehåll att följa?"
+        "Kollade du på några klipp från konserten?",
+        "Vem skulle du vilja se live just nu?"
       ]
     },
     {
       "id": "n-20260615-4",
       "category": "nyheter",
-      "text": "Musikbranschen är tillbaka med full fart efter pandemin! Konserterna blomstrar verkligen nu.",
+      "text": "Det är ju så kul att se hur 'metal is girlypop' trenden sprider sig på TikTok! Vem hade trott att de två skulle mixas?",
       "followUp": [
-        "Har du varit på någon bra konsert på sistone?",
-        "Vilken artist skulle du helst vilja se live just nu?"
+        "Skulle du testa att blanda stilar så där?",
+        "Har du sett någon bra video om det?"
       ]
     },
     {
       "id": "n-20260615-5",
       "category": "nyheter",
-      "text": "Har du hört talas om Sombr som hade sin första konsert i Stockholm nyligen? Låter som en rejäl fest!",
+      "text": "Charli XCX:s 'Brat Summer'-estetik med limegröna detaljer är ju helt galen! Måste bara fråga — vad tycker du?",
       "followUp": [
-        "Kollade du på klipp från konserten?",
-        "Tror du att han kommer bli en stor stjärna?"
+        "Skulle du rocka den stilen?",
+        "Vad är din sommarstil?"
       ]
     },
     {
       "id": "n-20260615-6",
       "category": "nyheter",
-      "text": "Spotify Wrapped är här igen! Bolaget toppar listan över mest spelade låtar i Sverige.",
+      "text": "Duster har ju fått en ny livemusik på TikTok och slowcore gör tydligen comeback bland Gen Z. Vem visste?",
       "followUp": [
-        "Vilken låt kommer du såklart att höra på fest i år?",
-        "Har du kollat dina egna stats än?"
+        "Känner du till några bra slowcore-låtar?",
+        "Vad lyssnar du på just nu?"
       ]
     },
     {
       "id": "n-20260615-7",
       "category": "nyheter",
-      "text": "TikTok fortsätter att ta över nyhetsvärlden, nu är det hälften av unga som får sina nyheter där! Hur crazy är inte det?",
+      "text": "Visste du att TikTok nu har en #Rock-hub med Cassyette i fokus? Rock får tydligen en ny chans där!",
       "followUp": [
-        "Vad tror du nästa trend blir på plattformen?",
-        "Finns det något speciellt ämne du följer på TikTok?"
+        "Lyssnar du på rock eller är det mer pop för dig?",
+        "Vilken rocklåt skulle du aldrig tröttna på?"
       ]
     },
     {
-      "id": "s-20260614-1",
+      "id": "n-20260615-8",
+      "category": "nyheter",
+      "text": "Har du sett hur Sombr vinner över Taylor Swift-fans? Hans musik klickar verkligen med den publiken!",
+      "followUp": [
+        "Vilken låt skulle du spela för en Swiftie?",
+        "Finns det en artist du älskar som ingen annan verkar känna till?"
+      ]
+    },
+    {
+      "id": "n-20260615-9",
+      "category": "nyheter",
+      "text": "Trenden 'underconsumptioncore' handlar verkligen om att tänka på hållbarhet och att inte köpa så mycket. Kloka tankar!",
+      "followUp": [
+        "Har du gjort något för att vara mer hållbar?",
+        "Vilka tips har du för att minska på konsumtionen?"
+      ]
+    },
+    {
+      "id": "n-20260615-10",
+      "category": "nyheter",
+      "text": "TikTok har verkligen dragit igång en nostalgitripp från tidigt 2000-tal, med low-rise jeans och klassiska hoodies!",
+      "followUp": [
+        "Har du plockat fram något gammalt plagg?",
+        "Vilka 2000-talstrender saknar du mest?"
+      ]
+    },
+    {
+      "id": "s-20260615-1",
       "category": "sport",
-      "text": "Såg du att Sverige drar igång fotbolls-VM mot Tunisien den 15 juni? Det här kan bli spännande!",
+      "text": "Kollade du att SVT och TV4 samarbetar för att hålla i fotbolls-VM-rättigheterna? Det känns som en stor grej!",
       "followUp": [
-        "Hur känns det inför premiären?",
-        "Vad tror du om chanserna i den matchen?"
+        "Blir det mer matcher att se på nu?",
+        "Vilka matcher ser du mest fram emot?"
       ]
     },
     {
-      "id": "s-20260614-2",
+      "id": "s-20260615-2",
       "category": "sport",
-      "text": "Kollade du på schemat för fotbolls-VM 2026? SVT och TV4 ska sända, så vi kommer inte missa något!",
+      "text": "Asså, kan du fatta att New York Knicks äntligen vann NBA-mästerskapet efter 53 år? Vilken comeback!",
       "followUp": [
-        "Blir det bänkrace med snacks hemma?",
-        "Vilken match ser du mest fram emot?"
+        "Tror du de kan bygga på det här momentumet?",
+        "Har du sett några sjuka klipp från firandet?"
       ]
     },
     {
-      "id": "s-20260614-3",
+      "id": "s-20260615-3",
       "category": "sport",
-      "text": "Hörde du att Sveriges damlandslag i volleyboll möter Litauen den 12 juni? Det blir en spännande match!",
+      "text": "Hörde du om Schweiz som förlorade mot Qatar i VM? Snacka om chock!",
       "followUp": [
-        "Kommer du kolla på den?",
-        "Har du sett dem spela förut?"
+        "Vad tror du gick fel för dem?",
+        "Har du sett några av de andra galna resultaten?"
       ]
     },
     {
-      "id": "s-20260614-4",
+      "id": "s-20260615-4",
       "category": "sport",
-      "text": "Sverige spelar mot Bosnien-Hercegovina den 14 juni i volleyboll. Det kommer bli en rysare!",
+      "text": "Wow, Sverige kom igång med ett riktigt storslam i VM mot Tunisien! 5-1, snacka om självförtroende!",
       "followUp": [
-        "Tror du vi tar hem det?",
-        "Vad är din favoritvolleybollmatch genom tiderna?"
+        "Vem var din MVP i matchen?",
+        "Kollade du på hela matchen eller missade du något?"
       ]
     },
     {
-      "id": "s-20260614-5",
+      "id": "s-20260615-5",
       "category": "sport",
-      "text": "Sverige hamnar i Grupp F med Nederländerna, Japan och Tunisien i VM. Det känns som en tuff men spännande grupp!",
+      "text": "Såg du matchen mellan Japan och Sverige? 2-2 och helt spännande ända in på slutet!",
       "followUp": [
-        "Vilken match i gruppen ser du fram mest emot?",
-        "Har vi chanser mot Nederländerna?"
+        "Vilket lag trodde du skulle ta hem det?",
+        "Vad tycker du om hur båda lagen spelade?"
       ]
     },
     {
-      "id": "s-20260614-6",
+      "id": "s-20260615-6",
       "category": "sport",
-      "text": "Sveriges trupp till VM har spelare som Gyökeres och Kulusevski. Det ser lovande ut, eller hur?",
+      "text": "Det var ju grymt att Bosnien var tillbaka i VM efter så lång tid och segrade direkt!",
       "followUp": [
-        "Vilken spelare hejar du mest på?",
-        "Skulle du kunna spela i det laget?"
+        "Tror du de kan nå längre i turneringen?",
+        "Har du en favoritmatch i VM hittills?"
       ]
     },
     {
-      "id": "s-20260614-7",
+      "id": "s-20260615-7",
       "category": "sport",
-      "text": "Sveriges herrlandslag har haft sin första VM-träning i Dallas. Hoppas de laddar upp inför premiären!",
+      "text": "Frida Nordstrand är så glad över att Bojan Djordjic hänger med SVT under VM. Det kan bli bra innehåll!",
       "followUp": [
-        "Kollade du streamingen av träningen?",
-        "Funderar du på att åka över dit?"
+        "Har du sett några av hans analyser tidigare?",
+        "Följer du något särskilt e-sport/event nu?"
       ]
     },
     {
-      "id": "s-20260614-8",
+      "id": "s-20260615-8",
       "category": "sport",
-      "text": "TV-rättigheterna för VM har blivit dyrare, så vi får se hur det påverkar sändningarna. Lite trist, va?",
+      "text": "Linda Sembrant lägger skorna på hyllan nu. Det är ju ett stort avsked för svensk fotboll!",
       "followUp": [
-        "Blir du irriterad över sånt här?",
-        "Hur brukar du följa matcher?"
+        "Vad tyckte du har varit hennes bästa ögonblick?",
+        "Har du någon favoritspelare som också borde tänka på att pensionera sig?"
       ]
     },
     {
-      "id": "s-20260614-9",
+      "id": "s-20260615-9",
       "category": "sport",
-      "text": "Har du hört att Stockholmskrogar har nattöppet under VM? Perfekt för sent matcher!",
+      "text": "Lucas Ekeståhl Jonsson lämnar Rögle! Har du hängt med i den där dramatiska svängen?",
       "followUp": [
-        "Vilken krog tycker du är bäst för att se matcher?",
-        "Kommer du att hänga med vännerna där?"
+        "Tror du han kommer att hitta en ny klubb snart?",
+        "Vilken spelare skulle du säga saknas mest just nu?"
       ]
     },
     {
-      "id": "s-20260614-10",
+      "id": "s-20260615-10",
       "category": "sport",
-      "text": "Svenska fans är på väg till Nordamerika för att heja på Sverige i VM. Snacka om engagemang!",
+      "text": "Sydkorea gjorde en episk comeback mot Tjeckien i VM! Men den där publikgrejen var ju lite suspekt.",
       "followUp": [
-        "Hade du velat åka dit?",
-        "Tror du vi får se mycket svenskt stöd?"
+        "Har du sett något liknande förr?",
+        "Vad tycker du om publikens påverkan på matcherna?"
       ]
     },
     {
-      "id": "s-20260614-11",
+      "id": "s-20260615-11",
       "category": "sport",
-      "text": "Sveriges första VM-träning i Dallas bjöd på regn, vilket spelarna inte verkar vara vana vid. Men skit samma!",
+      "text": "Jennifer Kücükaslan har blivit en riktig snackis i sportmedia. Har du sett vad hon gör?",
       "followUp": [
-        "Vilket väder är din nightmare för en match?",
-        "Har du varit med om sämre väder på träningar?"
+        "Tycker du hon bygger sin profil bra?",
+        "Vad skulle du vilja höra mer från henne?"
       ]
     },
     {
-      "id": "s-20260614-12",
+      "id": "s-20260615-12",
       "category": "sport",
-      "text": "Haha, förbundskapten Graham Potter dök upp i cowboyhatt under träningen i Dallas. Kanske för att komma in i stämningen?",
+      "text": "FIFA har släppt schemat för 16-delsfinalerna i VM 2026, och jag är peppad!",
       "followUp": [
-        "Vad tycker du om tränarens stil?",
-        "Skulle du våga klä dig så på en träning?"
+        "Vilken match ser du mest fram emot?",
+        "Har du bokat tid för att kolla på någon av dem?"
       ]
     },
     {
-      "id": "s-20260614-13",
+      "id": "s-20260615-13",
       "category": "sport",
-      "text": "TV4 ska sända mängder av matcher från VM, det känns ju bra! Då går vi inte miste om något.",
+      "text": "Sverige och Nederländerna i en nyckelmatch i VM! Man kan nästan känna spänningen i luften.",
       "followUp": [
-        "Bänkar du dig framför rutan?",
-        "Vilket snacks är ett måste för matcherna?"
+        "Vad tror du blir den avgörande faktorn?",
+        "Har du förberett snacks inför matchen?"
       ]
     },
     {
-      "id": "s-20260614-14",
+      "id": "s-20260615-14",
       "category": "sport",
-      "text": "Svenskarna kan streama VM på SVT Play och TV4 Play. Perfekt för att få in alla matcher!",
+      "text": "Det är ju ganska episkt att Sverige ställs mot Japan nu i ett VM-möte!",
       "followUp": [
-        "Streamar du mycket sport?",
-        "Har du en favoritstreamingtjänst?"
+        "Tror du Sverige har pushen för att vinna?",
+        "Vad är ditt bästa minne från en tidigare match mellan dem?"
       ]
     },
     {
-      "id": "t-20260613-1",
+      "id": "s-20260615-15",
+      "category": "sport",
+      "text": "Ingen press, men Sverige möter Argentina i en avgörande match. Det här kan bli sjukt spännande!",
+      "followUp": [
+        "Vad tror du om våra chanser?",
+        "Kollade du på senaste matcherna?"
+      ]
+    },
+    {
+      "id": "t-20260615-1",
       "category": "teknik",
-      "text": "Tänkte på vad Nvidias vd sa om AI och jobb. Han tror att AI faktiskt gör utvecklare mer eftersökta.",
+      "text": "Kollade du på Google Gemini-uppdateringen? Deras nya AI-grejer verkar helt svimbra!",
       "followUp": [
-        "Tror du att det stämmer?",
-        "Skulle du vilja jobba med AI?"
+        "Har du testat några av funktionerna?",
+        "Tror du att det kan slå ChatGPT?"
       ]
     },
     {
-      "id": "t-20260613-2",
+      "id": "t-20260615-2",
       "category": "teknik",
-      "text": "Har du kollat in Conifer? De gör lokal AI tillgänglig utan att man behöver ha en monsterPC.",
+      "text": "Hörde du att Telia och KTH har gått samman för att utveckla AI-tjänster? Snabbare sjukvård kanske?",
       "followUp": [
-        "Känns det som något du skulle vilja testa?",
-        "Vilken lokal AI-lösning gillar du mest?"
+        "Vilken bransch tror du får mest nytta av det här?",
+        "Skulle du vilja använda AI i din vardag?"
       ]
     },
     {
-      "id": "t-20260613-3",
+      "id": "t-20260615-3",
       "category": "teknik",
-      "text": "Såg att Microsoft släppte en Surface Laptop Ultra med ett Nvidia-superchip. Häftigt!",
+      "text": "Såg du att SpaceX nu är öppet på börsen? Riktigt coolt att de blev första rymdbolaget på Nasdaq!",
       "followUp": [
-        "Skulle du uppgradera din laptop för det?",
-        "Vad saknar du mest i din nuvarande dator?"
+        "Tror du att fler rymdföretag kommer följa efter?",
+        "Skulle du köpa aktier i rymdindustrin?"
       ]
     },
     {
-      "id": "t-20260613-4",
+      "id": "t-20260615-4",
       "category": "teknik",
-      "text": "Hörde att Teslas AI-tränare vägrar åka med i sina egna självkörande bilar. Skumt, va?",
+      "text": "Har du hört om Glitched Card Festival? Låter som en dröm för samlare och gamers!",
       "followUp": [
-        "Tror du att det finns något att vara rädd för?",
-        "Skulle du våga åka i en självkörande bil?"
+        "Ska du gå dit?",
+        "Vilka kort skulle du jaga på festivalen?"
       ]
     },
     {
-      "id": "t-20260613-5",
+      "id": "t-20260615-5",
       "category": "teknik",
-      "text": "Så DuckDuckGo får plötsligt tre gånger fler användare när folk lämnar Googles AI-sökmotor. Crazy!",
+      "text": "Kollade du in spelet 'Hela: of Mice & Magic'? Det utspelar sig i norrländska skogar och låter supermysigt!",
       "followUp": [
-        "Kollar du ofta på andra sökmotorer?",
-        "Vad är viktigast för dig när du söker på nätet?"
+        "Skulle du spela det med kompisar?",
+        "Vilken typ av spel gillar du mest just nu?"
       ]
     },
     {
-      "id": "t-20260613-6",
+      "id": "t-20260615-6",
       "category": "teknik",
-      "text": "Meta utvecklar ett AI-halsband för att spela in samtal. Snacka om att ta röststyrning till nästa nivå!",
+      "text": "Glitched kör igång med LAN-festivaler igen! Verkar som en kul grej efter Dreamhack.",
       "followUp": [
-        "Skulle du använda ett sånt halsband?",
-        "Vad tycker du om smarta wearables generellt?"
+        "Skulle du dra på LAN med gänget?",
+        "Vad tycker du om LAN-kultur?"
       ]
     },
     {
-      "id": "t-20260613-7",
+      "id": "t-20260615-7",
       "category": "teknik",
-      "text": "Claude har sänkt priserna, och nu ska de integrera ChatGPT i Excel. Helt galet!",
+      "text": "Hörde du om den där fantastiska aurorabilden som SpaceX-astronauter tog? Snyggt!",
       "followUp": [
-        "Vilket program skulle du vilja se AI i?",
-        "Har du använt AI i ditt arbete än?"
+        "Tycker du att rymden är fascinerande?",
+        "Skulle du vilja åka till rymden om du fick chansen?"
       ]
     },
     {
-      "id": "t-20260613-8",
+      "id": "t-20260615-8",
       "category": "teknik",
-      "text": "SpaceX är på väg med en börsnotering. Det luktar både spännande och riskfyllt!",
+      "text": "Läste om CISA:s varning angående VPN-sårbarheter. Lite läskigt med ransomware-attackerna nu.",
       "followUp": [
-        "Tror du att det kommer att bli en succé?",
-        "Är du sugen på att investera i rymdteknik?"
+        "Hur bra skyddar du dina egna enheter?",
+        "Använder du VPN regelbundet?"
       ]
     },
     {
-      "id": "t-20260613-9",
+      "id": "t-20260615-9",
       "category": "teknik",
-      "text": "Nvidia och Microsoft hintar om ett hemligt superchipp som kan förändra PC-världen. Häftigt!",
+      "text": "SpaceX:s aktier har ökat med 19% vid börsdebuten. Snacka om rymdhajp!",
       "followUp": [
-        "Vad skulle du vilja se i en ny dator?",
-        "Hur viktigt är prestanda för dig?"
+        "Tror du att det är en bra investering?",
+        "Vad skulle du helst se dem lansera härnäst?"
       ]
     },
     {
-      "id": "t-20260613-10",
+      "id": "t-20260615-10",
       "category": "teknik",
-      "text": "AI-genererat skräp är tydligen på väg att dra in över en miljard dollar på YouTube. Vad hände där?",
+      "text": "Telia och KTH har verkligen något på gång med sitt AI-samarbete. Spännande grejer i sikte!",
       "followUp": [
-        "Har du sett något av det här skräpet?",
-        "Tror du att det kommer att påverka vad vi ser på plattformen?"
+        "Vilket område tror du ska prioriteras?",
+        "Skulle du testa några av deras tjänster?"
       ]
     },
     {
