@@ -33,57 +33,66 @@
   ],
   "kallprat": [
     {
-      "id": "n-20260613-1",
+      "id": "n-20260615-1",
       "category": "nyheter",
-      "text": "Kollade du på den koreanska kulturfestivalen i Stockholm? Helt galet hur mycket folk som var där!",
+      "text": "Svensk musik är verkligen på hugget i år! Intäkterna har ökat med 8% jämfört med förra året. Vad är grejen, egentligen?",
       "followUp": [
-        "Har du varit på något liknande?",
-        "Vilken del av den kulturen är du mest nyfiken på?"
+        "Vilken svensk artist har du lyssnat mest på nyligen?",
+        "Hade du koll på hur många som strömmar svenskt nu för tiden?"
       ]
     },
     {
-      "id": "n-20260613-2",
+      "id": "n-20260615-2",
       "category": "nyheter",
-      "text": "Va, har du sett att Heeseung hoppar av Enhypen? Det drar ju verkligen igång känslor bland fansen.",
+      "text": "Alltså, TikTok och Instagram som nyhetskällor för unga är helt sjukt! Hur blev det så?",
       "followUp": [
-        "Vad tror du att det kommer få för påverkan på gruppen?",
-        "Hurdana reaktioner har du sett bland fansen?"
+        "Kollade du senaste nyheterna där?",
+        "Tror du att det är bra eller dåligt att få nyheter så?"
       ]
     },
     {
-      "id": "n-20260613-3",
+      "id": "n-20260615-3",
       "category": "nyheter",
-      "text": "Sydkoreansk kultur är verkligen i ropet just nu, eller hur? Allt från mat till musik bara växer!",
+      "text": "Svenskarna lägger sjukt mycket tid på medier – nästan sju timmar om dagen! Vad gör vi ens hela dagen?",
       "followUp": [
-        "Vilken K-pop låt har du fastnat för?",
-        "Har du testat något koreanskt snacks som du älskade?"
+        "Vilken typ av innehåll fastnar du för mest?",
+        "Har du något tips på grymt innehåll att följa?"
       ]
     },
     {
-      "id": "n-20260613-4",
+      "id": "n-20260615-4",
       "category": "nyheter",
-      "text": "Hörde du om att Sabrina Carpenter har fått kritik för sin klädstil? Snacka om att alltid vara i blickfånget!",
+      "text": "Musikbranschen är tillbaka med full fart efter pandemin! Konserterna blomstrar verkligen nu.",
       "followUp": [
-        "Tycker du att hon ska skita i kritiken?",
-        "Vad skulle du säga är hennes mest ikoniska look?"
+        "Har du varit på någon bra konsert på sistone?",
+        "Vilken artist skulle du helst vilja se live just nu?"
       ]
     },
     {
-      "id": "n-20260613-5",
+      "id": "n-20260615-5",
       "category": "nyheter",
-      "text": "Alltså, TikTok är verkligen ett helt eget universum nu. Har du sett några nya trender som dykt upp?",
+      "text": "Har du hört talas om Sombr som hade sin första konsert i Stockholm nyligen? Låter som en rejäl fest!",
       "followUp": [
-        "Vad tror du kommer bli nästa stora grej där?",
-        "Har du någon TikTok-utmaning som du tycker är kul?"
+        "Kollade du på klipp från konserten?",
+        "Tror du att han kommer bli en stor stjärna?"
       ]
     },
     {
-      "id": "n-20260613-6",
+      "id": "n-20260615-6",
       "category": "nyheter",
-      "text": "Helt sjukt hur godis och gurka blivit en grej på TikTok! Vem kom ens på det?",
+      "text": "Spotify Wrapped är här igen! Bolaget toppar listan över mest spelade låtar i Sverige.",
       "followUp": [
-        "Har du testat kombo själv?",
-        "Vilket svenskt godis skulle du vilja satsa på?"
+        "Vilken låt kommer du såklart att höra på fest i år?",
+        "Har du kollat dina egna stats än?"
+      ]
+    },
+    {
+      "id": "n-20260615-7",
+      "category": "nyheter",
+      "text": "TikTok fortsätter att ta över nyhetsvärlden, nu är det hälften av unga som får sina nyheter där! Hur crazy är inte det?",
+      "followUp": [
+        "Vad tror du nästa trend blir på plattformen?",
+        "Finns det något speciellt ämne du följer på TikTok?"
       ]
     },
     {
