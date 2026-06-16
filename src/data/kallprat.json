@@ -125,136 +125,154 @@
     {
       "id": "s-20260616-1",
       "category": "sport",
-      "text": "Såg du att Amazon och YouTube kanske kommer att ta hand om TV-rättigheterna för stora sportevenemang? Det skulle ju kunna förändra hela grejen med hur vi följer sport.",
+      "text": "Sverige krossade ju Tunisien med 5–1 i VM-premiären, så jäkla nice!",
       "followUp": [
-        "Kollade du på någon av deras streams tidigare?",
-        "Hade du någon favoritkanal förut?"
+        "Vilket mål var bäst enligt dig?",
+        "Ska vi hinna med att fira VM framöver?"
       ]
     },
     {
       "id": "s-20260616-2",
       "category": "sport",
-      "text": "Hörde du att Sverige ska möta Nederländerna i VM-kvalet nästa år? Det kan bli en riktig rysare!",
+      "text": "Såg att Sverige förlorade mot Norge i träningsmatchen, 0–2. Inte direkt hur man vill gå in i VM!",
       "followUp": [
-        "Ska du se på matchen?",
-        "Vilka spelare tror du kommer att briljera i den matchen?"
+        "Tror du de kommer skärpa sig till premiären?",
+        "Har du kollar på nån av deras matcher?"
       ]
     },
     {
       "id": "t-20260616-1",
       "category": "teknik",
-      "text": "Kollade du vad OpenAI och Apple kan ha på gång med smarta wearables för att hjälpa oss mot mobilberoendet?",
+      "text": "Siri har fått en ordentlig uppgradering nu! Den ska bli mycket smartare och mer användbar. Tror du att den kan konkurrera med de andra AI-assistenterna?",
       "followUp": [
-        "Tror du det verkligen kan funka?",
-        "Vilka funktioner skulle du vilja se?"
+        "Skulle du lita på en AI-assistent mer om den blev riktigt smart?",
+        "Använder du Siri ofta eller går du mer på Google Assistant?"
       ]
     },
     {
       "id": "t-20260616-2",
       "category": "teknik",
-      "text": "Såg att Meta släpper ett verktyg för utvecklare av sina smarta glasögon, det låter ju rätt coolt!",
+      "text": "ChatGPT kan nu ta emot betalningar direkt i chatten. Snacka om att frästa shoppingupplevelsen! Har du testat det än?",
       "followUp": [
-        "Vad skulle du vilja ha för appar till dem?",
-        "Skulle du våga ha på dig sådana på stan?"
+        "Tror du det skulle funka för andra tjänster också?",
+        "Skulle du våga köpa något direkt genom en chatt?"
       ]
     },
     {
       "id": "t-20260616-3",
       "category": "teknik",
-      "text": "Hörde om Microsofts nya AI-enhet som har både kamera och fingeravtrycksläsare—vad sjukt!",
+      "text": "OpenAI har precis öppnat ett kontor i Madrid för att jobba med spanska företag. Tycker du det är en smart move?",
       "followUp": [
-        "Skulle du bära en sådan?",
-        "Hur ofta tror du att du skulle använda kameran?"
+        "Kan man förvänta sig spanska AI-inventioner snart?",
+        "Har du något favoritprojekt från OpenAI?"
       ]
     },
     {
       "id": "t-20260616-4",
       "category": "teknik",
-      "text": "Såg att Sony har släppt Reon Pocket Pro Plus, en cool bärbar kylare för nacken?",
+      "text": "iPhone 16 är officiellt här med massa nyheter! Ser ut som att Apple verkligen vill imponera den här gången.",
       "followUp": [
-        "Tror du den verkligen funkar i värmen?",
-        "Har du testat något liknande förut?"
+        "Kollade du på presentationen?",
+        "Vad skulle få dig att uppgradera från din nuvarande telefon?"
       ]
     },
     {
       "id": "t-20260616-5",
       "category": "teknik",
-      "text": "Google har släppt Fitbit Air, en skärmfri fitness-tracker—är det framtiden för träningsprylar?",
+      "text": "Nintendo Switch 2 får ett utbytbart batteri! Äntligen lite mångsidighet för spelare, eller hur?",
       "followUp": [
-        "Vilken är din favvo-träningsapp?",
-        "Hur viktigt är det för dig med sömnanalys?"
+        "Vad tror du om det? Blir det bättre än föregångaren?",
+        "Vilken typ av spel ser du fram emot på den?"
       ]
     },
     {
       "id": "t-20260616-6",
       "category": "teknik",
-      "text": "Apple jobbar på en holografisk iPhone och nya AirPods Pro, hur galet skulle det vara?",
+      "text": "Så, har du hört om handhållna speldatorer med Intels nya Arc G3-arkitektur? Spel på språng kan bli riktigt intressant!",
       "followUp": [
-        "Skulle du köra holografi i din vardag?",
-        "Vad är det mest spännande med såna prylar, tycker du?"
+        "Skulle du plocka upp en sån?",
+        "Vilket spel skulle du vilja kunna spela var som helst?"
       ]
     },
     {
       "id": "t-20260616-7",
       "category": "teknik",
-      "text": "Meta har ju sina Orion AR-glasögon under utveckling, och en egen 'Compute Puck' med? Snacka om framtid!",
+      "text": "Minecraft Dungeons 2 är på väg, och det kommer med helt nya äventyr! Är du taggad på det?",
       "followUp": [
-        "Tror du de kommer ha något som kan slå dagens smarta glasögon?",
-        "Skaffar du sådana om de funkar bra?"
+        "Har du spelat det första?",
+        "Vad skulle du vilja se i uppföljaren?"
       ]
     },
     {
       "id": "t-20260616-8",
       "category": "teknik",
-      "text": "Såg att Ericsson använder agentisk AI för att styra privata 5G-nätverk nu—det låter superintressant!",
+      "text": "The Witcher 3 får en ny expansion som heter 'Songs of the Past'. Det låter ju lovande!",
       "followUp": [
-        "Skulle du vilja ha en sån lösning på jobbet?",
-        "Vad är den mest imponerande tech-grejen du har sett nyligen?"
+        "Är du fortfarande en fan av Witcher-universumet?",
+        "Vilken expansion är din favorit hittills?"
       ]
     },
     {
       "id": "t-20260616-9",
       "category": "teknik",
-      "text": "Palo Alto Networks jobbar med att säkra AI-fabriker—har du hört om det?",
+      "text": "Spotify lanserar en AI-detektor för musik. Kan det bli bra eller är det mer krångel än nytta?",
       "followUp": [
-        "Tycker du att det känns tryggt med AI i fabriker?",
-        "Vad tror du behövs för att det ska funka optimalt?"
+        "Tror du att AI-genererad musik kommer att ta över snart?",
+        "Har du hört någon AI-genererad låt som du faktiskt gillade?"
       ]
     },
     {
       "id": "t-20260616-10",
       "category": "teknik",
-      "text": "Android Automotive lägger till över 70 appar, men bara när bilarna är parkerade, hur smart är inte det?",
+      "text": "YouTube återintroducerar direktmeddelanden, men bara för de över 18. Lite snålt, eller?",
       "followUp": [
-        "Skulle du spela spel i bilen om du kunde?",
-        "Vilken app saknar du mest på väg till jobbet?"
+        "Kollade du på YouTube förr när de hade meddelanden?",
+        "Tror du att det kommer att göra någon skillnad?"
       ]
     },
     {
       "id": "t-20260616-11",
       "category": "teknik",
-      "text": "Hörde att Nothing planerar att skapa sitt eget operativsystem för smartphones—det ska bli spännande!",
+      "text": "Snapchat sätter nya begränsningar för användare mellan 13 och 15. Vad tänker du om det?",
       "followUp": [
-        "Vad skulle du vilja se i ett nytt operativsystem?",
-        "Tror du det kan konkurrera med de stora?"
+        "Blir det verkligen bättre för säkerheten?",
+        "Tror du att fler plattformar borde göra samma sak?"
       ]
     },
     {
       "id": "t-20260616-12",
       "category": "teknik",
-      "text": "Meta är på väg med en app som fokuserar på AI-genererade videor, snacka om framtidens innehåll!",
+      "text": "Uber planerar att testa autonoma robotaxi-tjänster i München. Helt galet eller en framtidsdröm?",
       "followUp": [
-        "Skulle du använda en sån app?",
-        "Vilken typ av video skulle du vilja se där?"
+        "Skulle du våga åka i en självkörande bil?",
+        "Vad är det mest spännande med framtidens transport?"
       ]
     },
     {
       "id": "t-20260616-13",
       "category": "teknik",
-      "text": "Qualcomm pratar om AI mellan moln och edge-enheter nu—det måste ju öppna upp för mycket nytt!",
+      "text": "Portugal ska införa nya regler för självkörande bilar. Det kan ju bli intressant att se hur det påverkar allt!",
       "followUp": [
-        "Tror du att vi snart får se mer av 6G?",
-        "Vad är det mest intressanta med edge AI, tycker du?"
+        "Tror du det är dags för självkörande bilar att ta över?",
+        "Vilken stad skulle vara bäst för robottaxi-test?"
+      ]
+    },
+    {
+      "id": "t-20260616-14",
+      "category": "teknik",
+      "text": "SpaceX har just gjort en framgångsrik börsintroduktion. Det kan ju verkligen förändra spelplanen för rymdindustrin!",
+      "followUp": [
+        "Visste du att deras nästa projekt är ännu mer ambitiöst?",
+        "Tror du att fler företag kommer följa deras spår?"
+      ]
+    },
+    {
+      "id": "t-20260616-15",
+      "category": "teknik",
+      "text": "Blue Origins raket exploderade under ett test. Snacka om att de får göra en teknisk översyn!",
+      "followUp": [
+        "Tror du att det här kommer påverka deras rykte mycket?",
+        "Är du mer av en SpaceX eller Blue Origin-fan?"
       ]
     },
     {
