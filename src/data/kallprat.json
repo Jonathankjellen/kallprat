@@ -123,228 +123,138 @@
       ]
     },
     {
-      "id": "s-20260615-1",
+      "id": "s-20260616-1",
       "category": "sport",
-      "text": "Kollade du att SVT och TV4 samarbetar för att hålla i fotbolls-VM-rättigheterna? Det känns som en stor grej!",
+      "text": "Såg du att Amazon och YouTube kanske kommer att ta hand om TV-rättigheterna för stora sportevenemang? Det skulle ju kunna förändra hela grejen med hur vi följer sport.",
       "followUp": [
-        "Blir det mer matcher att se på nu?",
-        "Vilka matcher ser du mest fram emot?"
+        "Kollade du på någon av deras streams tidigare?",
+        "Hade du någon favoritkanal förut?"
       ]
     },
     {
-      "id": "s-20260615-2",
+      "id": "s-20260616-2",
       "category": "sport",
-      "text": "Asså, kan du fatta att New York Knicks äntligen vann NBA-mästerskapet efter 53 år? Vilken comeback!",
+      "text": "Hörde du att Sverige ska möta Nederländerna i VM-kvalet nästa år? Det kan bli en riktig rysare!",
       "followUp": [
-        "Tror du de kan bygga på det här momentumet?",
-        "Har du sett några sjuka klipp från firandet?"
+        "Ska du se på matchen?",
+        "Vilka spelare tror du kommer att briljera i den matchen?"
       ]
     },
     {
-      "id": "s-20260615-3",
-      "category": "sport",
-      "text": "Hörde du om Schweiz som förlorade mot Qatar i VM? Snacka om chock!",
-      "followUp": [
-        "Vad tror du gick fel för dem?",
-        "Har du sett några av de andra galna resultaten?"
-      ]
-    },
-    {
-      "id": "s-20260615-4",
-      "category": "sport",
-      "text": "Wow, Sverige kom igång med ett riktigt storslam i VM mot Tunisien! 5-1, snacka om självförtroende!",
-      "followUp": [
-        "Vem var din MVP i matchen?",
-        "Kollade du på hela matchen eller missade du något?"
-      ]
-    },
-    {
-      "id": "s-20260615-5",
-      "category": "sport",
-      "text": "Såg du matchen mellan Japan och Sverige? 2-2 och helt spännande ända in på slutet!",
-      "followUp": [
-        "Vilket lag trodde du skulle ta hem det?",
-        "Vad tycker du om hur båda lagen spelade?"
-      ]
-    },
-    {
-      "id": "s-20260615-6",
-      "category": "sport",
-      "text": "Det var ju grymt att Bosnien var tillbaka i VM efter så lång tid och segrade direkt!",
-      "followUp": [
-        "Tror du de kan nå längre i turneringen?",
-        "Har du en favoritmatch i VM hittills?"
-      ]
-    },
-    {
-      "id": "s-20260615-7",
-      "category": "sport",
-      "text": "Frida Nordstrand är så glad över att Bojan Djordjic hänger med SVT under VM. Det kan bli bra innehåll!",
-      "followUp": [
-        "Har du sett några av hans analyser tidigare?",
-        "Följer du något särskilt e-sport/event nu?"
-      ]
-    },
-    {
-      "id": "s-20260615-8",
-      "category": "sport",
-      "text": "Linda Sembrant lägger skorna på hyllan nu. Det är ju ett stort avsked för svensk fotboll!",
-      "followUp": [
-        "Vad tyckte du har varit hennes bästa ögonblick?",
-        "Har du någon favoritspelare som också borde tänka på att pensionera sig?"
-      ]
-    },
-    {
-      "id": "s-20260615-9",
-      "category": "sport",
-      "text": "Lucas Ekeståhl Jonsson lämnar Rögle! Har du hängt med i den där dramatiska svängen?",
-      "followUp": [
-        "Tror du han kommer att hitta en ny klubb snart?",
-        "Vilken spelare skulle du säga saknas mest just nu?"
-      ]
-    },
-    {
-      "id": "s-20260615-10",
-      "category": "sport",
-      "text": "Sydkorea gjorde en episk comeback mot Tjeckien i VM! Men den där publikgrejen var ju lite suspekt.",
-      "followUp": [
-        "Har du sett något liknande förr?",
-        "Vad tycker du om publikens påverkan på matcherna?"
-      ]
-    },
-    {
-      "id": "s-20260615-11",
-      "category": "sport",
-      "text": "Jennifer Kücükaslan har blivit en riktig snackis i sportmedia. Har du sett vad hon gör?",
-      "followUp": [
-        "Tycker du hon bygger sin profil bra?",
-        "Vad skulle du vilja höra mer från henne?"
-      ]
-    },
-    {
-      "id": "s-20260615-12",
-      "category": "sport",
-      "text": "FIFA har släppt schemat för 16-delsfinalerna i VM 2026, och jag är peppad!",
-      "followUp": [
-        "Vilken match ser du mest fram emot?",
-        "Har du bokat tid för att kolla på någon av dem?"
-      ]
-    },
-    {
-      "id": "s-20260615-13",
-      "category": "sport",
-      "text": "Sverige och Nederländerna i en nyckelmatch i VM! Man kan nästan känna spänningen i luften.",
-      "followUp": [
-        "Vad tror du blir den avgörande faktorn?",
-        "Har du förberett snacks inför matchen?"
-      ]
-    },
-    {
-      "id": "s-20260615-14",
-      "category": "sport",
-      "text": "Det är ju ganska episkt att Sverige ställs mot Japan nu i ett VM-möte!",
-      "followUp": [
-        "Tror du Sverige har pushen för att vinna?",
-        "Vad är ditt bästa minne från en tidigare match mellan dem?"
-      ]
-    },
-    {
-      "id": "s-20260615-15",
-      "category": "sport",
-      "text": "Ingen press, men Sverige möter Argentina i en avgörande match. Det här kan bli sjukt spännande!",
-      "followUp": [
-        "Vad tror du om våra chanser?",
-        "Kollade du på senaste matcherna?"
-      ]
-    },
-    {
-      "id": "t-20260615-1",
+      "id": "t-20260616-1",
       "category": "teknik",
-      "text": "Kollade du på Google Gemini-uppdateringen? Deras nya AI-grejer verkar helt svimbra!",
+      "text": "Kollade du vad OpenAI och Apple kan ha på gång med smarta wearables för att hjälpa oss mot mobilberoendet?",
       "followUp": [
-        "Har du testat några av funktionerna?",
-        "Tror du att det kan slå ChatGPT?"
+        "Tror du det verkligen kan funka?",
+        "Vilka funktioner skulle du vilja se?"
       ]
     },
     {
-      "id": "t-20260615-2",
+      "id": "t-20260616-2",
       "category": "teknik",
-      "text": "Hörde du att Telia och KTH har gått samman för att utveckla AI-tjänster? Snabbare sjukvård kanske?",
+      "text": "Såg att Meta släpper ett verktyg för utvecklare av sina smarta glasögon, det låter ju rätt coolt!",
       "followUp": [
-        "Vilken bransch tror du får mest nytta av det här?",
-        "Skulle du vilja använda AI i din vardag?"
+        "Vad skulle du vilja ha för appar till dem?",
+        "Skulle du våga ha på dig sådana på stan?"
       ]
     },
     {
-      "id": "t-20260615-3",
+      "id": "t-20260616-3",
       "category": "teknik",
-      "text": "Såg du att SpaceX nu är öppet på börsen? Riktigt coolt att de blev första rymdbolaget på Nasdaq!",
+      "text": "Hörde om Microsofts nya AI-enhet som har både kamera och fingeravtrycksläsare—vad sjukt!",
       "followUp": [
-        "Tror du att fler rymdföretag kommer följa efter?",
-        "Skulle du köpa aktier i rymdindustrin?"
+        "Skulle du bära en sådan?",
+        "Hur ofta tror du att du skulle använda kameran?"
       ]
     },
     {
-      "id": "t-20260615-4",
+      "id": "t-20260616-4",
       "category": "teknik",
-      "text": "Har du hört om Glitched Card Festival? Låter som en dröm för samlare och gamers!",
+      "text": "Såg att Sony har släppt Reon Pocket Pro Plus, en cool bärbar kylare för nacken?",
       "followUp": [
-        "Ska du gå dit?",
-        "Vilka kort skulle du jaga på festivalen?"
+        "Tror du den verkligen funkar i värmen?",
+        "Har du testat något liknande förut?"
       ]
     },
     {
-      "id": "t-20260615-5",
+      "id": "t-20260616-5",
       "category": "teknik",
-      "text": "Kollade du in spelet 'Hela: of Mice & Magic'? Det utspelar sig i norrländska skogar och låter supermysigt!",
+      "text": "Google har släppt Fitbit Air, en skärmfri fitness-tracker—är det framtiden för träningsprylar?",
       "followUp": [
-        "Skulle du spela det med kompisar?",
-        "Vilken typ av spel gillar du mest just nu?"
+        "Vilken är din favvo-träningsapp?",
+        "Hur viktigt är det för dig med sömnanalys?"
       ]
     },
     {
-      "id": "t-20260615-6",
+      "id": "t-20260616-6",
       "category": "teknik",
-      "text": "Glitched kör igång med LAN-festivaler igen! Verkar som en kul grej efter Dreamhack.",
+      "text": "Apple jobbar på en holografisk iPhone och nya AirPods Pro, hur galet skulle det vara?",
       "followUp": [
-        "Skulle du dra på LAN med gänget?",
-        "Vad tycker du om LAN-kultur?"
+        "Skulle du köra holografi i din vardag?",
+        "Vad är det mest spännande med såna prylar, tycker du?"
       ]
     },
     {
-      "id": "t-20260615-7",
+      "id": "t-20260616-7",
       "category": "teknik",
-      "text": "Hörde du om den där fantastiska aurorabilden som SpaceX-astronauter tog? Snyggt!",
+      "text": "Meta har ju sina Orion AR-glasögon under utveckling, och en egen 'Compute Puck' med? Snacka om framtid!",
       "followUp": [
-        "Tycker du att rymden är fascinerande?",
-        "Skulle du vilja åka till rymden om du fick chansen?"
+        "Tror du de kommer ha något som kan slå dagens smarta glasögon?",
+        "Skaffar du sådana om de funkar bra?"
       ]
     },
     {
-      "id": "t-20260615-8",
+      "id": "t-20260616-8",
       "category": "teknik",
-      "text": "Läste om CISA:s varning angående VPN-sårbarheter. Lite läskigt med ransomware-attackerna nu.",
+      "text": "Såg att Ericsson använder agentisk AI för att styra privata 5G-nätverk nu—det låter superintressant!",
       "followUp": [
-        "Hur bra skyddar du dina egna enheter?",
-        "Använder du VPN regelbundet?"
+        "Skulle du vilja ha en sån lösning på jobbet?",
+        "Vad är den mest imponerande tech-grejen du har sett nyligen?"
       ]
     },
     {
-      "id": "t-20260615-9",
+      "id": "t-20260616-9",
       "category": "teknik",
-      "text": "SpaceX:s aktier har ökat med 19% vid börsdebuten. Snacka om rymdhajp!",
+      "text": "Palo Alto Networks jobbar med att säkra AI-fabriker—har du hört om det?",
       "followUp": [
-        "Tror du att det är en bra investering?",
-        "Vad skulle du helst se dem lansera härnäst?"
+        "Tycker du att det känns tryggt med AI i fabriker?",
+        "Vad tror du behövs för att det ska funka optimalt?"
       ]
     },
     {
-      "id": "t-20260615-10",
+      "id": "t-20260616-10",
       "category": "teknik",
-      "text": "Telia och KTH har verkligen något på gång med sitt AI-samarbete. Spännande grejer i sikte!",
+      "text": "Android Automotive lägger till över 70 appar, men bara när bilarna är parkerade, hur smart är inte det?",
       "followUp": [
-        "Vilket område tror du ska prioriteras?",
-        "Skulle du testa några av deras tjänster?"
+        "Skulle du spela spel i bilen om du kunde?",
+        "Vilken app saknar du mest på väg till jobbet?"
+      ]
+    },
+    {
+      "id": "t-20260616-11",
+      "category": "teknik",
+      "text": "Hörde att Nothing planerar att skapa sitt eget operativsystem för smartphones—det ska bli spännande!",
+      "followUp": [
+        "Vad skulle du vilja se i ett nytt operativsystem?",
+        "Tror du det kan konkurrera med de stora?"
+      ]
+    },
+    {
+      "id": "t-20260616-12",
+      "category": "teknik",
+      "text": "Meta är på väg med en app som fokuserar på AI-genererade videor, snacka om framtidens innehåll!",
+      "followUp": [
+        "Skulle du använda en sån app?",
+        "Vilken typ av video skulle du vilja se där?"
+      ]
+    },
+    {
+      "id": "t-20260616-13",
+      "category": "teknik",
+      "text": "Qualcomm pratar om AI mellan moln och edge-enheter nu—det måste ju öppna upp för mycket nytt!",
+      "followUp": [
+        "Tror du att vi snart får se mer av 6G?",
+        "Vad är det mest intressanta med edge AI, tycker du?"
       ]
     },
     {
