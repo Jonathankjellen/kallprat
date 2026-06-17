@@ -123,156 +123,219 @@
       ]
     },
     {
-      "id": "s-20260616-1",
+      "id": "s-20260617-1",
       "category": "sport",
-      "text": "Sverige krossade ju Tunisien med 5–1 i VM-premiären, så jäkla nice!",
+      "text": "Kollade du på hela cirkusen kring tv-rättigheterna för VM? Det skulle ju vara helt galet om Amazon eller YouTube fick tag på dem.",
       "followUp": [
-        "Vilket mål var bäst enligt dig?",
-        "Ska vi hinna med att fira VM framöver?"
+        "Skulle du kolla på sport på de plattformarna?",
+        "Vad tror du om att SVT och TV4 får konkurrenter?"
       ]
     },
     {
-      "id": "s-20260616-2",
+      "id": "s-20260617-2",
       "category": "sport",
-      "text": "Såg att Sverige förlorade mot Norge i träningsmatchen, 0–2. Inte direkt hur man vill gå in i VM!",
+      "text": "Hörde du att Linda Sembrant lägger skorna på hyllan? 38 år gammal och ändå helt grym hela vägen.",
       "followUp": [
-        "Tror du de kommer skärpa sig till premiären?",
-        "Har du kollar på nån av deras matcher?"
+        "Tror du att hon kommer vara aktiv inom fotbollen på något sätt?",
+        "Har du någon favoritmatch med henne?"
       ]
     },
     {
-      "id": "t-20260616-1",
-      "category": "teknik",
-      "text": "Siri har fått en ordentlig uppgradering nu! Den ska bli mycket smartare och mer användbar. Tror du att den kan konkurrera med de andra AI-assistenterna?",
+      "id": "s-20260617-3",
+      "category": "sport",
+      "text": "Såg du Sveriges VM-premiär? Snacka om att laget verkligen levererade och nu hyllas internationellt!",
       "followUp": [
-        "Skulle du lita på en AI-assistent mer om den blev riktigt smart?",
-        "Använder du Siri ofta eller går du mer på Google Assistant?"
+        "Vilken prestation tyckte du var mest imponerande?",
+        "Tycker du att de kan hålla uppe den nivån genom hela VM?"
       ]
     },
     {
-      "id": "t-20260616-2",
-      "category": "teknik",
-      "text": "ChatGPT kan nu ta emot betalningar direkt i chatten. Snacka om att frästa shoppingupplevelsen! Har du testat det än?",
+      "id": "s-20260617-4",
+      "category": "sport",
+      "text": "Kollade du på matchen mot Sydafrika? Sverige visade verkligen vad de går för!",
       "followUp": [
-        "Tror du det skulle funka för andra tjänster också?",
-        "Skulle du våga köpa något direkt genom en chatt?"
+        "Vad tyckte du om spelet?",
+        "Ser du dem som favoriter nu?"
       ]
     },
     {
-      "id": "t-20260616-3",
-      "category": "teknik",
-      "text": "OpenAI har precis öppnat ett kontor i Madrid för att jobba med spanska företag. Tycker du det är en smart move?",
+      "id": "s-20260617-5",
+      "category": "sport",
+      "text": "Hörde du om Sveriges storslam mot Tunisien? Snacka om att de verkligen råkade på uppvisning!",
       "followUp": [
-        "Kan man förvänta sig spanska AI-inventioner snart?",
-        "Har du något favoritprojekt från OpenAI?"
+        "Vad var höjdpunkten för dig under matchen?",
+        "Tror du de kan vinna hela turneringen?"
       ]
     },
     {
-      "id": "t-20260616-4",
-      "category": "teknik",
-      "text": "iPhone 16 är officiellt här med massa nyheter! Ser ut som att Apple verkligen vill imponera den här gången.",
+      "id": "s-20260617-6",
+      "category": "sport",
+      "text": "Så, vi mötte Marocko i VM! Det var verkligen ett tufft möte, men laganda och kämpa skina igenom.",
       "followUp": [
-        "Kollade du på presentationen?",
-        "Vad skulle få dig att uppgradera från din nuvarande telefon?"
+        "Vilken spelare överraskade dig mest?",
+        "Tycker du att Sverige har vad som krävs för nästa match?"
       ]
     },
     {
-      "id": "t-20260616-5",
-      "category": "teknik",
-      "text": "Nintendo Switch 2 får ett utbytbart batteri! Äntligen lite mångsidighet för spelare, eller hur?",
+      "id": "s-20260617-7",
+      "category": "sport",
+      "text": "Kollade du på hur Sverige stack ut mot Schweiz? Det var som att se en väloljad maskin i aktion!",
       "followUp": [
-        "Vad tror du om det? Blir det bättre än föregångaren?",
-        "Vilken typ av spel ser du fram emot på den?"
+        "Vilket mål var snyggast enligt dig?",
+        "Är det något du skulle vilja ändra på i spelsystemet?"
       ]
     },
     {
-      "id": "t-20260616-6",
-      "category": "teknik",
-      "text": "Så, har du hört om handhållna speldatorer med Intels nya Arc G3-arkitektur? Spel på språng kan bli riktigt intressant!",
+      "id": "s-20260617-8",
+      "category": "sport",
+      "text": "Hörde du att Sverige slog Haiti? Spelarna visade verkligen sin skicklighet där!",
       "followUp": [
-        "Skulle du plocka upp en sån?",
-        "Vilket spel skulle du vilja kunna spela var som helst?"
+        "Vilken spelare gjorde mest intryck på dig?",
+        "Skulle du kunna ge dig ut på planen och spela med dem?"
       ]
     },
     {
-      "id": "t-20260616-7",
-      "category": "teknik",
-      "text": "Minecraft Dungeons 2 är på väg, och det kommer med helt nya äventyr! Är du taggad på det?",
+      "id": "s-20260617-9",
+      "category": "sport",
+      "text": "Oj, matchen mot Tyskland var ju sjukt spännande! Snacka om en hård duell.",
       "followUp": [
-        "Har du spelat det första?",
-        "Vad skulle du vilja se i uppföljaren?"
+        "Vilka minuter satt du mest på tonus?",
+        "Tror du att Tyskland var överraskade av vårt spel?"
       ]
     },
     {
-      "id": "t-20260616-8",
-      "category": "teknik",
-      "text": "The Witcher 3 får en ny expansion som heter 'Songs of the Past'. Det låter ju lovande!",
+      "id": "s-20260617-10",
+      "category": "sport",
+      "text": "Såg du matchen mot Nederländerna? Det var sjukt tufft, men Sverige visade styrka!",
       "followUp": [
-        "Är du fortfarande en fan av Witcher-universumet?",
-        "Vilken expansion är din favorit hittills?"
+        "Vad var det mest spännande med den matchen?",
+        "Skulle du vilja se en rematch?"
       ]
     },
     {
-      "id": "t-20260616-9",
-      "category": "teknik",
-      "text": "Spotify lanserar en AI-detektor för musik. Kan det bli bra eller är det mer krångel än nytta?",
+      "id": "s-20260617-11",
+      "category": "sport",
+      "text": "Kollade du in när Sverige spelade mot Elfenbenskusten? Laget var riktigt på tårna!",
       "followUp": [
-        "Tror du att AI-genererad musik kommer att ta över snart?",
-        "Har du hört någon AI-genererad låt som du faktiskt gillade?"
+        "Vad tycker du om deras spelstil?",
+        "Har du följt något av lagen länge?"
       ]
     },
     {
-      "id": "t-20260616-10",
-      "category": "teknik",
-      "text": "YouTube återintroducerar direktmeddelanden, men bara för de över 18. Lite snålt, eller?",
+      "id": "s-20260617-12",
+      "category": "sport",
+      "text": "Hörde du att Sverige tog sig an Spanien nu senast? Snacka om att det var ett test av sanna hjältar!",
       "followUp": [
-        "Kollade du på YouTube förr när de hade meddelanden?",
-        "Tror du att det kommer att göra någon skillnad?"
+        "Vilket lag hejar du på i en sådan match?",
+        "Vad tror du om deras chanser framöver?"
       ]
     },
     {
-      "id": "t-20260616-11",
-      "category": "teknik",
-      "text": "Snapchat sätter nya begränsningar för användare mellan 13 och 15. Vad tänker du om det?",
+      "id": "s-20260617-13",
+      "category": "sport",
+      "text": "Såg du mötet med Iran? Sverige kämpade verkligen för att hålla upp tempot!",
       "followUp": [
-        "Blir det verkligen bättre för säkerheten?",
-        "Tror du att fler plattformar borde göra samma sak?"
+        "Hade du några favoritskapare under matchen?",
+        "Vilken strategi tror du skulle funka bättre nästa gång?"
       ]
     },
     {
-      "id": "t-20260616-12",
-      "category": "teknik",
-      "text": "Uber planerar att testa autonoma robotaxi-tjänster i München. Helt galet eller en framtidsdröm?",
+      "id": "s-20260617-14",
+      "category": "sport",
+      "text": "Oj, matchen mot Japan var verkligen något utöver det vanliga! Snacka om intensitet!",
       "followUp": [
-        "Skulle du våga åka i en självkörande bil?",
-        "Vad är det mest spännande med framtidens transport?"
+        "Trodde du Sverige skulle lyckas så bra?",
+        "Vilken spelare gjorde störst intryck på dig?"
       ]
     },
     {
-      "id": "t-20260616-13",
+      "id": "t-20260617-1",
       "category": "teknik",
-      "text": "Portugal ska införa nya regler för självkörande bilar. Det kan ju bli intressant att se hur det påverkar allt!",
+      "text": "Kollade du på den senaste AI-lösningen från Ericsson? De slänger in AI i radioaccessnätet nu.",
       "followUp": [
-        "Tror du det är dags för självkörande bilar att ta över?",
-        "Vilken stad skulle vara bäst för robottaxi-test?"
+        "Har du märkt något skillnad i nätverken?",
+        "Är AI i nätverk något du har koll på?"
       ]
     },
     {
-      "id": "t-20260616-14",
+      "id": "t-20260617-2",
       "category": "teknik",
-      "text": "SpaceX har just gjort en framgångsrik börsintroduktion. Det kan ju verkligen förändra spelplanen för rymdindustrin!",
+      "text": "Så Telia och KTH går ihop för att boosta AI i Sverige, sjukvård och utbildning tänker de satsa på.",
       "followUp": [
-        "Visste du att deras nästa projekt är ännu mer ambitiöst?",
-        "Tror du att fler företag kommer följa deras spår?"
+        "Tror du de kommer få till något bra?",
+        "Vilken sektor är du mest pepp på?"
       ]
     },
     {
-      "id": "t-20260616-15",
+      "id": "t-20260617-3",
       "category": "teknik",
-      "text": "Blue Origins raket exploderade under ett test. Snacka om att de får göra en teknisk översyn!",
+      "text": "Threads har tydligen nått 500 miljoner användare, och de lanserar massa nya grejer för att justera flödet.",
       "followUp": [
-        "Tror du att det här kommer påverka deras rykte mycket?",
-        "Är du mer av en SpaceX eller Blue Origin-fan?"
+        "Har du testat att ställa in ditt flöde där?",
+        "Vad tycker du om att sociala medier hela tiden utvecklas?"
+      ]
+    },
+    {
+      "id": "t-20260617-4",
+      "category": "teknik",
+      "text": "Glitched ska hålla Sveriges största samlarkortfestival 2026, hur fett är inte det?",
+      "followUp": [
+        "Kommer du gå dit?",
+        "Vilket kortspel är din favorit just nu?"
+      ]
+    },
+    {
+      "id": "t-20260617-5",
+      "category": "teknik",
+      "text": "Glitched-festivalen är tillbaka i Jönköping nästa år! Gaming och LAN i tre dagar, låter ju sjukt kul.",
+      "followUp": [
+        "Vilket spel ser du mest fram emot?",
+        "Har du varit på festivalen tidigare?"
+      ]
+    },
+    {
+      "id": "t-20260617-6",
+      "category": "teknik",
+      "text": "SpaceX ska börsnoteras nu! Elon Musk blir dollarbiljonär, helt galet ju.",
+      "followUp": [
+        "Tror du det kommer ge rymden ett uppsving?",
+        "Är rymdaktier något du kollar på?"
+      ]
+    },
+    {
+      "id": "t-20260617-7",
+      "category": "teknik",
+      "text": "Såg du bilden av auroran från SpaceX Dragon? Astronauterna verkligen levererar coola snaps.",
+      "followUp": [
+        "Skulle du vilja åka upp i rymden bara för att se sånt?",
+        "Vad är det mest häftiga du sett från rymden?"
+      ]
+    },
+    {
+      "id": "t-20260617-8",
+      "category": "teknik",
+      "text": "SpaceX skickar upp Starlink-satelliter och går samtidigt live på Nasdaq, snacka om timing!",
+      "followUp": [
+        "Tror du Starlink kommer bli nästa stora grej för internet?",
+        "Ska du investera i rymdaktier?"
+      ]
+    },
+    {
+      "id": "t-20260617-9",
+      "category": "teknik",
+      "text": "SpaceX:s börsnotering verkar dra till sig mycket investeringsintresse för rymdsektorn, det blir ju intressant!",
+      "followUp": [
+        "Är rymdprojekt något du skulle satsa på?",
+        "Har du sett några coola rymdstartups på senaste tiden?"
+      ]
+    },
+    {
+      "id": "t-20260617-10",
+      "category": "teknik",
+      "text": "Elon Musk blir dollarbiljonär med SpaceX:s börsintroduktion. Snacka om att ta det till nästa nivå!",
+      "followUp": [
+        "Hur tror du det kommer påverka rymdindustrin?",
+        "Har du tänkt på att investera i några rymdaktier själv?"
       ]
     },
     {
