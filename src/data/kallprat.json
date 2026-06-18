@@ -123,48 +123,57 @@
       ]
     },
     {
-      "id": "s-20260617-1",
+      "id": "s-20260618-1",
       "category": "sport",
-      "text": "Såg du Sveriges sjuka start i fotbolls-VM? 5–1 mot Tunisien och 1,8 miljoner såg på, helt galet!",
+      "text": "Såg du att Sverige körde över Tunisien med 5–1 i VM-premiären? Snacka om en drömstart!",
       "followUp": [
-        "Vad tror du om våra chanser framöver?",
-        "Har du några favoriter du hejar på i VM?"
+        "Hade du förväntat dig så stor seger?",
+        "Vad tyckte du om målen?"
       ]
     },
     {
-      "id": "s-20260617-2",
+      "id": "s-20260618-2",
       "category": "sport",
-      "text": "Hörde du att det kommer ett helt program om Hammarby IF? 60 minuter om klubbens framtid, det kan bli intressant!",
+      "text": "Hörde du att det har släppts en special om Hammarby Fotboll? Det snackas om tränarbytet och vad som väntar framöver.",
       "followUp": [
-        "Skulle du kolla på det?",
-        "Vad är din åsikt om Hammarbys säsong hittills?"
+        "Har du kollat på programmet än?",
+        "Tror du att den nya tränaren kan göra skillnad?"
       ]
     },
     {
-      "id": "s-20260617-3",
+      "id": "s-20260618-3",
       "category": "sport",
-      "text": "Va, har du hört att Serena och Venus Williams är tillbaka i Wimbledon? Dubbelspel, det kan bli riktigt roligt!",
+      "text": "Victor Nilsson Lindelöf gråter tydligen av glädje när han blir lagkapten inför premiären. Hur sjukt är inte det?",
       "followUp": [
-        "Tror du de kommer dominera som förr?",
-        "Vilken är din favoritmatch med dem?"
+        "Tror du att sådana känslor hjälper laget?",
+        "Vilken spelare skulle du vilja se som kapten?"
       ]
     },
     {
-      "id": "s-20260617-4",
+      "id": "s-20260618-4",
       "category": "sport",
-      "text": "Wimbledon höjer prispotterna rejält till över 800 miljoner! Snacka om att göra det värt att tävla!",
+      "text": "Va, England får spela utan Livramento i VM nu? Snacka om otur när man förlorar en så viktig spelare!",
       "followUp": [
-        "Vilken sport skulle du satsa på om du fick den prispotten?",
-        "Tror du att det påverkar spelarna på något sätt?"
+        "Tror du att de kan klara sig utan honom?",
+        "Vem tycker du borde ersätta honom?"
       ]
     },
     {
-      "id": "s-20260617-5",
+      "id": "s-20260618-5",
       "category": "sport",
-      "text": "Kollade du på Sveriges genrep mot Norge? Isak Hien som kapten, det kändes som en stark match!",
+      "text": "Kollade du att Gabriel Gudmundsson är tillbaka i träning nu efter sin sjukdom? Perfekt tajming inför matchen!",
       "followUp": [
-        "Tror du han kan leda laget till seger?",
-        "Har du sett något annat spännande inför VM?"
+        "Har du sett honom spela tidigare?",
+        "Tror du att han kommer vara i form till premiären?"
+      ]
+    },
+    {
+      "id": "s-20260618-6",
+      "category": "sport",
+      "text": "1,8 miljoner svenskar kollade på matchen mot Tunisien! Det är ju helt galet många!",
+      "followUp": [
+        "Vad tycker du om att så många följer landslaget?",
+        "Hur tänker du följa resten av VM?"
       ]
     },
     {
