@@ -33,246 +33,228 @@
   ],
   "kallprat": [
     {
-      "id": "n-20260618-1",
+      "id": "n-20260619-1",
       "category": "nyheter",
-      "text": "Har du hört om Midnight Sun Baseball Cup i Skellefteå 2026? Det verkar ju hur coolt som helst!",
+      "text": "Kollade du på nyheterna om att EU och Ryssland haft nån snabb kontakt? Verkar som om de vill snacka lite igen.",
       "followUp": [
-        "Skulle du åka dit och kolla?",
-        "Har du spelat baseboll någon gång?"
+        "Tror du att det ger något?",
+        "Vad skulle de ens kunna prata om?"
       ]
     },
     {
-      "id": "n-20260618-2",
+      "id": "n-20260619-2",
       "category": "nyheter",
-      "text": "Det snackas om att Folkhälsomyndigheten vill att barn ska vänta med smarta telefoner tills de fyller 13. Vad tycker du om det?",
+      "text": "Så Volvo-fabrikschefen har tydligen sagt hejdå efter bara nio månader. Snacka om att kasta in handduken mitt i grejen.",
       "followUp": [
-        "Tror du att det skulle göra skillnad?",
-        "Har du egna minnen från när du var barn utan smartphone?"
+        "Vad tror du det här betyder för bilen som ska släppas?",
+        "Vem tror du får jobbet nu?"
       ]
     },
     {
-      "id": "n-20260618-3",
+      "id": "n-20260619-3",
       "category": "nyheter",
-      "text": "Så mätningarna på Charles de Gaulle visade inga konstigheter i Malmö, helt lugnt? Det är ju bra att veta!",
+      "text": "Hörde att det är en grej nu att binda sin egen midsommarkrans inför firandet. Låter ju både kul och lite jobbigt!",
       "followUp": [
-        "Visste du att de har hangarfartyg där?",
-        "Tycker du att vi borde oroa oss för strålning generellt?"
+        "Har du någonsin provat?",
+        "Vilka blommor skulle du vilja ha i din krans?"
       ]
     },
     {
-      "id": "n-20260618-4",
+      "id": "n-20260619-4",
       "category": "nyheter",
-      "text": "EU:s nya migrationspakt börjar gälla 2026 – det snackas en del om ansökningskort för asylsökande. Känns som att det kan bli lite rörigt.",
+      "text": "Nio nya bolag har startats i Skellefteå senaste veckan. Det börjar minsann hända grejer där uppe!",
       "followUp": [
-        "Tror du att det kommer påverka oss här hemma?",
-        "Har du några tankar kring hur asylansökningar har förändrats över tid?"
+        "Vad tror du de sysslar med?",
+        "Skulle du vilja flytta till Skellefteå och starta något?"
       ]
     },
     {
-      "id": "n-20260618-5",
+      "id": "n-20260619-5",
       "category": "nyheter",
-      "text": "Kollade du in Side by Side som Göteborgs Symfoniker kör? Ungdomar och musik i fokus alltså!",
+      "text": "Storuman Energi släpper nån app för att hjälpa folk planera sin elförbrukning. Låter ju smart!",
       "followUp": [
-        "Skulle du våga delta i ett sånt läger?",
-        "Vilken musik spelar du helst på saxofonen?"
-      ]
-    },
-    {
-      "id": "n-20260618-6",
-      "category": "nyheter",
-      "text": "SVT har släppt en guide till sommarens konserter och festivaler 2026, hur taggad är du på festivaler?",
-      "followUp": [
-        "Vilken festival vill du absolut inte missa?",
-        "Har du en favoritlåt som du skulle vilja höra live?"
-      ]
-    },
-    {
-      "id": "n-20260618-7",
-      "category": "nyheter",
-      "text": "Wow, Felicia vann Melodifestivalen med 'My System' och ska representera Sverige i Eurovision – hur gött är inte det?",
-      "followUp": [
-        "Tror du att hon har chans att gå vidare?",
-        "Vilken är din favoritlåt från Melodifestivalen genom åren?"
-      ]
-    },
-    {
-      "id": "n-20260618-8",
-      "category": "nyheter",
-      "text": "Det snackas om EU:s ekonomiska relationer med Kina just nu, känns som en rörig debatt. Vad tänker du?",
-      "followUp": [
-        "Tror du att det kommer påverka priserna här hemma?",
-        "Har du följt debatten kring handel på sistone?"
-      ]
-    },
-    {
-      "id": "n-20260618-9",
-      "category": "nyheter",
-      "text": "Folkhälsomyndigheten säger att antibiotikaresistensen bara ökar, det är ju skrämmande! Vad har du hört om det?",
-      "followUp": [
-        "Tror du att vi gör tillräckligt för att motverka det?",
-        "Har du hört några smarta tips för att undvika det?"
-      ]
-    },
-    {
-      "id": "n-20260618-10",
-      "category": "nyheter",
-      "text": "Strålsäkerhetsmyndigheten varnar för vilseledande solråd på sociala medier. Riktigt läskigt, eller?",
-      "followUp": [
-        "Har du sett några galna tips på Instagram?",
-        "Vad brukar du tänka på när det kommer till solskydd?"
-      ]
-    },
-    {
-      "id": "n-20260618-11",
-      "category": "nyheter",
-      "text": "Ekobrottsmyndigheten har väckt åtal för marknadsmanipulation på börsen – hur crazy är inte det?!",
-      "followUp": [
-        "Har du investerat något senaste tiden?",
-        "Tror du att många gör det utan att förstå riskerna?"
+        "Skulle du använda en sån app?",
+        "Vad har du för knep för att spara el?"
       ]
     },
     {
       "id": "s-20260619-1",
       "category": "sport",
-      "text": "Det är ju helt sjukt att Sverige krossade Tunisien med 5–1 i VM-premiären! Snacka om bra start!",
+      "text": "Såg du Alice Aveshagens kritik av fotbollskulturen? Hon tycker att fansen är rätt hjärndöda.",
       "followUp": [
-        "Vad säger du, har du sett målen?",
-        "Blir det guld i år?"
+        "Tror du hon har rätt?",
+        "Har du själv upplevt någon galen fansituation?"
       ]
     },
     {
       "id": "s-20260619-2",
       "category": "sport",
-      "text": "Såg du det nya TV-specialprogrammet om Hammarby? Jag är nyfiken på vad den nya tränaren kommer att få till.",
+      "text": "Va? USA:s ishockeylag tog guld i Milano 2026! Det kändes som en film.",
       "followUp": [
-        "Tror du de kan leverera i Allsvenskan i år?",
-        "Vad är din favoritdel av programmet?"
+        "Hade du förväntat dig det?",
+        "Vilket lag hejar du på i ishockey?"
       ]
     },
     {
       "id": "s-20260619-3",
       "category": "sport",
-      "text": "Kollade du på när Ludvig Åberg spelade med McIlroy och Fleetwood i US Open? Det var ju en sjuk trio!",
+      "text": "Kollade du på innebandy-SM 2026? De finalerna var ju riktigt spännande!",
       "followUp": [
-        "Tror du han kan ta sig långt?",
-        "Är han din nya favoritspelare?"
+        "Vilka lag följde du?",
+        "Har du testat spela innebandy själv?"
       ]
     },
     {
       "id": "s-20260619-4",
       "category": "sport",
-      "text": "Hörde du att systrarna Williams är tillbaka i Wimbledon? Kommer bli en nostalgitripp!",
+      "text": "Wimbledon 2026 visade verkligen vilka som är bäst i tennis! Helt galna matcher!",
       "followUp": [
-        "Vilken match ser du mest fram emot?",
-        "Har du alltid hejat på dem?"
+        "Har du en favoritspelare som du hejar på?",
+        "Skulle du våga spela på den gräset?"
       ]
     },
     {
       "id": "s-20260619-5",
       "category": "sport",
-      "text": "Snacka om extremt! Sander Eitrem satte nytt världsrekord på 5 000 meter. Under sex minuter, hur crazy är inte det?",
+      "text": "Austin Grand Prix 2026 var ju episkt! Det känns som om alla rekord rök där.",
       "followUp": [
-        "Tror du någon kommer slå det rekordet snart?",
-        "Tycker du att skidsport är en av de tuffaste?"
+        "Har du sett någon av de klippen?",
+        "Vilken förare hejar du mest på?"
       ]
     },
     {
       "id": "s-20260619-6",
       "category": "sport",
-      "text": "SM-veckan i Karlstad kommer bli grym! Så många olika sporter, det kommer bli fullt ös!",
+      "text": "Skid-VM 2026 var tokigt! Vilka prestationer, verkligen.",
       "followUp": [
-        "Vilken sport ser du fram emot mest?",
-        "Har du själv varit med i SM-veckan någon gång?"
+        "Tycker du om att åka skidor?",
+        "Har du något favoritminne från skidåknings-VM?"
       ]
     },
     {
-      "id": "t-20260618-1",
-      "category": "teknik",
-      "text": "Har du sett de nya AI-apparna som poppar upp? Det finns en för terapeuter som bara finns i din iPhone.",
+      "id": "s-20260619-7",
+      "category": "sport",
+      "text": "Höll du koll på Worlds 2026? Det var så många överraskningar!",
       "followUp": [
-        "Skulle du våga använda en AI-terapeut?",
-        "Vad skulle du vilja att AI gör för dig?"
+        "Vilket lag trodde du skulle vinna?",
+        "Spelar du själv något e-sport?"
       ]
     },
     {
-      "id": "t-20260618-2",
-      "category": "teknik",
-      "text": "Asus har släppt en dubbelskärmad laptop som kostar typ en förmögenhet! Snacka om att gå all in.",
+      "id": "s-20260619-8",
+      "category": "sport",
+      "text": "Handbollsligan 2026 slutade verkligen med oväntade resultat! Snacka om dramatik.",
       "followUp": [
-        "Skulle du betala så mycket för en laptop?",
-        "Vilken gadget drömmer du om just nu?"
+        "Har du en favoritmatch som du minns?",
+        "Gör du något sportigt själv?"
       ]
     },
     {
-      "id": "t-20260618-3",
-      "category": "teknik",
-      "text": "Det ryktas om att de har släppt en mänsklig robot från Honor, hur sjukt är inte det?",
+      "id": "s-20260619-9",
+      "category": "sport",
+      "text": "US Open i golf 2026 var ju som en thriller! Dramatiska avslutningar hela vägen.",
       "followUp": [
-        "Kollade du på de nya grejerna från Lenovo också?",
-        "Spelar du något nytt just nu?"
+        "Har du provat att spela golf nån gång?",
+        "Kollar du på golf annars?"
       ]
     },
     {
-      "id": "t-20260618-4",
-      "category": "teknik",
-      "text": "Spotify har just släppt AI-genererade spellistor i Sverige, helt galet!",
+      "id": "s-20260619-10",
+      "category": "sport",
+      "text": "Rallyt i Sverige 2026 såg galet ut! Helt sjuka banor att köra på.",
       "followUp": [
-        "Har du testat någon av dem än?",
-        "Vilken låt skulle du vilja ha i en AI-lista?"
+        "Skulle du våga testa rally?",
+        "Föredrar du mer bil eller motorsport?"
       ]
     },
     {
-      "id": "t-20260618-5",
-      "category": "teknik",
-      "text": "Meta går all in med AI-halsband som ska spela in samtal. Vart är vi på väg?",
+      "id": "s-20260619-11",
+      "category": "sport",
+      "text": "CS:GO Major 2026 var en riktig fest! Så mycket spänning.",
       "followUp": [
-        "Skulle du använda ett halsband som det?",
-        "Vad tycker du om AI i sociala medier?"
+        "Har du själv spelat CS:GO?",
+        "Vilken typ av spel gillar du mest?"
       ]
     },
     {
-      "id": "t-20260618-6",
-      "category": "teknik",
-      "text": "Tesla börjar använda robottaxis, Cybercab! Tror du på det?",
+      "id": "s-20260619-12",
+      "category": "sport",
+      "text": "Allsvenskan 2026 har börjat med stenhårda matcher! Vilka nya talanger som kommit upp!",
       "followUp": [
-        "Skulle du åka taxi av en robot?",
-        "Vad är det coolaste med elbilar just nu?"
+        "Har du sett någon match än?",
+        "Vilka lag följer du?"
       ]
     },
     {
-      "id": "t-20260618-7",
-      "category": "teknik",
-      "text": "SpaceX ska notera sig på börsen, det känns som början på nästa rymdäventyr.",
+      "id": "s-20260619-13",
+      "category": "sport",
+      "text": "NHL-slutspelet 2026 var fullt av intensitet! Vissa matcher var som ren dramatik.",
       "followUp": [
-        "Tror du att det blir en stor grej?",
-        "Skulle du vilja åka ut i rymden någon gång?"
+        "Håller du på något lag i NHL?",
+        "Har du sett någon match live?"
       ]
     },
     {
-      "id": "t-20260618-8",
+      "id": "t-20260619-1",
       "category": "teknik",
-      "text": "ATG har haft ett stort dataintrång, vilket ju är helt galet dåligt tajming.",
+      "text": "Meta är på väg att släppa AI-glasögon, hur sjukt är det? Vi snackar om att de verkligen vill fiska in lite av hårdvarumarknaden.",
       "followUp": [
-        "Känns som man måste vara mer försiktig nu, eller?",
-        "Har du hört om något annat dataintrång på sistone?"
+        "Har du sånt där smarta grejer själv?",
+        "Tror du de kommer göra nåt coolt med dem?"
       ]
     },
     {
-      "id": "t-20260618-9",
+      "id": "t-20260619-2",
       "category": "teknik",
-      "text": "Galaxy Watch 6 kan förutse svimningar, hur coolt är inte det?",
+      "text": "Snap har släppt nya AR-glasögon som ska vara trendigare än någonsin. Snacka om att blanda mode med tech!",
       "followUp": [
-        "Skulle du våga lita på en klocka så mycket?",
-        "Har du några smarta prylar hemma just nu?"
+        "Skulle du kunna tänka dig att rocka dem på gatan?",
+        "Vad tycker du om den här mixen av teknik och stil?"
       ]
     },
     {
-      "id": "t-20260618-10",
+      "id": "t-20260619-3",
       "category": "teknik",
-      "text": "OpenAI har släppt en specialversion av ChatGPT för läkare, snacka om att ta teknik till nästa nivå!",
+      "text": "Google släpper Android 17 med grymma multitasking-funktioner. Känns som en gamechanger för vikbara enheter!",
       "followUp": [
-        "Vad skulle du vilja ha en AI-version av i ditt liv?",
-        "Tror du att den kommer att förändra sjukvården?"
+        "Vad är det bästa med multitasking enligt dig?",
+        "Är du sugen på att testa nya funktioner direkt?"
+      ]
+    },
+    {
+      "id": "t-20260619-4",
+      "category": "teknik",
+      "text": "Visste du att Samsung ska bygga flytande datacenter? Snacka om att ta tech till nya höjder!",
+      "followUp": [
+        "Tror du det verkligen kommer funka?",
+        "Vad skulle du vilja se mer av inom tech på vattnet?"
+      ]
+    },
+    {
+      "id": "t-20260619-5",
+      "category": "teknik",
+      "text": "OpenAI har avslöjat en ganska crazy grej om en hemlig kampanj från Kina. Helt sjukt, eller?",
+      "followUp": [
+        "Tror du sånt här händer oftare än vi vet?",
+        "Hur mycket tror du att det påverkar oss i längden?"
+      ]
+    },
+    {
+      "id": "t-20260619-6",
+      "category": "teknik",
+      "text": "Det verkar som att WhatsApp-användare nu får smaka på ny malware. Kan inte tro att sånt fortfarande händer!",
+      "followUp": [
+        "Har du haft problem med malware nån gång?",
+        "Kör du något skydd för dina appar?"
+      ]
+    },
+    {
+      "id": "t-20260619-7",
+      "category": "teknik",
+      "text": "Evan Spiegel snackar om Snap's nya AR-glasögon och hur de kopplar ihop med AI. Låter som ett häftigt projekt!",
+      "followUp": [
+        "Vilken feature hade du velat se i dem?",
+        "Tror du att AR kommer bli en grej för alla i framtiden?"
       ]
     },
     {
