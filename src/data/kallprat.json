@@ -132,138 +132,57 @@
       ]
     },
     {
-      "id": "s-20260618-1",
+      "id": "s-20260619-1",
       "category": "sport",
-      "text": "Sverige startade fotbolls-VM 2026 med en grym seger mot Tunisien. Isak och Gyökeres var riktigt heta!",
+      "text": "Det är ju helt sjukt att Sverige krossade Tunisien med 5–1 i VM-premiären! Snacka om bra start!",
       "followUp": [
-        "Hade du förväntat dig så bra spel?",
-        "Vilket mål gillade du mest?"
+        "Vad säger du, har du sett målen?",
+        "Blir det guld i år?"
       ]
     },
     {
-      "id": "s-20260618-2",
+      "id": "s-20260619-2",
       "category": "sport",
-      "text": "Samtidigt som Sverige spelade VM-premiär så hängde Zlatan i Vita huset på en UFC-gala. Snacka om multitasking!",
+      "text": "Såg du det nya TV-specialprogrammet om Hammarby? Jag är nyfiken på vad den nya tränaren kommer att få till.",
       "followUp": [
-        "Tänker man verkligen på UFC när man hör Zlatan?",
-        "Skulle du gått på galan om du hade chansen?"
+        "Tror du de kan leverera i Allsvenskan i år?",
+        "Vad är din favoritdel av programmet?"
       ]
     },
     {
-      "id": "s-20260618-3",
+      "id": "s-20260619-3",
       "category": "sport",
-      "text": "Lucas Bergvall är tillbaka i Tottenham efter sin hjärnskakning. Riktigt coolt att se honom på planen igen!",
+      "text": "Kollade du på när Ludvig Åberg spelade med McIlroy och Fleetwood i US Open? Det var ju en sjuk trio!",
       "followUp": [
-        "Har du sett honom spela tidigare?",
-        "Tror du han kommer vara i toppform direkt?"
+        "Tror du han kan ta sig långt?",
+        "Är han din nya favoritspelare?"
       ]
     },
     {
-      "id": "s-20260618-4",
+      "id": "s-20260619-4",
       "category": "sport",
-      "text": "Jörgen Strand Larsen är frisk och tillbaka i spel med Norge. Riktigt kul för dem!",
-      "followUp": [
-        "Är det någon spelare du hejar på från Norge?",
-        "Vad tycker du om norska fotbollen som helhet?"
-      ]
-    },
-    {
-      "id": "s-20260618-5",
-      "category": "sport",
-      "text": "Viktor Nilsson Lindelöf får lovord av Unai Emery för sina insatser i Aston Villa. Nice för honom!",
-      "followUp": [
-        "Har du följt hans karriär?",
-        "Tycker du att han har potential att nå ännu högre?"
-      ]
-    },
-    {
-      "id": "s-20260618-6",
-      "category": "sport",
-      "text": "Sverige och Norge har verkligen förberett sig inför VM 2026. Båda lag har sina starka och svaga punkter!",
-      "followUp": [
-        "Vilket lag tror du har bäst chans?",
-        "Om du fick välja, vilket land skulle du heja på?"
-      ]
-    },
-    {
-      "id": "s-20260618-7",
-      "category": "sport",
-      "text": "Oddsen för Sveriges matcher i VM 2026 ser riktigt spännande ut. Kan bli en hel del överraskningar!",
-      "followUp": [
-        "Är du bra på att läsa odds?",
-        "Har du någon favoritmatch du ser fram emot?"
-      ]
-    },
-    {
-      "id": "s-20260618-8",
-      "category": "sport",
-      "text": "Experter delar speltips inför Sveriges matcher i VM 2026. De verkar positiva!",
-      "followUp": [
-        "Har du någonsin följt speltips?",
-        "Skulle du våga satsa själv?"
-      ]
-    },
-    {
-      "id": "s-20260618-9",
-      "category": "sport",
-      "text": "TV-tiderna för Sveriges matcher i VM 2026 har släppts. Perfekt för att boka in vinkvällar!",
+      "text": "Hörde du att systrarna Williams är tillbaka i Wimbledon? Kommer bli en nostalgitripp!",
       "followUp": [
         "Vilken match ser du mest fram emot?",
-        "Tänker du kolla med polarna eller hemma?"
+        "Har du alltid hejat på dem?"
       ]
     },
     {
-      "id": "s-20260618-10",
+      "id": "s-20260619-5",
       "category": "sport",
-      "text": "Truppen till fotbolls-VM 2026 är här och det finns några spännande överraskningar!",
+      "text": "Snacka om extremt! Sander Eitrem satte nytt världsrekord på 5 000 meter. Under sex minuter, hur crazy är inte det?",
       "followUp": [
-        "Kollade du in uttagningarna?",
-        "Finns det någon spelare du saknar?"
+        "Tror du någon kommer slå det rekordet snart?",
+        "Tycker du att skidsport är en av de tuffaste?"
       ]
     },
     {
-      "id": "s-20260618-11",
+      "id": "s-20260619-6",
       "category": "sport",
-      "text": "Skadeläget i det svenska laget ser lite tufft ut inför VM 2026. Hoppas de kan få ihop det!",
+      "text": "SM-veckan i Karlstad kommer bli grym! Så många olika sporter, det kommer bli fullt ös!",
       "followUp": [
-        "Har du hört vilka som är osäkra?",
-        "Tror du det påverkar lagets prestation?"
-      ]
-    },
-    {
-      "id": "s-20260618-12",
-      "category": "sport",
-      "text": "Det ploppas upp en massa nyheter om Sveriges förberedelser inför VM 2026. Kul att följa!",
-      "followUp": [
-        "Har du något intressant i åtanke?",
-        "Vilken nyhet överraskade dig mest?"
-      ]
-    },
-    {
-      "id": "s-20260618-13",
-      "category": "sport",
-      "text": "Det är mycket snack om Sveriges chanser i VM 2026 just nu. Deras styrkor kan bli avgörande!",
-      "followUp": [
-        "Vad tror du de måste fokusera på?",
-        "Vilka matcher tror du blir tuffast?"
-      ]
-    },
-    {
-      "id": "s-20260618-14",
-      "category": "sport",
-      "text": "Minns du Sveriges tidigare VM-historik? Det känns som att det kan ge dem extra motivation i år!",
-      "followUp": [
-        "Har du någon favoritturnering som du minns?",
-        "Tror du tidigare erfarenhet gör skillnad?"
-      ]
-    },
-    {
-      "id": "s-20260618-15",
-      "category": "sport",
-      "text": "Svenska fans är i full gång med att förbereda sig för VM 2026. Klart vi måste stötta laget!",
-      "followUp": [
-        "Planerar du att gå på någon match?",
-        "Hur brukar du fira matcher?"
+        "Vilken sport ser du fram emot mest?",
+        "Har du själv varit med i SM-veckan någon gång?"
       ]
     },
     {
