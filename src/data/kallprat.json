@@ -78,120 +78,102 @@
       ]
     },
     {
-      "id": "s-20260619-1",
+      "id": "s-20260620-1",
       "category": "sport",
-      "text": "Såg du Alice Aveshagens kritik av fotbollskulturen? Hon tycker att fansen är rätt hjärndöda.",
+      "text": "Kollade du på Östersunds FK nyligen? De är nära att få tillbaka Jabir Abdihakim Ali, känns som en intressant comeback!",
       "followUp": [
-        "Tror du hon har rätt?",
-        "Har du själv upplevt någon galen fansituation?"
+        "Tror du han kan leverera som förr?",
+        "Vad är din åsikt om deras nuvarande lag?"
       ]
     },
     {
-      "id": "s-20260619-2",
+      "id": "s-20260620-2",
       "category": "sport",
-      "text": "Va? USA:s ishockeylag tog guld i Milano 2026! Det kändes som en film.",
+      "text": "Hörde du att Alexander Isak kör individuell träning inför VM? Det känns ju lite oroande, va?",
       "followUp": [
-        "Hade du förväntat dig det?",
-        "Vilket lag hejar du på i ishockey?"
+        "Vad tycker du om att han tränar solo?",
+        "Hur tror du det påverkar lagets chanser?"
       ]
     },
     {
-      "id": "s-20260619-3",
+      "id": "s-20260620-3",
       "category": "sport",
-      "text": "Kollade du på innebandy-SM 2026? De finalerna var ju riktigt spännande!",
+      "text": "Gabriel Gudmundsson är väl tillbaka på 80 procent nu? Det är ju alltid ett gott tecken inför VM!",
       "followUp": [
-        "Vilka lag följde du?",
-        "Har du testat spela innebandy själv?"
+        "Tror du han hinner bli fit till premiären?",
+        "Vilken spelare ser du verkligen fram emot att följa?"
       ]
     },
     {
-      "id": "s-20260619-4",
+      "id": "s-20260620-4",
       "category": "sport",
-      "text": "Wimbledon 2026 visade verkligen vilka som är bäst i tennis! Helt galna matcher!",
+      "text": "Jörgen Strand Larsen är friskförklarad nu, det kan bli spännande att se honom spela mot Irak!",
       "followUp": [
-        "Har du en favoritspelare som du hejar på?",
-        "Skulle du våga spela på den gräset?"
+        "Vad har ni hört om hans form?",
+        "Tror du han får starta direkt?"
       ]
     },
     {
-      "id": "s-20260619-5",
+      "id": "s-20260620-5",
       "category": "sport",
-      "text": "Austin Grand Prix 2026 var ju episkt! Det känns som om alla rekord rök där.",
+      "text": "Sveriges herrlandslag är i full gång med förberedelserna inför VM, ser du på deras träningar?",
       "followUp": [
-        "Har du sett någon av de klippen?",
-        "Vilken förare hejar du mest på?"
+        "Vilken match ser du mest fram emot?",
+        "Tror du de kommer överraska i turneringen?"
       ]
     },
     {
-      "id": "s-20260619-6",
+      "id": "s-20260620-6",
       "category": "sport",
-      "text": "Skid-VM 2026 var tokigt! Vilka prestationer, verkligen.",
+      "text": "Sverige kom ju in i VM med en grym premiärseger! Det har ju blivit buzz internationellt!",
       "followUp": [
-        "Tycker du om att åka skidor?",
-        "Har du något favoritminne från skidåknings-VM?"
+        "Vad tror du, kan de gå hela vägen?",
+        "Var du själv nervös under matchen?"
       ]
     },
     {
-      "id": "s-20260619-7",
+      "id": "s-20260620-7",
       "category": "sport",
-      "text": "Höll du koll på Worlds 2026? Det var så många överraskningar!",
+      "text": "Svenska fans är inte direkt glada över Fifa:s beslut att stoppa trummor under matcherna, eller hur?",
       "followUp": [
-        "Vilket lag trodde du skulle vinna?",
-        "Spelar du själv något e-sport?"
+        "Vad tycker du, skulle de låta trummor vara med?",
+        "Har du sett fansens reaktioner på sociala medier?"
       ]
     },
     {
-      "id": "s-20260619-8",
+      "id": "s-20260620-8",
       "category": "sport",
-      "text": "Handbollsligan 2026 slutade verkligen med oväntade resultat! Snacka om dramatik.",
+      "text": "Det har kommit uppdateringar om Norges VM-trupp nu, känns som de gör en del justeringar. Håller du koll?",
       "followUp": [
-        "Har du en favoritmatch som du minns?",
-        "Gör du något sportigt själv?"
+        "Tror du de får till den perfekta truppen?",
+        "Vad skulle du ändra om du fick välja?"
       ]
     },
     {
-      "id": "s-20260619-9",
+      "id": "s-20260620-9",
       "category": "sport",
-      "text": "US Open i golf 2026 var ju som en thriller! Dramatiska avslutningar hela vägen.",
+      "text": "Flera svenskar kämpar med skador inför VM, känns ju inte bra direkt.",
       "followUp": [
-        "Har du provat att spela golf nån gång?",
-        "Kollar du på golf annars?"
+        "Tror du de hinner bli friska?",
+        "Vilken spelare skulle svida mest om de inte kan spela?"
       ]
     },
     {
-      "id": "s-20260619-10",
+      "id": "s-20260620-10",
       "category": "sport",
-      "text": "Rallyt i Sverige 2026 såg galet ut! Helt sjuka banor att köra på.",
+      "text": "Svenska landslaget har haft träning under riktigt tuffa väderförhållanden, lite galet faktiskt!",
       "followUp": [
-        "Skulle du våga testa rally?",
-        "Föredrar du mer bil eller motorsport?"
+        "Tror du det påverkar dem positivt?",
+        "Har du själv varit ute och tränat i dåligt väder?"
       ]
     },
     {
-      "id": "s-20260619-11",
+      "id": "s-20260620-11",
       "category": "sport",
-      "text": "CS:GO Major 2026 var en riktig fest! Så mycket spänning.",
+      "text": "Det går rykten om skador på några viktiga spelare i Sveriges VM-trupp, lätt oroväckande.",
       "followUp": [
-        "Har du själv spelat CS:GO?",
-        "Vilken typ av spel gillar du mest?"
-      ]
-    },
-    {
-      "id": "s-20260619-12",
-      "category": "sport",
-      "text": "Allsvenskan 2026 har börjat med stenhårda matcher! Vilka nya talanger som kommit upp!",
-      "followUp": [
-        "Har du sett någon match än?",
-        "Vilka lag följer du?"
-      ]
-    },
-    {
-      "id": "s-20260619-13",
-      "category": "sport",
-      "text": "NHL-slutspelet 2026 var fullt av intensitet! Vissa matcher var som ren dramatik.",
-      "followUp": [
-        "Håller du på något lag i NHL?",
-        "Har du sett någon match live?"
+        "Hur tror du det påverkar deras chanser?",
+        "Har de tillräckligt med bredd i laget?"
       ]
     },
     {
