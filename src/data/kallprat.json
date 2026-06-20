@@ -80,163 +80,271 @@
     {
       "id": "s-20260620-1",
       "category": "sport",
-      "text": "Kollade du på Östersunds FK nyligen? De är nära att få tillbaka Jabir Abdihakim Ali, känns som en intressant comeback!",
+      "text": "Såg du att Nora Lindahl sprang 100 meter på 11,18 sekunder? Helt galet att hon är näst snabbast genom tiderna i både Finland och Sverige!",
       "followUp": [
-        "Tror du han kan leverera som förr?",
-        "Vad är din åsikt om deras nuvarande lag?"
+        "Har du testat att springa 100 meter?",
+        "Kollade du på tävlingen?"
       ]
     },
     {
       "id": "s-20260620-2",
       "category": "sport",
-      "text": "Hörde du att Alexander Isak kör individuell träning inför VM? Det känns ju lite oroande, va?",
+      "text": "Hörde du grejen med att Skottland kvalade in till sitt första VM sen 1998? Scott McTominay gjorde ett drömmål!",
       "followUp": [
-        "Vad tycker du om att han tränar solo?",
-        "Hur tror du det påverkar lagets chanser?"
+        "Tror du de kan gå långt i VM?",
+        "Vilket lag hejar du på?"
       ]
     },
     {
       "id": "s-20260620-3",
       "category": "sport",
-      "text": "Gabriel Gudmundsson är väl tillbaka på 80 procent nu? Det är ju alltid ett gott tecken inför VM!",
+      "text": "Va, har du sett att New York Knicks äntligen vann NBA-mästerskapet efter 53 år? Snacka om att de utmanar ödet!",
       "followUp": [
-        "Tror du han hinner bli fit till premiären?",
-        "Vilken spelare ser du verkligen fram emot att följa?"
+        "Skulle du jaga en biljett dit?",
+        "Vilket lag hejar du på i NBA?"
       ]
     },
     {
       "id": "s-20260620-4",
       "category": "sport",
-      "text": "Jörgen Strand Larsen är friskförklarad nu, det kan bli spännande att se honom spela mot Irak!",
+      "text": "Kollade du på nyheterna? Alexander Isak ska spela i båda genrepmatcherna inför VM!",
       "followUp": [
-        "Vad har ni hört om hans form?",
-        "Tror du han får starta direkt?"
+        "Tror du han kommer vara i toppform?",
+        "Vad tycker du om Sveriges chanser i VM?"
       ]
     },
     {
       "id": "s-20260620-5",
       "category": "sport",
-      "text": "Sveriges herrlandslag är i full gång med förberedelserna inför VM, ser du på deras träningar?",
+      "text": "Hörde att Rúben Amorim har blivit ny tränare för AC Milan! Han verkar ju ha styr på grejerna.",
       "followUp": [
-        "Vilken match ser du mest fram emot?",
-        "Tror du de kommer överraska i turneringen?"
+        "Har du en favvotränares stil?",
+        "Tror du han kan lyfta laget?"
       ]
     },
     {
       "id": "s-20260620-6",
       "category": "sport",
-      "text": "Sverige kom ju in i VM med en grym premiärseger! Det har ju blivit buzz internationellt!",
+      "text": "Kylian Mbappé gjorde två mål i Frankrikes VM-premiär mot Senegal. Snacka om att leverera!",
       "followUp": [
-        "Vad tror du, kan de gå hela vägen?",
-        "Var du själv nervös under matchen?"
+        "Ser du fram emot resten av VM?",
+        "Vilket lag gillar du mest?"
       ]
     },
     {
       "id": "s-20260620-7",
       "category": "sport",
-      "text": "Svenska fans är inte direkt glada över Fifa:s beslut att stoppa trummor under matcherna, eller hur?",
+      "text": "Sverige körde över Tunisien med 5–0 i VM! Yasin Ayari var en riktig stjärna där.",
       "followUp": [
-        "Vad tycker du, skulle de låta trummor vara med?",
-        "Har du sett fansens reaktioner på sociala medier?"
+        "Tror du de har chans att ta sig långt?",
+        "Vad är din favoritupplevelse från förra VM?"
       ]
     },
     {
       "id": "s-20260620-8",
       "category": "sport",
-      "text": "Det har kommit uppdateringar om Norges VM-trupp nu, känns som de gör en del justeringar. Håller du koll?",
+      "text": "BK Häcken toppar Allsvenskan nu efter att ha vunnit mot Östersund. Det ser lovande ut!",
       "followUp": [
-        "Tror du de får till den perfekta truppen?",
-        "Vad skulle du ändra om du fick välja?"
+        "Har du någon favorit i Allsvenskan?",
+        "Vad är din bästa fotbollsmatch du sett live?"
       ]
     },
     {
       "id": "s-20260620-9",
       "category": "sport",
-      "text": "Flera svenskar kämpar med skador inför VM, känns ju inte bra direkt.",
+      "text": "Det är ju sjukt att en OS-medaljör i handboll blivit avstängd för dopning. Vad tänker du om det?",
       "followUp": [
-        "Tror du de hinner bli friska?",
-        "Vilken spelare skulle svida mest om de inte kan spela?"
+        "Hur ställer du dig till doping i sport?",
+        "Tror du det påverkar sporten negativt?"
       ]
     },
     {
       "id": "s-20260620-10",
       "category": "sport",
-      "text": "Svenska landslaget har haft träning under riktigt tuffa väderförhållanden, lite galet faktiskt!",
+      "text": "Svenska handbollslaget tränar hårt inför VM i Bosöns 'tortyrkammare' nu! Snart får vi se resultaten.",
       "followUp": [
-        "Tror du det påverkar dem positivt?",
-        "Har du själv varit ute och tränat i dåligt väder?"
+        "Tror du verkligen att hård träning lönar sig?",
+        "Har du testat någon extreme workout?"
       ]
     },
     {
       "id": "s-20260620-11",
       "category": "sport",
-      "text": "Det går rykten om skador på några viktiga spelare i Sveriges VM-trupp, lätt oroväckande.",
+      "text": "Svenska basketlandslaget kickade igång VM-kampanjen med en grym 90–70-seger mot Kanada. Riktigt bra start!",
       "followUp": [
-        "Hur tror du det påverkar deras chanser?",
-        "Har de tillräckligt med bredd i laget?"
+        "Vilket lag hejar du på i basket?",
+        "Har du själv spelat basket någon gång?"
       ]
     },
     {
-      "id": "t-20260619-1",
-      "category": "teknik",
-      "text": "Meta är på väg att släppa AI-glasögon, hur sjukt är det? Vi snackar om att de verkligen vill fiska in lite av hårdvarumarknaden.",
+      "id": "s-20260620-12",
+      "category": "sport",
+      "text": "Svenska innebandylandslaget ska ju vara med i VM efter att ha vunnit mot Finland! Kul att se dem igen.",
       "followUp": [
-        "Har du sånt där smarta grejer själv?",
-        "Tror du de kommer göra nåt coolt med dem?"
+        "Har du spelat innebandy?",
+        "Vad tycker du är det mest spännande med innebandy?"
       ]
     },
     {
-      "id": "t-20260619-2",
-      "category": "teknik",
-      "text": "Snap har släppt nya AR-glasögon som ska vara trendigare än någonsin. Snacka om att blanda mode med tech!",
+      "id": "s-20260620-13",
+      "category": "sport",
+      "text": "Svenska simlandslaget har kammat hem tre guldmedaljer i VM. Snacka om att de är på hugget!",
       "followUp": [
-        "Skulle du kunna tänka dig att rocka dem på gatan?",
-        "Vad tycker du om den här mixen av teknik och stil?"
+        "Har du själv simmat på riktigt?",
+        "Vilken simgren gillar du bäst?"
       ]
     },
     {
-      "id": "t-20260619-3",
-      "category": "teknik",
-      "text": "Google släpper Android 17 med grymma multitasking-funktioner. Känns som en gamechanger för vikbara enheter!",
+      "id": "s-20260620-14",
+      "category": "sport",
+      "text": "Elin Andersson går vidare till kvartsfinal i Wimbledon! Helt sjukt att slå världsåttan.",
       "followUp": [
-        "Vad är det bästa med multitasking enligt dig?",
-        "Är du sugen på att testa nya funktioner direkt?"
+        "Kollade du på matchen?",
+        "Spelar du tennis själv?"
       ]
     },
     {
-      "id": "t-20260619-4",
-      "category": "teknik",
-      "text": "Visste du att Samsung ska bygga flytande datacenter? Snacka om att ta tech till nya höjder!",
+      "id": "s-20260620-15",
+      "category": "sport",
+      "text": "Erik Johansson leder US Open efter första rundan med 65 slag. Snacka om att sätta press!",
       "followUp": [
-        "Tror du det verkligen kommer funka?",
-        "Vad skulle du vilja se mer av inom tech på vattnet?"
+        "Har du provat på golf?",
+        "Tror du han kan hålla i sin ledning?"
       ]
     },
     {
-      "id": "t-20260619-5",
+      "id": "t-20260620-1",
       "category": "teknik",
-      "text": "OpenAI har avslöjat en ganska crazy grej om en hemlig kampanj från Kina. Helt sjukt, eller?",
+      "text": "Kollade du nyss på nyheten om att Rolls-Royce ska fixa några kärnreaktorer i Sverige? Det känns som science fiction!",
       "followUp": [
-        "Tror du sånt här händer oftare än vi vet?",
-        "Hur mycket tror du att det påverkar oss i längden?"
+        "Tror du att vi kommer se fler såna här projekt framöver?",
+        "Skulle du våga åka i en självkörande bil?"
       ]
     },
     {
-      "id": "t-20260619-6",
+      "id": "t-20260620-2",
       "category": "teknik",
-      "text": "Det verkar som att WhatsApp-användare nu får smaka på ny malware. Kan inte tro att sånt fortfarande händer!",
+      "text": "Såg du att Telia och KTH ska dra igång ett AI-samarbete? Det känns som att vi bara är ett steg bort från att ha AI i vår vardag på riktigt!",
       "followUp": [
-        "Har du haft problem med malware nån gång?",
-        "Kör du något skydd för dina appar?"
+        "Vilken AI-grej skulle du vilja ha som hjälpreda i vardagen?",
+        "Har du testat någon AI-app som faktiskt funkar bra?"
       ]
     },
     {
-      "id": "t-20260619-7",
+      "id": "t-20260620-3",
       "category": "teknik",
-      "text": "Evan Spiegel snackar om Snap's nya AR-glasögon och hur de kopplar ihop med AI. Låter som ett häftigt projekt!",
+      "text": "Hörde du att Philips släpper nya smarta väggbrytare? Verkar som smarta hem är på väg att bli ännu smartare!",
       "followUp": [
-        "Vilken feature hade du velat se i dem?",
-        "Tror du att AR kommer bli en grej för alla i framtiden?"
+        "Såg du hur snygga ljus man kan få?",
+        "Har du några smarta prylar hemma?"
+      ]
+    },
+    {
+      "id": "t-20260620-4",
+      "category": "teknik",
+      "text": "Xiaomi har lanserat en robotarm som laddar elbilar, hur sjukt är inte det?!",
+      "followUp": [
+        "Skulle du lita på en robotarm med din bil?",
+        "Tror du det kommer fler såna här automatiska lösningar framöver?"
+      ]
+    },
+    {
+      "id": "t-20260620-5",
+      "category": "teknik",
+      "text": "Just nu har Dreame släppt en sjuk robotdammsugare som ska kunna städa som en mästare. Går det att lita på?",
+      "followUp": [
+        "Har du själv en robotdammsugare?",
+        "Vilken hemmatermostat skulle du helst vilja ha?"
+      ]
+    },
+    {
+      "id": "t-20260620-6",
+      "category": "teknik",
+      "text": "Google har uppdaterat sin översättning i realtid. Snacka om att AI verkligen gör språkliga barriärer mindre!",
+      "followUp": [
+        "Vilka språk skulle du vilja att den kunde översätta bättre?",
+        "Använder du översättningsappar?"
+      ]
+    },
+    {
+      "id": "t-20260620-7",
+      "category": "teknik",
+      "text": "Apple ändrar nu hur Notiscenter ser ut i iOS 27. Det känns som att de behövde en makeover!",
+      "followUp": [
+        "Tycker du att det är dags för en ny design?",
+        "Vilka funktioner skulle du vilja se i nästa version?"
+      ]
+    },
+    {
+      "id": "t-20260620-8",
+      "category": "teknik",
+      "text": "Siri har blivit stoppad i EU. Hur spännande är inte det? Tänk om din assistent plötsligt slutade funka!",
+      "followUp": [
+        "Skulle du klara dig utan röstassistans?",
+        "Tänker du på vilken AI du faktiskt använder dagligen?"
+      ]
+    },
+    {
+      "id": "t-20260620-9",
+      "category": "teknik",
+      "text": "Det pågår rykten om att Xbox-studios säljs ut. Vad händer med framtiden för Xbox?",
+      "followUp": [
+        "Har du några favoritspel från Xbox?",
+        "Tror du detta kan bli bra eller risigt för gamers?"
+      ]
+    },
+    {
+      "id": "t-20260620-10",
+      "category": "teknik",
+      "text": "Nya siffror om PlayStation-studios får en att undra på vad strategin är. Har de en plan eller?",
+      "followUp": [
+        "Vilka spel är du mest sugen på nu?",
+        "Tror du PlayStation kommer att överraska oss snart?"
+      ]
+    },
+    {
+      "id": "t-20260620-11",
+      "category": "teknik",
+      "text": "Fysiska Steam-presentkort är snart borta från butikerna. Hur handlar du annars för spel?",
+      "followUp": [
+        "Tycker du det är trist eller bra med digitala konton?",
+        "Har du varit med om att missbruka ett presentkort?"
+      ]
+    },
+    {
+      "id": "t-20260620-12",
+      "category": "teknik",
+      "text": "Alien Isolation 2 har blivit officiellt utannonserat! Riktigt uselt att vi måste vänta, eller?",
+      "followUp": [
+        "Är du taggad på uppföljaren?",
+        "Kommer du att spela det direkt när det släpps?"
+      ]
+    },
+    {
+      "id": "t-20260620-13",
+      "category": "teknik",
+      "text": "Broadcom släppte sina siffror med fokus på AI-intäkterna. Det känns som att de hänger med i svängarna!",
+      "followUp": [
+        "Tror du att AI kommer dominera marknaden framöver?",
+        "Vad för AI-prylar är du mest intresserad av?"
+      ]
+    },
+    {
+      "id": "t-20260620-14",
+      "category": "teknik",
+      "text": "Sectra får nya beställningar för säker kommunikation, snacka om att cyberhotet är på dagordningen!",
+      "followUp": [
+        "Är säkerhet något du tänker på i ditt dagliga liv?",
+        "Vilken typ av säkerhetsprylar skulle du vilja investera i?"
+      ]
+    },
+    {
+      "id": "t-20260620-15",
+      "category": "teknik",
+      "text": "Fyran miljoner till modern teknologi för Försvarsmakten. Vad hände med att bara ha soldater?",
+      "followUp": [
+        "Tror du de hittar mer effektiva sätt att kriga med teknik?",
+        "Är det logiskt att investera i sånt här?"
       ]
     },
     {
