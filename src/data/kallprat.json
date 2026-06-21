@@ -78,138 +78,102 @@
       ]
     },
     {
-      "id": "s-20260620-1",
+      "id": "s-20260621-1",
       "category": "sport",
-      "text": "Såg du att Nora Lindahl sprang 100 meter på 11,18 sekunder? Helt galet att hon är näst snabbast genom tiderna i både Finland och Sverige!",
+      "text": "Såg du att Sverige krossade Tunisien med 5–1 i VM-premiären? Snacka om en bra start!",
       "followUp": [
-        "Har du testat att springa 100 meter?",
-        "Kollade du på tävlingen?"
+        "Blir vi dom oövervinnerliga i år?",
+        "Vilken var din favoritchans?"
       ]
     },
     {
-      "id": "s-20260620-2",
+      "id": "s-20260621-2",
       "category": "sport",
-      "text": "Hörde du grejen med att Skottland kvalade in till sitt första VM sen 1998? Scott McTominay gjorde ett drömmål!",
+      "text": "Hörde du att Alan Shearer hyllade Isak och Gyökeres efter deras insatser mot Tunisien? Riktigt mäktigt!",
       "followUp": [
-        "Tror du de kan gå långt i VM?",
-        "Vilket lag hejar du på?"
+        "Skulle du våga gå på en match med dem?",
+        "Vad tror du om deras framtid i landslaget?"
       ]
     },
     {
-      "id": "s-20260620-3",
+      "id": "s-20260621-3",
       "category": "sport",
-      "text": "Va, har du sett att New York Knicks äntligen vann NBA-mästerskapet efter 53 år? Snacka om att de utmanar ödet!",
+      "text": "Kollade du på nyheten om Serena och Venus Williams som ska tillbaka till Wimbledon? Helt sjukt!",
       "followUp": [
-        "Skulle du jaga en biljett dit?",
-        "Vilket lag hejar du på i NBA?"
+        "Vilket lag skulle du sätta ihop för dem?",
+        "Tror du att de kan ta hem det igen?"
       ]
     },
     {
-      "id": "s-20260620-4",
+      "id": "s-20260621-4",
       "category": "sport",
-      "text": "Kollade du på nyheterna? Alexander Isak ska spela i båda genrepmatcherna inför VM!",
+      "text": "Va, visste du att Häcken och Hammarby möts på Smögen i träningsmatch? Bra ställe för lite fotboll!",
       "followUp": [
-        "Tror du han kommer vara i toppform?",
-        "Vad tycker du om Sveriges chanser i VM?"
+        "Planerar du att dra dit?",
+        "Har du testat att se matcherna på BKH Play?"
       ]
     },
     {
-      "id": "s-20260620-5",
+      "id": "s-20260621-5",
       "category": "sport",
-      "text": "Hörde att Rúben Amorim har blivit ny tränare för AC Milan! Han verkar ju ha styr på grejerna.",
+      "text": "Kollade du på matchen där Gianni Infantino blev utbuad? Det var ju stämning!",
       "followUp": [
-        "Har du en favvotränares stil?",
-        "Tror du han kan lyfta laget?"
+        "Tycker du att han förtjänade det?",
+        "Tror du att det påverkar FIFA?"
       ]
     },
     {
-      "id": "s-20260620-6",
+      "id": "s-20260621-6",
       "category": "sport",
-      "text": "Kylian Mbappé gjorde två mål i Frankrikes VM-premiär mot Senegal. Snacka om att leverera!",
+      "text": "Hörde du att Isak tränar individuellt inför matchen mot Nederländerna? Han vill verkligen ge järnet!",
       "followUp": [
-        "Ser du fram emot resten av VM?",
-        "Vilket lag gillar du mest?"
+        "Skulle du vilja träna med honom?",
+        "Vad tror du om hans chanser att leverera?"
       ]
     },
     {
-      "id": "s-20260620-7",
+      "id": "s-20260621-7",
       "category": "sport",
-      "text": "Sverige körde över Tunisien med 5–0 i VM! Yasin Ayari var en riktig stjärna där.",
+      "text": "Visste du att PUMA HYROX World Championships kommer till Strawberry Arena? Det låter som en riktig happening!",
       "followUp": [
-        "Tror du de har chans att ta sig långt?",
-        "Vad är din favoritupplevelse från förra VM?"
+        "Har du testat HYROX själv?",
+        "Vilken sport skulle du vilja se där?"
       ]
     },
     {
-      "id": "s-20260620-8",
+      "id": "s-20260621-8",
       "category": "sport",
-      "text": "BK Häcken toppar Allsvenskan nu efter att ha vunnit mot Östersund. Det ser lovande ut!",
+      "text": "Såg du hur Sverige förlorade mot Nederländerna med 1–5? Riktigt tufft utfall!",
       "followUp": [
-        "Har du någon favorit i Allsvenskan?",
-        "Vad är din bästa fotbollsmatch du sett live?"
+        "Vad tror du de lär sig av den matchen?",
+        "Vilka ändringar vill du se i nästa match?"
       ]
     },
     {
-      "id": "s-20260620-9",
+      "id": "s-20260621-9",
       "category": "sport",
-      "text": "Det är ju sjukt att en OS-medaljör i handboll blivit avstängd för dopning. Vad tänker du om det?",
+      "text": "Hörde du att om Serena och Venus vinner Wimbledon i år blir de det äldsta dubbelparet att göra det? Helt galet!",
       "followUp": [
-        "Hur ställer du dig till doping i sport?",
-        "Tror du det påverkar sporten negativt?"
+        "Vilken är din favoritmatch med dem?",
+        "Tror du att de kan sätta rekord?"
       ]
     },
     {
-      "id": "s-20260620-10",
+      "id": "s-20260621-10",
       "category": "sport",
-      "text": "Svenska handbollslaget tränar hårt inför VM i Bosöns 'tortyrkammare' nu! Snart får vi se resultaten.",
+      "text": "Såg du att biljetterna till matchen mellan Häcken och Hammarby säljs via Swish på plats? Enkelt och smidigt!",
       "followUp": [
-        "Tror du verkligen att hård träning lönar sig?",
-        "Har du testat någon extreme workout?"
+        "Planerar du att satsa på en biljett?",
+        "Har du varit på Smögen innan?"
       ]
     },
     {
-      "id": "s-20260620-11",
+      "id": "s-20260621-11",
       "category": "sport",
-      "text": "Svenska basketlandslaget kickade igång VM-kampanjen med en grym 90–70-seger mot Kanada. Riktigt bra start!",
+      "text": "Hörde du att Infantino blev utbuad även i Houston? Snacka om att han har det tufft!",
       "followUp": [
-        "Vilket lag hejar du på i basket?",
-        "Har du själv spelat basket någon gång?"
-      ]
-    },
-    {
-      "id": "s-20260620-12",
-      "category": "sport",
-      "text": "Svenska innebandylandslaget ska ju vara med i VM efter att ha vunnit mot Finland! Kul att se dem igen.",
-      "followUp": [
-        "Har du spelat innebandy?",
-        "Vad tycker du är det mest spännande med innebandy?"
-      ]
-    },
-    {
-      "id": "s-20260620-13",
-      "category": "sport",
-      "text": "Svenska simlandslaget har kammat hem tre guldmedaljer i VM. Snacka om att de är på hugget!",
-      "followUp": [
-        "Har du själv simmat på riktigt?",
-        "Vilken simgren gillar du bäst?"
-      ]
-    },
-    {
-      "id": "s-20260620-14",
-      "category": "sport",
-      "text": "Elin Andersson går vidare till kvartsfinal i Wimbledon! Helt sjukt att slå världsåttan.",
-      "followUp": [
-        "Kollade du på matchen?",
-        "Spelar du tennis själv?"
-      ]
-    },
-    {
-      "id": "s-20260620-15",
-      "category": "sport",
-      "text": "Erik Johansson leder US Open efter första rundan med 65 slag. Snacka om att sätta press!",
-      "followUp": [
-        "Har du provat på golf?",
-        "Tror du han kan hålla i sin ledning?"
+        "Tror du att han kommer att ändra något efter det?",
+        "Vilka andra offentliga figurer skulle du vilja se buas ut?"
       ]
     },
     {
