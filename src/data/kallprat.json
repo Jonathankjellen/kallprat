@@ -33,147 +33,237 @@
   ],
   "kallprat": [
     {
-      "id": "n-20260619-1",
+      "id": "n-20260621-1",
       "category": "nyheter",
-      "text": "Kollade du på nyheterna om att EU och Ryssland haft nån snabb kontakt? Verkar som om de vill snacka lite igen.",
+      "text": "Kollade du på hur flera gamla låtar plötsligt blir grymma igen tack vare TikTok?",
       "followUp": [
-        "Tror du att det ger något?",
-        "Vad skulle de ens kunna prata om?"
+        "Vilken klassiker tycker du borde få en revival?",
+        "Har du snöat in på någon gammal låt just nu?"
       ]
     },
     {
-      "id": "n-20260619-2",
+      "id": "n-20260621-2",
       "category": "nyheter",
-      "text": "Så Volvo-fabrikschefen har tydligen sagt hejdå efter bara nio månader. Snacka om att kasta in handduken mitt i grejen.",
+      "text": "Haha, pratade du om att de kallar hockeyarenor för 'pojkaquarium'? Det är ju sjukt kul!",
       "followUp": [
-        "Vad tror du det här betyder för bilen som ska släppas?",
-        "Vem tror du får jobbet nu?"
+        "Tycker du att det är en bra beskrivning?",
+        "Har du sett några roliga klipp från 'pojkaquarium'?"
       ]
     },
     {
-      "id": "n-20260619-3",
+      "id": "n-20260621-3",
       "category": "nyheter",
-      "text": "Hörde att det är en grej nu att binda sin egen midsommarkrans inför firandet. Låter ju både kul och lite jobbigt!",
+      "text": "Jag snubblade över den där trenden med 'We are living in a world' – folk gör så sjuka grejer!",
       "followUp": [
-        "Har du någonsin provat?",
-        "Vilka blommor skulle du vilja ha i din krans?"
+        "Har du gjort något sånt själv?",
+        "Vilka klipp har fått dig att skratta mest?"
       ]
     },
     {
-      "id": "n-20260619-4",
+      "id": "n-20260621-4",
       "category": "nyheter",
-      "text": "Nio nya bolag har startats i Skellefteå senaste veckan. Det börjar minsann hända grejer där uppe!",
+      "text": "Hörde du att slowcore-musik blir het igen på TikTok? Det är en nostalgitripp!",
       "followUp": [
-        "Vad tror du de sysslar med?",
-        "Skulle du vilja flytta till Skellefteå och starta något?"
+        "Har du några rekommendationer inom slowcore?",
+        "Vilken låt borde alla lyssna på just nu?"
       ]
     },
     {
-      "id": "n-20260619-5",
+      "id": "n-20260621-5",
       "category": "nyheter",
-      "text": "Storuman Energi släpper nån app för att hjälpa folk planera sin elförbrukning. Låter ju smart!",
+      "text": "Såg du de galna videorna från Nordsjön som folk laddar upp? Det ser ut som skräckfilm!",
       "followUp": [
-        "Skulle du använda en sån app?",
-        "Vad har du för knep för att spara el?"
+        "Skulle du våga göra en sån video själv?",
+        "Har du någonsin varit vid Nordsjön?"
+      ]
+    },
+    {
+      "id": "n-20260621-6",
+      "category": "nyheter",
+      "text": "Den där 'girl dinner'-trenden med enkla middagar har ju verkligen tagit fart!",
+      "followUp": [
+        "Vad har varit din go-to middag på sistone?",
+        "Har du testat något från den trenden?"
+      ]
+    },
+    {
+      "id": "n-20260621-7",
+      "category": "nyheter",
+      "text": "Va, har du sett de där latte-makeup-spring-trenderna? Snacka om kreativitet!",
+      "followUp": [
+        "Skulle du våga prova en sån look?",
+        "Vilken drink inspirerar mest?"
+      ]
+    },
+    {
+      "id": "n-20260621-8",
+      "category": "nyheter",
+      "text": "Kollade du på de som gör dark academia-innehåll? Snygga vibes!",
+      "followUp": [
+        "Vilken bok skulle passa i det temat?",
+        "Kunde du tänka dig att leva i den världen?"
+      ]
+    },
+    {
+      "id": "n-20260621-9",
+      "category": "nyheter",
+      "text": "Är inte cottagecore-vibbarna de mest chilliga just nu? Så mysigt att se!",
+      "followUp": [
+        "Skulle du vilja bo i ett sött litet hus på landet?",
+        "Vad är din drömplats i naturen?"
+      ]
+    },
+    {
+      "id": "n-20260621-10",
+      "category": "nyheter",
+      "text": "Hörde du talas om 'Icebreaker'-boken som alla pratar om på TikTok?",
+      "followUp": [
+        "Har du läst den eller funderat på att göra det?",
+        "Vad är din senaste bokälskling?"
+      ]
+    },
+    {
+      "id": "n-20260621-11",
+      "category": "nyheter",
+      "text": "Pasta-trenden med olika former är på tapeten nu, så mycket skämt om det!",
+      "followUp": [
+        "Vilken pastasort är din favorit?",
+        "Har du en kreativ pastarätt som du brukar göra?"
+      ]
+    },
+    {
+      "id": "n-20260621-12",
+      "category": "nyheter",
+      "text": "Filmstudior med TikTok-fan-edits är en ny grej, vad tycker du om det?",
+      "followUp": [
+        "Har du sett några riktigt coola edits?",
+        "Tror du det kan hjälpa till att sälja filmer bättre?"
+      ]
+    },
+    {
+      "id": "n-20260621-13",
+      "category": "nyheter",
+      "text": "Det är imponerande hur TikTok används för social aktivism nu – folk verkligen engagerar sig!",
+      "followUp": [
+        "Har du stött på något tankeväckande inlägg?",
+        "Vilka ämnen brinner du för?"
+      ]
+    },
+    {
+      "id": "n-20260621-14",
+      "category": "nyheter",
+      "text": "Wow, TikTok som plattform för politisk snack är ju något nytt!",
+      "followUp": [
+        "Håller du koll på några politiska TikTok-konton?",
+        "Tror du att det påverkar folks åsikter?"
+      ]
+    },
+    {
+      "id": "n-20260621-15",
+      "category": "nyheter",
+      "text": "TikTok och musikindustrin är ju som ett giftpar nu – det för får låtar att explodera!",
+      "followUp": [
+        "Har du hittat nya favoritlåtar genom TikTok?",
+        "Vilka låtar skulle kunna ta ett kliv framåt?"
       ]
     },
     {
       "id": "s-20260621-1",
       "category": "sport",
-      "text": "Såg du att Sverige krossade Tunisien med 5–1 i VM-premiären? Snacka om en bra start!",
+      "text": "Kollade du på nyheterna om Jabir tillbaka till Östersund? Det känns som en bra grej för laget.",
       "followUp": [
-        "Blir vi dom oövervinnerliga i år?",
-        "Vilken var din favoritchans?"
+        "Har du sett hans senaste matcher?",
+        "Tror du han kommer att göra skillnad?"
       ]
     },
     {
       "id": "s-20260621-2",
       "category": "sport",
-      "text": "Hörde du att Alan Shearer hyllade Isak och Gyökeres efter deras insatser mot Tunisien? Riktigt mäktigt!",
+      "text": "Hörde du att Serena och Venus kommer spela dubbel tillsammans i Wimbledon 2026? Snacka om nostalgi!",
       "followUp": [
-        "Skulle du våga gå på en match med dem?",
-        "Vad tror du om deras framtid i landslaget?"
+        "Tror du de har en chans att gå långt?",
+        "Har du sett några coola klipp på dem från förr?"
       ]
     },
     {
       "id": "s-20260621-3",
       "category": "sport",
-      "text": "Kollade du på nyheten om Serena och Venus Williams som ska tillbaka till Wimbledon? Helt sjukt!",
+      "text": "Såg du vad Johan Mjällby sa om Sveriges chanser i VM 2026? Han verkar ganska nervös.",
       "followUp": [
-        "Vilket lag skulle du sätta ihop för dem?",
-        "Tror du att de kan ta hem det igen?"
+        "Vad tror du om vår trupp just nu?",
+        "Har du någon favoritspelare som borde vara med?"
       ]
     },
     {
       "id": "s-20260621-4",
       "category": "sport",
-      "text": "Va, visste du att Häcken och Hammarby möts på Smögen i träningsmatch? Bra ställe för lite fotboll!",
+      "text": "Va, Josephine Olsson satte nytt svenskt rekord i diskus? Helt sjukt!",
       "followUp": [
-        "Planerar du att dra dit?",
-        "Har du testat att se matcherna på BKH Play?"
+        "Har du testat kasta diskus någon gång?",
+        "Vilken sport tycker du är roligast att följa?"
       ]
     },
     {
       "id": "s-20260621-5",
       "category": "sport",
-      "text": "Kollade du på matchen där Gianni Infantino blev utbuad? Det var ju stämning!",
+      "text": "Såg att Max Fenger är tillbaka på träning med IFK Göteborg efter sin skada. Riktigt kul att höra!",
       "followUp": [
-        "Tycker du att han förtjänade det?",
-        "Tror du att det påverkar FIFA?"
+        "Tror du att han kan bidra till laget direkt?",
+        "Har du följt IFK Göteborg något?"
       ]
     },
     {
       "id": "s-20260621-6",
       "category": "sport",
-      "text": "Hörde du att Isak tränar individuellt inför matchen mot Nederländerna? Han vill verkligen ge järnet!",
+      "text": "Serena Williams gör comeback i Wimbledon 2026! Helt galet, eller hur?",
       "followUp": [
-        "Skulle du vilja träna med honom?",
-        "Vad tror du om hans chanser att leverera?"
+        "Skulle du gå på matcherna om du fick chansen?",
+        "Har hon varit din favorit under åren?"
       ]
     },
     {
       "id": "s-20260621-7",
       "category": "sport",
-      "text": "Visste du att PUMA HYROX World Championships kommer till Strawberry Arena? Det låter som en riktig happening!",
+      "text": "Oj, hörde du att Tino Livramento missar VM 2026? Vilken oturlig skada!",
       "followUp": [
-        "Har du testat HYROX själv?",
-        "Vilken sport skulle du vilja se där?"
+        "Vem tror du kommer ta hans plats i laget?",
+        "Är du nervös inför VM överhuvudtaget?"
       ]
     },
     {
       "id": "s-20260621-8",
       "category": "sport",
-      "text": "Såg du hur Sverige förlorade mot Nederländerna med 1–5? Riktigt tufft utfall!",
+      "text": "Kollade du på nyheten om Jan Mysak som har skrivit på för HV71? Spännande grej!",
       "followUp": [
-        "Vad tror du de lär sig av den matchen?",
-        "Vilka ändringar vill du se i nästa match?"
+        "Har du följt HV71 något?",
+        "Vad tycker du om deras chanser i årets serie?"
       ]
     },
     {
       "id": "s-20260621-9",
       "category": "sport",
-      "text": "Hörde du att om Serena och Venus vinner Wimbledon i år blir de det äldsta dubbelparet att göra det? Helt galet!",
+      "text": "Hörde du om Kyle Calders tragiska bortgång vid 47 år? Så sorgligt på så många sätt.",
       "followUp": [
-        "Vilken är din favoritmatch med dem?",
-        "Tror du att de kan sätta rekord?"
+        "Var du fan av honom när han spelade i NHL?",
+        "Har du något minne av en speciell match med honom?"
       ]
     },
     {
       "id": "s-20260621-10",
       "category": "sport",
-      "text": "Såg du att biljetterna till matchen mellan Häcken och Hammarby säljs via Swish på plats? Enkelt och smidigt!",
+      "text": "Så tråkigt att Rebecca Peterson är inlagd på sjukhus igen efter sina skador. Hoppas hon blir bra snart!",
       "followUp": [
-        "Planerar du att satsa på en biljett?",
-        "Har du varit på Smögen innan?"
+        "Tror du hon kommer kunna komma tillbaka starkare?",
+        "Har du följt hennes karriär länge?"
       ]
     },
     {
       "id": "s-20260621-11",
       "category": "sport",
-      "text": "Hörde du att Infantino blev utbuad även i Houston? Snacka om att han har det tufft!",
+      "text": "Matteus Ward har just skrivit på ett långt kontrakt med Luleå Hockey. Hur bra är det inte?!",
       "followUp": [
-        "Tror du att han kommer att ändra något efter det?",
-        "Vilka andra offentliga figurer skulle du vilja se buas ut?"
+        "Vad tycker du om Luleå Hockeys säsong hittills?",
+        "Har du sett något av deras matcher nyligen?"
       ]
     },
     {
