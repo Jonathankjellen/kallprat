@@ -168,237 +168,174 @@
       ]
     },
     {
-      "id": "s-20260621-1",
+      "id": "s-20260622-1",
       "category": "sport",
-      "text": "Kollade du på nyheterna om Jabir tillbaka till Östersund? Det känns som en bra grej för laget.",
+      "text": "Såg du att Sverige krossade Tunisien med 5-1 i VM-premiären? Snacka om bra start!",
       "followUp": [
-        "Har du sett hans senaste matcher?",
-        "Tror du han kommer att göra skillnad?"
+        "Hade du förväntat dig så stor seger?",
+        "Vilken målskytt gillade du bäst?"
       ]
     },
     {
-      "id": "s-20260621-2",
+      "id": "s-20260622-2",
       "category": "sport",
-      "text": "Hörde du att Serena och Venus kommer spela dubbel tillsammans i Wimbledon 2026? Snacka om nostalgi!",
+      "text": "Hörde du att Noel Gunler har skrivit på för Djurgården? Ganska spännande nyförvärv!",
       "followUp": [
-        "Tror du de har en chans att gå långt?",
-        "Har du sett några coola klipp på dem från förr?"
+        "Tror du han kommer att passa in i laget?",
+        "Har du sett honom spela tidigare?"
       ]
     },
     {
-      "id": "s-20260621-3",
+      "id": "s-20260622-3",
       "category": "sport",
-      "text": "Såg du vad Johan Mjällby sa om Sveriges chanser i VM 2026? Han verkar ganska nervös.",
+      "text": "Kollade du på träningsmatchen mellan BK Häcken och Hammarby på Smögen? De båda lagen verkar lovande!",
       "followUp": [
-        "Vad tror du om vår trupp just nu?",
-        "Har du någon favoritspelare som borde vara med?"
+        "Vilket lag hejar du på?",
+        "Tror du det blir en jämn match?"
       ]
     },
     {
-      "id": "s-20260621-4",
+      "id": "s-20260622-4",
       "category": "sport",
-      "text": "Va, Josephine Olsson satte nytt svenskt rekord i diskus? Helt sjukt!",
+      "text": "Det är sjukt hur Alexander Isak tränar individuellt inför VM. Det känns som han är supertaggad!",
       "followUp": [
-        "Har du testat kasta diskus någon gång?",
-        "Vilken sport tycker du är roligast att följa?"
+        "Tror du han blir en game changer i turneringen?",
+        "Vad är din galnaste VM-prediktion?"
       ]
     },
     {
-      "id": "s-20260621-5",
+      "id": "s-20260622-5",
       "category": "sport",
-      "text": "Såg att Max Fenger är tillbaka på träning med IFK Göteborg efter sin skada. Riktigt kul att höra!",
+      "text": "Riktigt trist att Tino Livramento tvingas lämna VM-truppen på grund av skada. Änglar på sikt!",
       "followUp": [
-        "Tror du att han kan bidra till laget direkt?",
-        "Har du följt IFK Göteborg något?"
+        "Tror du England klarar sig utan honom?",
+        "Har du sett något liknande hända tidigare?"
       ]
     },
     {
-      "id": "s-20260621-6",
+      "id": "s-20260622-6",
       "category": "sport",
-      "text": "Serena Williams gör comeback i Wimbledon 2026! Helt galet, eller hur?",
+      "text": "Sverige mötte Norge i genrepet inför VM, och vilken match det blev! Kan knappt vänta på premiären!",
       "followUp": [
-        "Skulle du gå på matcherna om du fick chansen?",
-        "Har hon varit din favorit under åren?"
+        "Vem var den mest imponerande spelaren?",
+        "Vad tycker du om förberedelserna inför VM?"
       ]
     },
     {
-      "id": "s-20260621-7",
+      "id": "s-20260622-7",
       "category": "sport",
-      "text": "Oj, hörde du att Tino Livramento missar VM 2026? Vilken oturlig skada!",
+      "text": "Såg du att Breel Embolo behöver akut visum till USA för att delta i VM? Snacka om stress!",
       "followUp": [
-        "Vem tror du kommer ta hans plats i laget?",
-        "Är du nervös inför VM överhuvudtaget?"
+        "Tror du han hinner i tid?",
+        "Vad har varit det mest dramatiska ögonblicket för dig i VM tidigare?"
       ]
     },
     {
-      "id": "s-20260621-8",
-      "category": "sport",
-      "text": "Kollade du på nyheten om Jan Mysak som har skrivit på för HV71? Spännande grej!",
-      "followUp": [
-        "Har du följt HV71 något?",
-        "Vad tycker du om deras chanser i årets serie?"
-      ]
-    },
-    {
-      "id": "s-20260621-9",
-      "category": "sport",
-      "text": "Hörde du om Kyle Calders tragiska bortgång vid 47 år? Så sorgligt på så många sätt.",
-      "followUp": [
-        "Var du fan av honom när han spelade i NHL?",
-        "Har du något minne av en speciell match med honom?"
-      ]
-    },
-    {
-      "id": "s-20260621-10",
-      "category": "sport",
-      "text": "Så tråkigt att Rebecca Peterson är inlagd på sjukhus igen efter sina skador. Hoppas hon blir bra snart!",
-      "followUp": [
-        "Tror du hon kommer kunna komma tillbaka starkare?",
-        "Har du följt hennes karriär länge?"
-      ]
-    },
-    {
-      "id": "s-20260621-11",
-      "category": "sport",
-      "text": "Matteus Ward har just skrivit på ett långt kontrakt med Luleå Hockey. Hur bra är det inte?!",
-      "followUp": [
-        "Vad tycker du om Luleå Hockeys säsong hittills?",
-        "Har du sett något av deras matcher nyligen?"
-      ]
-    },
-    {
-      "id": "t-20260620-1",
+      "id": "t-20260622-1",
       "category": "teknik",
-      "text": "Kollade du nyss på nyheten om att Rolls-Royce ska fixa några kärnreaktorer i Sverige? Det känns som science fiction!",
+      "text": "Kollade du på vad Qualcomms VD sa om AI-agenter? Han verkar tro att traditionella appar är på väg ut.",
       "followUp": [
-        "Tror du att vi kommer se fler såna här projekt framöver?",
-        "Skulle du våga åka i en självkörande bil?"
+        "Tror du verkligen att vi kommer att använda smarta glasögon snart?",
+        "Skulle du våga lita på en AI-agent som hjälper dig i vardagen?"
       ]
     },
     {
-      "id": "t-20260620-2",
+      "id": "t-20260622-2",
       "category": "teknik",
-      "text": "Såg du att Telia och KTH ska dra igång ett AI-samarbete? Det känns som att vi bara är ett steg bort från att ha AI i vår vardag på riktigt!",
+      "text": "Såg du att Google släppte Android 17? Det verkar som om de verkligen har fokuserat på integritet och säkerhet den här gången.",
       "followUp": [
-        "Vilken AI-grej skulle du vilja ha som hjälpreda i vardagen?",
-        "Har du testat någon AI-app som faktiskt funkar bra?"
+        "Har du redan uppdaterat din Pixel?",
+        "Vilken funktion ser du mest fram emot?"
       ]
     },
     {
-      "id": "t-20260620-3",
+      "id": "t-20260622-3",
       "category": "teknik",
-      "text": "Hörde du att Philips släpper nya smarta väggbrytare? Verkar som smarta hem är på väg att bli ännu smartare!",
+      "text": "Det börjar bli verkligt nu, förbeställningarna till GTA 6 öppnar snart! Snacka om hype!",
       "followUp": [
-        "Såg du hur snygga ljus man kan få?",
-        "Har du några smarta prylar hemma?"
+        "Tror du att spelet kommer leva upp till förväntningarna?",
+        "Hur många timmar kommer du att lägga på det?"
       ]
     },
     {
-      "id": "t-20260620-4",
+      "id": "t-20260622-4",
       "category": "teknik",
-      "text": "Xiaomi har lanserat en robotarm som laddar elbilar, hur sjukt är inte det?!",
+      "text": "Hörde du att Midjourney är på väg med en ultraljudsskanner? Det låter som något direkt från en sci-fi film!",
       "followUp": [
-        "Skulle du lita på en robotarm med din bil?",
-        "Tror du det kommer fler såna här automatiska lösningar framöver?"
+        "Skulle du våga låta AI göra en hälsoskanning på dig?",
+        "Vad hoppas du på att den här tekniken ska kunna göra?"
       ]
     },
     {
-      "id": "t-20260620-5",
+      "id": "t-20260622-5",
       "category": "teknik",
-      "text": "Just nu har Dreame släppt en sjuk robotdammsugare som ska kunna städa som en mästare. Går det att lita på?",
+      "text": "Såg att Samsung Galaxy A27 5G har läckt ut. Ser riktigt intressant ut!",
       "followUp": [
-        "Har du själv en robotdammsugare?",
-        "Vilken hemmatermostat skulle du helst vilja ha?"
+        "Är det dags för en ny telefon för dig?",
+        "Vilken funktion skulle få dig att byta till den?"
       ]
     },
     {
-      "id": "t-20260620-6",
+      "id": "t-20260622-6",
       "category": "teknik",
-      "text": "Google har uppdaterat sin översättning i realtid. Snacka om att AI verkligen gör språkliga barriärer mindre!",
+      "text": "Waymo har tydligen återkallat över 3 800 självkörande taxibilar. De har verkligen haft det kämpigt.",
       "followUp": [
-        "Vilka språk skulle du vilja att den kunde översätta bättre?",
-        "Använder du översättningsappar?"
+        "Tycker du att självkörande bilar är säkra?",
+        "Skulle du ens våga åka i en sån taxi?"
       ]
     },
     {
-      "id": "t-20260620-7",
+      "id": "t-20260622-7",
       "category": "teknik",
-      "text": "Apple ändrar nu hur Notiscenter ser ut i iOS 27. Det känns som att de behövde en makeover!",
+      "text": "Instagram släpper nu möjligheten att ha olika captions i sina karuseller! Vad tycker du om den uppdateringen?",
       "followUp": [
-        "Tycker du att det är dags för en ny design?",
-        "Vilka funktioner skulle du vilja se i nästa version?"
+        "Tror du att det kommer göra inläggen mer intressanta?",
+        "Har du sett några kreativa exempel ännu?"
       ]
     },
     {
-      "id": "t-20260620-8",
+      "id": "t-20260622-8",
       "category": "teknik",
-      "text": "Siri har blivit stoppad i EU. Hur spännande är inte det? Tänk om din assistent plötsligt slutade funka!",
+      "text": "Sennheiser presenterade sina nya öppet-öron-öronsnäckor och jag är lite nyfiken på dem!",
       "followUp": [
-        "Skulle du klara dig utan röstassistans?",
-        "Tänker du på vilken AI du faktiskt använder dagligen?"
+        "Skulle du kunna tänka dig att använda sådana?",
+        "Vilka hörlurar har du idag?"
       ]
     },
     {
-      "id": "t-20260620-9",
+      "id": "t-20260622-9",
       "category": "teknik",
-      "text": "Det pågår rykten om att Xbox-studios säljs ut. Vad händer med framtiden för Xbox?",
+      "text": "Adobe integrerar Firefly AI i sina program, vilket kan bli en game changer för kreatörer!",
       "followUp": [
-        "Har du några favoritspel från Xbox?",
-        "Tror du detta kan bli bra eller risigt för gamers?"
+        "Vilket program använder du mest?",
+        "Tror du att AI verkligen hjälper eller ställer till det mer?"
       ]
     },
     {
-      "id": "t-20260620-10",
+      "id": "t-20260622-10",
       "category": "teknik",
-      "text": "Nya siffror om PlayStation-studios får en att undra på vad strategin är. Har de en plan eller?",
+      "text": "Donald Trump snackar om ett chip-avtal mellan Apple och Intel. Sjukt att se hur teknikvärlden påverkas av politiken.",
       "followUp": [
-        "Vilka spel är du mest sugen på nu?",
-        "Tror du PlayStation kommer att överraska oss snart?"
+        "Vad tror du det betyder för framtidens produkter?",
+        "Är du pro eller contra inhemska chips?"
       ]
     },
     {
-      "id": "t-20260620-11",
+      "id": "t-20260622-11",
       "category": "teknik",
-      "text": "Fysiska Steam-presentkort är snart borta från butikerna. Hur handlar du annars för spel?",
+      "text": "Rivian stäms nu för sina självkörande bilar. De har ju så mycket på spel!",
       "followUp": [
-        "Tycker du det är trist eller bra med digitala konton?",
-        "Har du varit med om att missbruka ett presentkort?"
+        "Tror du att det här påverkar deras framtid?",
+        "Skulle du äga en Riviantaxi om du fick chansen?"
       ]
     },
     {
-      "id": "t-20260620-12",
+      "id": "t-20260622-12",
       "category": "teknik",
-      "text": "Alien Isolation 2 har blivit officiellt utannonserat! Riktigt uselt att vi måste vänta, eller?",
+      "text": "NASA samarbetar med Eric Schmidt för att skicka en orbiter till Mars, hur coolt är inte det?",
       "followUp": [
-        "Är du taggad på uppföljaren?",
-        "Kommer du att spela det direkt när det släpps?"
-      ]
-    },
-    {
-      "id": "t-20260620-13",
-      "category": "teknik",
-      "text": "Broadcom släppte sina siffror med fokus på AI-intäkterna. Det känns som att de hänger med i svängarna!",
-      "followUp": [
-        "Tror du att AI kommer dominera marknaden framöver?",
-        "Vad för AI-prylar är du mest intresserad av?"
-      ]
-    },
-    {
-      "id": "t-20260620-14",
-      "category": "teknik",
-      "text": "Sectra får nya beställningar för säker kommunikation, snacka om att cyberhotet är på dagordningen!",
-      "followUp": [
-        "Är säkerhet något du tänker på i ditt dagliga liv?",
-        "Vilken typ av säkerhetsprylar skulle du vilja investera i?"
-      ]
-    },
-    {
-      "id": "t-20260620-15",
-      "category": "teknik",
-      "text": "Fyran miljoner till modern teknologi för Försvarsmakten. Vad hände med att bara ha soldater?",
-      "followUp": [
-        "Tror du de hittar mer effektiva sätt att kriga med teknik?",
-        "Är det logiskt att investera i sånt här?"
+        "Skulle du vilja besöka Mars om du fick chansen?",
+        "Vad hoppas du att vi hittar där uppe?"
       ]
     },
     {
