@@ -170,172 +170,154 @@
     {
       "id": "s-20260622-1",
       "category": "sport",
-      "text": "Såg du att Sverige krossade Tunisien med 5-1 i VM-premiären? Snacka om bra start!",
+      "text": "Såg du Sveriges galna premiär i VM? 5–1 mot Tunisien är ju helt sjukt! Yasin Ayari krossade ju verkligen med sina två mål.",
       "followUp": [
-        "Hade du förväntat dig så stor seger?",
-        "Vilken målskytt gillade du bäst?"
+        "Hur känner du inför resten av turneringen?",
+        "Kollade du matchen live eller missade du den?"
       ]
     },
     {
       "id": "s-20260622-2",
       "category": "sport",
-      "text": "Hörde du att Noel Gunler har skrivit på för Djurgården? Ganska spännande nyförvärv!",
+      "text": "Hörde du om det där Hammarby-specialet på tv? Ny tränare och stora förhoppningar, det blir spännande att se vad som händer!",
       "followUp": [
-        "Tror du han kommer att passa in i laget?",
-        "Har du sett honom spela tidigare?"
+        "Tror du de kan utmana i år?",
+        "Har du någon favoritspelare i laget?"
       ]
     },
     {
       "id": "s-20260622-3",
       "category": "sport",
-      "text": "Kollade du på träningsmatchen mellan BK Häcken och Hammarby på Smögen? De båda lagen verkar lovande!",
+      "text": "Hur sjukt är det inte att Serena och Venus ska tävla ihop i Wimbledon nästa år? Det känns som en grej man bara måste se!",
       "followUp": [
-        "Vilket lag hejar du på?",
-        "Tror du det blir en jämn match?"
+        "Vilken av dem hejar du mest på?",
+        "Skulle du våga i en dubbelmatch med dem?"
       ]
     },
     {
       "id": "s-20260622-4",
       "category": "sport",
-      "text": "Det är sjukt hur Alexander Isak tränar individuellt inför VM. Det känns som han är supertaggad!",
+      "text": "Va, Moa Lundgren och Gustav Kvarnbrink tog silver i Hyrox-VM? Hörs ju som en legendarisk comeback!",
       "followUp": [
-        "Tror du han blir en game changer i turneringen?",
-        "Vad är din galnaste VM-prediktion?"
+        "Har du testat Hyrox själv någon gång?",
+        "Tror du de kan slå rekord igen?"
       ]
     },
     {
       "id": "s-20260622-5",
       "category": "sport",
-      "text": "Riktigt trist att Tino Livramento tvingas lämna VM-truppen på grund av skada. Änglar på sikt!",
+      "text": "Serena Williams är tillbaka i tennis efter fyra år borta! Det verkar ju bli en stor grej i Wimbledon!",
       "followUp": [
-        "Tror du England klarar sig utan honom?",
-        "Har du sett något liknande hända tidigare?"
+        "Är du sugen på att kolla på hennes matcher?",
+        "Har du alltid varit fan av henne?"
       ]
     },
     {
       "id": "s-20260622-6",
       "category": "sport",
-      "text": "Sverige mötte Norge i genrepet inför VM, och vilken match det blev! Kan knappt vänta på premiären!",
+      "text": "Hörde du om att Embolo fick problem med sitt visum till VM? Snacka om otur precis innan mästerskapet!",
       "followUp": [
-        "Vem var den mest imponerande spelaren?",
-        "Vad tycker du om förberedelserna inför VM?"
+        "Tror du det påverkar Schweiz chanser i turneringen?",
+        "Kollade du på när de kvalade in?"
       ]
     },
     {
       "id": "s-20260622-7",
       "category": "sport",
-      "text": "Såg du att Breel Embolo behöver akut visum till USA för att delta i VM? Snacka om stress!",
+      "text": "Tino Livramento missar VM på grund av skada, snacka om att få en tuff start!",
       "followUp": [
-        "Tror du han hinner i tid?",
-        "Vad har varit det mest dramatiska ögonblicket för dig i VM tidigare?"
+        "Tror du Chalobah kan fylla hans skor?",
+        "Har du följt hans karriär tidigare?"
+      ]
+    },
+    {
+      "id": "s-20260622-8",
+      "category": "sport",
+      "text": "PUMA HYROX World Championships gick av stapeln i Solna förra månaden! Det var ju en riktig fest för alla fitnessnördar!",
+      "followUp": [
+        "Kollade du på några av loppen?",
+        "Skulle du vara intresserad av att delta nästa gång?"
       ]
     },
     {
       "id": "t-20260622-1",
       "category": "teknik",
-      "text": "Kollade du på vad Qualcomms VD sa om AI-agenter? Han verkar tro att traditionella appar är på väg ut.",
+      "text": "Kollade du in lanseringen av Humane's Ai Pin? Hur sjukt är det inte att man kan få information projicerad på handen!",
       "followUp": [
-        "Tror du verkligen att vi kommer att använda smarta glasögon snart?",
-        "Skulle du våga lita på en AI-agent som hjälper dig i vardagen?"
+        "Skulle du vilja ha en sån?",
+        "Hur tror du att den kommer användas i vardagen?"
       ]
     },
     {
       "id": "t-20260622-2",
       "category": "teknik",
-      "text": "Såg du att Google släppte Android 17? Det verkar som om de verkligen har fokuserat på integritet och säkerhet den här gången.",
+      "text": "Hörde du att Meta släpper 28 olika AI-drivna chatbots? Varje bot har sin egen personlighet, typ som en digital kompis!",
       "followUp": [
-        "Har du redan uppdaterat din Pixel?",
-        "Vilken funktion ser du mest fram emot?"
+        "Vilken bot skulle du helst hänga med?",
+        "Tror du att det kommer bli för mycket med alla dessa chatbots?"
       ]
     },
     {
       "id": "t-20260622-3",
       "category": "teknik",
-      "text": "Det börjar bli verkligt nu, förbeställningarna till GTA 6 öppnar snart! Snacka om hype!",
+      "text": "Såg att Humane's Ai Pin kostar 699 dollar. Det är ju nästan en ny smartphone!",
       "followUp": [
-        "Tror du att spelet kommer leva upp till förväntningarna?",
-        "Hur många timmar kommer du att lägga på det?"
+        "Tycker du att det är värt pengarna?",
+        "Skulle du vilja betala en prenumeration varje månad för att använda den?"
       ]
     },
     {
       "id": "t-20260622-4",
       "category": "teknik",
-      "text": "Hörde du att Midjourney är på väg med en ultraljudsskanner? Det låter som något direkt från en sci-fi film!",
+      "text": "Ai Pin kan tydligen spela musik och svara på frågor utan traditionella appar, hur coolt är inte det?",
       "followUp": [
-        "Skulle du våga låta AI göra en hälsoskanning på dig?",
-        "Vad hoppas du på att den här tekniken ska kunna göra?"
+        "Vilken funktion skulle du använda mest?",
+        "Tror du att vi är redo för att släppa appar helt?"
       ]
     },
     {
       "id": "t-20260622-5",
       "category": "teknik",
-      "text": "Såg att Samsung Galaxy A27 5G har läckt ut. Ser riktigt intressant ut!",
+      "text": "Ai Pin har en rund rektangulär design och ser riktigt sleek ut! Det ger ju ett futuristiskt intryck.",
       "followUp": [
-        "Är det dags för en ny telefon för dig?",
-        "Vilken funktion skulle få dig att byta till den?"
+        "Vad tycker du om designen?",
+        "Har du sett några andra prylar som ser så här avancerade ut?"
       ]
     },
     {
       "id": "t-20260622-6",
       "category": "teknik",
-      "text": "Waymo har tydligen återkallat över 3 800 självkörande taxibilar. De har verkligen haft det kämpigt.",
+      "text": "En 13-megapixelkamera inbyggd i Ai Pin? Det här är ju som att ha en kamera som alltid är redo!",
       "followUp": [
-        "Tycker du att självkörande bilar är säkra?",
-        "Skulle du ens våga åka i en sån taxi?"
+        "Tror du att det kommer att förändra hur vi tar bilder?",
+        "Skulle du använda en sån kamera istället för din telefon?"
       ]
     },
     {
       "id": "t-20260622-7",
       "category": "teknik",
-      "text": "Instagram släpper nu möjligheten att ha olika captions i sina karuseller! Vad tycker du om den uppdateringen?",
+      "text": "Ai Pin kan översätta tal i realtid — tänk om man kunde snacka flera språk utan att kunna dem!",
       "followUp": [
-        "Tror du att det kommer göra inläggen mer intressanta?",
-        "Har du sett några kreativa exempel ännu?"
+        "Vilket språk skulle du helst vilja översätta?",
+        "Skulle du våga använda den på en resa?"
       ]
     },
     {
       "id": "t-20260622-8",
       "category": "teknik",
-      "text": "Sennheiser presenterade sina nya öppet-öron-öronsnäckor och jag är lite nyfiken på dem!",
+      "text": "Det snackas om att Ai Pin kan ta emot samtal från betrodda kontakter. Smidigt, eller?",
       "followUp": [
-        "Skulle du kunna tänka dig att använda sådana?",
-        "Vilka hörlurar har du idag?"
+        "Tror du att det är en säker funktion?",
+        "Hur skulle du använda det i din vardag?"
       ]
     },
     {
       "id": "t-20260622-9",
       "category": "teknik",
-      "text": "Adobe integrerar Firefly AI i sina program, vilket kan bli en game changer för kreatörer!",
+      "text": "Ai Pins magnetiska batterisystem låter ju som science fiction! Blir det verkligen 'perpetual power'?",
       "followUp": [
-        "Vilket program använder du mest?",
-        "Tror du att AI verkligen hjälper eller ställer till det mer?"
-      ]
-    },
-    {
-      "id": "t-20260622-10",
-      "category": "teknik",
-      "text": "Donald Trump snackar om ett chip-avtal mellan Apple och Intel. Sjukt att se hur teknikvärlden påverkas av politiken.",
-      "followUp": [
-        "Vad tror du det betyder för framtidens produkter?",
-        "Är du pro eller contra inhemska chips?"
-      ]
-    },
-    {
-      "id": "t-20260622-11",
-      "category": "teknik",
-      "text": "Rivian stäms nu för sina självkörande bilar. De har ju så mycket på spel!",
-      "followUp": [
-        "Tror du att det här påverkar deras framtid?",
-        "Skulle du äga en Riviantaxi om du fick chansen?"
-      ]
-    },
-    {
-      "id": "t-20260622-12",
-      "category": "teknik",
-      "text": "NASA samarbetar med Eric Schmidt för att skicka en orbiter till Mars, hur coolt är inte det?",
-      "followUp": [
-        "Skulle du vilja besöka Mars om du fick chansen?",
-        "Vad hoppas du att vi hittar där uppe?"
+        "Tror du att det verkligen funkar i praktiken?",
+        "Vad skulle du tycka om att ladda prylar på det sättet?"
       ]
     },
     {
