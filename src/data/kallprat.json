@@ -33,291 +33,273 @@
   ],
   "kallprat": [
     {
-      "id": "n-20260621-1",
+      "id": "n-20260623-1",
       "category": "nyheter",
-      "text": "Kollade du på hur flera gamla låtar plötsligt blir grymma igen tack vare TikTok?",
+      "text": "Har du sett att så många hänger på soft clubbing i Åre nu? Nyktra fester med dans och bra musik verkar vara grejen.",
       "followUp": [
-        "Vilken klassiker tycker du borde få en revival?",
-        "Har du snöat in på någon gammal låt just nu?"
+        "Skulle du testa att gå på en sån fest?",
+        "Hur tror du stämningen är när alla är nyktra?"
       ]
     },
     {
-      "id": "n-20260621-2",
+      "id": "n-20260623-2",
       "category": "nyheter",
-      "text": "Haha, pratade du om att de kallar hockeyarenor för 'pojkaquarium'? Det är ju sjukt kul!",
+      "text": "Alltså, midsommarens t-shirtar ser verkligen grymma ut i år, inspirerade av modeveckan i Florens!",
       "followUp": [
-        "Tycker du att det är en bra beskrivning?",
-        "Har du sett några roliga klipp från 'pojkaquarium'?"
+        "Vilken färg eller tryck hade du valt?",
+        "Har du någon favorit t-shirt från tidigare midsomrar?"
       ]
     },
     {
-      "id": "n-20260621-3",
+      "id": "n-20260623-3",
       "category": "nyheter",
-      "text": "Jag snubblade över den där trenden med 'We are living in a world' – folk gör så sjuka grejer!",
+      "text": "Visste du att Arlanda har börjat göra något åt de galna matpriserna? Känns som att det var på tiden!",
       "followUp": [
-        "Har du gjort något sånt själv?",
-        "Vilka klipp har fått dig att skratta mest?"
+        "Vad skulle du helst vilja äta där utan att blöda ut plånboken?",
+        "Har du någon gång köpt en sån där överprisad macka?"
       ]
     },
     {
-      "id": "n-20260621-4",
+      "id": "n-20260623-4",
       "category": "nyheter",
-      "text": "Hörde du att slowcore-musik blir het igen på TikTok? Det är en nostalgitripp!",
+      "text": "Kollade du på den nya LEGO Koenigsegg-bilen? Snacka om att bygga drömbilen!",
       "followUp": [
-        "Har du några rekommendationer inom slowcore?",
-        "Vilken låt borde alla lyssna på just nu?"
+        "Skulle du kunna tänka dig att bygga en sån?",
+        "Vilken bil skulle du vilja se i LEGO-form?"
       ]
     },
     {
-      "id": "n-20260621-5",
+      "id": "n-20260623-5",
       "category": "nyheter",
-      "text": "Såg du de galna videorna från Nordsjön som folk laddar upp? Det ser ut som skräckfilm!",
+      "text": "Nu kommer det en Game of Thrones-whisky! Vad är egentligen nästa steg, en öl med drakar?",
       "followUp": [
-        "Skulle du våga göra en sån video själv?",
-        "Har du någonsin varit vid Nordsjön?"
+        "Skulle du våga smaka på den?",
+        "Har du någon favorit från serien som du skulle vilja se i en dryck?"
       ]
     },
     {
-      "id": "n-20260621-6",
-      "category": "nyheter",
-      "text": "Den där 'girl dinner'-trenden med enkla middagar har ju verkligen tagit fart!",
-      "followUp": [
-        "Vad har varit din go-to middag på sistone?",
-        "Har du testat något från den trenden?"
-      ]
-    },
-    {
-      "id": "n-20260621-7",
-      "category": "nyheter",
-      "text": "Va, har du sett de där latte-makeup-spring-trenderna? Snacka om kreativitet!",
-      "followUp": [
-        "Skulle du våga prova en sån look?",
-        "Vilken drink inspirerar mest?"
-      ]
-    },
-    {
-      "id": "n-20260621-8",
-      "category": "nyheter",
-      "text": "Kollade du på de som gör dark academia-innehåll? Snygga vibes!",
-      "followUp": [
-        "Vilken bok skulle passa i det temat?",
-        "Kunde du tänka dig att leva i den världen?"
-      ]
-    },
-    {
-      "id": "n-20260621-9",
-      "category": "nyheter",
-      "text": "Är inte cottagecore-vibbarna de mest chilliga just nu? Så mysigt att se!",
-      "followUp": [
-        "Skulle du vilja bo i ett sött litet hus på landet?",
-        "Vad är din drömplats i naturen?"
-      ]
-    },
-    {
-      "id": "n-20260621-10",
-      "category": "nyheter",
-      "text": "Hörde du talas om 'Icebreaker'-boken som alla pratar om på TikTok?",
-      "followUp": [
-        "Har du läst den eller funderat på att göra det?",
-        "Vad är din senaste bokälskling?"
-      ]
-    },
-    {
-      "id": "n-20260621-11",
-      "category": "nyheter",
-      "text": "Pasta-trenden med olika former är på tapeten nu, så mycket skämt om det!",
-      "followUp": [
-        "Vilken pastasort är din favorit?",
-        "Har du en kreativ pastarätt som du brukar göra?"
-      ]
-    },
-    {
-      "id": "n-20260621-12",
-      "category": "nyheter",
-      "text": "Filmstudior med TikTok-fan-edits är en ny grej, vad tycker du om det?",
-      "followUp": [
-        "Har du sett några riktigt coola edits?",
-        "Tror du det kan hjälpa till att sälja filmer bättre?"
-      ]
-    },
-    {
-      "id": "n-20260621-13",
-      "category": "nyheter",
-      "text": "Det är imponerande hur TikTok används för social aktivism nu – folk verkligen engagerar sig!",
-      "followUp": [
-        "Har du stött på något tankeväckande inlägg?",
-        "Vilka ämnen brinner du för?"
-      ]
-    },
-    {
-      "id": "n-20260621-14",
-      "category": "nyheter",
-      "text": "Wow, TikTok som plattform för politisk snack är ju något nytt!",
-      "followUp": [
-        "Håller du koll på några politiska TikTok-konton?",
-        "Tror du att det påverkar folks åsikter?"
-      ]
-    },
-    {
-      "id": "n-20260621-15",
-      "category": "nyheter",
-      "text": "TikTok och musikindustrin är ju som ett giftpar nu – det för får låtar att explodera!",
-      "followUp": [
-        "Har du hittat nya favoritlåtar genom TikTok?",
-        "Vilka låtar skulle kunna ta ett kliv framåt?"
-      ]
-    },
-    {
-      "id": "s-20260622-1",
+      "id": "s-20260623-1",
       "category": "sport",
-      "text": "Såg du Sveriges galna premiär i VM? 5–1 mot Tunisien är ju helt sjukt! Yasin Ayari krossade ju verkligen med sina två mål.",
+      "text": "Såg du att Sverige krossade Tunisien med 5-1 i VM? Snacka om en grym start!",
       "followUp": [
-        "Hur känner du inför resten av turneringen?",
-        "Kollade du matchen live eller missade du den?"
+        "Vad tyckte du om matchen?",
+        "Vilket mål var snyggast enligt dig?"
       ]
     },
     {
-      "id": "s-20260622-2",
+      "id": "s-20260623-2",
       "category": "sport",
-      "text": "Hörde du om det där Hammarby-specialet på tv? Ny tränare och stora förhoppningar, det blir spännande att se vad som händer!",
+      "text": "Kollade du på det där Hammarby specialprogrammet? De tog upp en massa intressanta grejer om klubbens framtid.",
       "followUp": [
-        "Tror du de kan utmana i år?",
-        "Har du någon favoritspelare i laget?"
+        "Har du alltid varit Hammarbyare?",
+        "Tror du de kan ta sig till Europa?"
       ]
     },
     {
-      "id": "s-20260622-3",
+      "id": "s-20260623-3",
       "category": "sport",
-      "text": "Hur sjukt är det inte att Serena och Venus ska tävla ihop i Wimbledon nästa år? Det känns som en grej man bara måste se!",
+      "text": "Hörde du att systrarna Williams gör comeback i Wimbledon nästa år? Det blir ju grymt!",
       "followUp": [
-        "Vilken av dem hejar du mest på?",
-        "Skulle du våga i en dubbelmatch med dem?"
+        "Kollade du på deras matcher när de var som bäst?",
+        "Tror du de har vad som krävs för att vinna igen?"
       ]
     },
     {
-      "id": "s-20260622-4",
+      "id": "s-20260623-4",
       "category": "sport",
-      "text": "Va, Moa Lundgren och Gustav Kvarnbrink tog silver i Hyrox-VM? Hörs ju som en legendarisk comeback!",
+      "text": "Moa Lundgren och Gustav Kvarnbrink sätter svenskt rekord i Hyrox och tar silver! Helt galet!",
       "followUp": [
-        "Har du testat Hyrox själv någon gång?",
-        "Tror du de kan slå rekord igen?"
+        "Har du testat Hyrox själv?",
+        "Vilken sport skulle du vilja vara proffs i?"
       ]
     },
     {
-      "id": "s-20260622-5",
+      "id": "s-20260623-5",
       "category": "sport",
-      "text": "Serena Williams är tillbaka i tennis efter fyra år borta! Det verkar ju bli en stor grej i Wimbledon!",
+      "text": "Breel Embolo fick äntligen sitt visum godkänt och kan spela i VM! Snacka om spänning i sista minuten!",
       "followUp": [
-        "Är du sugen på att kolla på hennes matcher?",
-        "Har du alltid varit fan av henne?"
+        "Hur nervös tror du att han var?",
+        "Har du varit med om något liknande i din egen karriär?"
       ]
     },
     {
-      "id": "s-20260622-6",
+      "id": "s-20260623-6",
       "category": "sport",
-      "text": "Hörde du om att Embolo fick problem med sitt visum till VM? Snacka om otur precis innan mästerskapet!",
+      "text": "Sverige mötte ju Nederländerna i VM, och det var ju fokuset för hela veckan! Vilken match!",
       "followUp": [
-        "Tror du det påverkar Schweiz chanser i turneringen?",
-        "Kollade du på när de kvalade in?"
+        "Kollade du på den på TV?",
+        "Vilket svenskt lag har du på hjärtat just nu?"
       ]
     },
     {
-      "id": "s-20260622-7",
+      "id": "s-20260623-7",
       "category": "sport",
-      "text": "Tino Livramento missar VM på grund av skada, snacka om att få en tuff start!",
+      "text": "Sverige spelade mot Japan i VM! Det var sjukt spännande, eller hur?",
       "followUp": [
-        "Tror du Chalobah kan fylla hans skor?",
-        "Har du följt hans karriär tidigare?"
+        "Hur tror du att matchen kommer gå?",
+        "Har du någonsin sett Sverige spela live?"
       ]
     },
     {
-      "id": "s-20260622-8",
+      "id": "s-20260623-8",
       "category": "sport",
-      "text": "PUMA HYROX World Championships gick av stapeln i Solna förra månaden! Det var ju en riktig fest för alla fitnessnördar!",
+      "text": "Kalles Kaviar Cup gick av stapeln! Ungdomar som springer omkring och spelar fotboll är alltid härligt att se!",
       "followUp": [
-        "Kollade du på några av loppen?",
-        "Skulle du vara intresserad av att delta nästa gång?"
+        "Tycker du att ungdomsfotboll är viktigt?",
+        "Har du några roliga minnen från din egen fotbollstid?"
       ]
     },
     {
-      "id": "t-20260622-1",
-      "category": "teknik",
-      "text": "Kollade du in lanseringen av Humane's Ai Pin? Hur sjukt är det inte att man kan få information projicerad på handen!",
+      "id": "s-20260623-9",
+      "category": "sport",
+      "text": "Alan Shearer hyllade våra svenska anfallare, Isak och Gyökeres! Snacka om att få en boost!",
       "followUp": [
-        "Skulle du vilja ha en sån?",
-        "Hur tror du att den kommer användas i vardagen?"
+        "Vilket lag hejar du på i Premier League?",
+        "Ser du mycket på engelsk fotboll?"
       ]
     },
     {
-      "id": "t-20260622-2",
-      "category": "teknik",
-      "text": "Hörde du att Meta släpper 28 olika AI-drivna chatbots? Varje bot har sin egen personlighet, typ som en digital kompis!",
+      "id": "s-20260623-10",
+      "category": "sport",
+      "text": "Victor Nilsson Lindelöf blev lagkapten i VM-premiären! Så coolt och välförtjänt!",
       "followUp": [
-        "Vilken bot skulle du helst hänga med?",
-        "Tror du att det kommer bli för mycket med alla dessa chatbots?"
+        "Tror du att han kan lyfta laget till nya höjder?",
+        "Har du någon favoritlagkapten genom tiderna?"
       ]
     },
     {
-      "id": "t-20260622-3",
-      "category": "teknik",
-      "text": "Såg att Humane's Ai Pin kostar 699 dollar. Det är ju nästan en ny smartphone!",
+      "id": "s-20260623-11",
+      "category": "sport",
+      "text": "Hela 1,8 miljoner svenskar såg Sveriges premiärmatch! Snacka om fotbollsfrossa!",
       "followUp": [
-        "Tycker du att det är värt pengarna?",
-        "Skulle du vilja betala en prenumeration varje månad för att använda den?"
+        "Har du samlat på dig kompisar för att kolla tillsammans?",
+        "Tror du att intresset kommer öka under turneringen?"
       ]
     },
     {
-      "id": "t-20260622-4",
-      "category": "teknik",
-      "text": "Ai Pin kan tydligen spela musik och svara på frågor utan traditionella appar, hur coolt är inte det?",
+      "id": "s-20260623-12",
+      "category": "sport",
+      "text": "Sveriges matcher i VM sänds gratis på SVT! Perfekt för oss som älskar fotboll!",
       "followUp": [
-        "Vilken funktion skulle du använda mest?",
-        "Tror du att vi är redo för att släppa appar helt?"
+        "Planerar du in allt för att kunna se dem?",
+        "Vilken match ser du mest fram emot?"
       ]
     },
     {
-      "id": "t-20260622-5",
-      "category": "teknik",
-      "text": "Ai Pin har en rund rektangulär design och ser riktigt sleek ut! Det ger ju ett futuristiskt intryck.",
+      "id": "s-20260623-13",
+      "category": "sport",
+      "text": "Sverige hamnade i Grupp F! Tuffa motståndare, men det kan bli spännande!",
       "followUp": [
-        "Vad tycker du om designen?",
-        "Har du sett några andra prylar som ser så här avancerade ut?"
+        "Har du koll på de andra lagen i gruppen?",
+        "Vilken match tror du blir den tuffaste?"
       ]
     },
     {
-      "id": "t-20260622-6",
-      "category": "teknik",
-      "text": "En 13-megapixelkamera inbyggd i Ai Pin? Det här är ju som att ha en kamera som alltid är redo!",
+      "id": "s-20260623-14",
+      "category": "sport",
+      "text": "Sveriges spelschema i VM är spikat! Tre matcher på kort tid, klart att man kan få följa dem!",
       "followUp": [
-        "Tror du att det kommer att förändra hur vi tar bilder?",
-        "Skulle du använda en sån kamera istället för din telefon?"
+        "Har du tips på snacks att ha till matcherna?",
+        "Vilken tid på dygnet tycker du passar bäst för fotboll?"
       ]
     },
     {
-      "id": "t-20260622-7",
-      "category": "teknik",
-      "text": "Ai Pin kan översätta tal i realtid — tänk om man kunde snacka flera språk utan att kunna dem!",
+      "id": "s-20260623-15",
+      "category": "sport",
+      "text": "Analysen av Sveriges chanser i Grupp F släpptes! Det kan bli intressant att följa!",
       "followUp": [
-        "Vilket språk skulle du helst vilja översätta?",
-        "Skulle du våga använda den på en resa?"
+        "Vad är din känsla inför gruppen?",
+        "Hur viktigt tror du att startmatcherna är?"
       ]
     },
     {
-      "id": "t-20260622-8",
+      "id": "t-20260623-1",
       "category": "teknik",
-      "text": "Det snackas om att Ai Pin kan ta emot samtal från betrodda kontakter. Smidigt, eller?",
+      "text": "Såg du att Meta har släppt en AI-app som kan snacka med dig och fixa grejer som att lägga till bilder? Det låter ju sjukt coolt!",
       "followUp": [
-        "Tror du att det är en säker funktion?",
-        "Hur skulle du använda det i din vardag?"
+        "Har du testat något liknande?",
+        "Vad skulle du vilja att en sån här assistent kunde göra för dig?"
       ]
     },
     {
-      "id": "t-20260622-9",
+      "id": "t-20260623-2",
       "category": "teknik",
-      "text": "Ai Pins magnetiska batterisystem låter ju som science fiction! Blir det verkligen 'perpetual power'?",
+      "text": "Hörde du att OpenAI plockade upp Jony Ives AI-startup för en miljard-dollar? Snacka om att satsa stort på AI-grejer!",
       "followUp": [
-        "Tror du att det verkligen funkar i praktiken?",
-        "Vad skulle du tycka om att ladda prylar på det sättet?"
+        "Tror du att vi kommer att få se fler fysiska AI-prylar framöver?",
+        "Vad skulle du vilja ha för AI-pryl i ditt hem?"
+      ]
+    },
+    {
+      "id": "t-20260623-3",
+      "category": "teknik",
+      "text": "Kollade du på nyheterna om Microsofts nästa Xbox, Project Helix? Den ska tydligen kunna köra både Xbox- och PC-spel!",
+      "followUp": [
+        "Kommer du att byta upp dig när den kommer?",
+        "Vilket spel ser du mest fram emot att spela?"
+      ]
+    },
+    {
+      "id": "t-20260623-4",
+      "category": "teknik",
+      "text": "IKEA har lanserat en rad nya smarta hem-grejer som funkar med Matter-standarden. Det börjar bli ett smart hem av i alla fall!",
+      "followUp": [
+        "Har du något smart hemma just nu?",
+        "Vilken pryl skulle du eller ha först?"
+      ]
+    },
+    {
+      "id": "t-20260623-5",
+      "category": "teknik",
+      "text": "SpaceX har just skickat en obemannad Dragon-färja med mängder av förnödenheter till rymden. Hur coolt är inte det?",
+      "followUp": [
+        "Skulle du kunna tänka dig att åka till rymden i framtiden?",
+        "Vad skulle du packa om du fick följa med?"
+      ]
+    },
+    {
+      "id": "t-20260623-6",
+      "category": "teknik",
+      "text": "Snacka om att gå framåt! SpaceX har just lanserat tre nya satelliter för att ge mobiltäckning direkt från rymden.",
+      "followUp": [
+        "Hur galet skulle det vara att ha internet överallt?",
+        "Tror du att det här kan lösa täckningsproblemen på landet?"
+      ]
+    },
+    {
+      "id": "t-20260623-7",
+      "category": "teknik",
+      "text": "Det snackas om en ny metod för att upptäcka cyberattacker i molnet som är supernoggrann. Känns tryggt eller läskigt?",
+      "followUp": [
+        "Hur mycket skydd känner du att du har online?",
+        "Har du helt börjat backa upp dina grejer?"
+      ]
+    },
+    {
+      "id": "t-20260623-8",
+      "category": "teknik",
+      "text": "Hörde du att det görs studier på hur cyberattacker påverkar oss psykiskt? Mental hälsa och teknik, en intressant mix!",
+      "followUp": [
+        "Tror du att du skulle bli extra vaksam efter någon attack?",
+        "Har du sett någon meme om cybersäkerhet nyligen?"
+      ]
+    },
+    {
+      "id": "t-20260623-9",
+      "category": "teknik",
+      "text": "Det är lite galet att nordamerikanska spelare i genomsnitt spenderade 325 dollar per person på spel förra året. Det är en del pengar!",
+      "followUp": [
+        "Vad tycker du är värt att lägga pengar på i spel?",
+        "Har du köpt något riktigt dyrt spel nyligen?"
+      ]
+    },
+    {
+      "id": "t-20260623-10",
+      "category": "teknik",
+      "text": "Över 212 miljoner amerikaner spelar spel regelbundet nu! Gaming är verkligen för alla åldrar nu för tiden. Helt sjukt!",
+      "followUp": [
+        "Vilket spel var din ingång till gaming världen?",
+        "Tror du att gaming blir ännu mer allmänt accepterat i framtiden?"
       ]
     },
     {
