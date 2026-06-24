@@ -35,253 +35,145 @@
     {
       "id": "n-20260624-1",
       "category": "nyheter",
-      "text": "Så, ser det ut som att sommaren är tillbaka? Helgen var ju en riktig rysare.",
+      "text": "Bob Dylan kommer tillbaka till Göteborg! Han spelar på Scandinavium 2026 — hur sjukt är inte det?",
       "followUp": [
-        "Har du några planer för värmen?",
-        "Vad blir din go-to sommardryck?"
+        "Ska du gå?",
+        "Vad är din favoritlåt med honom?"
       ]
     },
     {
       "id": "n-20260624-2",
       "category": "nyheter",
-      "text": "Hörde du om Volvos återkallande av 4500 bilar? Snacka om brandrisk!",
+      "text": "Har du sett hur Airbnb-priserna på Rivieran har skuttat upp efter 'White Lotus'? Snacka om att serien gjorde sitt!",
       "followUp": [
-        "Känns det som att bilar ofta återkallas nuförtiden?",
-        "Har du haft något krångel med bilen?"
+        "Kollade du på serien?",
+        "Skulle du hyra något där?"
       ]
     },
     {
       "id": "n-20260624-3",
       "category": "nyheter",
-      "text": "Folkrace-mästerskapet närmar sig, och midsommarpokalen ser ju riktigt spännande ut!",
+      "text": "'Skriet' kan nu hänga i ditt vardagsrum om du har Samsungs The Frame! Hur ballt är inte det?",
       "followUp": [
-        "Skulle du våga köra folkrace?",
-        "Har du sett några roliga klipp från tidigare tävlingar?"
+        "Skulle du ha en sån tavla hemma?",
+        "Vad är din favvomålning?"
       ]
     },
     {
       "id": "n-20260624-4",
       "category": "nyheter",
-      "text": "Amanda Romare ska sommarprata! Jag undrar vad hon kommer prata om.",
+      "text": "Spotted! Cherry Carajillo är på god väg att ta över tronen från Espresso Martini. Har du testat den ännu?",
       "followUp": [
-        "Har du någon favorit bland sommarpratarna?",
-        "Vad var den bästa sommarprataren förra året?"
+        "Vilken drink föredrar du?",
+        "Känner du till andra drinkar i samma stil?"
       ]
     },
     {
       "id": "n-20260624-5",
       "category": "nyheter",
-      "text": "Såg du att 'Toy Story 5' har premiär? Pixar fortsätter att leverera!",
+      "text": "Sommarnätter med gratis utomhusbio i Rålambshovsparken låter ju drömigt! Vart ska jag boka biljetter?",
       "followUp": [
-        "Vilken är din favorit bland Toy Story-filmerna?",
-        "Tror du den kommer nå upp till de andra?"
+        "Vilken film vill du se?",
+        "Har du varit på utomhusbio förut?"
       ]
     },
     {
       "id": "n-20260624-6",
       "category": "nyheter",
-      "text": "De ska göra elbilar smarta energilager i Skövde, låter fränt!",
+      "text": "Det ryktas om att Indiens bästa restaurang öppnar i Stockholm. Var ligger den och vad ska man beställa?",
       "followUp": [
-        "Vad tror du om idén att använda bilar som energilager?",
-        "Har du testat någon smart teknik i din bil?"
+        "Är indisk mat din grej?",
+        "Har du något favoritställe i stan?"
       ]
     },
     {
       "id": "n-20260624-7",
       "category": "nyheter",
-      "text": "Kollade du på Midjourneys nya kroppsscanner? 60 sekunder låter ju galet!",
+      "text": "Det är galet, men mer än hälften av oss mellan 15 och 24 kollar på nyheter via TikTok varje dag. Jag måste vara gammaldags eller?",
       "followUp": [
-        "Skulle du vilja testa en sån?",
-        "Tänk om man kunde scanna sig själv för att se hälsan!"
-      ]
-    },
-    {
-      "id": "n-20260624-8",
-      "category": "nyheter",
-      "text": "Det blir en konsert i Fryksände kyrka under midsommarnatten, låter mysigt!",
-      "followUp": [
-        "Älskar du konsert i kyrkor?",
-        "Vad ska du lyssna på i sommar?"
-      ]
-    },
-    {
-      "id": "n-20260624-9",
-      "category": "nyheter",
-      "text": "Eslövs bibliotek har en minibokcirkel i sommar, intressant val av böcker!",
-      "followUp": [
-        "Vilken bok skulle du vilja läsa med en grupp?",
-        "Är du en bokcirkel-person?"
-      ]
-    },
-    {
-      "id": "n-20260624-10",
-      "category": "nyheter",
-      "text": "Yellowbrenda ska spela i Eslöv och deras stil är ju bara så cool!",
-      "followUp": [
-        "Har du hört deras senaste låtar?",
-        "Vilken konsert står på din lista i sommar?"
-      ]
-    },
-    {
-      "id": "n-20260624-11",
-      "category": "nyheter",
-      "text": "Elpriserna i Torsby har nått nya höjder, snacka om ninja-matlägenhet!",
-      "followUp": [
-        "Hur hanterar du dina elräkningar?",
-        "Har du gjort några energibesparingar nyligen?"
-      ]
-    },
-    {
-      "id": "n-20260624-12",
-      "category": "nyheter",
-      "text": "Tiptapp har vänt till vinst, coolt hur de hjälpt folk flytta!",
-      "followUp": [
-        "Använder du tjänster som Tiptapp?",
-        "Vad är den mest galna grejen du har flyttat?"
-      ]
-    },
-    {
-      "id": "n-20260624-13",
-      "category": "nyheter",
-      "text": "Midsommarfirandet i Torsby låter som en riktig höjdare, med Midsommardans och allt!",
-      "followUp": [
-        "Vad är ditt bästa midsommarminne?",
-        "Har du några traditionsenliga midsommar rätter?"
+        "Vad tycker du om nyheter på TikTok?",
+        "Följer du några news influencers?"
       ]
     },
     {
       "id": "s-20260624-1",
       "category": "sport",
-      "text": "Såg du att Sverige och Grekland spelade 2–2 i genrepet? Helt sjukt med kvitteringen i sista minuten!",
+      "text": "Kollade du på ryktena om att Östersund vill ha tillbaka Jabir Abdihakim Ali? Det skulle ju bli grymt!",
       "followUp": [
-        "Hur nervös blev man i slutet?",
-        "Tror du de har bra kämpaanda inför VM?"
+        "Tror du han kommer göra stor påverkan?",
+        "Är han din favoritspelare från klubben?"
       ]
     },
     {
       "id": "s-20260624-2",
       "category": "sport",
-      "text": "Hörde du att Lindelöf missade genrepet mot Grekland? Snacka om dålig tajming!",
+      "text": "Rasmus Dahlin har ju just snott hem Guldpucken, sjukt bra för honom! Han verkar ha bara blivit bättre och bättre.",
       "followUp": [
-        "Tror du han hinner bli frisk till VM?",
-        "Vem skulle du sätta in istället?"
+        "Vilken match var din favoritupplevelse med honom?",
+        "Tror du han kan vinna fler priser framöver?"
       ]
     },
     {
       "id": "s-20260624-3",
       "category": "sport",
-      "text": "Va, hur sjukt var det att Sverige förlorade mot Norge med 3–1? Isak fick ju ändå in ett mål.",
+      "text": "Sverige är på väg in i en sjukt viktig VM-match mot Nederländerna! Hoppas de kan leverera nu!",
       "followUp": [
-        "Tycker du att det påverkar moralen inför VM?",
-        "Har du sett matchen, vad tyckte du?"
+        "Vad hoppas du på för resultat?",
+        "Har du någon spelare du extra hejar på?"
       ]
     },
     {
       "id": "s-20260624-4",
       "category": "sport",
-      "text": "Det var ju en riktig kanonmatch när Sverige krossade Tunisien med 5–1 i premiären!",
+      "text": "Leksand och Oskarshamn möts snart för play-in, och det känns verkligen som spännande tider!",
       "followUp": [
-        "Vad var ditt bästa ögonblick från matchen?",
-        "Kollade du på TV eller streamade du?"
+        "Vilket lag hejar du på i den matchen?",
+        "Har du sett några matcher mellan dem tidigare?"
       ]
     },
     {
       "id": "s-20260624-5",
       "category": "sport",
-      "text": "Kollade du på den där Hammarby-specialen? Hela framtiden hänger ju på nya tränaren nu!",
+      "text": "Matchen mellan Inter och Fiorentina sänds ju på TV4, galet bra! Man måste ju se på det!",
       "followUp": [
-        "Vad tror du om deras chanser i nästa säsong?",
-        "Har du något favoritögonblick med laget?"
+        "Har du kollat mycket på italiensk fotboll?",
+        "Vilken liga är din absoluta favorit?"
       ]
     },
     {
       "id": "s-20260624-6",
       "category": "sport",
-      "text": "Haha, Alan Shearer hyllade verkligen Isak och Gyökeres efter premiären!",
+      "text": "Sverige har tydligen 93 procents chans att gå vidare i VM, måste kännas bra för grabbarna!",
       "followUp": [
-        "Vem av dem tror du kommer vara mest avgörande under VM?",
-        "Har du sett deras bästa mål?"
+        "Tycker du att de kan klara det?",
+        "Vilken spelare tror du kommer överraska mest?"
       ]
     },
     {
       "id": "s-20260624-7",
       "category": "sport",
-      "text": "Har du hört om att Superserien avslutades med SM-finalen? Tänk att se amerikansk fotboll på högsta nivå!",
+      "text": "Rally Sweden 2026 ser verkligen spännande ut med alla internationella stjärnor som deltar!",
       "followUp": [
-        "Var det någon match du verkligen ville se?",
-        "Hur kollar man ens på amerikansk fotboll?"
+        "Finns det någon förare du ser fram emot att följa?",
+        "Kollar du mycket på motorsport?"
       ]
     },
     {
       "id": "s-20260624-8",
       "category": "sport",
-      "text": "Släpp allt, Sokna Steel Challenge gick av stapeln nu nyligen. Helt sjukt vad folk är duktiga!",
+      "text": "Skara HF är tillbaka i SM-final, det är ju helt galet! De har verkligen något på gång!",
       "followUp": [
-        "Skulle du våga delta i en sån tävling?",
-        "Kollar du på skjutningstävlingar annars?"
+        "Har du sett dem spela i final tidigare?",
+        "Vad tycker du om deras chans att vinna?"
       ]
     },
     {
       "id": "s-20260624-9",
       "category": "sport",
-      "text": "Hörde du om Beretta Cup i Köpenhamn? En internationell skjutningstävling med grymma utövare!",
+      "text": "VM-matchen mellan Sverige och Norge är ju så spännande! Det kan gå hur som helst!",
       "followUp": [
-        "Har du testat skytte någon gång?",
-        "Kollade du på något av eventet?"
-      ]
-    },
-    {
-      "id": "s-20260624-10",
-      "category": "sport",
-      "text": "Armand Duplantis var i farten i Diamond League nu! Helt sjukt vad han hoppar!",
-      "followUp": [
-        "Tror du vi kommer se fler världsrekord i år?",
-        "Vilken annan atlet följer du?"
-      ]
-    },
-    {
-      "id": "s-20260624-11",
-      "category": "sport",
-      "text": "Sarah Sjöström är tillbaka i simning! Hennes comeback ger ju rysningar!",
-      "followUp": [
-        "Hur länge tror du hon kan hålla på?",
-        "Har du sett några av hennes gamla lopp?"
-      ]
-    },
-    {
-      "id": "s-20260624-12",
-      "category": "sport",
-      "text": "Vansbrosimmet gick av stapeln nyligen, och det var ju så mycket folk som deltog!",
-      "followUp": [
-        "Har du någon gång simmat där?",
-        "Vad tyckte du om stämningen?"
-      ]
-    },
-    {
-      "id": "s-20260624-13",
-      "category": "sport",
-      "text": "Gyökeres har gjort en uppflyttning till Premier League, helt sjukt!",
-      "followUp": [
-        "Vad tror du om hans chanser där?",
-        "Har du sätt honom spela live?"
-      ]
-    },
-    {
-      "id": "s-20260624-14",
-      "category": "sport",
-      "text": "Isak har förlängt sitt kontrakt med Newcastle till 2029! Snacka om commitment!",
-      "followUp": [
-        "Tror du han blomstrar där?",
-        "Hur går det för Newcastle nu för tiden?"
-      ]
-    },
-    {
-      "id": "s-20260624-15",
-      "category": "sport",
-      "text": "Hade du koll på matchen Sverige-Nederländerna nyligen? Det är alltid spännande!",
-      "followUp": [
-        "Kollade du matchen eller var du för upptagen?",
-        "Vilket lag hejar du på?"
+        "Kollade du på deras senaste möte?",
+        "Vilken av spelarna ser du mest fram emot att se?"
       ]
     },
     {
