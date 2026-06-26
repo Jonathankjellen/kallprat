@@ -170,136 +170,64 @@
     {
       "id": "s-20260626-1",
       "category": "sport",
-      "text": "Sverige har ju lyckats ta sig till sextondelsfinal! Häftigt med tanke på matchen mot Japan.",
+      "text": "Haft du koll på att Embolo äntligen fick sitt visum? Snacka om stress i sista sekunden!",
       "followUp": [
-        "Kollade du på matchen?",
-        "Vilken annan match ser du fram emot?"
+        "Tror du han är mentalt redo nu?",
+        "Hade du fixat en sån tvärvändning?"
       ]
     },
     {
       "id": "s-20260626-2",
       "category": "sport",
-      "text": "Ronaldo var helt grym i matchen mot Uzbekistan! Snacka om att han fortfarande kan leverera.",
+      "text": "Gabriel Gudmundsson är tillbaka på träning med landslaget, så skönt! Hoppas han är i form till VM-premiären.",
       "followUp": [
-        "Har du sett några av hans bästa mål?",
-        "Tror du att han kommer hålla på länge till?"
+        "Ser du fram emot att se honom spela igen?",
+        "Har du någon aning om hur sjukdomen påverkade honom?"
       ]
     },
     {
       "id": "s-20260626-3",
       "category": "sport",
-      "text": "Antony Elanga blev en riktig hjälte med sitt kvitteringsmål! Riktigt imponerande.",
+      "text": "Gyökeres är i truppen och verkar vara på väg att starta mot Grekland! Blir det enkelt eller tufft för honom?",
       "followUp": [
-        "Tycker du att han borde starta fler matcher?",
-        "Vad är ditt favoritminne av landslaget?"
+        "Vilken position tycker du han passar bäst på?",
+        "Har du sett några klipp på hur han presterar i klubben?"
       ]
     },
     {
       "id": "s-20260626-4",
       "category": "sport",
-      "text": "Tråkigt för Japan att Kubo missade matchen! Han är ju en stjärna.",
+      "text": "Eric Smith har kört individuellt nu inför VM. Hoppas han kan ge järnet!",
       "followUp": [
-        "Tror du att de kan klara sig utan honom?",
-        "Vilken spelare gillar du mest just nu?"
+        "Tror du han hinner komma i form?",
+        "Har du testat något liknande när du varit skadad?"
       ]
     },
     {
       "id": "s-20260626-5",
       "category": "sport",
-      "text": "Hien som lagkapten nu inför VM! Det känns spännande, eller hur?",
+      "text": "Nilsson Lindelöf missade genrepet mot Grekland. Så typiskt när det är så nära!",
       "followUp": [
-        "Tycker du att han gör ett bra jobb?",
-        "Vilken kapten har varit din favorit genom åren?"
+        "Känns det som att det kan påverka laget mycket?",
+        "Vad gör du när du missar något viktigt?"
       ]
     },
     {
       "id": "s-20260626-6",
       "category": "sport",
-      "text": "Usch, att missa segern mot Grekland i sista minuten var ju surt!",
+      "text": "Sverige och Grekland spelade 2-2 i genrepet. Snacka om nervkittlande match!",
       "followUp": [
-        "Har du sett något liknande hända i annat sport?",
-        "Vilket är ditt mest hjärtskärande ögonblick inom sport?"
+        "Vilken del av matchen tyckte du var mest spännande?",
+        "Tror du de har något att jobba på inför VM?"
       ]
     },
     {
       "id": "s-20260626-7",
       "category": "sport",
-      "text": "Kaoset efter matchen mot Japan i Stockholm var ju något att minnas!",
+      "text": "Lindelöf och Elanga tränade vid sidan, låter ju inte så lovande. Vad händer där?",
       "followUp": [
-        "Var du där och upplevde det?",
-        "Har du varit med om liknande situationer efter matcher?"
-      ]
-    },
-    {
-      "id": "s-20260626-8",
-      "category": "sport",
-      "text": "Nu väntar ju en stenhård motståndare i sextondelsfinalen! Frankrike eller Norge?",
-      "followUp": [
-        "Vilket lag tror du är tuffast att möta?",
-        "Har du en drömfinal som du skulle vilja se?"
-      ]
-    },
-    {
-      "id": "s-20260626-9",
-      "category": "sport",
-      "text": "Lucas Bergvall verkar vilja lämna Tottenham. Hmm, spännande tid för honom.",
-      "followUp": [
-        "Vilket lag tror du kan vara intresserade av honom?",
-        "Har du en favoritklubb som du hejar på?"
-      ]
-    },
-    {
-      "id": "s-20260626-10",
-      "category": "sport",
-      "text": "Svanberg verkar vara på väg att lämna Wolfsburg efter den tuffa säsongen.",
-      "followUp": [
-        "Tror du att han hittar en ny klubb snabbt?",
-        "Vilken liga skulle passa honom bäst?"
-      ]
-    },
-    {
-      "id": "s-20260626-11",
-      "category": "sport",
-      "text": "Nilsson verkar inte vara med i klubbens planer längre. Nytt kapitel på gång?",
-      "followUp": [
-        "Har du koll på vilket lag som kan vara intresserade?",
-        "Känner du till någon spelare som bytt klubb nyligen?"
-      ]
-    },
-    {
-      "id": "s-20260626-12",
-      "category": "sport",
-      "text": "Stroud är ju i ropet just nu och flera klubbar vill ha honom, snacka om att vara het!",
-      "followUp": [
-        "Vilken position spelar han?",
-        "Har du haft ögonen på några andra unga talanger?"
-      ]
-    },
-    {
-      "id": "s-20260626-13",
-      "category": "sport",
-      "text": "Eric Smith kan vara på väg att byta klubb, det är alltid spännande med ombytlighet!",
-      "followUp": [
-        "Har du koll på var han kan hamna?",
-        "Tycker du att han är underskattad?"
-      ]
-    },
-    {
-      "id": "s-20260626-14",
-      "category": "sport",
-      "text": "Taha Ali ser ut att vara på väg bort från Östersund, vad tror du om det?",
-      "followUp": [
-        "Finns det några klubbar som du tycker är en bra fit för honom?",
-        "Har du följt hans karriär?"
-      ]
-    },
-    {
-      "id": "s-20260626-15",
-      "category": "sport",
-      "text": "Det pratas om att Ekdal kan byta klubb i sommar, alltid kul med transfernyheter!",
-      "followUp": [
-        "Vilken liga skulle passa honom bra?",
-        "Har du något favoritlag han borde gå till?"
+        "Tycker du sådana skador är svåra att komma tillbaka från?",
+        "Kollade du på träningspassen, såg de slitna ut?"
       ]
     },
     {
