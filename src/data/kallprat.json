@@ -168,66 +168,138 @@
       ]
     },
     {
-      "id": "s-20260626-1",
+      "id": "s-20260627-1",
       "category": "sport",
-      "text": "Haft du koll på att Embolo äntligen fick sitt visum? Snacka om stress i sista sekunden!",
+      "text": "Carolina Hurricanes är ju helt sjuka just nu med sina sju segrar. Slutspelsplatsen var nästan bara en formalitet!",
       "followUp": [
-        "Tror du han är mentalt redo nu?",
-        "Hade du fixat en sån tvärvändning?"
+        "Tror du de kan gå hela vägen?",
+        "Kollade du deras senaste match?"
       ]
     },
     {
-      "id": "s-20260626-2",
+      "id": "s-20260627-2",
       "category": "sport",
-      "text": "Gabriel Gudmundsson är tillbaka på träning med landslaget, så skönt! Hoppas han är i form till VM-premiären.",
+      "text": "Erik Karlsson toppar power rankings och bidrar med åtta poäng på fyra matcher. Snacka om att vara på hugget!",
       "followUp": [
-        "Ser du fram emot att se honom spela igen?",
-        "Har du någon aning om hur sjukdomen påverkade honom?"
+        "Har du alltid gillat honom som back?",
+        "Vilken NHL-spelare skulle du vilja se i ditt lag?"
       ]
     },
     {
-      "id": "s-20260626-3",
+      "id": "s-20260627-3",
       "category": "sport",
-      "text": "Gyökeres är i truppen och verkar vara på väg att starta mot Grekland! Blir det enkelt eller tufft för honom?",
+      "text": "Svenska laget mot Slovakien i Hockey-VM var en riktig nagelbitare! Det kändes som varje skott kunde avgöra matchen.",
       "followUp": [
-        "Vilken position tycker du han passar bäst på?",
-        "Har du sett några klipp på hur han presterar i klubben?"
+        "Var du nervös när de gjorde mål?",
+        "Hade du några favoriter i laget?"
       ]
     },
     {
-      "id": "s-20260626-4",
+      "id": "s-20260627-4",
       "category": "sport",
-      "text": "Eric Smith har kört individuellt nu inför VM. Hoppas han kan ge järnet!",
+      "text": "Roland Garros pågår och man kan inte låta bli att kolla på de galna matcherna! Det är ju som en sportversion av en såpopera.",
       "followUp": [
-        "Tror du han hinner komma i form?",
-        "Har du testat något liknande när du varit skadad?"
+        "Har du nån favoritspelare där?",
+        "Skulle du våga spela på grus?"
       ]
     },
     {
-      "id": "s-20260626-5",
+      "id": "s-20260627-5",
       "category": "sport",
-      "text": "Nilsson Lindelöf missade genrepet mot Grekland. Så typiskt när det är så nära!",
+      "text": "Conference League-finalen mellan Crystal Palace och Rayo Vallecano var ju ett riktigt kliv upp för laget! Hur spännande var inte den matchen?",
       "followUp": [
-        "Känns det som att det kan påverka laget mycket?",
-        "Vad gör du när du missar något viktigt?"
+        "Synd att vi inte såg mer av Rayo tidigare, va?",
+        "Skulle du hellre se Premier League?"
       ]
     },
     {
-      "id": "s-20260626-6",
+      "id": "s-20260627-6",
       "category": "sport",
-      "text": "Sverige och Grekland spelade 2-2 i genrepet. Snacka om nervkittlande match!",
+      "text": "Elitloppet på Solvalla är ju alltid en grej, och finalen hägrar! Hela helgen är som en fest för travälskare.",
       "followUp": [
-        "Vilken del av matchen tyckte du var mest spännande?",
-        "Tror du de har något att jobba på inför VM?"
+        "Har du varit på nåt trav någon gång?",
+        "Vilken häst hejar du på?"
       ]
     },
     {
-      "id": "s-20260626-7",
+      "id": "s-20260627-7",
       "category": "sport",
-      "text": "Lindelöf och Elanga tränade vid sidan, låter ju inte så lovande. Vad händer där?",
+      "text": "Det är Stockholm Marathon i luften! Så många som ger sig ut och springer... Respekt! Jag hade nog legat hemma och bingeat serier.",
       "followUp": [
-        "Tycker du sådana skador är svåra att komma tillbaka från?",
-        "Kollade du på träningspassen, såg de slitna ut?"
+        "Har du nån gång velat springa det?",
+        "Vad skulle du helst göra på en lördag?"
+      ]
+    },
+    {
+      "id": "s-20260627-8",
+      "category": "sport",
+      "text": "Mika Zibanejad nådde 30 mål i NHL igen! Han verkar ju aldrig tappa formen, vilket sjukt sniperspel!",
+      "followUp": [
+        "Har han alltid varit din favorit i Rangers?",
+        "Var det inte han som släppte den där grymma passningen?"
+      ]
+    },
+    {
+      "id": "s-20260627-9",
+      "category": "sport",
+      "text": "Italiens Grand Prix i F1 såg ut att vara en riktig rysare! Den banan är galen med sina svängar och hastighet!",
+      "followUp": [
+        "Har du kikat på F1-lopp tidigare?",
+        "Vilken förare håller du på?"
+      ]
+    },
+    {
+      "id": "s-20260627-10",
+      "category": "sport",
+      "text": "Diamond League-evenemanget i Rabat sändes, och friidrott är alltid så spännande att följa. Mycket kan hända på en sekund!",
+      "followUp": [
+        "Har du själv provat sprint?",
+        "Vilken gren är din favorit att titta på?"
+      ]
+    },
+    {
+      "id": "s-20260627-11",
+      "category": "sport",
+      "text": "MotoGP på Mugello, snacka om snabb action! De kör ju som om det gällde livet. Det ser så sjukt kul ut!",
+      "followUp": [
+        "Skulle du våga köra en sån snabb hoj?",
+        "Har du sett några episka krascher?"
+      ]
+    },
+    {
+      "id": "s-20260627-12",
+      "category": "sport",
+      "text": "IndyCar körde Detroit Grand Prix efter Felix Rosenqvists storslam i Indy 500. Mer historiska ögonblick än någonsin!",
+      "followUp": [
+        "Har du testat att köra go-kart?",
+        "Vilket racerlopp drömmer du om att se live?"
+      ]
+    },
+    {
+      "id": "s-20260627-13",
+      "category": "sport",
+      "text": "Sverige mot Polen i VM, det kommer bli så spännande! Känslan av att vara med som sågande supporter!",
+      "followUp": [
+        "Har du tänkt se matchen?",
+        "Vilken spelare hejar du på?"
+      ]
+    },
+    {
+      "id": "s-20260627-14",
+      "category": "sport",
+      "text": "Hockey-VM-finalen i Zürich, det blir som upploppet av en thriller! Vem tar hem den?",
+      "followUp": [
+        "Har du tagit ledigt för att kolla på finalen?",
+        "Bästa minnet från en hockeyfinal?"
+      ]
+    },
+    {
+      "id": "s-20260627-15",
+      "category": "sport",
+      "text": "Giro d'Italia avslutades i Rom och cyklister ger verkligen allt! Hur coolt att se toppryttarna kämpa!",
+      "followUp": [
+        "Skulle du kunna tänka dig att cykla ett sådant lopp?",
+        "Vilket är ditt favoritcykellopp?"
       ]
     },
     {
