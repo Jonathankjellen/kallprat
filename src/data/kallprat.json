@@ -170,100 +170,136 @@
     {
       "id": "s-20260628-1",
       "category": "sport",
-      "text": "Kollade du på lottningen till VM? Sverige mot Frankrike i 16-delsfinalen låter ju sjukt spännande!",
+      "text": "Såg du att Sverige kvitterade i sista minuten mot Grekland? 2–2 kändes som en riktig thriller!",
       "followUp": [
-        "Tror du vi kan vinna den matchen?",
-        "Har du några tips på bra snacks att ha framför tv:n?"
+        "Kollade du matchen?",
+        "Hur känns det inför VM nu?"
       ]
     },
     {
       "id": "s-20260628-2",
       "category": "sport",
-      "text": "Såg du att Sverige förlorade mot Japan? Snacka om en tuff start på VM.",
+      "text": "Hörde du grejen med Breel Embolo och hans visum? Snacka om att det kunde bli en drama inför VM!",
       "followUp": [
-        "Vilka tror du tar sig vidare nu?",
-        "Vad skulle du ha gjort annorlunda om du hade varit tränare?"
+        "Tror du han hinner bli matchtränad?",
+        "Vilken position kommer han spela?"
       ]
     },
     {
       "id": "s-20260628-3",
       "category": "sport",
-      "text": "Alexander Isak är inte med i Liverpools trupp igen, vad hände där?",
+      "text": "Aj aj, såg att Isak Hien tvingades avbryta sitt VM på grund av skadan. Det är ju så trist!",
       "followUp": [
-        "Tror du han får spela nästa match?",
-        "Skulle du våga kliva in och göra hans jobb?"
+        "Har du någonsin haft en sån otur med skador?",
+        "Vem tror du tar hans plats?"
       ]
     },
     {
       "id": "s-20260628-4",
       "category": "sport",
-      "text": "Hörde du att Degerfors säljer Marcus Rafferty? Det känns som en stor grej för dem!",
+      "text": "Victor Lindelöf och Elanga tränade individuellt inför VM. Det verkar som de är pepp på att komma i form!",
       "followUp": [
-        "Vilket lag tror du han hamnar i?",
-        "Kollade du på hans senaste matcher?"
+        "Tror du de hinner komma ikapp?",
+        "Vilka spelare har du koll på just nu?"
       ]
     },
     {
       "id": "s-20260628-5",
       "category": "sport",
-      "text": "Wow, Demokratiska republiken Kongo har faktiskt nått slutspel i VM för första gången!",
+      "text": "Sverige vann F19-EM med ett självmål av Polen i sista minuten. Snacka om tur där!",
       "followUp": [
-        "Vilken match ser du mest fram emot?",
-        "Tror du de kan överraska något lag?"
+        "Kollade du matchen eller missade du den?",
+        "Vad tycker du om att det blir såna avgöranden?"
       ]
     },
     {
       "id": "s-20260628-6",
       "category": "sport",
-      "text": "Det snackas om att rekordvärmen i Skåne påverkar fotbollsmatcher. Hur sjukt är inte det?",
+      "text": "Travexperten Kim Brask pratar upp Baron Tilly som spik i V86. Vad har du att säga om det?",
       "followUp": [
-        "Har du märkt av värmen på någon match nyligen?",
-        "Vad tror du händer med schema och allt?"
+        "Har du ett eget spikförslag?",
+        "Är du ofta på travet eller är det mer sporadiskt?"
       ]
     },
     {
       "id": "s-20260628-7",
       "category": "sport",
-      "text": "Hammarby har fått en ny tränare, och Nikola Vasic ser ut att ha stora förhoppningar!",
+      "text": "Björn Goop har varit igång och delar sina bästa spikförslag inför V85. Måste kolla på det!",
       "followUp": [
-        "Vad tycker du om deras chanser inför hösten?",
-        "Har du sett vad han gjort på Instagram?"
+        "Har du något favorittravspel?",
+        "Visste du att han har en hel fanbase?"
       ]
     },
     {
       "id": "s-20260628-8",
       "category": "sport",
-      "text": "Vänta, Björck fick ett samtal från en internationell superstjärna? Det låter ju spännande!",
+      "text": "Sverige kanske får möta Frankrike eller Norge i VM. Vilket lag skulle du helst se?",
       "followUp": [
-        "Tror du de kommer göra något tillsammans?",
-        "Vem skulle du helst vilja ha på lagets sida?"
+        "Vad tror du om våra chanser i så fall?",
+        "Kollade du på den senaste matchen mot Frankrike?"
       ]
     },
     {
       "id": "s-20260628-9",
       "category": "sport",
-      "text": "Frölunda HC förlänger med en nyckelspelare, spännande tider för dem!",
+      "text": "Det är typ röda varningar över hela Europa nu med den här värmeböljan. Sjukt!",
       "followUp": [
-        "Vilka positioner borde de förstärka nu?",
-        "Kollade du på deras senaste match?"
+        "Klarar du av värmen eller blir du ett vrak?",
+        "Har du några tips för att hålla sig sval?"
       ]
     },
     {
       "id": "s-20260628-10",
       "category": "sport",
-      "text": "Frölundamålvakten Linus Fernström har fått ett nytt liv efter sin succé i 'Husdrömmar'. Hur intressant är inte det?",
+      "text": "Haaland kommer inte spela mot Sverige, det känns ju nästan som en vinst direkt!",
       "followUp": [
-        "Tror du många sportare borde göra något liknande?",
-        "Vad skulle du drömma om att renovera?"
+        "Tror du det gör stor skillnad?",
+        "Vem ser du som deras största hot annars?"
       ]
     },
     {
       "id": "s-20260628-11",
       "category": "sport",
-      "text": "Frölundas tränare Rönnberg sa något intressant om sitt möte med Ulf Dahlén på årsmötet!",
+      "text": "Sverige sänder sina matcher i VM på SVT och TV4. Det blir ju lätt att hänga med!",
       "followUp": [
-        "Tycker du att tränare borde ha mer kontakt med tidigare kollegor?",
-        "Hade du velat vara en fluga på väggen där?"
+        "Vilken match ser du mest fram emot?",
+        "Har du några kompisar som vill kolla tillsammans?"
+      ]
+    },
+    {
+      "id": "s-20260628-12",
+      "category": "sport",
+      "text": "Svenska truppen till VM ser intressant ut med både Isak och Elanga. Vad tror du om dem?",
+      "followUp": [
+        "Vilken spelare skulle du vilja ha sett med som inte är med?",
+        "Kollade du på deras senaste prestationer?"
+      ]
+    },
+    {
+      "id": "s-20260628-13",
+      "category": "sport",
+      "text": "Sverige har kört sitt första träningspass inför VM. Spännande tider!",
+      "followUp": [
+        "Vilka positioner tror du de måste träna mest på?",
+        "Har du någon favoritspelare du följer?"
+      ]
+    },
+    {
+      "id": "s-20260628-14",
+      "category": "sport",
+      "text": "VM-genrepet mot Norge slutade med en förlust för Sverige. Det känns lite oroligt nu!",
+      "followUp": [
+        "Vad tror du, kommer de att snäppa upp sig?",
+        "Har du några strategier sa du skulle använda för att vinna?"
+      ]
+    },
+    {
+      "id": "s-20260628-15",
+      "category": "sport",
+      "text": "Hien blir kapten mot Norge, det blir intressant! Tror du det är rätt val?",
+      "followUp": [
+        "Vilken kapten skulle du helst vilja ha i laget?",
+        "Är kaptensrollen viktig för dig?"
       ]
     },
     {
