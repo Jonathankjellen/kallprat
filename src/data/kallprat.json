@@ -168,255 +168,219 @@
       ]
     },
     {
-      "id": "s-20260627-1",
+      "id": "s-20260628-1",
       "category": "sport",
-      "text": "Carolina Hurricanes är ju helt sjuka just nu med sina sju segrar. Slutspelsplatsen var nästan bara en formalitet!",
+      "text": "Kollade du på lottningen till VM? Sverige mot Frankrike i 16-delsfinalen låter ju sjukt spännande!",
       "followUp": [
-        "Tror du de kan gå hela vägen?",
-        "Kollade du deras senaste match?"
+        "Tror du vi kan vinna den matchen?",
+        "Har du några tips på bra snacks att ha framför tv:n?"
       ]
     },
     {
-      "id": "s-20260627-2",
+      "id": "s-20260628-2",
       "category": "sport",
-      "text": "Erik Karlsson toppar power rankings och bidrar med åtta poäng på fyra matcher. Snacka om att vara på hugget!",
+      "text": "Såg du att Sverige förlorade mot Japan? Snacka om en tuff start på VM.",
       "followUp": [
-        "Har du alltid gillat honom som back?",
-        "Vilken NHL-spelare skulle du vilja se i ditt lag?"
+        "Vilka tror du tar sig vidare nu?",
+        "Vad skulle du ha gjort annorlunda om du hade varit tränare?"
       ]
     },
     {
-      "id": "s-20260627-3",
+      "id": "s-20260628-3",
       "category": "sport",
-      "text": "Svenska laget mot Slovakien i Hockey-VM var en riktig nagelbitare! Det kändes som varje skott kunde avgöra matchen.",
+      "text": "Alexander Isak är inte med i Liverpools trupp igen, vad hände där?",
       "followUp": [
-        "Var du nervös när de gjorde mål?",
-        "Hade du några favoriter i laget?"
+        "Tror du han får spela nästa match?",
+        "Skulle du våga kliva in och göra hans jobb?"
       ]
     },
     {
-      "id": "s-20260627-4",
+      "id": "s-20260628-4",
       "category": "sport",
-      "text": "Roland Garros pågår och man kan inte låta bli att kolla på de galna matcherna! Det är ju som en sportversion av en såpopera.",
+      "text": "Hörde du att Degerfors säljer Marcus Rafferty? Det känns som en stor grej för dem!",
       "followUp": [
-        "Har du nån favoritspelare där?",
-        "Skulle du våga spela på grus?"
+        "Vilket lag tror du han hamnar i?",
+        "Kollade du på hans senaste matcher?"
       ]
     },
     {
-      "id": "s-20260627-5",
+      "id": "s-20260628-5",
       "category": "sport",
-      "text": "Conference League-finalen mellan Crystal Palace och Rayo Vallecano var ju ett riktigt kliv upp för laget! Hur spännande var inte den matchen?",
+      "text": "Wow, Demokratiska republiken Kongo har faktiskt nått slutspel i VM för första gången!",
       "followUp": [
-        "Synd att vi inte såg mer av Rayo tidigare, va?",
-        "Skulle du hellre se Premier League?"
+        "Vilken match ser du mest fram emot?",
+        "Tror du de kan överraska något lag?"
       ]
     },
     {
-      "id": "s-20260627-6",
+      "id": "s-20260628-6",
       "category": "sport",
-      "text": "Elitloppet på Solvalla är ju alltid en grej, och finalen hägrar! Hela helgen är som en fest för travälskare.",
+      "text": "Det snackas om att rekordvärmen i Skåne påverkar fotbollsmatcher. Hur sjukt är inte det?",
       "followUp": [
-        "Har du varit på nåt trav någon gång?",
-        "Vilken häst hejar du på?"
+        "Har du märkt av värmen på någon match nyligen?",
+        "Vad tror du händer med schema och allt?"
       ]
     },
     {
-      "id": "s-20260627-7",
+      "id": "s-20260628-7",
       "category": "sport",
-      "text": "Det är Stockholm Marathon i luften! Så många som ger sig ut och springer... Respekt! Jag hade nog legat hemma och bingeat serier.",
+      "text": "Hammarby har fått en ny tränare, och Nikola Vasic ser ut att ha stora förhoppningar!",
       "followUp": [
-        "Har du nån gång velat springa det?",
-        "Vad skulle du helst göra på en lördag?"
+        "Vad tycker du om deras chanser inför hösten?",
+        "Har du sett vad han gjort på Instagram?"
       ]
     },
     {
-      "id": "s-20260627-8",
+      "id": "s-20260628-8",
       "category": "sport",
-      "text": "Mika Zibanejad nådde 30 mål i NHL igen! Han verkar ju aldrig tappa formen, vilket sjukt sniperspel!",
+      "text": "Vänta, Björck fick ett samtal från en internationell superstjärna? Det låter ju spännande!",
       "followUp": [
-        "Har han alltid varit din favorit i Rangers?",
-        "Var det inte han som släppte den där grymma passningen?"
+        "Tror du de kommer göra något tillsammans?",
+        "Vem skulle du helst vilja ha på lagets sida?"
       ]
     },
     {
-      "id": "s-20260627-9",
+      "id": "s-20260628-9",
       "category": "sport",
-      "text": "Italiens Grand Prix i F1 såg ut att vara en riktig rysare! Den banan är galen med sina svängar och hastighet!",
+      "text": "Frölunda HC förlänger med en nyckelspelare, spännande tider för dem!",
       "followUp": [
-        "Har du kikat på F1-lopp tidigare?",
-        "Vilken förare håller du på?"
+        "Vilka positioner borde de förstärka nu?",
+        "Kollade du på deras senaste match?"
       ]
     },
     {
-      "id": "s-20260627-10",
+      "id": "s-20260628-10",
       "category": "sport",
-      "text": "Diamond League-evenemanget i Rabat sändes, och friidrott är alltid så spännande att följa. Mycket kan hända på en sekund!",
+      "text": "Frölundamålvakten Linus Fernström har fått ett nytt liv efter sin succé i 'Husdrömmar'. Hur intressant är inte det?",
       "followUp": [
-        "Har du själv provat sprint?",
-        "Vilken gren är din favorit att titta på?"
+        "Tror du många sportare borde göra något liknande?",
+        "Vad skulle du drömma om att renovera?"
       ]
     },
     {
-      "id": "s-20260627-11",
+      "id": "s-20260628-11",
       "category": "sport",
-      "text": "MotoGP på Mugello, snacka om snabb action! De kör ju som om det gällde livet. Det ser så sjukt kul ut!",
+      "text": "Frölundas tränare Rönnberg sa något intressant om sitt möte med Ulf Dahlén på årsmötet!",
       "followUp": [
-        "Skulle du våga köra en sån snabb hoj?",
-        "Har du sett några episka krascher?"
+        "Tycker du att tränare borde ha mer kontakt med tidigare kollegor?",
+        "Hade du velat vara en fluga på väggen där?"
       ]
     },
     {
-      "id": "s-20260627-12",
-      "category": "sport",
-      "text": "IndyCar körde Detroit Grand Prix efter Felix Rosenqvists storslam i Indy 500. Mer historiska ögonblick än någonsin!",
-      "followUp": [
-        "Har du testat att köra go-kart?",
-        "Vilket racerlopp drömmer du om att se live?"
-      ]
-    },
-    {
-      "id": "s-20260627-13",
-      "category": "sport",
-      "text": "Sverige mot Polen i VM, det kommer bli så spännande! Känslan av att vara med som sågande supporter!",
-      "followUp": [
-        "Har du tänkt se matchen?",
-        "Vilken spelare hejar du på?"
-      ]
-    },
-    {
-      "id": "s-20260627-14",
-      "category": "sport",
-      "text": "Hockey-VM-finalen i Zürich, det blir som upploppet av en thriller! Vem tar hem den?",
-      "followUp": [
-        "Har du tagit ledigt för att kolla på finalen?",
-        "Bästa minnet från en hockeyfinal?"
-      ]
-    },
-    {
-      "id": "s-20260627-15",
-      "category": "sport",
-      "text": "Giro d'Italia avslutades i Rom och cyklister ger verkligen allt! Hur coolt att se toppryttarna kämpa!",
-      "followUp": [
-        "Skulle du kunna tänka dig att cykla ett sådant lopp?",
-        "Vilket är ditt favoritcykellopp?"
-      ]
-    },
-    {
-      "id": "t-20260626-1",
+      "id": "t-20260628-1",
       "category": "teknik",
-      "text": "Såg du att Samsung släppte Galaxy S26 Ultra? Den har tydligen grymma AI-grejer som ska göra livet lättare.",
+      "text": "Såg du att Meta just lanserat en AI-app som pratar med en? Låter som något från en sci-fi-film!",
       "followUp": [
-        "Har du testat den än?",
-        "Vilken mobil kör du med just nu?"
+        "Skulle du våga ha en sån i din telefon?",
+        "Tänker du att det kommer bli en hit på Instagram?"
       ]
     },
     {
-      "id": "t-20260626-2",
+      "id": "t-20260628-2",
       "category": "teknik",
-      "text": "Hörde du att Google uppdaterade Gemini-appen? Nu ska den ge personliga morgonbriefs och grejer.",
+      "text": "Hörde du om MyNetDiarys nya kostapp, PlateAI? Den ger råd i realtid!",
       "followUp": [
-        "Låter som något du skulle använda?",
-        "Kollade du in det senaste med AI:n?"
+        "Har du testat något liknande tidigare?",
+        "Tror du att folk kommer följa råd från en AI istället för en dietist?"
       ]
     },
     {
-      "id": "t-20260626-3",
+      "id": "t-20260628-3",
       "category": "teknik",
-      "text": "Kollade du på lanseringen av Galaxy A57 5G? Den verkar sjukt prisvärd med lite extra AI-boost.",
+      "text": "Kollade du på Nova AIs nya funktioner? De kan nu bearbeta data lokalt!",
       "followUp": [
-        "Skulle du slå till på en sån?",
-        "Vad tycker du om 5G-funktionen?"
+        "Hur tror du det påverkar hur vi använder våra enheter?",
+        "Skulle du vilja ha en AI som sorterar din musik för dig?"
       ]
     },
     {
-      "id": "t-20260626-4",
+      "id": "t-20260628-4",
       "category": "teknik",
-      "text": "Galaxy Tab S10 FE ser riktigt nice ut, med inbyggda AI-funktioner och allt!",
+      "text": "Såg du att 'Hela' kommer släppas på Switch 2? Det kan ju bli riktigt spännande!",
       "followUp": [
-        "Har du någon surfplatta du gillar?",
-        "Tror du att du skulle använda AI-funktionen?"
+        "Är du sugen på att spela äventyrsspel på den nya konsolen?",
+        "Vilket spel längtar du mest efter just nu?"
       ]
     },
     {
-      "id": "t-20260626-5",
+      "id": "t-20260628-5",
       "category": "teknik",
-      "text": "Hur sjukt är det inte att Samsung har lanserat AI-funktionerna Photo Assist och Now Nudge?",
+      "text": "Va, Upscrolled har exploderat till 2,5 miljoner användare på en månad? Sjukt!",
       "followUp": [
-        "Vad skulle du använda dem till?",
-        "Kollade du in några av de nya funktionerna?"
+        "Vad tror du gör att den plattformen så snabbt tar fart?",
+        "Har du testat Upscrolled ännu?"
       ]
     },
     {
-      "id": "t-20260626-6",
+      "id": "t-20260628-6",
       "category": "teknik",
-      "text": "Gemini-appen har fått nya funktioner som Gemini 3.5 Flash! Riktigt spännande grejer.",
+      "text": "Kollade du in Hyundais nya elbilar? De verkar ha verkligen steppat upp sitt game!",
       "followUp": [
-        "Har du testat något av det nya?",
-        "Vad tror du om den nya funktionaliteten?"
+        "Vilken funktion skulle du gilla mest i en ny elbil?",
+        "Är du mer sugen på en elbil eller en vanlig bil?"
       ]
     },
     {
-      "id": "t-20260626-7",
+      "id": "t-20260628-7",
       "category": "teknik",
-      "text": "Kollade du på släppet av Galaxy S26 Plus? Den verkar riktigt kraftfull med massa AI-grejer.",
+      "text": "Hörde du att SpaceX har testat Starfall för att leverera gods från rymden? Galskap!",
       "followUp": [
-        "Skulle du uppgradera till den?",
-        "Vad är viktigast för dig i en telefon?"
+        "Tror du att vi kommer att se robotar leverera paket snart?",
+        "Skulle du vilja beställa något via rymden?"
       ]
     },
     {
-      "id": "t-20260626-8",
+      "id": "t-20260628-8",
       "category": "teknik",
-      "text": "Den nya Galaxy Z Flip7 ser ju ganska cool ut med sin vikbara design!",
+      "text": "Såg du att Tesla är i blåsväder för att ha missvisat säkerhetsdata? Spännande skit!",
       "followUp": [
-        "Känns det som något du skulle vilja ha?",
-        "Vad tycker du om vikbara mobiler generellt?"
+        "Vad tror du om deras självkörande teknik nu?",
+        "Tycker du att det påverkar hur folk ser på Tesla som märke?"
       ]
     },
     {
-      "id": "t-20260626-9",
+      "id": "t-20260628-9",
       "category": "teknik",
-      "text": "Såg du att Samsung släppte Watch Ultra? Den låter ju grym med alla sina nya funktioner.",
+      "text": "Kollade du in StyraHems nya smarta hem-grejer? De verkar lovande för oss latmaskar!",
       "followUp": [
-        "Kör du med smartklocka?",
-        "Vad skulle du vilja använda en sån till?"
+        "Vilken smart grej skulle du helst vilja ha hemma?",
+        "Tror du att ett smart hem verkligen gör livet enklare?"
       ]
     },
     {
-      "id": "t-20260626-10",
+      "id": "t-20260628-10",
       "category": "teknik",
-      "text": "Galaxy Buds4 Pro har tydligen fått en uppgradering av ljudkvaliteten. Kan bli intressant!",
+      "text": "Hörde du att NCSC vill stärka Sveriges cybersäkerhet? Känns som en bra idé nu för tiden!",
       "followUp": [
-        "Har du några trådlösa hörlurar nu?",
-        "Vad är viktigast för dig när det gäller ljud?"
+        "Är du medveten om cyberhoten därute?",
+        "Har du någonsin varit med om en cyberattack?"
       ]
     },
     {
-      "id": "t-20260626-11",
+      "id": "t-20260628-11",
       "category": "teknik",
-      "text": "Kollade du på lanseringen av Galaxy Tab S11 Ultra? Den ser ut att ha riktigt bra prestanda!",
+      "text": "Va, SpaceX släppte en privat astronautbesättning? Det låter ju helt galet!",
       "followUp": [
-        "Har du koll på någon surfplatta du gillar?",
-        "Tror du att den skulle funka bra för jobb eller spel?"
+        "Skulle du vara sugen på att åka till rymden?",
+        "Tror du att vi kommer se fler civila i rymden snart?"
       ]
     },
     {
-      "id": "t-20260626-12",
+      "id": "t-20260628-12",
       "category": "teknik",
-      "text": "Samsung släppte den nya Galaxy S25 Ultra, och tydligen har den grymma funktioner!",
+      "text": "Såg du att det nya sociala nätverket Upscrolled växer snabbt? Helt sjukt hur snabbt det går!",
       "followUp": [
-        "Vad söker du efter när du ska köpa en ny mobil?",
-        "Skulle du kunna tänka dig att byta upp dig?"
+        "Vad tycker du om nya sociala medier? Blir de bara fler och fler?",
+        "Är du aktiv på några nischade plattformar?"
       ]
     },
     {
-      "id": "t-20260626-13",
+      "id": "t-20260628-13",
       "category": "teknik",
-      "text": "Hörde du om Galaxy S24 Ultra? Den ska visst ha förbättrade funktioner och prestanda!",
+      "text": "Hörde du att Hyundai släppt en guide för att välja elbil? Kanske bra för oss som är osäkra!",
       "followUp": [
-        "Vilken mobil är din nuvarande drömtelefon?",
-        "Kollade du in vad som är nytt?"
+        "Har du funderat på att skaffa elbil?",
+        "Vad tycker du skulle vara det viktigaste när man väljer en elbil?"
       ]
     },
     {
