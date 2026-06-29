@@ -168,138 +168,93 @@
       ]
     },
     {
-      "id": "s-20260628-1",
+      "id": "s-20260629-1",
       "category": "sport",
-      "text": "Såg du att Sverige kvitterade i sista minuten mot Grekland? 2–2 kändes som en riktig thriller!",
+      "text": "Kollade du på EM-genrepet mot Grekland? Snacka om dramatik när de kvitterade på sista minuten!",
       "followUp": [
-        "Kollade du matchen?",
-        "Hur känns det inför VM nu?"
+        "Hur känns det inför VM nu?",
+        "Vem var bäst på planen enligt dig?"
       ]
     },
     {
-      "id": "s-20260628-2",
+      "id": "s-20260629-2",
       "category": "sport",
-      "text": "Hörde du grejen med Breel Embolo och hans visum? Snacka om att det kunde bli en drama inför VM!",
-      "followUp": [
-        "Tror du han hinner bli matchtränad?",
-        "Vilken position kommer han spela?"
-      ]
-    },
-    {
-      "id": "s-20260628-3",
-      "category": "sport",
-      "text": "Aj aj, såg att Isak Hien tvingades avbryta sitt VM på grund av skadan. Det är ju så trist!",
-      "followUp": [
-        "Har du någonsin haft en sån otur med skador?",
-        "Vem tror du tar hans plats?"
-      ]
-    },
-    {
-      "id": "s-20260628-4",
-      "category": "sport",
-      "text": "Victor Lindelöf och Elanga tränade individuellt inför VM. Det verkar som de är pepp på att komma i form!",
-      "followUp": [
-        "Tror du de hinner komma ikapp?",
-        "Vilka spelare har du koll på just nu?"
-      ]
-    },
-    {
-      "id": "s-20260628-5",
-      "category": "sport",
-      "text": "Sverige vann F19-EM med ett självmål av Polen i sista minuten. Snacka om tur där!",
-      "followUp": [
-        "Kollade du matchen eller missade du den?",
-        "Vad tycker du om att det blir såna avgöranden?"
-      ]
-    },
-    {
-      "id": "s-20260628-6",
-      "category": "sport",
-      "text": "Travexperten Kim Brask pratar upp Baron Tilly som spik i V86. Vad har du att säga om det?",
-      "followUp": [
-        "Har du ett eget spikförslag?",
-        "Är du ofta på travet eller är det mer sporadiskt?"
-      ]
-    },
-    {
-      "id": "s-20260628-7",
-      "category": "sport",
-      "text": "Björn Goop har varit igång och delar sina bästa spikförslag inför V85. Måste kolla på det!",
-      "followUp": [
-        "Har du något favorittravspel?",
-        "Visste du att han har en hel fanbase?"
-      ]
-    },
-    {
-      "id": "s-20260628-8",
-      "category": "sport",
-      "text": "Sverige kanske får möta Frankrike eller Norge i VM. Vilket lag skulle du helst se?",
-      "followUp": [
-        "Vad tror du om våra chanser i så fall?",
-        "Kollade du på den senaste matchen mot Frankrike?"
-      ]
-    },
-    {
-      "id": "s-20260628-9",
-      "category": "sport",
-      "text": "Det är typ röda varningar över hela Europa nu med den här värmeböljan. Sjukt!",
-      "followUp": [
-        "Klarar du av värmen eller blir du ett vrak?",
-        "Har du några tips för att hålla sig sval?"
-      ]
-    },
-    {
-      "id": "s-20260628-10",
-      "category": "sport",
-      "text": "Haaland kommer inte spela mot Sverige, det känns ju nästan som en vinst direkt!",
-      "followUp": [
-        "Tror du det gör stor skillnad?",
-        "Vem ser du som deras största hot annars?"
-      ]
-    },
-    {
-      "id": "s-20260628-11",
-      "category": "sport",
-      "text": "Sverige sänder sina matcher i VM på SVT och TV4. Det blir ju lätt att hänga med!",
+      "text": "Sverige ska ju möta Tunisien, Nederländerna och Japan i VM 2026. Tror du vi har en chans?",
       "followUp": [
         "Vilken match ser du mest fram emot?",
-        "Har du några kompisar som vill kolla tillsammans?"
+        "Skulle du ha kollat om de spelat i Sverige?"
       ]
     },
     {
-      "id": "s-20260628-12",
+      "id": "s-20260629-3",
       "category": "sport",
-      "text": "Svenska truppen till VM ser intressant ut med både Isak och Elanga. Vad tror du om dem?",
+      "text": "Såg du att Lindelöf missade genrepet mot Grekland på grund av en skadekänning? Det känns ju inte optimalt.",
       "followUp": [
-        "Vilken spelare skulle du vilja ha sett med som inte är med?",
-        "Kollade du på deras senaste prestationer?"
+        "Hoppas han är fit till VM, eller?",
+        "Vem skulle du vilja se på hans plats?"
       ]
     },
     {
-      "id": "s-20260628-13",
+      "id": "s-20260629-4",
       "category": "sport",
-      "text": "Sverige har kört sitt första träningspass inför VM. Spännande tider!",
+      "text": "VM-träningen i Dallas blev ju en riktig käftsmäll med det där sjuka vädret! Regnigt som tusan.",
       "followUp": [
-        "Vilka positioner tror du de måste träna mest på?",
-        "Har du någon favoritspelare du följer?"
+        "Tror du de kommer klara det där vädret?",
+        "Har du någonsin tränat i sånt väder?"
       ]
     },
     {
-      "id": "s-20260628-14",
+      "id": "s-20260629-5",
       "category": "sport",
-      "text": "VM-genrepet mot Norge slutade med en förlust för Sverige. Det känns lite oroligt nu!",
+      "text": "Sverige inledde F19-EM med självmål i 83:e minuten, det var ju spännande på ett tråkigt sätt!",
       "followUp": [
-        "Vad tror du, kommer de att snäppa upp sig?",
-        "Har du några strategier sa du skulle använda för att vinna?"
+        "Kollade du på matchen?",
+        "Vad är din bästa fotbollsminne?"
       ]
     },
     {
-      "id": "s-20260628-15",
+      "id": "s-20260629-6",
       "category": "sport",
-      "text": "Hien blir kapten mot Norge, det blir intressant! Tror du det är rätt val?",
+      "text": "Kimi Antonelli tog pole position i Monaco, och slog Verstappen! Det var ett läckert kval.",
       "followUp": [
-        "Vilken kapten skulle du helst vilja ha i laget?",
-        "Är kaptensrollen viktig för dig?"
+        "Har du följt Formel 1 länge?",
+        "Vad tycker du om Kimi som förare?"
+      ]
+    },
+    {
+      "id": "s-20260629-7",
+      "category": "sport",
+      "text": "Mirra Andreeva vann sin första Grand Slam-titel vid 19! Snacka om talang.",
+      "followUp": [
+        "Vad tycker du om unga spelare som dominerar?",
+        "Har du någon favorit inom tennis?"
+      ]
+    },
+    {
+      "id": "s-20260629-8",
+      "category": "sport",
+      "text": "Breel Embolo fick äntligen sitt visum godkänt till VM efter två dagars strul, snacka om att vara nervös!",
+      "followUp": [
+        "Har du varit i en liknande situation någon gång?",
+        "Tror du det påverkar hans spel?"
+      ]
+    },
+    {
+      "id": "s-20260629-9",
+      "category": "sport",
+      "text": "Sjukt nog sänds alla Sveriges VM-matcher gratis på SVT och TV4! Perfekt för oss som vill se slitigt.",
+      "followUp": [
+        "Är du mer för streaming eller tv när det kommer till matcher?",
+        "Vad dricker du helst när du kollar på fotboll?"
+      ]
+    },
+    {
+      "id": "s-20260629-10",
+      "category": "sport",
+      "text": "Truppen till VM 2026 ser ju riktigt spännande ut med Isak, Gyökeres och Elanga!",
+      "followUp": [
+        "Vem i truppen ser du mest fram emot?",
+        "Skulle du ha velat se någon annan med?"
       ]
     },
     {
