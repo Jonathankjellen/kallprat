@@ -168,93 +168,138 @@
       ]
     },
     {
-      "id": "s-20260629-1",
+      "id": "s-20260630-1",
       "category": "sport",
-      "text": "Kollade du på EM-genrepet mot Grekland? Snacka om dramatik när de kvitterade på sista minuten!",
+      "text": "Sverige ska möta Frankrike i sextondelsfinalen i VM, hur sjukt är det inte?",
       "followUp": [
-        "Hur känns det inför VM nu?",
-        "Vem var bäst på planen enligt dig?"
+        "Vilken spelare tror du kommer att göra mål?",
+        "Ska du kolla matchen med kompisar eller hemma?"
       ]
     },
     {
-      "id": "s-20260629-2",
+      "id": "s-20260630-2",
       "category": "sport",
-      "text": "Sverige ska ju möta Tunisien, Nederländerna och Japan i VM 2026. Tror du vi har en chans?",
+      "text": "Felicia Schröder har skrivit på för Real Madrid, snacka om drömflytt!",
       "followUp": [
-        "Vilken match ser du mest fram emot?",
-        "Skulle du ha kollat om de spelat i Sverige?"
+        "Har du följt hennes karriär i Häcken?",
+        "Tror du hon får mycket speltid i Madrid?"
       ]
     },
     {
-      "id": "s-20260629-3",
+      "id": "s-20260630-3",
       "category": "sport",
-      "text": "Såg du att Lindelöf missade genrepet mot Grekland på grund av en skadekänning? Det känns ju inte optimalt.",
+      "text": "Silly season är igång och flera svenskar kan byta klubb snart, spännande tider!",
       "followUp": [
-        "Hoppas han är fit till VM, eller?",
-        "Vem skulle du vilja se på hans plats?"
+        "Vem skulle du vilja se i en ny klubb?",
+        "Finns det någon spelare du är sur över att de lämnar?"
       ]
     },
     {
-      "id": "s-20260629-4",
+      "id": "s-20260630-4",
       "category": "sport",
-      "text": "VM-träningen i Dallas blev ju en riktig käftsmäll med det där sjuka vädret! Regnigt som tusan.",
+      "text": "Det har varit helt galna resultat i Eliteserien den här veckan!",
       "followUp": [
-        "Tror du de kommer klara det där vädret?",
-        "Har du någonsin tränat i sånt väder?"
+        "Vilket lag håller du på i Norge?",
+        "Kollade du på den matchen som alla snackar om?"
       ]
     },
     {
-      "id": "s-20260629-5",
+      "id": "s-20260630-5",
       "category": "sport",
-      "text": "Sverige inledde F19-EM med självmål i 83:e minuten, det var ju spännande på ett tråkigt sätt!",
+      "text": "SHL-klubbarna gör några rejält spännande värvningar nu, eller hur?",
       "followUp": [
-        "Kollade du på matchen?",
-        "Vad är din bästa fotbollsminne?"
+        "Vilket lag hejar du på i SHL?",
+        "Tror du att laget kan utmana om guldet nästa säsong?"
       ]
     },
     {
-      "id": "s-20260629-6",
+      "id": "s-20260630-6",
       "category": "sport",
-      "text": "Kimi Antonelli tog pole position i Monaco, och slog Verstappen! Det var ett läckert kval.",
+      "text": "NHL-draften har varit och vi har flera svenska talanger som tagit klivet!",
       "followUp": [
-        "Har du följt Formel 1 länge?",
-        "Vad tycker du om Kimi som förare?"
+        "Vilken av dem tror du kommer att bli nästa superstjärna?",
+        "Hade du koll på dem innan draften?"
       ]
     },
     {
-      "id": "s-20260629-7",
+      "id": "s-20260630-7",
       "category": "sport",
-      "text": "Mirra Andreeva vann sin första Grand Slam-titel vid 19! Snacka om talang.",
+      "text": "Ishockey-VM närmar sig med stormsteg, sjukt mycket hype!",
       "followUp": [
-        "Vad tycker du om unga spelare som dominerar?",
-        "Har du någon favorit inom tennis?"
+        "Vilka matcher ser du fram emot mest?",
+        "Tror du att vi kan ta medalj i år?"
       ]
     },
     {
-      "id": "s-20260629-8",
+      "id": "s-20260630-8",
       "category": "sport",
-      "text": "Breel Embolo fick äntligen sitt visum godkänt till VM efter två dagars strul, snacka om att vara nervös!",
+      "text": "Handbolls-VM har precis avslutats med några riktiga skrällar!",
       "followUp": [
-        "Har du varit i en liknande situation någon gång?",
-        "Tror du det påverkar hans spel?"
+        "Vilket lag överraskade dig mest?",
+        "Följde du turneringen intensivt eller bara slängde ett öga?"
       ]
     },
     {
-      "id": "s-20260629-9",
+      "id": "s-20260630-9",
       "category": "sport",
-      "text": "Sjukt nog sänds alla Sveriges VM-matcher gratis på SVT och TV4! Perfekt för oss som vill se slitigt.",
+      "text": "Euroleague-säsongen är full av spänning och intensiva matcher!",
       "followUp": [
-        "Är du mer för streaming eller tv när det kommer till matcher?",
-        "Vad dricker du helst när du kollar på fotboll?"
+        "Har du någon favoritmatch du har sett nyligen?",
+        "Kollade du på det galna slutet på den senaste matchen?"
       ]
     },
     {
-      "id": "s-20260629-10",
+      "id": "s-20260630-10",
       "category": "sport",
-      "text": "Truppen till VM 2026 ser ju riktigt spännande ut med Isak, Gyökeres och Elanga!",
+      "text": "Wimbledon kommer snart, och vi har flera svenskar i huvudturneringen!",
       "followUp": [
-        "Vem i truppen ser du mest fram emot?",
-        "Skulle du ha velat se någon annan med?"
+        "Vem tror du kan nå långt bland svenskarna?",
+        "Har du sett några partier som varit extra heta?"
+      ]
+    },
+    {
+      "id": "s-20260630-11",
+      "category": "sport",
+      "text": "US Open i golf har precis avslutats med några otroliga prestationer!",
+      "followUp": [
+        "Vilken runda var din favorit i år?",
+        "Tror du att nästa år kommer vara ännu bättre?"
+      ]
+    },
+    {
+      "id": "s-20260630-12",
+      "category": "sport",
+      "text": "F1-säsongen har bjudit på några dramatiska Grand Prix-lopp den här året!",
+      "followUp": [
+        "Vilket lopp har du tyckt varit bäst?",
+        "Tror du att någon kan utmana om titeln nästa säsong?"
+      ]
+    },
+    {
+      "id": "s-20260630-13",
+      "category": "sport",
+      "text": "Rallytävlingarna i Sverige har verkligen dragit stor publik och media!",
+      "followUp": [
+        "Har du någon favoritförare att heja på?",
+        "Kollade du på de senaste tävlingarna?"
+      ]
+    },
+    {
+      "id": "s-20260630-14",
+      "category": "sport",
+      "text": "Alpina VM har avslutats med härliga svenska framgångar!",
+      "followUp": [
+        "Vilken gren tycker du är mest spännande att följa?",
+        "Hade du koll på vilka som skulle göra bra ifrån sig?"
+      ]
+    },
+    {
+      "id": "s-20260630-15",
+      "category": "sport",
+      "text": "Skidskytte-VM har varit fyllt med spännande tävlingar och drama!",
+      "followUp": [
+        "Följde du något av loppen live?",
+        "Vilken svensk idrottare imponerade mest på dig?"
       ]
     },
     {
