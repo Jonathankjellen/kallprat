@@ -305,136 +305,136 @@
     {
       "id": "t-20260701-1",
       "category": "teknik",
-      "text": "Har du sett det nya AI-chippet från OpenAI och Broadcom? Jalapeño, av alla namn!",
+      "text": "Såg du att Apple släppt nya AI-funktioner som kan översätta i realtid? Det känns som science fiction!",
       "followUp": [
-        "Tror du att det verkligen gör skillnad i AI-prestanda?",
-        "Skulle du vilja ha ett sådant chip i din dator?"
+        "Har du testat något av dem?",
+        "Tror du att det verkligen funkar?"
       ]
     },
     {
       "id": "t-20260701-2",
       "category": "teknik",
-      "text": "Hörde du om Claude Tag som har släppts för Slack? En AI-agent som ska underlätta snacken!",
+      "text": "Hörde du om Metas nya AI-app som ska vara som en personlig assistent? Låter ju lite för bra för att vara sant!",
       "followUp": [
-        "Har du testat att köra AI i dina arbetschatts?",
-        "Tror du att den kan ersätta oss helt på kontoret?"
+        "Skulle du lita på en AI som assistent?",
+        "Vad skulle du vilja att den gjorde för dig?"
       ]
     },
     {
       "id": "t-20260701-3",
       "category": "teknik",
-      "text": "EU kanske klassificerar Microsoft och Amazon som ‘gatekeepers’. Det känns som en spelväxlare!",
+      "text": "Kollade du på VimoAI? Den kan tydligen göra allt från att analysera bilder till att skriva texter. Sjukt fett!",
       "followUp": [
-        "Hur tror du det påverkar små företag som vill använda deras tjänster?",
-        "Vilka andra företag borde få samma klassificering?"
+        "Vilken funktion skulle du använda mest?",
+        "Tror du AI någonsin kommer att överträffa oss?"
       ]
     },
     {
       "id": "t-20260701-4",
       "category": "teknik",
-      "text": "Såg du att Apple lanserade iPhone 16? Den ser ju riktigt fräsch ut!",
+      "text": "Jag snubblade över HeyGen, den här AI-videogeneratorn som gör video av bara text. Kan man verkligen lita på en maskin för sånt?",
       "followUp": [
-        "Är du sugen på att byta upp dig?",
-        "Vilken funktion skulle du helst vilja ha?"
+        "Vad skulle du vilja göra en video om?",
+        "Har du sett några galna exempel på vad den kan skapa?"
       ]
     },
     {
       "id": "t-20260701-5",
       "category": "teknik",
-      "text": "Samsung har droppat Galaxy A27 5G. Den ser ut att vara ganska prisvärd!",
+      "text": "Telldus släpper fina smarta hem-prylar nu, allt från belysning till säkerhet. Sköna grejer om du vill ha ett kapabelt hem!",
       "followUp": [
-        "Är du mer lagd åt Samsung eller Apple?",
-        "Tror du att den håller måttet för gaming?"
+        "Har du något smart hem-gadget redan?",
+        "Skulle du våga gå all in på smarta grejer i hemmet?"
       ]
     },
     {
       "id": "t-20260701-6",
       "category": "teknik",
-      "text": "Den nya Stim Machine från LDLC ska utmana Steam Machine. Så spännande!",
+      "text": "Woox har lanserat nya smarta enheter som videodörrklockor och sensorprylar. Lite häftigt att de kan hålla koll på allt!",
       "followUp": [
-        "Skulle du vara intresserad av att bygga din speldator?",
-        "Vad tycker du om alternativ till Valve?"
+        "Är du sugen på smarta hem-gadgets?",
+        "Vad tycker du om att ha en kamera vid dörren?"
       ]
     },
     {
       "id": "t-20260701-7",
       "category": "teknik",
-      "text": "Utvecklingen av Star Wars: Eclipse är tydligen i trubbel med konflikter. Vilken överraskning!",
+      "text": "StyraHem verkar vara en intressant aktör på marknaden för smarta hem med personlig rådgivning. Skulle du ta hjälp för att styra upp ditt hem?",
       "followUp": [
-        "Är du taggad på spelet, eller har hypen dött för dig?",
-        "Tror du att de kommer att lösa problemen eller är det kört?"
+        "Tycker du att personlig rådgivning behövs?",
+        "Har du nåt smart hem-projekt på gång?"
       ]
     },
     {
       "id": "t-20260701-8",
       "category": "teknik",
-      "text": "OpenAI har lanserat GPT-5.6 nu! Nyfiken på vad som är nytt?",
+      "text": "Jula har dragit igång med egna smarta hem-produkter. Perfekt om man vill ha sådana prylar utan att spräcka plånboken!",
       "followUp": [
-        "Tror du att den kommer göra allt bättre?",
-        "Skulle du använda den för att skriva dina texter?"
+        "Vilken smart pryl skulle du köpa först?",
+        "Tror du att de verkligen fungerar som utlovat?"
       ]
     },
     {
       "id": "t-20260701-9",
       "category": "teknik",
-      "text": "Google Home får en uppdatering med ny AI-igenkänning! Smart moves!",
+      "text": "IONIQ 5 ser ju grym ut! Den känns som den har typ allt en elbil kan behöva och lite till.",
       "followUp": [
-        "Har du Google Home hemma?",
-        "Tror du att det verkligen gör hemmet säkrare?"
+        "Har du testkört någon elbil än?",
+        "Vad skulle du vilja ha i en drömelbil?"
       ]
     },
     {
       "id": "t-20260701-10",
       "category": "teknik",
-      "text": "Kommer du ihåg Commodore 64? Den gör comeback med en modern version!",
+      "text": "Har du hört att IONIQ 9 har en räckvidd på upp till 620 km? Det låter ju riktigt lovande!",
       "followUp": [
-        "Skulle du kunna tänka dig att spela på den gamla goda tiden igen?",
-        "Vilka retrospel skulle du lira först?"
+        "Låter det som en bil du skulle köra?",
+        "Vilken är din drömbil, el eller fossil?"
       ]
     },
     {
       "id": "t-20260701-11",
       "category": "teknik",
-      "text": "Philips Hue har uppdaterat sin mjukvara för Matter. Smarta hem blir ännu smartare!",
+      "text": "SpaceX testar sin Starfall-farkost nu. Tänk att allt detta händer medan vi sitter på jorden!",
       "followUp": [
-        "Använder du Philips Hue i ditt hem?",
-        "Tror du att nya standarder kommer att förenkla livet?"
+        "Skulle du vilja åka ut i rymden?",
+        "Tror du att det kommer bli fler rymdföretag i framtiden?"
       ]
     },
     {
       "id": "t-20260701-12",
       "category": "teknik",
-      "text": "Gabriel Petersson från OpenAI har något stort på gång. Spännande tider!",
+      "text": "SpaceX:s fram2-mission snackas det om. Första bemannade polära omloppsbanan, hur häftigt är inte det?",
       "followUp": [
-        "Vad tror du han drar igång denna gång?",
-        "Hade du velat vara med på en sån satsning?"
+        "Skulle du gärna vara med på en sån resa?",
+        "Vad tror du om framtiden för bemannade rymdresor?"
       ]
     },
     {
       "id": "t-20260701-13",
       "category": "teknik",
-      "text": "TikTok-stjärnor lägger pengar i Lucas Bergvalls startup. Snacka om spektakel!",
+      "text": "Det är lite sjukt att SpaceX har genomfört sin 32:a Dragon-försörjningsuppdrag. De är verkligen i framkant!",
       "followUp": [
-        "Tror du att det kan bli något stort?",
-        "Vad skulle du investera i om du hade tusenlappar över?"
+        "Vad skulle du skicka upp till rymden om du fick chansen?",
+        "Tycker du att rymden borde vara mer tillgänglig för alla?"
       ]
     },
     {
       "id": "t-20260701-14",
       "category": "teknik",
-      "text": "Bianca Ingrossos smyckesbolag har fått rätt mycket negativ publicitet. Ouch!",
+      "text": "Sekur är tydligen ett svenskt företag som fokuserar på cybersäkerhet. Bra med fler alternativ för att skydda sig!",
       "followUp": [
-        "Tror du att negativa rubriker kan påverka ett företag så mycket?",
-        "Har du någon smyckesfavorit från hennes kollektion?"
+        "Använder du några speciella säkerhetslösningar?",
+        "Hur viktigt är cyberskydd för dig?"
       ]
     },
     {
       "id": "t-20260701-15",
       "category": "teknik",
-      "text": "Det är galet hur en kinesisk AI-utmanare ökat med 2000 procent på sex månader. Vad händer?",
+      "text": "Har du hört att NCSC jobbar för att stärka Sveriges cybersäkerhet? Känns viktigt med tanke på hur mycket vi är online.",
       "followUp": [
-        "Tror du att vi kommer se fler sådana företag växa snabbt?",
-        "Hur känns det att sånt händer i tech-världen?"
+        "Känner du att vi gör tillräckligt för att skydda oss?",
+        "Har du hört om några nya hot?"
       ]
     },
     {
