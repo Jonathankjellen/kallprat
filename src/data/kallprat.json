@@ -168,219 +168,273 @@
       ]
     },
     {
-      "id": "s-20260630-1",
+      "id": "s-20260701-1",
       "category": "sport",
-      "text": "Sverige ska möta Frankrike i sextondelsfinalen i VM, hur sjukt är det inte?",
+      "text": "Såg du matchen mot Frankrike? Snacka om tufft med den 1-5 förlusten.",
       "followUp": [
-        "Vilken spelare tror du kommer att göra mål?",
-        "Ska du kolla matchen med kompisar eller hemma?"
+        "Tror du Potter kommer få stanna efter det här?",
+        "Vad tycker du om lagets chanser framöver?"
       ]
     },
     {
-      "id": "s-20260630-2",
+      "id": "s-20260701-2",
       "category": "sport",
-      "text": "Felicia Schröder har skrivit på för Real Madrid, snacka om drömflytt!",
+      "text": "Hörde du att Ivar Stenberg blev vald som nummer två i NHL-draften? Det är riktigt häftigt!",
       "followUp": [
-        "Har du följt hennes karriär i Häcken?",
-        "Tror du hon får mycket speltid i Madrid?"
+        "Har du följt hans karriär tidigare?",
+        "Vad tror du om hans chans att slå igenom i NHL?"
       ]
     },
     {
-      "id": "s-20260630-3",
+      "id": "s-20260701-3",
       "category": "sport",
-      "text": "Silly season är igång och flera svenskar kan byta klubb snart, spännande tider!",
+      "text": "Elin Karlsson tog guld under SM-veckan i Karlstad. Coolt att se så mycket talang!",
       "followUp": [
-        "Vem skulle du vilja se i en ny klubb?",
-        "Finns det någon spelare du är sur över att de lämnar?"
+        "Har du kikat på innebandy överhuvudtaget?",
+        "Vilken sport brukar du heja på under SM-veckan?"
       ]
     },
     {
-      "id": "s-20260630-4",
+      "id": "s-20260701-4",
       "category": "sport",
-      "text": "Det har varit helt galna resultat i Eliteserien den här veckan!",
+      "text": "Hur sjukt var det att Serena Williams åkte ut i första omgången på Wimbledon?",
       "followUp": [
-        "Vilket lag håller du på i Norge?",
-        "Kollade du på den matchen som alla snackar om?"
+        "Tycker du hon borde ha lagt av tidigare?",
+        "Har du någonsin varit på en stor tennisturnering?"
       ]
     },
     {
-      "id": "s-20260630-5",
+      "id": "s-20260701-5",
       "category": "sport",
-      "text": "SHL-klubbarna gör några rejält spännande värvningar nu, eller hur?",
+      "text": "Dino Beganovic fick köra Ferraris bil under träningen inför Österrikes GP. Snacka om dröm!",
       "followUp": [
-        "Vilket lag hejar du på i SHL?",
-        "Tror du att laget kan utmana om guldet nästa säsong?"
+        "Skulle du vilja köra F1-bil om du fick chansen?",
+        "Hur följer du motorsport, har du en favoritförare?"
       ]
     },
     {
-      "id": "s-20260630-6",
+      "id": "s-20260701-6",
       "category": "sport",
-      "text": "NHL-draften har varit och vi har flera svenska talanger som tagit klivet!",
+      "text": "Frida Karlsson är ett av våra största medaljhopp i vinter-OS! Det känns spännande, eller?",
       "followUp": [
-        "Vilken av dem tror du kommer att bli nästa superstjärna?",
-        "Hade du koll på dem innan draften?"
+        "Tror du hon kommit i form till tävlingen?",
+        "Har du några favoriter bland de svenska vinteridrottarna?"
       ]
     },
     {
-      "id": "s-20260630-7",
+      "id": "s-20260701-7",
       "category": "sport",
-      "text": "Ishockey-VM närmar sig med stormsteg, sjukt mycket hype!",
+      "text": "FIFA 2026 VM-turneringen ser helt galen ut med spelare från hela världen!",
       "followUp": [
-        "Vilka matcher ser du fram emot mest?",
-        "Tror du att vi kan ta medalj i år?"
+        "Har du testat att spela FIFA själv?",
+        "Vilket lag hejar du på när du spelar?"
       ]
     },
     {
-      "id": "s-20260630-8",
+      "id": "s-20260701-8",
       "category": "sport",
-      "text": "Handbolls-VM har precis avslutats med några riktiga skrällar!",
+      "text": "Hörde du om hundspannstävlingarna i Lappland? Tydligen sjukt tuffa och vackra vyer!",
       "followUp": [
-        "Vilket lag överraskade dig mest?",
-        "Följde du turneringen intensivt eller bara slängde ett öga?"
+        "Skulle du våga testa det själv?",
+        "Har du kikat på några roliga udda sporter nyligen?"
       ]
     },
     {
-      "id": "s-20260630-9",
+      "id": "s-20260701-9",
       "category": "sport",
-      "text": "Euroleague-säsongen är full av spänning och intensiva matcher!",
+      "text": "Alexander Isak verkar ha en grym säsong i Premier League! Riktigt bra för honom.",
       "followUp": [
-        "Har du någon favoritmatch du har sett nyligen?",
-        "Kollade du på det galna slutet på den senaste matchen?"
+        "Tycker du det är kul att se svenska spelare utomlands?",
+        "Har du en favorit bland svenska idrottare i andra ligor?"
       ]
     },
     {
-      "id": "s-20260630-10",
+      "id": "s-20260701-10",
       "category": "sport",
-      "text": "Wimbledon kommer snart, och vi har flera svenskar i huvudturneringen!",
+      "text": "Allsvenskan har en del spännande matcher på gång nu, speciellt derbyna!",
       "followUp": [
-        "Vem tror du kan nå långt bland svenskarna?",
-        "Har du sett några partier som varit extra heta?"
+        "Vilken match ser du mest fram emot?",
+        "Har du något favoritlag i Allsvenskan?"
       ]
     },
     {
-      "id": "s-20260630-11",
+      "id": "s-20260701-11",
       "category": "sport",
-      "text": "US Open i golf har precis avslutats med några otroliga prestationer!",
+      "text": "Sverige ska möta Japan i en avgörande match i VM snart. Det kommer bli spännande!",
       "followUp": [
-        "Vilken runda var din favorit i år?",
-        "Tror du att nästa år kommer vara ännu bättre?"
+        "Hur tror du det kommer gå?",
+        "Har du något speciellt minne från tidigare VM-matcher?"
       ]
     },
     {
-      "id": "s-20260630-12",
+      "id": "s-20260701-12",
       "category": "sport",
-      "text": "F1-säsongen har bjudit på några dramatiska Grand Prix-lopp den här året!",
+      "text": "Frölunda förlängde kontraktet med en nyckelspelare! De är ju riktigt bra på att bygga lag.",
       "followUp": [
-        "Vilket lopp har du tyckt varit bäst?",
-        "Tror du att någon kan utmana om titeln nästa säsong?"
+        "Har du kikat på Frölunda matcher i år?",
+        "Vilket lag hejar du på i SHL?"
       ]
     },
     {
-      "id": "s-20260630-13",
+      "id": "s-20260701-13",
       "category": "sport",
-      "text": "Rallytävlingarna i Sverige har verkligen dragit stor publik och media!",
+      "text": "Svenska handbollslaget har kvalificerat sig för EM! Det borde bli kul att följa!",
       "followUp": [
-        "Har du någon favoritförare att heja på?",
-        "Kollade du på de senaste tävlingarna?"
+        "Har du kikat på handboll nån gång?",
+        "Vad tycker du om att svenskar presterar så bra internationellt?"
       ]
     },
     {
-      "id": "s-20260630-14",
+      "id": "s-20260701-14",
       "category": "sport",
-      "text": "Alpina VM har avslutats med härliga svenska framgångar!",
+      "text": "Augusta Masters var ju otroligt med så många stjärnor! Det är alltid en hög nivå.",
       "followUp": [
-        "Vilken gren tycker du är mest spännande att följa?",
-        "Hade du koll på vilka som skulle göra bra ifrån sig?"
+        "Har du nån favoritspelare bland golfarna?",
+        "Tycker du det är kul att följa golfturneringar?"
       ]
     },
     {
-      "id": "s-20260630-15",
+      "id": "s-20260701-15",
       "category": "sport",
-      "text": "Skidskytte-VM har varit fyllt med spännande tävlingar och drama!",
+      "text": "Rallyt i Sverige 2026 hade ju galet väder. Det gör ju tävlingen ännu mer spännande!",
       "followUp": [
-        "Följde du något av loppen live?",
-        "Vilken svensk idrottare imponerade mest på dig?"
+        "Har du nåt minne från rallyt tidigare?",
+        "Vad tycker du om motorsport generellt?"
       ]
     },
     {
-      "id": "t-20260630-1",
+      "id": "t-20260701-1",
       "category": "teknik",
-      "text": "Peacock har lanserat AI-drivna grejer för sport — hur bra är det egentligen?",
+      "text": "Har du sett det nya AI-chippet från OpenAI och Broadcom? Jalapeño, av alla namn!",
       "followUp": [
-        "Har du testat deras nya funktioner?",
-        "Vilket sportevent skulle du vilja se mer av?"
+        "Tror du att det verkligen gör skillnad i AI-prestanda?",
+        "Skulle du vilja ha ett sådant chip i din dator?"
       ]
     },
     {
-      "id": "t-20260630-2",
+      "id": "t-20260701-2",
       "category": "teknik",
-      "text": "Hörde du att användningen av generativa AI-appar kanske dubblas snart? Sjukt hur snabbt det går!",
+      "text": "Hörde du om Claude Tag som har släppts för Slack? En AI-agent som ska underlätta snacken!",
       "followUp": [
-        "Vilken AI-app tycker du är mest användbar?",
-        "Har du några favoriter just nu?"
+        "Har du testat att köra AI i dina arbetschatts?",
+        "Tror du att den kan ersätta oss helt på kontoret?"
       ]
     },
     {
-      "id": "t-20260630-3",
+      "id": "t-20260701-3",
       "category": "teknik",
-      "text": "Så Storbritannien ska förbjuda sociala medier för kids under 16. Tror du det kommer funka?",
+      "text": "EU kanske klassificerar Microsoft och Amazon som ‘gatekeepers’. Det känns som en spelväxlare!",
       "followUp": [
-        "Hur skulle du reagera om det kom hit?",
-        "Tror du det gör nån skillnad för unga?"
+        "Hur tror du det påverkar små företag som vill använda deras tjänster?",
+        "Vilka andra företag borde få samma klassificering?"
       ]
     },
     {
-      "id": "t-20260630-4",
+      "id": "t-20260701-4",
       "category": "teknik",
-      "text": "Google släpper ny Pixel-uppdatering snart. Verkar som de är på gång med AI-grejer!",
+      "text": "Såg du att Apple lanserade iPhone 16? Den ser ju riktigt fräsch ut!",
       "followUp": [
-        "Har du en Pixel-telefon?",
-        "Vad saknar du mest i din mobil just nu?"
+        "Är du sugen på att byta upp dig?",
+        "Vilken funktion skulle du helst vilja ha?"
       ]
     },
     {
-      "id": "t-20260630-5",
+      "id": "t-20260701-5",
       "category": "teknik",
-      "text": "Qualcomm släpper nya AI-chips som Microsoft och Meta ska använda. Spännande tider!",
+      "text": "Samsung har droppat Galaxy A27 5G. Den ser ut att vara ganska prisvärd!",
       "followUp": [
-        "Vad skulle du vilja se mer av i AI-teknik?",
-        "Tror du det kommer göra stor skillnad?"
+        "Är du mer lagd åt Samsung eller Apple?",
+        "Tror du att den håller måttet för gaming?"
       ]
     },
     {
-      "id": "t-20260630-6",
+      "id": "t-20260701-6",
       "category": "teknik",
-      "text": "Google uppdaterar sin Gemini-app för att kunna tävla med ChatGPT. Blir det bra eller flop?",
+      "text": "Den nya Stim Machine från LDLC ska utmana Steam Machine. Så spännande!",
       "followUp": [
-        "Kollade du på den senaste uppdateringen?",
-        "Vad tycker du om konkurrensen mellan AI-plattformar?"
+        "Skulle du vara intresserad av att bygga din speldator?",
+        "Vad tycker du om alternativ till Valve?"
       ]
     },
     {
-      "id": "t-20260630-7",
+      "id": "t-20260701-7",
       "category": "teknik",
-      "text": "ChatGPT nådde en miljard användare på en månad. Snacka om hype!",
+      "text": "Utvecklingen av Star Wars: Eclipse är tydligen i trubbel med konflikter. Vilken överraskning!",
       "followUp": [
-        "Vad tror du attraherar folk mest?",
-        "Kör du ofta på AI-verktyg själv?"
+        "Är du taggad på spelet, eller har hypen dött för dig?",
+        "Tror du att de kommer att lösa problemen eller är det kört?"
       ]
     },
     {
-      "id": "t-20260630-8",
+      "id": "t-20260701-8",
       "category": "teknik",
-      "text": "LG visar upp en 6K-monitor. Visste du att den är anpassad för macOS?",
+      "text": "OpenAI har lanserat GPT-5.6 nu! Nyfiken på vad som är nytt?",
       "followUp": [
-        "Skulle du punga ut för en sån?",
-        "Vilken skärm har du nu?"
+        "Tror du att den kommer göra allt bättre?",
+        "Skulle du använda den för att skriva dina texter?"
       ]
     },
     {
-      "id": "t-20260630-9",
+      "id": "t-20260701-9",
       "category": "teknik",
-      "text": "Microsoft och Meta ska använda Qualcomms AI-chips. Känns som tech-världen verkligen rör på sig!",
+      "text": "Google Home får en uppdatering med ny AI-igenkänning! Smart moves!",
       "followUp": [
-        "Tror du att det kommer förbättra deras tjänster?",
-        "Vad ser du mest fram emot när det gäller ny teknik?"
+        "Har du Google Home hemma?",
+        "Tror du att det verkligen gör hemmet säkrare?"
+      ]
+    },
+    {
+      "id": "t-20260701-10",
+      "category": "teknik",
+      "text": "Kommer du ihåg Commodore 64? Den gör comeback med en modern version!",
+      "followUp": [
+        "Skulle du kunna tänka dig att spela på den gamla goda tiden igen?",
+        "Vilka retrospel skulle du lira först?"
+      ]
+    },
+    {
+      "id": "t-20260701-11",
+      "category": "teknik",
+      "text": "Philips Hue har uppdaterat sin mjukvara för Matter. Smarta hem blir ännu smartare!",
+      "followUp": [
+        "Använder du Philips Hue i ditt hem?",
+        "Tror du att nya standarder kommer att förenkla livet?"
+      ]
+    },
+    {
+      "id": "t-20260701-12",
+      "category": "teknik",
+      "text": "Gabriel Petersson från OpenAI har något stort på gång. Spännande tider!",
+      "followUp": [
+        "Vad tror du han drar igång denna gång?",
+        "Hade du velat vara med på en sån satsning?"
+      ]
+    },
+    {
+      "id": "t-20260701-13",
+      "category": "teknik",
+      "text": "TikTok-stjärnor lägger pengar i Lucas Bergvalls startup. Snacka om spektakel!",
+      "followUp": [
+        "Tror du att det kan bli något stort?",
+        "Vad skulle du investera i om du hade tusenlappar över?"
+      ]
+    },
+    {
+      "id": "t-20260701-14",
+      "category": "teknik",
+      "text": "Bianca Ingrossos smyckesbolag har fått rätt mycket negativ publicitet. Ouch!",
+      "followUp": [
+        "Tror du att negativa rubriker kan påverka ett företag så mycket?",
+        "Har du någon smyckesfavorit från hennes kollektion?"
+      ]
+    },
+    {
+      "id": "t-20260701-15",
+      "category": "teknik",
+      "text": "Det är galet hur en kinesisk AI-utmanare ökat med 2000 procent på sex månader. Vad händer?",
+      "followUp": [
+        "Tror du att vi kommer se fler sådana företag växa snabbt?",
+        "Hur känns det att sånt händer i tech-världen?"
       ]
     },
     {
