@@ -107,127 +107,217 @@
     {
       "id": "s-20260702-1",
       "category": "sport",
-      "text": "Sverige har alltså sparkat igång sin VM-resa! Hur sjukt är det inte att vi ska möta både Nederländerna och Japan?",
+      "text": "Såg du matchen mot Frankrike? Snacka om en snöplig förlust för Sverige.",
       "followUp": [
-        "Kollade du på matchen mot Tunisien?",
-        "Vilken match ser du mest fram emot?"
+        "Vad tycker du om laget framöver?",
+        "Har du några bra lagnamn på lager om de byter ut spelarna?"
       ]
     },
     {
       "id": "s-20260702-2",
       "category": "sport",
-      "text": "Det är ju tufft för Isak Hien att behöva lämna VM efter den där skadan. Snacka om otur!",
+      "text": "Hörde du att Elias Rosén har dragit från Växjö? Det kom som en överraskning.",
       "followUp": [
-        "Tror du han hinner bli bra till nästa match?",
-        "Har du sett några andra spelare som haft otur med skador?"
+        "Tror du han hittar en bättre klubb?",
+        "Vad har du för känslor kring hans beslut?"
       ]
     },
     {
       "id": "s-20260702-3",
       "category": "sport",
-      "text": "Snacka om drama! Breel Embolo får äntligen sitt visum godkänt till VM efter två dagar av strul. Låter stressigt!",
+      "text": "Kollade du på ryktena om Jesper Ceesay? Portsmouth och Al Fateh vill ha honom.",
       "followUp": [
-        "Tänker du att han är i form nu efter allt strul?",
-        "Har du några favoritspelare från Schweiz?"
+        "Skulle du handla honom om du var tränare?",
+        "Vart tror du han hör hemma bäst?"
       ]
     },
     {
       "id": "s-20260702-4",
       "category": "sport",
-      "text": "Såg du Graham Potter med cowboyhatten under träningen? Det är ju ett helt nytt vibe från honom!",
+      "text": "Victor Nilsson Lindelöf verkar ha funderingar kring sin framtid efter VM. Trist läge.",
       "followUp": [
-        "Ser du honom som en coach med stil?",
-        "Funderar du på att skaffa en cowboyhatt nu?"
+        "Tror du han stannar kvar i landslaget?",
+        "Vad skulle en ny klubb kunna erbjuda honom?"
       ]
     },
     {
       "id": "s-20260702-5",
       "category": "sport",
-      "text": "Isak Hien utsågs till lagkapten inför matchen mot Norge. Kul med unga spelare som får ta ansvar!",
+      "text": "Nils Höglander fick sig en trejd till Nashville! Spännande grej.",
       "followUp": [
-        "Tycker du att det är viktigt med unga kaptener?",
-        "Vem tycker du borde vara kapten i ditt favoritlag?"
+        "Tror du han kommer trivas där?",
+        "Kollade du på hans tidigare matcher?"
       ]
     },
     {
       "id": "s-20260702-6",
       "category": "sport",
-      "text": "Sveriges F19-landslag började EM med en 1–0-seger, men genom ett självmål. Snacka om en speciell start!",
+      "text": "Marcus Gidlöf har åkt på en skada. Leksand kommer sakna honom nu.",
       "followUp": [
-        "Har du sett självmål som varit riktigt galna?",
-        "Vilket lag hejar du på i F19-EM?"
+        "Har du sett något av hans matcher den här säsongen?",
+        "Hur länge tror du han blir borta?"
       ]
     },
     {
       "id": "s-20260702-7",
       "category": "sport",
-      "text": "Björn Goop har släppt sina spikförslag inför V85 på Bergsåker. Vem vill man inte ha 35 miljoner på spel?",
+      "text": "Karmine Corp bombade rejält mot Liquid i den senaste e-sportmatchen. Chockat?",
       "followUp": [
-        "Har du spelat på trav någon gång?",
-        "Vilka hästar tycker du är mest intressanta just nu?"
+        "Hur kollar du på e-sport nuförtiden?",
+        "Är det någon lag som du hejar på?"
       ]
     },
     {
       "id": "s-20260702-8",
       "category": "sport",
-      "text": "Sveriges F19-landslag har Bosnien nästa på schemat. Det kan ju bli spännande!",
+      "text": "Sverige blev verkligen utslagna av Frankrike i VM. Så sjukt frustrerande!",
       "followUp": [
-        "Tror du att de kan ta hem segern?",
-        "Vad tycker du om att se juniorlandslag spela?"
+        "Kollade du på matchen?",
+        "Vad skulle du ändra i lagets strategi om du fick bestämma?"
+      ]
+    },
+    {
+      "id": "s-20260702-9",
+      "category": "sport",
+      "text": "Det har släppts en bild från TV4:s sändning av matchen mot Frankrike. Hela sociala medier snackar om den.",
+      "followUp": [
+        "Tycker du att bilder från matcher påverkar hur vi ser på spelet?",
+        "Har du sett någon riktigt minnesvärd matchbild nyligen?"
+      ]
+    },
+    {
+      "id": "s-20260702-10",
+      "category": "sport",
+      "text": "SL har dragit igång en riktigt unik åtgärd inför VM-matchen. Spännande grepp!",
+      "followUp": [
+        "Vad tror du om deras strategi?",
+        "Har du testat något liknande på en match?"
+      ]
+    },
+    {
+      "id": "s-20260702-11",
+      "category": "sport",
+      "text": "En spelare säger sig ha koll på hur man stoppar Mbappé. Det lär bli intressant!",
+      "followUp": [
+        "Tror du det går att stoppa honom?",
+        "Har du sett några bra klipp på försvarsspelare mot honom?"
+      ]
+    },
+    {
+      "id": "s-20260702-12",
+      "category": "sport",
+      "text": "Visste du att flera svenskar har blivit släppta av sina NHL-klubbar?",
+      "followUp": [
+        "Tror du att de kommer tillbaka starkare?",
+        "Vilka svenskar är du mest taggad på att följa?"
+      ]
+    },
+    {
+      "id": "s-20260702-13",
+      "category": "sport",
+      "text": "Florida Panthers kanske värvar tillbaka en gammal hatobjekt! Snacka om att blanda känslor!",
+      "followUp": [
+        "Hur tror du fansen kommer reagera?",
+        "Vill du ha tillbaka någon spelare som varit ifrån klubben?"
+      ]
+    },
+    {
+      "id": "s-20260702-14",
+      "category": "sport",
+      "text": "Sverige tog sig vidare till final efter att ha slagit Ungern i volleyboll. Vad bra de är!",
+      "followUp": [
+        "Har du testat på volleyboll själv?",
+        "Vilket idrottslag hejar du mest på?"
+      ]
+    },
+    {
+      "id": "s-20260702-15",
+      "category": "sport",
+      "text": "Duplantis var överlägsen i Paris men missade sitt eget världsrekord. Snacka om att vara nära!",
+      "followUp": [
+        "Tror du han kommer slå sitt rekord snart?",
+        "Är du sportig själv, eller nöjer du dig med att kolla?"
       ]
     },
     {
       "id": "t-20260702-1",
       "category": "teknik",
-      "text": "Har du sett vad Elon Musk snackar om med Teslas bilar? Tydligen kan de bli ett gigantiskt AI-datacenter!",
+      "text": "Såg du att Google har släppt en ny version av Gemini-appen? Den har massor av coola grejer som en personlig AI-agent.",
       "followUp": [
-        "Tror du verkligen på det?",
-        "Skulle du lita på att en bil gör mer än att bara köra?"
+        "Har du testat den än?",
+        "Vad tror du om att ha en AI-agent som hjälper en?"
       ]
     },
     {
       "id": "t-20260702-2",
       "category": "teknik",
-      "text": "Hörde du om Moltbook? Elon säger att det kan leda till att AI överträffar oss helt!",
+      "text": "Hörde du att Meta har släppt en ny AI-app med röststyrning och bildgenerering? Det känns lite futuristiskt, eller?",
       "followUp": [
-        "Tycker du att det är en bra eller dålig grej?",
-        "Skulle du våga använda en AI-vän?"
+        "Skulle du använda en app för att chatta med AI?",
+        "Vilket skulle du föredra, text eller tal?"
       ]
     },
     {
       "id": "t-20260702-3",
       "category": "teknik",
-      "text": "Såg du att Musk lanserat 'Macrohard'? De ska typ mixa Tesla med mjukvara på nåt sätt!",
+      "text": "Apple har lanserat nya AI-funktioner som Liveöversättning, sjukt spännande grej!",
       "followUp": [
-        "Vad tror du de kommer kunna göra?",
-        "Har du någon favoritfunktion du skulle vilja se?"
+        "Tror du att det kommer att funka utan några missförstånd?",
+        "Vilken funktion ser du mest fram emot?"
       ]
     },
     {
       "id": "t-20260702-4",
       "category": "teknik",
-      "text": "Kollade du på Meta's nya AR-glasögon? Holograms och AI-assistent, galet spännande!",
+      "text": "Kollade du in Samsung Galaxy S26 Ultra? Den har ju en kamera som verkar kunna fånga bilder i typ mörker!",
       "followUp": [
-        "Tror du att de kommer vara bekväma att ha på sig?",
-        "Hur ser du på framtiden med sådana prylar?"
+        "Är det dags för dig att uppgradera mobilen?",
+        "Har du en gammal modell eller hänger du med i svängarna?"
       ]
     },
     {
       "id": "t-20260702-5",
       "category": "teknik",
-      "text": "Nvidia släppte ny AI-teknik för robotträning nu! Det känns som vi närmar oss sci-fi-grejer!",
+      "text": "Såg att Sony har släppt nya WF-1000XM6-hörlurar, de ska ha grym brusreducering!",
       "followUp": [
-        "Vad tror du om framtida spel med sån teknik?",
-        "Skulle du få en robotvän om det blev möjligt?"
+        "Är du en hörlurssnobb?",
+        "Vilken musikdiggar du mest just nu när du lyssnar?"
       ]
     },
     {
       "id": "t-20260702-6",
       "category": "teknik",
-      "text": "Helt sjukt, Tesla har lanserat Grok AI i bilar nu! Snacka om att prata med din bil!",
+      "text": "Det verkar som att Samsung har släppt Galaxy Tab A11 Plus, med bättre prestanda och skärm. Galet!",
       "followUp": [
-        "Skulle du klara av att ha en AI-assistent som pratar tillbaka?",
-        "Kan du tänka dig att den kan bli din coach också?"
+        "Skulle du byta ut din laptop mot en surfplatta?",
+        "Vilka appar måste finnas för att det ska vara värt det?"
+      ]
+    },
+    {
+      "id": "t-20260702-7",
+      "category": "teknik",
+      "text": "Kollade du på Sonys nya LinkBuds Clip? Det är ju öppna hörlurar, hur coolt är inte det?",
+      "followUp": [
+        "Skulle du våga ha dem när du är ute?",
+        "Vad lyssnar du på när du är på språng?"
+      ]
+    },
+    {
+      "id": "t-20260702-8",
+      "category": "teknik",
+      "text": "Har du sett vad Samsung har gjort med Galaxy S26? Den ser ju riktigt lovande ut!",
+      "followUp": [
+        "Tror du det är dags för en uppgradering?",
+        "Vad i en smartphone skulle du säga är viktigast för dig?"
+      ]
+    },
+    {
+      "id": "t-20260702-9",
+      "category": "teknik",
+      "text": "Samsung har just släppt S26 Plus, med en större skärm och förbättrad kamera. Gillar vi det eller?",
+      "followUp": [
+        "Vad gillar du mest med nya mobiler?",
+        "Har du koll på vilka funktioner den har?"
       ]
     },
     {
