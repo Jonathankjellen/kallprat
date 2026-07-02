@@ -33,408 +33,201 @@
   ],
   "kallprat": [
     {
-      "id": "n-20260630-1",
+      "id": "n-20260702-1",
       "category": "nyheter",
-      "text": "Såg du matchen mellan Sverige och Japan? Elanga gjorde verkligen sitt i den där dramatiska avgörande situationen!",
+      "text": "Såg du att KALEO drar ut på en stor turné? De har till och med en konsert i Stockholm om några år!",
       "followUp": [
-        "Hade du ens en aning om hur spännande det skulle bli?",
-        "Vilken match hoppas du att vi får se nästa?"
+        "Skulle du vilja gå dit?",
+        "Vilken låt hoppas du att de spelar?"
       ]
     },
     {
-      "id": "n-20260630-2",
+      "id": "n-20260702-2",
       "category": "nyheter",
-      "text": "Hörde du att Sverige ska sälja ubåtar till Polen? Det känns som en skön sci-fi film, eller?",
+      "text": "Hörde du grejen med Lily Allen och hennes korta konserter? Fansen är ju inte helt nöjda!",
       "followUp": [
-        "Tror du vi kommit på något mer coolt att sälja?",
-        "Skulle du vilja åka med en ubåt, typ för en weekend?"
+        "Vad tycker du om korta konserter?",
+        "Har du sett henne live någon gång?"
       ]
     },
     {
-      "id": "n-20260630-3",
+      "id": "n-20260702-3",
       "category": "nyheter",
-      "text": "Kolla in den där 'Food Jutsu'-trenden på TikTok! Det är helt galet hur folk lagar mat med effekter!",
+      "text": "Visste du att Sundsvall har flest A-traktorer i Sverige nu? Snacka om att vara trendy!",
       "followUp": [
-        "Har du sett något riktigt imponerande klipp därifrån?",
-        "Vilken anime skulle du vilja se matlagningsversionen av?"
+        "Har du kört A-traktor själv?",
+        "Vad är det mest udda fordonet du har sett?"
       ]
     },
     {
-      "id": "n-20260630-4",
+      "id": "n-20260702-4",
       "category": "nyheter",
-      "text": "Saxboy Billys 'The Puerto Rico Song' har verkligen tagit över TikTok! Den går ju inte att få ur huvudet!",
+      "text": "Såg du att Taylor Swift och Travis Kelce gifter sig på Madison Square Garden? Det kommer bli en riktig happening!",
       "followUp": [
-        "Har du sett några roliga klipp med den?",
-        "Vilket ljud är din absoluta favorit på TikTok just nu?"
+        "Vem tror du kommer sjunga på bröllopet?",
+        "Tror du att det blir live-streaming?"
       ]
     },
     {
-      "id": "n-20260630-5",
+      "id": "n-20260702-5",
       "category": "nyheter",
-      "text": "Sverige vann sin första match i F19-EM! Det var ju sjukt spännande med det där självmålet!",
+      "text": "Kollade du på filmen om Michael Jackson? Den har blivit den mest inkomstbringande filmen i biohistorien!",
       "followUp": [
-        "Tänker du kolla på fler matcher framöver?",
-        "Följer du mycket ungdomsfotboll annars?"
+        "Vad tyckte du om filmen?",
+        "Har du någon favoritlåt av honom?"
       ]
     },
     {
-      "id": "n-20260630-6",
+      "id": "n-20260702-6",
       "category": "nyheter",
-      "text": "Sverige kan få möta Norge i sextondelsfinalen! Det hade ju varit en riktig upplevelse!",
+      "text": "Sivers Semiconductors har fått en rejäl smäll på börsen efter sin senaste nyemission. Rätt galet!",
       "followUp": [
-        "Vem tror du kommer att göra mest väsen av sig i den matchen?",
-        "Har du någon favoritspelare i laget?"
+        "Är du intresserad av aktier?",
+        "Kollade du på nån tech-podd nyligen?"
       ]
     },
     {
-      "id": "n-20260630-7",
+      "id": "n-20260702-7",
       "category": "nyheter",
-      "text": "Det är spännande med nya regler för elbilsladdning i byggnader! Snart kanske vi har laddstationer överallt!",
+      "text": "Hörde du om den där kuppen mot Louvren? Kronjuvelerna stals mitt på ljusa dagen!",
       "followUp": [
-        "Har du funderat på att skaffa elbil?",
-        "Känns det som att det kommer att hända mycket på den fronten framöver?"
+        "Tror du att de får tillbaka dem?",
+        "Har du varit i Louvren?"
       ]
     },
     {
-      "id": "n-20260630-8",
+      "id": "n-20260702-8",
       "category": "nyheter",
-      "text": "Det pratas mycket om ökningen av ungdomsbrottslighet just nu. Det känns rätt tungt, eller?",
+      "text": "Va sjukt att fenomenet 'Brain-rot Summer' med dansande kaffekoppar sprider sig på TikTok. Vad är det ens?",
       "followUp": [
-        "Har du sett något intressant i debatten kring det här?",
-        "Vad tycker du är viktigt att man gör åt problematiken?"
+        "Har du sett några roliga klipp från det?",
+        "Vilken är din favorittrend just nu på TikTok?"
       ]
     },
     {
-      "id": "n-20260630-9",
-      "category": "nyheter",
-      "text": "Wow, det har ju blivit mer snack om ungdomsarbetslöshet på sistone. Det är ju rätt oroväckande.",
-      "followUp": [
-        "Känner du någon som är drabbad av det?",
-        "Tror du att det kommer att bli bättre snart?"
-      ]
-    },
-    {
-      "id": "n-20260630-10",
-      "category": "nyheter",
-      "text": "Det snackas om en växande efterfrågan på ungdomsboenden! Vart ska folk bo egentligen?",
-      "followUp": [
-        "Har du hört om några bra ställen?",
-        "Vad skulle du önska att det fanns för alternativ?"
-      ]
-    },
-    {
-      "id": "n-20260630-11",
-      "category": "nyheter",
-      "text": "Psykisk ohälsa bland unga ökar, och det känns som det pratas mer om det nu än tidigare.",
-      "followUp": [
-        "Har du märkt av det i din krets?",
-        "Vad skulle du vilja att fler gjorde för att hjälpa till?"
-      ]
-    },
-    {
-      "id": "n-20260630-12",
-      "category": "nyheter",
-      "text": "Ungdomsvalen har dragit igång! Riktigt coolt att se unga engagera sig!",
-      "followUp": [
-        "Deltar du själv i något?",
-        "Vilka frågor tycker du är viktigast att lyfta?"
-      ]
-    },
-    {
-      "id": "n-20260630-13",
-      "category": "nyheter",
-      "text": "Det känns som att fler unga engagerar sig i frivilligarbete numera! Riktigt inspirerande!",
-      "followUp": [
-        "Är du själv involverad i något projekt?",
-        "Vilken typ av engagemang tycker du är roligast?"
-      ]
-    },
-    {
-      "id": "n-20260630-14",
-      "category": "nyheter",
-      "text": "Visste du att fler ungdomar börjar söka sig till mindre kända resmål? Helt rätt, tycker jag!",
-      "followUp": [
-        "Har du något drömresmål som ingen känner till?",
-        "Vad är det mest udda stället du besökt?"
-      ]
-    },
-    {
-      "id": "n-20260630-15",
-      "category": "nyheter",
-      "text": "Det verkar som att ungdomars intresse för sommarjobb och praktik ökar! Äntligen något positivt!",
-      "followUp": [
-        "Har du haft något kul sommarjobb?",
-        "Vilket jobb skulle vara drömmen för dig?"
-      ]
-    },
-    {
-      "id": "s-20260701-1",
+      "id": "s-20260702-1",
       "category": "sport",
-      "text": "Såg du matchen mot Frankrike? Snacka om tufft med den 1-5 förlusten.",
+      "text": "Sverige har alltså sparkat igång sin VM-resa! Hur sjukt är det inte att vi ska möta både Nederländerna och Japan?",
       "followUp": [
-        "Tror du Potter kommer få stanna efter det här?",
-        "Vad tycker du om lagets chanser framöver?"
+        "Kollade du på matchen mot Tunisien?",
+        "Vilken match ser du mest fram emot?"
       ]
     },
     {
-      "id": "s-20260701-2",
+      "id": "s-20260702-2",
       "category": "sport",
-      "text": "Hörde du att Ivar Stenberg blev vald som nummer två i NHL-draften? Det är riktigt häftigt!",
+      "text": "Det är ju tufft för Isak Hien att behöva lämna VM efter den där skadan. Snacka om otur!",
       "followUp": [
-        "Har du följt hans karriär tidigare?",
-        "Vad tror du om hans chans att slå igenom i NHL?"
+        "Tror du han hinner bli bra till nästa match?",
+        "Har du sett några andra spelare som haft otur med skador?"
       ]
     },
     {
-      "id": "s-20260701-3",
+      "id": "s-20260702-3",
       "category": "sport",
-      "text": "Elin Karlsson tog guld under SM-veckan i Karlstad. Coolt att se så mycket talang!",
+      "text": "Snacka om drama! Breel Embolo får äntligen sitt visum godkänt till VM efter två dagar av strul. Låter stressigt!",
       "followUp": [
-        "Har du kikat på innebandy överhuvudtaget?",
-        "Vilken sport brukar du heja på under SM-veckan?"
+        "Tänker du att han är i form nu efter allt strul?",
+        "Har du några favoritspelare från Schweiz?"
       ]
     },
     {
-      "id": "s-20260701-4",
+      "id": "s-20260702-4",
       "category": "sport",
-      "text": "Hur sjukt var det att Serena Williams åkte ut i första omgången på Wimbledon?",
+      "text": "Såg du Graham Potter med cowboyhatten under träningen? Det är ju ett helt nytt vibe från honom!",
       "followUp": [
-        "Tycker du hon borde ha lagt av tidigare?",
-        "Har du någonsin varit på en stor tennisturnering?"
+        "Ser du honom som en coach med stil?",
+        "Funderar du på att skaffa en cowboyhatt nu?"
       ]
     },
     {
-      "id": "s-20260701-5",
+      "id": "s-20260702-5",
       "category": "sport",
-      "text": "Dino Beganovic fick köra Ferraris bil under träningen inför Österrikes GP. Snacka om dröm!",
+      "text": "Isak Hien utsågs till lagkapten inför matchen mot Norge. Kul med unga spelare som får ta ansvar!",
       "followUp": [
-        "Skulle du vilja köra F1-bil om du fick chansen?",
-        "Hur följer du motorsport, har du en favoritförare?"
+        "Tycker du att det är viktigt med unga kaptener?",
+        "Vem tycker du borde vara kapten i ditt favoritlag?"
       ]
     },
     {
-      "id": "s-20260701-6",
+      "id": "s-20260702-6",
       "category": "sport",
-      "text": "Frida Karlsson är ett av våra största medaljhopp i vinter-OS! Det känns spännande, eller?",
+      "text": "Sveriges F19-landslag började EM med en 1–0-seger, men genom ett självmål. Snacka om en speciell start!",
       "followUp": [
-        "Tror du hon kommit i form till tävlingen?",
-        "Har du några favoriter bland de svenska vinteridrottarna?"
+        "Har du sett självmål som varit riktigt galna?",
+        "Vilket lag hejar du på i F19-EM?"
       ]
     },
     {
-      "id": "s-20260701-7",
+      "id": "s-20260702-7",
       "category": "sport",
-      "text": "FIFA 2026 VM-turneringen ser helt galen ut med spelare från hela världen!",
+      "text": "Björn Goop har släppt sina spikförslag inför V85 på Bergsåker. Vem vill man inte ha 35 miljoner på spel?",
       "followUp": [
-        "Har du testat att spela FIFA själv?",
-        "Vilket lag hejar du på när du spelar?"
+        "Har du spelat på trav någon gång?",
+        "Vilka hästar tycker du är mest intressanta just nu?"
       ]
     },
     {
-      "id": "s-20260701-8",
+      "id": "s-20260702-8",
       "category": "sport",
-      "text": "Hörde du om hundspannstävlingarna i Lappland? Tydligen sjukt tuffa och vackra vyer!",
+      "text": "Sveriges F19-landslag har Bosnien nästa på schemat. Det kan ju bli spännande!",
       "followUp": [
-        "Skulle du våga testa det själv?",
-        "Har du kikat på några roliga udda sporter nyligen?"
+        "Tror du att de kan ta hem segern?",
+        "Vad tycker du om att se juniorlandslag spela?"
       ]
     },
     {
-      "id": "s-20260701-9",
-      "category": "sport",
-      "text": "Alexander Isak verkar ha en grym säsong i Premier League! Riktigt bra för honom.",
-      "followUp": [
-        "Tycker du det är kul att se svenska spelare utomlands?",
-        "Har du en favorit bland svenska idrottare i andra ligor?"
-      ]
-    },
-    {
-      "id": "s-20260701-10",
-      "category": "sport",
-      "text": "Allsvenskan har en del spännande matcher på gång nu, speciellt derbyna!",
-      "followUp": [
-        "Vilken match ser du mest fram emot?",
-        "Har du något favoritlag i Allsvenskan?"
-      ]
-    },
-    {
-      "id": "s-20260701-11",
-      "category": "sport",
-      "text": "Sverige ska möta Japan i en avgörande match i VM snart. Det kommer bli spännande!",
-      "followUp": [
-        "Hur tror du det kommer gå?",
-        "Har du något speciellt minne från tidigare VM-matcher?"
-      ]
-    },
-    {
-      "id": "s-20260701-12",
-      "category": "sport",
-      "text": "Frölunda förlängde kontraktet med en nyckelspelare! De är ju riktigt bra på att bygga lag.",
-      "followUp": [
-        "Har du kikat på Frölunda matcher i år?",
-        "Vilket lag hejar du på i SHL?"
-      ]
-    },
-    {
-      "id": "s-20260701-13",
-      "category": "sport",
-      "text": "Svenska handbollslaget har kvalificerat sig för EM! Det borde bli kul att följa!",
-      "followUp": [
-        "Har du kikat på handboll nån gång?",
-        "Vad tycker du om att svenskar presterar så bra internationellt?"
-      ]
-    },
-    {
-      "id": "s-20260701-14",
-      "category": "sport",
-      "text": "Augusta Masters var ju otroligt med så många stjärnor! Det är alltid en hög nivå.",
-      "followUp": [
-        "Har du nån favoritspelare bland golfarna?",
-        "Tycker du det är kul att följa golfturneringar?"
-      ]
-    },
-    {
-      "id": "s-20260701-15",
-      "category": "sport",
-      "text": "Rallyt i Sverige 2026 hade ju galet väder. Det gör ju tävlingen ännu mer spännande!",
-      "followUp": [
-        "Har du nåt minne från rallyt tidigare?",
-        "Vad tycker du om motorsport generellt?"
-      ]
-    },
-    {
-      "id": "t-20260701-1",
+      "id": "t-20260702-1",
       "category": "teknik",
-      "text": "Såg du att Apple släppt nya AI-funktioner som kan översätta i realtid? Det känns som science fiction!",
+      "text": "Har du sett vad Elon Musk snackar om med Teslas bilar? Tydligen kan de bli ett gigantiskt AI-datacenter!",
       "followUp": [
-        "Har du testat något av dem?",
-        "Tror du att det verkligen funkar?"
+        "Tror du verkligen på det?",
+        "Skulle du lita på att en bil gör mer än att bara köra?"
       ]
     },
     {
-      "id": "t-20260701-2",
+      "id": "t-20260702-2",
       "category": "teknik",
-      "text": "Hörde du om Metas nya AI-app som ska vara som en personlig assistent? Låter ju lite för bra för att vara sant!",
+      "text": "Hörde du om Moltbook? Elon säger att det kan leda till att AI överträffar oss helt!",
       "followUp": [
-        "Skulle du lita på en AI som assistent?",
-        "Vad skulle du vilja att den gjorde för dig?"
+        "Tycker du att det är en bra eller dålig grej?",
+        "Skulle du våga använda en AI-vän?"
       ]
     },
     {
-      "id": "t-20260701-3",
+      "id": "t-20260702-3",
       "category": "teknik",
-      "text": "Kollade du på VimoAI? Den kan tydligen göra allt från att analysera bilder till att skriva texter. Sjukt fett!",
+      "text": "Såg du att Musk lanserat 'Macrohard'? De ska typ mixa Tesla med mjukvara på nåt sätt!",
       "followUp": [
-        "Vilken funktion skulle du använda mest?",
-        "Tror du AI någonsin kommer att överträffa oss?"
+        "Vad tror du de kommer kunna göra?",
+        "Har du någon favoritfunktion du skulle vilja se?"
       ]
     },
     {
-      "id": "t-20260701-4",
+      "id": "t-20260702-4",
       "category": "teknik",
-      "text": "Jag snubblade över HeyGen, den här AI-videogeneratorn som gör video av bara text. Kan man verkligen lita på en maskin för sånt?",
+      "text": "Kollade du på Meta's nya AR-glasögon? Holograms och AI-assistent, galet spännande!",
       "followUp": [
-        "Vad skulle du vilja göra en video om?",
-        "Har du sett några galna exempel på vad den kan skapa?"
+        "Tror du att de kommer vara bekväma att ha på sig?",
+        "Hur ser du på framtiden med sådana prylar?"
       ]
     },
     {
-      "id": "t-20260701-5",
+      "id": "t-20260702-5",
       "category": "teknik",
-      "text": "Telldus släpper fina smarta hem-prylar nu, allt från belysning till säkerhet. Sköna grejer om du vill ha ett kapabelt hem!",
+      "text": "Nvidia släppte ny AI-teknik för robotträning nu! Det känns som vi närmar oss sci-fi-grejer!",
       "followUp": [
-        "Har du något smart hem-gadget redan?",
-        "Skulle du våga gå all in på smarta grejer i hemmet?"
+        "Vad tror du om framtida spel med sån teknik?",
+        "Skulle du få en robotvän om det blev möjligt?"
       ]
     },
     {
-      "id": "t-20260701-6",
+      "id": "t-20260702-6",
       "category": "teknik",
-      "text": "Woox har lanserat nya smarta enheter som videodörrklockor och sensorprylar. Lite häftigt att de kan hålla koll på allt!",
+      "text": "Helt sjukt, Tesla har lanserat Grok AI i bilar nu! Snacka om att prata med din bil!",
       "followUp": [
-        "Är du sugen på smarta hem-gadgets?",
-        "Vad tycker du om att ha en kamera vid dörren?"
-      ]
-    },
-    {
-      "id": "t-20260701-7",
-      "category": "teknik",
-      "text": "StyraHem verkar vara en intressant aktör på marknaden för smarta hem med personlig rådgivning. Skulle du ta hjälp för att styra upp ditt hem?",
-      "followUp": [
-        "Tycker du att personlig rådgivning behövs?",
-        "Har du nåt smart hem-projekt på gång?"
-      ]
-    },
-    {
-      "id": "t-20260701-8",
-      "category": "teknik",
-      "text": "Jula har dragit igång med egna smarta hem-produkter. Perfekt om man vill ha sådana prylar utan att spräcka plånboken!",
-      "followUp": [
-        "Vilken smart pryl skulle du köpa först?",
-        "Tror du att de verkligen fungerar som utlovat?"
-      ]
-    },
-    {
-      "id": "t-20260701-9",
-      "category": "teknik",
-      "text": "IONIQ 5 ser ju grym ut! Den känns som den har typ allt en elbil kan behöva och lite till.",
-      "followUp": [
-        "Har du testkört någon elbil än?",
-        "Vad skulle du vilja ha i en drömelbil?"
-      ]
-    },
-    {
-      "id": "t-20260701-10",
-      "category": "teknik",
-      "text": "Har du hört att IONIQ 9 har en räckvidd på upp till 620 km? Det låter ju riktigt lovande!",
-      "followUp": [
-        "Låter det som en bil du skulle köra?",
-        "Vilken är din drömbil, el eller fossil?"
-      ]
-    },
-    {
-      "id": "t-20260701-11",
-      "category": "teknik",
-      "text": "SpaceX testar sin Starfall-farkost nu. Tänk att allt detta händer medan vi sitter på jorden!",
-      "followUp": [
-        "Skulle du vilja åka ut i rymden?",
-        "Tror du att det kommer bli fler rymdföretag i framtiden?"
-      ]
-    },
-    {
-      "id": "t-20260701-12",
-      "category": "teknik",
-      "text": "SpaceX:s fram2-mission snackas det om. Första bemannade polära omloppsbanan, hur häftigt är inte det?",
-      "followUp": [
-        "Skulle du gärna vara med på en sån resa?",
-        "Vad tror du om framtiden för bemannade rymdresor?"
-      ]
-    },
-    {
-      "id": "t-20260701-13",
-      "category": "teknik",
-      "text": "Det är lite sjukt att SpaceX har genomfört sin 32:a Dragon-försörjningsuppdrag. De är verkligen i framkant!",
-      "followUp": [
-        "Vad skulle du skicka upp till rymden om du fick chansen?",
-        "Tycker du att rymden borde vara mer tillgänglig för alla?"
-      ]
-    },
-    {
-      "id": "t-20260701-14",
-      "category": "teknik",
-      "text": "Sekur är tydligen ett svenskt företag som fokuserar på cybersäkerhet. Bra med fler alternativ för att skydda sig!",
-      "followUp": [
-        "Använder du några speciella säkerhetslösningar?",
-        "Hur viktigt är cyberskydd för dig?"
-      ]
-    },
-    {
-      "id": "t-20260701-15",
-      "category": "teknik",
-      "text": "Har du hört att NCSC jobbar för att stärka Sveriges cybersäkerhet? Känns viktigt med tanke på hur mycket vi är online.",
-      "followUp": [
-        "Känner du att vi gör tillräckligt för att skydda oss?",
-        "Har du hört om några nya hot?"
+        "Skulle du klara av att ha en AI-assistent som pratar tillbaka?",
+        "Kan du tänka dig att den kan bli din coach också?"
       ]
     },
     {
