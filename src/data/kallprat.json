@@ -33,210 +33,57 @@
   ],
   "kallprat": [
     {
-      "id": "n-20260702-1",
+      "id": "n-20260703-1",
       "category": "nyheter",
-      "text": "Såg du att KALEO drar ut på en stor turné? De har till och med en konsert i Stockholm om några år!",
+      "text": "Såg du den senaste TikTok-trenden med alla de där galna matlagningstipsen? Det känns som att alla gör det nu.",
       "followUp": [
-        "Skulle du vilja gå dit?",
-        "Vilken låt hoppas du att de spelar?"
+        "Har du testat något av de recepten?",
+        "Vilken mattrend tycker du är mest absurt?"
       ]
     },
     {
-      "id": "n-20260702-2",
-      "category": "nyheter",
-      "text": "Hörde du grejen med Lily Allen och hennes korta konserter? Fansen är ju inte helt nöjda!",
-      "followUp": [
-        "Vad tycker du om korta konserter?",
-        "Har du sett henne live någon gång?"
-      ]
-    },
-    {
-      "id": "n-20260702-3",
-      "category": "nyheter",
-      "text": "Visste du att Sundsvall har flest A-traktorer i Sverige nu? Snacka om att vara trendy!",
-      "followUp": [
-        "Har du kört A-traktor själv?",
-        "Vad är det mest udda fordonet du har sett?"
-      ]
-    },
-    {
-      "id": "n-20260702-4",
-      "category": "nyheter",
-      "text": "Såg du att Taylor Swift och Travis Kelce gifter sig på Madison Square Garden? Det kommer bli en riktig happening!",
-      "followUp": [
-        "Vem tror du kommer sjunga på bröllopet?",
-        "Tror du att det blir live-streaming?"
-      ]
-    },
-    {
-      "id": "n-20260702-5",
-      "category": "nyheter",
-      "text": "Kollade du på filmen om Michael Jackson? Den har blivit den mest inkomstbringande filmen i biohistorien!",
-      "followUp": [
-        "Vad tyckte du om filmen?",
-        "Har du någon favoritlåt av honom?"
-      ]
-    },
-    {
-      "id": "n-20260702-6",
-      "category": "nyheter",
-      "text": "Sivers Semiconductors har fått en rejäl smäll på börsen efter sin senaste nyemission. Rätt galet!",
-      "followUp": [
-        "Är du intresserad av aktier?",
-        "Kollade du på nån tech-podd nyligen?"
-      ]
-    },
-    {
-      "id": "n-20260702-7",
-      "category": "nyheter",
-      "text": "Hörde du om den där kuppen mot Louvren? Kronjuvelerna stals mitt på ljusa dagen!",
-      "followUp": [
-        "Tror du att de får tillbaka dem?",
-        "Har du varit i Louvren?"
-      ]
-    },
-    {
-      "id": "n-20260702-8",
-      "category": "nyheter",
-      "text": "Va sjukt att fenomenet 'Brain-rot Summer' med dansande kaffekoppar sprider sig på TikTok. Vad är det ens?",
-      "followUp": [
-        "Har du sett några roliga klipp från det?",
-        "Vilken är din favorittrend just nu på TikTok?"
-      ]
-    },
-    {
-      "id": "s-20260702-1",
+      "id": "s-20260703-1",
       "category": "sport",
-      "text": "Såg du matchen mot Frankrike? Snacka om en snöplig förlust för Sverige.",
-      "followUp": [
-        "Vad tycker du om laget framöver?",
-        "Har du några bra lagnamn på lager om de byter ut spelarna?"
-      ]
-    },
-    {
-      "id": "s-20260702-2",
-      "category": "sport",
-      "text": "Hörde du att Elias Rosén har dragit från Växjö? Det kom som en överraskning.",
-      "followUp": [
-        "Tror du han hittar en bättre klubb?",
-        "Vad har du för känslor kring hans beslut?"
-      ]
-    },
-    {
-      "id": "s-20260702-3",
-      "category": "sport",
-      "text": "Kollade du på ryktena om Jesper Ceesay? Portsmouth och Al Fateh vill ha honom.",
-      "followUp": [
-        "Skulle du handla honom om du var tränare?",
-        "Vart tror du han hör hemma bäst?"
-      ]
-    },
-    {
-      "id": "s-20260702-4",
-      "category": "sport",
-      "text": "Victor Nilsson Lindelöf verkar ha funderingar kring sin framtid efter VM. Trist läge.",
-      "followUp": [
-        "Tror du han stannar kvar i landslaget?",
-        "Vad skulle en ny klubb kunna erbjuda honom?"
-      ]
-    },
-    {
-      "id": "s-20260702-5",
-      "category": "sport",
-      "text": "Nils Höglander fick sig en trejd till Nashville! Spännande grej.",
-      "followUp": [
-        "Tror du han kommer trivas där?",
-        "Kollade du på hans tidigare matcher?"
-      ]
-    },
-    {
-      "id": "s-20260702-6",
-      "category": "sport",
-      "text": "Marcus Gidlöf har åkt på en skada. Leksand kommer sakna honom nu.",
-      "followUp": [
-        "Har du sett något av hans matcher den här säsongen?",
-        "Hur länge tror du han blir borta?"
-      ]
-    },
-    {
-      "id": "s-20260702-7",
-      "category": "sport",
-      "text": "Karmine Corp bombade rejält mot Liquid i den senaste e-sportmatchen. Chockat?",
-      "followUp": [
-        "Hur kollar du på e-sport nuförtiden?",
-        "Är det någon lag som du hejar på?"
-      ]
-    },
-    {
-      "id": "s-20260702-8",
-      "category": "sport",
-      "text": "Sverige blev verkligen utslagna av Frankrike i VM. Så sjukt frustrerande!",
+      "text": "Sverige åkte ju ut ur VM mot Frankrike, och det var verkligen en överkörning. Vad hände där?",
       "followUp": [
         "Kollade du på matchen?",
-        "Vad skulle du ändra i lagets strategi om du fick bestämma?"
+        "Tycker du att laget har någon chans nästa gång?"
       ]
     },
     {
-      "id": "s-20260702-9",
+      "id": "s-20260703-2",
       "category": "sport",
-      "text": "Det har släppts en bild från TV4:s sändning av matchen mot Frankrike. Hela sociala medier snackar om den.",
+      "text": "Duplantis missade att slå sitt eget rekord i Paris, hur sjukt är inte det?",
       "followUp": [
-        "Tycker du att bilder från matcher påverkar hur vi ser på spelet?",
-        "Har du sett någon riktigt minnesvärd matchbild nyligen?"
+        "Har du testat att hoppa stav någon gång?",
+        "Tror du han slår rekordet nästa gång?"
       ]
     },
     {
-      "id": "s-20260702-10",
+      "id": "s-20260703-3",
       "category": "sport",
-      "text": "SL har dragit igång en riktigt unik åtgärd inför VM-matchen. Spännande grepp!",
+      "text": "Frölunda har förlängt med en av sina viktigaste spelare, känns som smart drag inför säsongen!",
       "followUp": [
-        "Vad tror du om deras strategi?",
-        "Har du testat något liknande på en match?"
+        "Vilken spelare gillar du bäst i laget?",
+        "Vad tycker du om Frölundas chanser i år?"
       ]
     },
     {
-      "id": "s-20260702-11",
+      "id": "s-20260703-4",
       "category": "sport",
-      "text": "En spelare säger sig ha koll på hur man stoppar Mbappé. Det lär bli intressant!",
+      "text": "Visste du att Serena förlorade redan i första omgången av Wimbledon? Helt galet!",
       "followUp": [
-        "Tror du det går att stoppa honom?",
-        "Har du sett några bra klipp på försvarsspelare mot honom?"
+        "Har du följt Wimbledon i år?",
+        "Vilken spelare hejar du på?"
       ]
     },
     {
-      "id": "s-20260702-12",
+      "id": "s-20260703-5",
       "category": "sport",
-      "text": "Visste du att flera svenskar har blivit släppta av sina NHL-klubbar?",
+      "text": "Thuram ser ut att missa matchen mot Sverige, hur mycket kommer det påverka?",
       "followUp": [
-        "Tror du att de kommer tillbaka starkare?",
-        "Vilka svenskar är du mest taggad på att följa?"
-      ]
-    },
-    {
-      "id": "s-20260702-13",
-      "category": "sport",
-      "text": "Florida Panthers kanske värvar tillbaka en gammal hatobjekt! Snacka om att blanda känslor!",
-      "followUp": [
-        "Hur tror du fansen kommer reagera?",
-        "Vill du ha tillbaka någon spelare som varit ifrån klubben?"
-      ]
-    },
-    {
-      "id": "s-20260702-14",
-      "category": "sport",
-      "text": "Sverige tog sig vidare till final efter att ha slagit Ungern i volleyboll. Vad bra de är!",
-      "followUp": [
-        "Har du testat på volleyboll själv?",
-        "Vilket idrottslag hejar du mest på?"
-      ]
-    },
-    {
-      "id": "s-20260702-15",
-      "category": "sport",
-      "text": "Duplantis var överlägsen i Paris men missade sitt eget världsrekord. Snacka om att vara nära!",
-      "followUp": [
-        "Tror du han kommer slå sitt rekord snart?",
-        "Är du sportig själv, eller nöjer du dig med att kolla?"
+        "Tror du det kommer att göra skillnad i spelet?",
+        "Vilken match ser du mest fram emot?"
       ]
     },
     {
