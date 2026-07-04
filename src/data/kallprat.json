@@ -294,93 +294,138 @@
       ]
     },
     {
-      "id": "t-20260703-1",
+      "id": "t-20260704-1",
       "category": "teknik",
-      "text": "Har du koll på de nya Apple Intelligence-funktionerna? Liveöversättning och sådana grejer låter ju riktigt fränt!",
+      "text": "Hörde du om Humane's Ai Pin? Det känns som en sci-fi grej med laserprojektion och allt.",
       "followUp": [
-        "Tror du att det kommer underlätta mycket?",
-        "Skulle du använda smarta åtgärder i Genvägar?"
+        "Tror du man skulle kunna vänja sig vid att ha en sån istället för mobil?",
+        "Skulle du våga använda den offentligt?"
       ]
     },
     {
-      "id": "t-20260703-2",
+      "id": "t-20260704-2",
       "category": "teknik",
-      "text": "Meta släppte en ny AI-app som styrs av Llama 4. Jag undrar om det verkligen funkar så bra som de säger.",
+      "text": "Kollade du på de nya Ray-Ban glasögonen från Meta? Att livestreama från dem är ju helt galet.",
       "followUp": [
-        "Skulle du lita på en AI som personlig assistent?",
-        "Har du testat några av de andra plattformarna?"
+        "Vilket skulle du livestreama först, en konsert eller en utekväll?",
+        "Tror du det är coolt eller bara creepy?"
       ]
     },
     {
-      "id": "t-20260703-3",
+      "id": "t-20260704-3",
       "category": "teknik",
-      "text": "Waymos nya självkörande bil Ojai är här! Den ska klara av svåra väderförhållanden också, hur coolt är inte det?",
+      "text": "Visst är det sjukt hur Amazon lyfter Alexa med generativ AI? Prata med den som med en kompis!",
       "followUp": [
-        "Tror du att vi snart ser dem på gatorna?",
-        "Skulle du våga åka i en självkörande bil?"
+        "Har du testat att snacka mer med din Alexa innan?",
+        "Tror du den kommer få personlighet som en katt eller hund?"
       ]
     },
     {
-      "id": "t-20260703-4",
+      "id": "t-20260704-4",
       "category": "teknik",
-      "text": "SpaceX testar Starfall för att frakta gods från rymden. Det låter helt galet!",
+      "text": "Google släppte ju Pixel 8! Ser ut som om de verkligen siktar på att fånga uppmärksamheten.",
       "followUp": [
-        "Tror du att vi kommer se rymdleveranser i framtiden?",
-        "Vad skulle du skicka till rymden om du fick chansen?"
+        "Vilken funktion ser du mest fram emot?",
+        "Hade du bytt ut din nuvarande telefon mot en ny Pixel?"
       ]
     },
     {
-      "id": "t-20260703-5",
+      "id": "t-20260704-5",
       "category": "teknik",
-      "text": "Har du hört om det nya sociala medier-nätverket Upscrolled? De växer galet snabbt just nu!",
+      "text": "Woho, Valve har släppt en OLED-variant av Steam Deck! Ser ut som en dröm för gamers.",
       "followUp": [
-        "Vad tror du gör att folk flockas dit?",
-        "Kollade du in deras funktioner än?"
+        "Vad är det mest ultimata spelet du skulle spela på den?",
+        "Tror du det skulle funka att ta med den på resor?"
       ]
     },
     {
-      "id": "t-20260703-6",
+      "id": "t-20260704-6",
       "category": "teknik",
-      "text": "Cybersäkerhet är tydligen ett stort fokus nu i EU. Det känns ju verkligen aktuellt med alla dataläckor som dykt upp.",
+      "text": "Meta har tydligen lanserat 28 AI-personligheter! Snacka om att skapa legit imitatorer.",
       "followUp": [
-        "Har du något specialknep för att skydda din data?",
-        "Tror du att det kommer bli värre innan det blir bättre?"
+        "Vilken kändis skulle du vilja ha som AI-kompis?",
+        "Hur många skulle du våga chatta med på en vecka?"
       ]
     },
     {
-      "id": "t-20260703-7",
+      "id": "t-20260704-7",
       "category": "teknik",
-      "text": "Såg du den nya AI-appen som kombinerar chatt och samarbete? Det kan ju vara bra för att få ordning på allt.",
+      "text": "Kollade du på den senaste rapporten om USB-enheter och skadlig kod? Riktigt skrämmande faktiskt.",
       "followUp": [
-        "Tror du att det funkar smidigt?",
-        "Skulle du använda en sådan i ditt team?"
+        "Har du hört om några konstiga saker folk fått sina datorer med?",
+        "Känner du dig säker med USB-enheter eller är du paranoid?"
       ]
     },
     {
-      "id": "t-20260703-8",
+      "id": "t-20260704-8",
       "category": "teknik",
-      "text": "Mobilspel dominerar överallt just nu, och de flesta spelare är över 30. Har du märkt av det?",
+      "text": "Ai Pin från Humane som projicerar grejer på din hand låter ju som något direkt från en framtidsfilm.",
       "followUp": [
-        "Vad spelar du helst på mobilen?",
-        "Tycker du konsolspel är på väg att försvinna?"
+        "Skulle det vara smidigt eller klumpigt att använda den?",
+        "Vilka appar skulle du vilja ha direkt på handen?"
       ]
     },
     {
-      "id": "t-20260703-9",
+      "id": "t-20260704-9",
       "category": "teknik",
-      "text": "Visste du att PC-gaming växer mycket mer än konsolspel just nu? Det känns som en liten revolution!",
+      "text": "Meta Quest 3 släpps snart och det verkar så värt att kolla in för gamers.",
       "followUp": [
-        "Är du mer av en PC- eller konsolspelare?",
-        "Vilket spel har du spelat mest nyligen?"
+        "Har du testat VR tidigare eller är du fortfarande skeptisk?",
+        "Tror du att det kommer att bli din nya spelstandard?"
       ]
     },
     {
-      "id": "t-20260703-10",
+      "id": "t-20260704-10",
       "category": "teknik",
-      "text": "SpaceX:s Fram2-uppdrag har just genomfört en bemannad polär omloppsbana. Hur vilt är inte det?",
+      "text": "Google har släppt Pixel Watch 2! Känns som det börjar bli riktigt tufft på marknaden för smarta klockor.",
       "followUp": [
-        "Tror du att vi snart ser fler privata rymduppdrag?",
-        "Vad skulle du vilja göra i rymden ifall du fick chansen?"
+        "Vilken funktion skulle du helst vilja ha på en smartklocka?",
+        "Tror du att den kan konkurrera med andra populära modeller?"
+      ]
+    },
+    {
+      "id": "t-20260704-11",
+      "category": "teknik",
+      "text": "Hörde att Ai Pin har röststyrning för att ta bilder och skicka meddelanden! Snacka om framtidsgrej!",
+      "followUp": [
+        "Hur coolt skulle det vara att bara säga \"skjut\" för att ta en selfie?",
+        "Tror du folk kommer att använda den med stil eller bara klanta sig?"
+      ]
+    },
+    {
+      "id": "t-20260704-12",
+      "category": "teknik",
+      "text": "Quest 3 kommer stödja Xbox Cloud Gaming! Snacka om att utöka spelupplevelsen.",
+      "followUp": [
+        "Vad är det första spelet du skulle dra igång?",
+        "Tror du VR gör sig bra för cloud gaming eller är det för bökigt?"
+      ]
+    },
+    {
+      "id": "t-20260704-13",
+      "category": "teknik",
+      "text": "Google uppdaterar Pixel Buds Pro med coola nya funktioner! Låter som ett lyft för musiken.",
+      "followUp": [
+        "Vilken typ av musik måste du alltid ha bra ljud på?",
+        "Skulle du använda dem mer som hörlurar än som headset?"
+      ]
+    },
+    {
+      "id": "t-20260704-14",
+      "category": "teknik",
+      "text": "Humane’s Ai Pin kan styras med gester! Hur lady gaga blev en ikon men digitalt.",
+      "followUp": [
+        "Tror du att röra handen över handleden för att styra är framtiden?",
+        "Vad skulle vara den mest onödiga gesten du skulle använda?"
+      ]
+    },
+    {
+      "id": "t-20260704-15",
+      "category": "teknik",
+      "text": "Meta Quest 3 och mixed reality låter som framtiden för spel! Om man kan se sin egen soffa mitt i en fight, vem vet?",
+      "followUp": [
+        "Skulle du vilja spela ett spel som blandar världen runt dig?",
+        "Vilket spel skulle du vilja se i mixed reality?"
       ]
     },
     {
