@@ -168,129 +168,102 @@
       ]
     },
     {
-      "id": "s-20260703-1",
+      "id": "s-20260704-1",
       "category": "sport",
-      "text": "Såg du att Eric Smith testas inför VM-matchen mot Japan? Hoppas han är fit for fight!",
+      "text": "Kamratskap, hur sjukt var det inte att Sverige åkte ut ur VM mot Frankrike med en 0–3-förlust?",
       "followUp": [
-        "Tror du han kommer vara redo i tid?",
-        "Har du sett nån av hans tidigare matcher?"
+        "Synd eller vad?",
+        "Tror du de kommer vara starkare nästa gång?"
       ]
     },
     {
-      "id": "s-20260703-2",
+      "id": "s-20260704-2",
       "category": "sport",
-      "text": "Karmine Corp tog en riktig smäll mot Liquid i e-sportturneringen. Det såg inte bra ut!",
+      "text": "Frankrike krossade ju Sverige i VM, 3–0? Snacka om besvikelse!",
       "followUp": [
-        "Har du kollat på några matcher där?",
-        "Vad tyckte du om spelet?"
+        "Tyckte du det såg ut som en uppvisning?",
+        "Vad hände med vårt försvar?"
       ]
     },
     {
-      "id": "s-20260703-3",
+      "id": "s-20260704-3",
       "category": "sport",
-      "text": "Nils Höglander har blivit trejdad till Nashville Predators, va sjukt!",
+      "text": "Duplantis missade sitt världsrekord i Paris – vad hände där egentligen?",
       "followUp": [
-        "Har du följt hans karriär hittills?",
-        "Tror du han kommer att sticka ut där?"
+        "Tror du han kommer ta det snart?",
+        "Har du sett någon av hans tidigare hopp?"
       ]
     },
     {
-      "id": "s-20260703-4",
+      "id": "s-20260704-4",
       "category": "sport",
-      "text": "Franska landslaget har några viktiga spelare borta mot Sverige. Det blir ju spännande!",
+      "text": "Såg att Serena Williams åkte ut i första omgången på Wimbledon. Kan det verkligen vara sant?",
       "followUp": [
-        "Vilka tror du kommer ta hem matchen?",
-        "Har du några favoriter i det franska laget?"
+        "Har hon tappat formen?",
+        "Vilken är din favorittennisstjärna just nu?"
       ]
     },
     {
-      "id": "s-20260703-5",
+      "id": "s-20260704-5",
       "category": "sport",
-      "text": "Jonna Sundling lämnar tydligen det svenska längdlandslaget. Så oväntat!",
+      "text": "Emil Andrae skrev på för Toronto Maple Leafs! Hänger du fortfarande med i NHL?",
       "followUp": [
-        "Tror du hon kommer göra comeback senare?",
-        "Har du följt hennes karriär?"
+        "Tror du han kommer göra skillnad där?",
+        "Vilket lag hejar du på i år?"
       ]
     },
     {
-      "id": "s-20260703-6",
+      "id": "s-20260704-6",
       "category": "sport",
-      "text": "Victor Nilsson Lindelöf fortsätter i landslaget trots förlusten mot Frankrike. Stark kille!",
+      "text": "Markus Ljungh har dragit till Kölner Haie i tyska ligan. Galen flytt!",
       "followUp": [
-        "Vad är din favoritlandskamp som du har sett?",
-        "Tror du vi har chans nästa gång?"
+        "Har du koll på den ligan?",
+        "Vad tycker du om spelare som testar nya ligor?"
       ]
     },
     {
-      "id": "s-20260703-7",
+      "id": "s-20260704-7",
       "category": "sport",
-      "text": "Marocko klarade straffavgörandet och avancerar! Snacka om dramatik!",
+      "text": "Oskar Lindblom blev avstängd i kvartsfinalen! Snacka om att det kan bli en bra eller dålig grej.",
       "followUp": [
-        "Vad tyckte du om straffarna?",
-        "Har du en favorit i marockanska laget?"
+        "Hur viktigt är det med disciplin i laget?",
+        "Vad gör man ens vid en slewfot?"
       ]
     },
     {
-      "id": "s-20260703-8",
+      "id": "s-20260704-8",
       "category": "sport",
-      "text": "Tyskland åkte ut ur VM på ett kontroversiellt mål. Snacka om otur!",
+      "text": "Såg att Sirius och Mjällby möttes i Allsvenskan, vilken match!",
       "followUp": [
-        "Vad tycker du om VAR-systemet?",
-        "Om du fick ändra en grej i reglerna, vad skulle det vara?"
+        "Tror du de har chans på Europaplats?",
+        "Har du någon favorit i Allsvenskan just nu?"
       ]
     },
     {
-      "id": "s-20260703-9",
+      "id": "s-20260704-9",
       "category": "sport",
-      "text": "Ola Toivonen minns sitt mål mot Frankrike från 2017. Euforin måste ha varit galen!",
+      "text": "Degerfors mot Malmö FF såg ju riktigt spännande ut. Vad tyckte du om matchen?",
       "followUp": [
-        "Har du ett minne av något avgörande mål?",
-        "Tror du han får göra fler sådana i framtiden?"
+        "Tror du Degerfors kan överraska fler lag?",
+        "Vad är bästa minnet från Allsvenskan?"
       ]
     },
     {
-      "id": "s-20260703-10",
+      "id": "s-20260704-10",
       "category": "sport",
-      "text": "Haha, David Beckham valde Wimbledon framför VM. Snacka om stil!",
+      "text": "Hammarby fick en ny tränare, och nu är det dags för Vasic att visa vad han går för!",
       "followUp": [
-        "Skulle du välja tennis över fotboll?",
-        "Har du sett matcher live på Wimbledon?"
+        "Ser du fram emot nästa säsong?",
+        "Tror du han kan få dem på rätt spår?"
       ]
     },
     {
-      "id": "s-20260703-11",
+      "id": "s-20260704-11",
       "category": "sport",
-      "text": "Brasilien avancerade efter ett rent drama på stopptid. Man kan ju inte slita sig!",
+      "text": "Frölundas sportchef hyllade Ivar Stenberg efter NHL-draften, det verkar ju lovande!",
       "followUp": [
-        "Har du sett några galna matcher på senare tid?",
-        "Vad är ditt mest minnesvärda ögonblick från VM?"
-      ]
-    },
-    {
-      "id": "s-20260703-12",
-      "category": "sport",
-      "text": "Frankrike verkar ställa upp med starka spelare mot Sverige. Blir spännande!",
-      "followUp": [
-        "Vem tror du blir matchens stjärna?",
-        "Hur känns det inför det här mötet?"
-      ]
-    },
-    {
-      "id": "s-20260703-13",
-      "category": "sport",
-      "text": "Oj, Marcus Thuram missar matchen mot Sverige p.g.a. skadeproblem. Det kan påverka!",
-      "followUp": [
-        "Vem tror du kommer fylla hans plats?",
-        "Har du en favoritspelare från Sverige?"
-      ]
-    },
-    {
-      "id": "s-20260703-14",
-      "category": "sport",
-      "text": "Hörde att en svensk spelare har förtroende för att stoppa Mbappé. Ambitiöst!",
-      "followUp": [
-        "Tror du han har en chans?",
-        "Kollade du på hans senaste matcher?"
+        "Vad tycker du om svenska juniorer som går till NHL?",
+        "Har du sett någon av hans matcher?"
       ]
     },
     {
