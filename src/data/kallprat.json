@@ -33,228 +33,129 @@
   ],
   "kallprat": [
     {
-      "id": "n-20260705-1",
+      "id": "n-20260706-1",
       "category": "nyheter",
-      "text": "Såg du att Sanna Nielsen kvalade in till finalen i Melodifestivalen med sin nya låt? Den känns riktigt bra!",
+      "text": "Såg du den där sushi-mukbang av Hana Shaqiri som typ sprängde TikTok? Sex miljoner visningar, galet!",
       "followUp": [
-        "Har du lyssnat på den redan?",
-        "Vilket bidrag tror du tar hem hela tävlingen?"
+        "Har du testat att göra mukbang själv?",
+        "Vilken sushi är din favorit?"
       ]
     },
     {
-      "id": "n-20260705-2",
+      "id": "n-20260706-2",
       "category": "nyheter",
-      "text": "Robyn ska slå på stort med tre konserter i Avicii Arena nästa sommar! Det kan bli riktigt magiskt.",
+      "text": "Hörde du att Expressen är den mest inflytelserika på TikTok nu? Halv miljon följare, det är inget att skratta åt!",
       "followUp": [
-        "Skulle du vilja gå på en av dem?",
-        "Har du någonsin sett henne live?"
+        "Kollade du deras senast trendiga klipp?",
+        "Vilket mediekonto följer du mest på TikTok?"
       ]
     },
     {
-      "id": "n-20260705-3",
+      "id": "n-20260706-3",
       "category": "nyheter",
-      "text": "Hörde du att Molly Sandén kommer att uppträda på Karlskrona Skärgårdsfest? Det är ju perfekt sommarhäng!",
+      "text": "Va, Kylie Jenner rökande i Charli XCX:s nya film? Jag undrar vad fansen tycker om det!",
       "followUp": [
-        "Planerar du att dra dit?",
-        "Vilken av hennes låtar är din favorit?"
+        "Skulle du våga göra något liknande i en video?",
+        "Tror du att det blir en hit eller floppar?"
       ]
     },
     {
-      "id": "n-20260705-4",
+      "id": "n-20260706-4",
       "category": "nyheter",
-      "text": "K-pop-världen har fått en rejäl hype nu där flera grupper ska släppa nytt i juli, typ i-dle och KIHYUN!",
+      "text": "Hör du om The Cardigans som som ska återförenas 2026? Snacka om nostalgi!",
       "followUp": [
-        "Har du någon favoritgrupp?",
-        "Tror du att K-pop kommer att växa ännu mer i Sverige?"
+        "Vilken låt från dem har du på repeat nu?",
+        "Är du sugen på att gå på konserten?"
       ]
     },
     {
-      "id": "n-20260705-5",
+      "id": "n-20260706-5",
       "category": "nyheter",
-      "text": "Kollade du på trailern för 'Enola Holmes 3'? Millie Bobby Brown ser ut att leverera som alltid!",
+      "text": "Kollade du på Icona Pops nya album-nyhet? 'Ritual' släpps i augusti 2026, och jag är hypad!",
       "followUp": [
-        "Ska du binge-wata den när den kommer?",
-        "Har du sett de andra filmerna?"
+        "Har du någon av deras låtar på din spellista?",
+        "Vad har du hoppats på att de ska släppa?"
       ]
     },
     {
-      "id": "n-20260705-6",
+      "id": "n-20260706-6",
       "category": "nyheter",
-      "text": "Christopher Nolans version av 'The Odyssey' har premiär snart, och det ser ut som en riktig blockbuster!",
+      "text": "Loreen's 'Tattoo' exploderade på TikTok i år! 2,6 miljarder visningar, sjukt!",
       "followUp": [
-        "Tror du att den kan bli en hit?",
-        "Är du fan av Nolans filmer?"
+        "Kollade du på några av klippen?",
+        "Finns det någon annan låt som du tror kan slå det?"
       ]
     },
     {
-      "id": "n-20260705-7",
-      "category": "nyheter",
-      "text": "Cloud Dancer är tydligen färgen som alla kommer att ha på boho-blusar i sommar. Så följer trenden?",
-      "followUp": [
-        "Har du en liknande stil?",
-        "Vad är din sommaroutfit-go-to?"
-      ]
-    },
-    {
-      "id": "n-20260705-8",
-      "category": "nyheter",
-      "text": "Zoe Kravitz pryder omslaget till British Vogue nu i juli, och hon ser helt fantastiskt ut!",
-      "followUp": [
-        "Har du sett intervjun med henne?",
-        "Vilken kändis skulle du vilja se på ett omslag?"
-      ]
-    },
-    {
-      "id": "n-20260705-9",
-      "category": "nyheter",
-      "text": "Good Morning America släpper sin sommarkonsertserie, och listan ser grym ut!",
-      "followUp": [
-        "Skulle du vilja gå på någon av konserterna?",
-        "Vem skulle du vilja se live i sommar?"
-      ]
-    },
-    {
-      "id": "n-20260705-10",
-      "category": "nyheter",
-      "text": "Karlskrona Skärgårdsfest verkar bli ett roligt event i sommar med bra artister!",
-      "followUp": [
-        "Har du varit på något liknande festival innan?",
-        "Vilket evenemang ser du mest fram emot?"
-      ]
-    },
-    {
-      "id": "n-20260705-11",
-      "category": "nyheter",
-      "text": "Allsång på Skansen drar igång snart! Tänk att sjunga tillsammans med alla där!",
-      "followUp": [
-        "Har du några låtar du hoppas få höra?",
-        "Tror du att vädret kommer att hålla sig bra?"
-      ]
-    },
-    {
-      "id": "n-20260705-12",
-      "category": "nyheter",
-      "text": "Från juli kommer det nya lagar om andrahandsuthyrning och lite annat som kan påverka många.",
-      "followUp": [
-        "Har du koll på vad du måste tänka på?",
-        "Är det något du verkligen tycker är viktigt?"
-      ]
-    },
-    {
-      "id": "n-20260705-13",
-      "category": "nyheter",
-      "text": "Sommaren 2026 snackas det om bröllopstrender som sicilianskt ljus. Det låter ju både romantiskt och lite coolt!",
-      "followUp": [
-        "Planerar du något bröllop eller har du varit på ett nyligen?",
-        "Vilken bröllopstrend gillar du bäst?"
-      ]
-    },
-    {
-      "id": "n-20260705-14",
-      "category": "nyheter",
-      "text": "Eurovision fyller 70 år nästa år och hype:n är på topp! Det kommer bli en riktig fest.",
-      "followUp": [
-        "Vilket år minns du bäst från Eurovision?",
-        "Har du någon favoritartist som borde tävla?"
-      ]
-    },
-    {
-      "id": "n-20260705-15",
-      "category": "nyheter",
-      "text": "Bad Bunny lägger till en extrakonsert i Stockholm, snacka om att publiken är galen för honom!",
-      "followUp": [
-        "Skulle du vilja gå?",
-        "Har du hört någon av hans låtar som du fastnat för?"
-      ]
-    },
-    {
-      "id": "s-20260705-1",
+      "id": "s-20260706-1",
       "category": "sport",
-      "text": "Såg du att Sverige körde en träningsmatch mot Grekland? Det var riktigt kul att se!",
+      "text": "Såg du Sverige spela mot Frankrike i VM? Det var en rysare!",
       "followUp": [
-        "Tyckte du de såg bra ut?",
-        "Vilka spelare imponerade mest på dig?"
+        "Vad tyckte du om målet?",
+        "Skulle du ha vågat ta straffen?"
       ]
     },
     {
-      "id": "s-20260705-2",
+      "id": "s-20260706-2",
       "category": "sport",
-      "text": "Hörde du att Viktor Gyökeres har anslutit till VM-samlingen? Snacka om hype!",
+      "text": "Hörde du att F19-landslaget drog igång EM med seger mot Polen? En bra start!",
       "followUp": [
-        "Tror du han kommer få speltid?",
-        "Vilken roll tror du han får i laget?"
+        "Har du koll på några spelare i laget?",
+        "Tror du de kan gå hela vägen?"
       ]
     },
     {
-      "id": "s-20260705-3",
+      "id": "s-20260706-3",
       "category": "sport",
-      "text": "Gabriel Gudmundsson var sjuk och missade träningen inför VM. Det känns ju alltid tråkigt med skador!",
+      "text": "Kollade du på när Pelle Larsson tog över basketlandslaget? Det kan bli spännande!",
       "followUp": [
-        "Har du sett om det är något allvarligt?",
-        "Vem skulle du sätta in istället?"
+        "Vilket lag hejar du på i basket?",
+        "Tror du han får laget att lyfta?"
       ]
     },
     {
-      "id": "s-20260705-4",
+      "id": "s-20260706-4",
       "category": "sport",
-      "text": "Okej, Sverige åkte ut ur VM efter förlust mot Frankrike. Vad hände där egentligen?",
+      "text": "Otto Virtanen vann Wimbledon – helt galet! Vem hade trott det?",
       "followUp": [
-        "Hade du förväntat dig att de skulle gå längre?",
-        "Vilken match var roligast att se?"
+        "Vilken är din favoritsport att kolla på?",
+        "Har du testat att spela tennis?"
       ]
     },
     {
-      "id": "s-20260705-5",
+      "id": "s-20260706-5",
       "category": "sport",
-      "text": "Kollade du på VM-kvalmatchen mot Italien? Det var ju spännande!",
+      "text": "Wow, såg du att Maria Pérez vann Evian Championship? Imponerande!",
       "followUp": [
-        "Vad tyckte du om domarens beslut?",
-        "Tror du de kan ta sig till VM?"
+        "Har du spelat golf någon gång?",
+        "Vem tycker du är den bästa golfaren just nu?"
       ]
     },
     {
-      "id": "s-20260705-6",
+      "id": "s-20260706-6",
       "category": "sport",
-      "text": "Sverige mötte Norge i genrepet inför VM. Hur sjukt skulle det vara att de slog dem?",
+      "text": "Nils Olsson spikade en guldmedalj i skridsko vid OS! Hur sjukt?",
       "followUp": [
-        "Vilka spelare hade du velat se?",
-        "Är du taggad inför VM?"
+        "Tycker du att skridskoåkning är en häftig sport?",
+        "Skulle du våga åka skridskor på hög nivå?"
       ]
     },
     {
-      "id": "s-20260705-7",
+      "id": "s-20260706-7",
       "category": "sport",
-      "text": "Sverige har sin VM-premiär mot Tunisien. Det känns som det är dags att visa vad de går för!",
+      "text": "Sebastian Vettel tog hem Silverstone Grand Prix – igen! Den killen har skillz!",
       "followUp": [
-        "Har du några förhoppningar om hur det kommer gå?",
-        "Vilken spelare är du mest nyfiken på?"
+        "Är du fan av Formel 1?",
+        "Har du någon favoritförare?"
       ]
     },
     {
-      "id": "s-20260705-8",
+      "id": "s-20260706-8",
       "category": "sport",
-      "text": "Såg du Sverige möta Nederländerna i VM? Det var ju en riktig match!",
+      "text": "Svenska längdskidåkarna gjorde det igen och tog guld i stafett! Grymt jobbat!",
       "followUp": [
-        "Vilken taktik trodde du de skulle använda?",
-        "Vilka analyserade du matchen med?"
-      ]
-    },
-    {
-      "id": "s-20260705-9",
-      "category": "sport",
-      "text": "Kollade du på Sverige mot Japan under VM? Det blev ju en mållös tillställning!",
-      "followUp": [
-        "Vad tänkte du när de inte fick till det offensivt?",
-        "Blev du besviken över insatsen?"
-      ]
-    },
-    {
-      "id": "s-20260705-10",
-      "category": "sport",
-      "text": "Såg du hur Sverige förlorade mot Frankrike i 16-delsfinalen? Riktigt tufft!",
-      "followUp": [
-        "Tror du de lärde sig något av den matchen?",
-        "Hade du hoppats på en annan utgång?"
+        "Kollade du på loppet?",
+        "Har du själv åkt skidor på tävlingsnivå?"
       ]
     },
     {
