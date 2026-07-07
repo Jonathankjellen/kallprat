@@ -159,93 +159,120 @@
       ]
     },
     {
-      "id": "t-20260705-1",
+      "id": "t-20260707-1",
       "category": "teknik",
-      "text": "Kollade du på de nya AI-grejerna Apple släppte? Liveöversättning låter faktiskt sjukt bra!",
+      "text": "Kollade du på nyheterna om Apples smarta glasögon som kommer 2027? Tänk att få information om världen runtomkring oss direkt i synfältet!",
       "followUp": [
-        "Har du testat dem än?",
-        "Vilken funktion ser du mest fram emot?"
+        "Skulle du våga använda dem?",
+        "Vad skulle du vilja ha för funktioner?"
       ]
     },
     {
-      "id": "t-20260705-2",
+      "id": "t-20260707-2",
       "category": "teknik",
-      "text": "Hörde du att Meta har släppt en ny AI-app? Låter som något som gör chatten ännu roligare!",
+      "text": "Såg du att Samsung släppte en AI-smartklocka som typ har allt? Träning, hälsa, personlig assistans och mer, direkt på handleden!",
       "followUp": [
-        "Skulle du ge den en chans?",
-        "Vad tror du om röstkonversationer?"
+        "Har du testat någon smartklocka förut?",
+        "Vilken funktion skulle du använda mest?"
       ]
     },
     {
-      "id": "t-20260705-3",
+      "id": "t-20260707-3",
       "category": "teknik",
-      "text": "My AI i Snapchat kan nu sätta påminnelser. Hur smart är det inte?",
+      "text": "Hörde du om Lenovos nya Legion Go 2 som kör SteamOS? Spela hela Steam-biblioteket var du än är, hur coolt är inte det?",
       "followUp": [
-        "Har du provat att använda den?",
-        "Vilken annan funktion skulle du vilja ha där?"
+        "Vilket spel skulle du första spela på den?",
+        "Tror du att den kan konkurrera med Switch?"
       ]
     },
     {
-      "id": "t-20260705-4",
+      "id": "t-20260707-4",
       "category": "teknik",
-      "text": "Såg att det droppat en lista på årets bästa prylar. Någon gadget du är sugen på?",
+      "text": "Va, såg du LGs nya AI-hemelektronik på CES? Smarta kylskåp och tvättmaskiner verkar få en hel uppgradering!",
       "followUp": [
-        "Vilken telefon tycker du är coolast just nu?",
-        "Behöver du en ny smartwatch eller något?"
+        "Skulle du lita på AI in i ditt hem?",
+        "Vad skulle du vilja ha som en futuristisk funktion?"
       ]
     },
     {
-      "id": "t-20260705-5",
+      "id": "t-20260707-5",
       "category": "teknik",
-      "text": "PC-spelandet går ju verkligen på högvarv! Har du fastnat för någon ny titel?",
+      "text": "Hörde du grejen med Googles nya AI-assistent, Gemini Spark? Den verkar ha blivit smartare och kan faktiskt förstå oss bättre!",
       "followUp": [
-        "Vad är din senaste gaming-favorit?",
-        "Klarar du av att spela portabelt också?"
+        "Vad hoppas du att den kan göra?",
+        "Använder du din assistent mycket redan?"
       ]
     },
     {
-      "id": "t-20260705-6",
+      "id": "t-20260707-6",
       "category": "teknik",
-      "text": "Upscrolled exploderar verkligen i användning! Vad tror du gör att folk hoppar dit?",
+      "text": "Kollade du på när Samsung visade sina XR-smartglasögon? Förstärkt och virtuell verklighet i ett!",
       "followUp": [
-        "Kollar du ens på nya plattformar?",
-        "Vilken social medie-app är din go-to?"
+        "Skulle du använda dem för gaming eller jobb?",
+        "Vad tror du om framtidens VR-upplevelser?"
       ]
     },
     {
-      "id": "t-20260705-7",
+      "id": "t-20260707-7",
       "category": "teknik",
-      "text": "Självkörande bilar testas nu i Sunne. Känns ändå som en futuristisk film, eller?",
+      "text": "Såg du Razer's nya AI-headset för spelare? Realtidscoachning, hur sjukt är inte det?",
       "followUp": [
-        "Skulle du våga åka i en sådan?",
-        "Vad tycker du om framtiden för självkörande teknik?"
+        "Tror du att coaching skulle hjälpa dig att bli bättre?",
+        "Vilket spel skulle du använda headsetet med?"
       ]
     },
     {
-      "id": "t-20260705-8",
+      "id": "t-20260707-8",
       "category": "teknik",
-      "text": "SpaceX har just lanserat en massa nyttolaster! Snacka om att de är på gång!",
+      "text": "Visste du att Lenovo släppt en AI-assistent som hoppar mellan flera enheter? Man kan få realtidsöversättningar och grejer!",
       "followUp": [
-        "Vad skulle du vilja se dem skicka upp nästa gång?",
-        "Tror du att de kommer att nå Mars snart?"
+        "Hur skulle du använda en sådan assistent?",
+        "Skulle den förenkla din vardag?"
       ]
     },
     {
-      "id": "t-20260705-9",
+      "id": "t-20260707-9",
       "category": "teknik",
-      "text": "Cyberhot är verkligen skrämmande. Kollar du alltid vad du lägger ut online?",
+      "text": "Kollade du på LG:s interaktiva hemrobot CLOiD? Den kan plocka upp grejer och är som en AI-hubb för hemmet!",
       "followUp": [
-        "Har du någonsin blivit utsatt för ett dataintrång?",
-        "Vad gör du för att skydda din data?"
+        "Skulle du vilja ha en sådan hemma?",
+        "Vilka sysslor skulle du få den att göra?"
       ]
     },
     {
-      "id": "t-20260705-10",
+      "id": "t-20260707-10",
       "category": "teknik",
-      "text": "Telldus släpper nya smart home grejer, det är ju så hett just nu!",
+      "text": "Såg du att Samsung presenterade AI-drivna hushållsapparater? sjukt nice med smarta kylskåp och tvättmaskiner!",
       "followUp": [
-        "Har du några smarta prylar hemma?",
-        "Vad skulle du vilja styra med din telefon?"
+        "Tror du de kan bära en del av hushållssysslorna?",
+        "Vad skulle du alltid vilja att en smart apparat gjorde?"
+      ]
+    },
+    {
+      "id": "t-20260707-11",
+      "category": "teknik",
+      "text": "Hörde du om Googles nya verktyg, Pics och Stitch? De använder AI för att skapa och redigera bilder mer intuitivt!",
+      "followUp": [
+        "Skulle du använda sådana verktyg för dina bilder?",
+        "Vad tycker du om att AI förändrar kreativitet?"
+      ]
+    },
+    {
+      "id": "t-20260707-12",
+      "category": "teknik",
+      "text": "Kollade du på Razer's Project Ava? En AI-hologrampartner för spelare, det låter ju helt galet!",
+      "followUp": [
+        "Tror du att sådana digitala vänner är framtiden?",
+        "Skulle du vilja ha en AI-kompis med dig under spelen?"
+      ]
+    },
+    {
+      "id": "t-20260707-13",
+      "category": "teknik",
+      "text": "Va, så Lenovo har en rullbar gaming-laptop på gång? Den kan expandera från 16 till 24 tum!",
+      "followUp": [
+        "Skulle det underlätta för dig att ta med den?",
+        "Vilken typ av spel tror du skulle dra nytta av den?"
       ]
     },
     {
