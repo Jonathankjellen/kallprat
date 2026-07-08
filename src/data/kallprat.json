@@ -33,129 +33,201 @@
   ],
   "kallprat": [
     {
-      "id": "n-20260706-1",
+      "id": "n-20260708-1",
       "category": "nyheter",
-      "text": "Såg du den där sushi-mukbang av Hana Shaqiri som typ sprängde TikTok? Sex miljoner visningar, galet!",
+      "text": "Har du sett hur mycket nyheter som sprids på TikTok nu för tiden? Det känns som att alla yngre har TikTok som första nyhetskälla!",
       "followUp": [
-        "Har du testat att göra mukbang själv?",
-        "Vilken sushi är din favorit?"
+        "Tycker du att det funkar?",
+        "Kollar du på några nyhetskanaler där?"
       ]
     },
     {
-      "id": "n-20260706-2",
+      "id": "n-20260708-2",
       "category": "nyheter",
-      "text": "Hörde du att Expressen är den mest inflytelserika på TikTok nu? Halv miljon följare, det är inget att skratta åt!",
+      "text": "Alltså, vad är grejen med 'brat summer'? Jag såg en video där de bara festar loss med en trashig stil, helt galet!",
       "followUp": [
-        "Kollade du deras senast trendiga klipp?",
-        "Vilket mediekonto följer du mest på TikTok?"
+        "Har du provat det där med brat summer?",
+        "Vilken festskjorta skulle du välja, typ?"
       ]
     },
     {
-      "id": "n-20260706-3",
+      "id": "n-20260708-3",
       "category": "nyheter",
-      "text": "Va, Kylie Jenner rökande i Charli XCX:s nya film? Jag undrar vad fansen tycker om det!",
+      "text": "Hörde du att The Cardigans har blivit stora på TikTok med 'Lovefool'? Den låten är ju helt överallt!",
       "followUp": [
-        "Skulle du våga göra något liknande i en video?",
-        "Tror du att det blir en hit eller floppar?"
+        "Kollade du på någon av alla videos?",
+        "Vilken är din favoritlåt av dem?"
       ]
     },
     {
-      "id": "n-20260706-4",
+      "id": "n-20260708-4",
       "category": "nyheter",
-      "text": "Hör du om The Cardigans som som ska återförenas 2026? Snacka om nostalgi!",
+      "text": "Det är så kul att se hur 'Britishcore' trendar på TikTok! Folk gör hela videor om pubar och korvbröd, haha!",
       "followUp": [
-        "Vilken låt från dem har du på repeat nu?",
-        "Är du sugen på att gå på konserten?"
+        "Har du någonsin varit på en engelsk pub?",
+        "Vilken brittpopp-låt skulle du slänga på?"
       ]
     },
     {
-      "id": "n-20260706-5",
+      "id": "n-20260708-5",
       "category": "nyheter",
-      "text": "Kollade du på Icona Pops nya album-nyhet? 'Ritual' släpps i augusti 2026, och jag är hypad!",
+      "text": "Kan vi prata om hur TikTok har blivit som en drog för många? Man kan ju inte sluta scrolla ibland!",
       "followUp": [
-        "Har du någon av deras låtar på din spellista?",
-        "Vad har du hoppats på att de ska släppa?"
+        "Hur mycket tid lägger du på TikTok varje dag?",
+        "Har du stängt av notiserna?"
       ]
     },
     {
-      "id": "n-20260706-6",
+      "id": "n-20260708-6",
       "category": "nyheter",
-      "text": "Loreen's 'Tattoo' exploderade på TikTok i år! 2,6 miljarder visningar, sjukt!",
+      "text": "Det är sjukt hur Booktok har fått folk att shoppa loss på bokrean nu, alla är så taggade på boktips!",
       "followUp": [
-        "Kollade du på några av klippen?",
-        "Finns det någon annan låt som du tror kan slå det?"
+        "Vilken bok har du sett flest TikToks om?",
+        "Dela ett boktips med mig!"
       ]
     },
     {
-      "id": "s-20260706-1",
-      "category": "sport",
-      "text": "Såg du Sverige spela mot Frankrike i VM? Det var en rysare!",
+      "id": "n-20260708-7",
+      "category": "nyheter",
+      "text": "Såg du att gamla låtar går virala igen på TikTok, som 'Hold My Hand'? Det är som att de får ett nytt liv!",
       "followUp": [
-        "Vad tyckte du om målet?",
-        "Skulle du ha vågat ta straffen?"
+        "Vad är din favorit-låt som kommit tillbaka?",
+        "Förresten, vilken låt skulle du vilja se bli viral?"
       ]
     },
     {
-      "id": "s-20260706-2",
+      "id": "s-20260708-1",
       "category": "sport",
-      "text": "Hörde du att F19-landslaget drog igång EM med seger mot Polen? En bra start!",
+      "text": "Såg du att Fotbolls-VM 2026 snart drar igång? Det blir galet häftigt med matcher i USA, Kanada och Mexiko!",
       "followUp": [
-        "Har du koll på några spelare i laget?",
-        "Tror du de kan gå hela vägen?"
+        "Vilken match ser du mest fram emot?",
+        "Tror du att det blir mycket feststämmning där?"
       ]
     },
     {
-      "id": "s-20260706-3",
+      "id": "s-20260708-2",
       "category": "sport",
-      "text": "Kollade du på när Pelle Larsson tog över basketlandslaget? Det kan bli spännande!",
+      "text": "Hörde du att Guillermo Ochoa lägger handsken på hyllan efter VM 2026? Snacka om en legendar!",
       "followUp": [
-        "Vilket lag hejar du på i basket?",
-        "Tror du han får laget att lyfta?"
+        "Vilken är din favoritmoment med honom?",
+        "Tycker du han borde ha stannat längre?"
       ]
     },
     {
-      "id": "s-20260706-4",
+      "id": "s-20260708-3",
       "category": "sport",
-      "text": "Otto Virtanen vann Wimbledon – helt galet! Vem hade trott det?",
+      "text": "Erling Haaland körde över svenskarna med en sarkastisk kommentar efter vinsten mot Brasilien. Klassisk norsk humor!",
       "followUp": [
-        "Vilken är din favoritsport att kolla på?",
-        "Har du testat att spela tennis?"
+        "Tror du det kommer bli mer bråk framöver?",
+        "Skulle du vilja se honom i Sverige?"
       ]
     },
     {
-      "id": "s-20260706-5",
+      "id": "s-20260708-4",
       "category": "sport",
-      "text": "Wow, såg du att Maria Pérez vann Evian Championship? Imponerande!",
+      "text": "Kollade du vad Andreas Linde sa om Erling Haaland? Han verkar ha haft en sjuk tid med honom i Molde!",
       "followUp": [
-        "Har du spelat golf någon gång?",
-        "Vem tycker du är den bästa golfaren just nu?"
+        "Har du hört några roliga anekdoter från spelartiden?",
+        "Vilket är ditt bästa minne av Haaland?"
       ]
     },
     {
-      "id": "s-20260706-6",
+      "id": "s-20260708-5",
       "category": "sport",
-      "text": "Nils Olsson spikade en guldmedalj i skridsko vid OS! Hur sjukt?",
+      "text": "Norges fotbollslag har verkligen klättrat i världsrankingen på sistone! Det snackas om ett nytt fotbollsunder!",
       "followUp": [
-        "Tycker du att skridskoåkning är en häftig sport?",
-        "Skulle du våga åka skridskor på hög nivå?"
+        "Tror du de kan hålla uppe den nivån?",
+        "Skulle du ge dem en chans i nästa EM?"
       ]
     },
     {
-      "id": "s-20260706-7",
+      "id": "s-20260708-6",
       "category": "sport",
-      "text": "Sebastian Vettel tog hem Silverstone Grand Prix – igen! Den killen har skillz!",
+      "text": "Lars Lagerbäck går in i Gif Sundsvall och ska rädda dem ur krisen. Snacka om att han fortfarande har det i sig!",
       "followUp": [
-        "Är du fan av Formel 1?",
-        "Har du någon favoritförare?"
+        "Har du några tips till honom?",
+        "Tror du de kan knipa en säker placering?"
       ]
     },
     {
-      "id": "s-20260706-8",
+      "id": "s-20260708-7",
       "category": "sport",
-      "text": "Svenska längdskidåkarna gjorde det igen och tog guld i stafett! Grymt jobbat!",
+      "text": "Värnamo har sparkat Srdjan Tufegdzic efter svaga resultat. Lite crazy, eller?",
       "followUp": [
-        "Kollade du på loppet?",
-        "Har du själv åkt skidor på tävlingsnivå?"
+        "Tror du det kommer göra susen?",
+        "Vem skulle du vilja ha som ny tränare?"
+      ]
+    },
+    {
+      "id": "s-20260708-8",
+      "category": "sport",
+      "text": "Wow, Bamir Sadiku gör mål på sin första bollkontakt i allsvenskan! Snacka om drömdebut!",
+      "followUp": [
+        "Tror du han kommer bli en stjärna?",
+        "Har du sett fler liknande debuter?"
+      ]
+    },
+    {
+      "id": "s-20260708-9",
+      "category": "sport",
+      "text": "Kollade du på Linus Weissbachs flytt till KHL? Det känns som ett stort kliv!",
+      "followUp": [
+        "Tror du han klarar av den utmaningen?",
+        "Vad tycker du om KHL som liga?"
+      ]
+    },
+    {
+      "id": "s-20260708-10",
+      "category": "sport",
+      "text": "Ivor Stenberg skriver NHL-kontrakt med San Jose Sharks. Snacka om att han kliver in på den största scenen!",
+      "followUp": [
+        "Har du följt hans karriär?",
+        "Vad tycker du om svenska spelare i NHL?"
+      ]
+    },
+    {
+      "id": "s-20260708-11",
+      "category": "sport",
+      "text": "Såg du att Truls Möregårdh bara fortsätter att vinna i Los Angeles? Han är helt ostoppbar just nu!",
+      "followUp": [
+        "Har du testat bordtennis själv?",
+        "Vad tänker du om hans chanser att vinna hela tävlingen?"
+      ]
+    },
+    {
+      "id": "s-20260708-12",
+      "category": "sport",
+      "text": "SM-veckan i sommar 2026 i Karlstad kommer bli galet! 30 olika sporter, vilket jäkla kalas!",
+      "followUp": [
+        "Vilken sport ser du fram emot mest?",
+        "Skulle du vilja vara där och kolla?"
+      ]
+    },
+    {
+      "id": "s-20260708-13",
+      "category": "sport",
+      "text": "Erik Niva jublar över Belgiens seger mot USA. Det var en rejäl skräll!",
+      "followUp": [
+        "Vad tycker du om Nivas reaktioner?",
+        "Tror du Belgien kan gå långt i turneringen?"
+      ]
+    },
+    {
+      "id": "s-20260708-14",
+      "category": "sport",
+      "text": "Roger Federer besökte Wimbledon igen, fyra år efter sin karriärsslut. Snacka om nostalgi!",
+      "followUp": [
+        "Är han fortfarande din favoritspelare?",
+        "Vad betyder han för tennis?"
+      ]
+    },
+    {
+      "id": "s-20260708-15",
+      "category": "sport",
+      "text": "Mikael Marqués fick rött kort efter fem minuter! Snacka om att dra på sig en skandal!",
+      "followUp": [
+        "Vad tyckte du om domarens beslut?",
+        "Har du sett några andra snabba röda kort?"
       ]
     },
     {
